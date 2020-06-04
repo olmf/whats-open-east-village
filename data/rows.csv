@@ -498,9 +498,9 @@ Saturday & Sunday 2pm-9pm
 ","Italian",,"EVCC","4/4 - confirmed hours
 IG is being updated
 ",,"Opened","https://www.lilfrankies.com/","11:00 AM","https://www.instagram.com/lilfrankies/?hl=en","12:00 PM",,,,,
-"Little Tong Noodle Shop",174,"2020-05-27T04:00:00.000Z",,"Restaurants",40.72934,-73.984247,"177 1st Avenue, New York, NY ,10003","Yes",,"SUN: Closed
+"Little Tong Noodle Shop",174,"2020-06-04T04:00:00.000Z",,"Restaurants",40.72934,-73.984247,"177 1st Avenue, New York, NY ,10003","No",,"SUN: Closed
 ","Chinese",,"EVCC","hours as per sign in window
-",,"Opened",,"12:00 PM","https://www.instagram.com/littletongnyc/","5:00 PM",,,,"https://www.gofundme.com/f/little-tong-family-fund",
+",,"Closed",,"12:00 PM","https://www.instagram.com/littletongnyc/","5:00 PM",,,,"https://www.gofundme.com/f/little-tong-family-fund",
 "Live Live & Organic",175,"2020-03-31T04:00:00.000Z","212-505-5504","Health",40.728537,-73.983355,"261 E. 10th Street, New York, NY","Yes",,"We are staying open as an essential business providing New Yorkers with food and supplies essential for their health. Tonight we are open till 9pm. We are here for you. Stay well!
 ","Natural & Alternative",,"PL","FB is being updated
 ",,"Opened","live-live.com",,"https://www.instagram.com/p/B8el1TND7VW/","9:00 PM","https://www.facebook.com/liveliveandorganic",,,,
@@ -538,7 +538,7 @@ Call directly for takeout. Delivery via Caviar, GrubHub and Uber Eats
 ","Laundromat",,"EVCC",,,"Opened",,"10:00 AM",,"5:00 PM","EVGrieve Post",,,,
 "Mike's Dry Cleaners & Tailors",192,"2020-04-01T04:00:00.000Z","(212) 674-1957","Laundromat",40.72435317,-73.98457186,"62 Avenue A, New York, NY","Yes",,"NOTE: ""Monday, Wednesday and Friday from 8 a.m. to 4 p.m. Drop-off service plus dry cleaning and tailoring.""
 ","Laundromat",,"PG",,,"Opened",,"8:00 AM",,"4:00 PM","EVGrieve Post",,,,
-"Mikey Likes It",193,"2020-06-03T04:00:00.000Z","212-673-0199","Dessert",40.729475,-73.981353,"199 Avenue A, New York, NY","Yes","Yes","
+"Mikey Likes It",193,"2020-06-03T04:00:00.000Z","212-673-0199","Dessert",40.729475,-73.981353,"199 Avenue A, New York, NY,10009","Yes","Yes","
 ","Ice Cream",,"EVCC","IG is being updated
 ",,"Opened","www.mikeylikesiticecream.com","2:00 PM","https://www.instagram.com/mikeylikesiticecream/?hl=en","7:00 PM","https://www.instagram.com/p/B-FnD3ggWUa/",,,,
 "Mimi Cheng's ",194,"2020-06-03T04:00:00.000Z","212) 533-2007","Restaurants",40.730698,-73.98656,"179 2nd Ave, New York, NY 10003","Yes","Yes","\[Fresh frozen dumpling kits dropping again this week‼️ PREORDER NOW for THU/FRI/SAT. Sound 🆙 for a preview of your weekend 😎]\(<https://www.instagram.com/p/CAq447bg4LL/>)
@@ -578,7 +578,7 @@ Order two pizzas, get a third for FREE ❤️ \*phone or @chownow orders only
 "New Mizu Sushi",206,"2020-03-31T04:00:00.000Z","(862) 245-4480","Restaurants",40.728259,-73.985337,"350 E 9th St","No","No","Pls call to confirm
 ","Japanese",,"EVCC",,,"Closed",,,,,,,,,
 "New Phoenix Laundromat",207,"2020-04-01T04:00:00.000Z","(212) 677-1690","Laundromat",40.730279,-73.983689,"199 1st Avenue, New York, NY","Yes",,,"Laundromat",,"PG",,,"Opened",,,,,"EVGrieve Post",,,,
-"Nightmarket",208,"2020-05-27T04:00:00.000Z","(646) 755-9554","Restaurants",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","Yes","Yes","TUE: Closed
+"Nightmarket",208,"2020-06-04T04:00:00.000Z","(646) 755-9554","Restaurants",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","Yes","Yes","TUE: Closed
 Order for pick up by phone (323) 665-5899 or (213) 352-8378. 
 Order for delivery through @caviar. 
 We might be missing a dish or two as we work to get back up to speed, so please bear with us! Thank you, as always, for the support. 🙏
@@ -595,14 +595,13 @@ We might be missing a dish or two as we work to get back up to speed, so please 
 ","EVCC","IG is being updated
 ",,"Opened","https://www.numero28.com/menu-and-locations/east-village-new-york/","12:00 PM","https://www.instagram.com/numero28/","10:30 PM",,,," ",
 "NY Institute of Aromatic Studies",213,"2020-03-31T04:00:00.000Z","917-310-7845","Health",40.728969,-73.979534,"530 E. 13th Street, New York, NY",,,,"Natural & Alternative",,"PL",,"INFO@AROMATICSTUDIES.COM","Unknown","aromaticstudies.com",,"https://www.instagram.com/aromaticstudies/",,,,,,
-"NYC Deli Market Corp #1",214,"2020-05-27T04:00:00.000Z","(646) 767-9134","Groceries",40.724294,-73.975929,"129 Avenue D, New York, NY 10009","Yes",,,"Deli ",,"EVCC","CALL FOR HOURS
-",,"Opened",,,,,,,,,
-"NYC Pharmacy",215,"2020-05-27T04:00:00.000Z","212-253-8686","Health",40.730207,-73.983044,"206 1st Avenue, New York City","Yes",,,"Pharmacy",,"EVCC","CALL FOR HOURS
+"NYC Deli Market Corp #1",214,"2020-06-04T04:00:00.000Z","(646) 767-9134","Groceries",40.724294,-73.975929,"129 Avenue D, New York, NY 10009","Yes",,,"Deli ",,"EVCC","CALL FOR HOURS
+",,"Opened",,,,"8:00 PM",,,,,
+"NYC Pharmacy",215,"2020-06-04T04:00:00.000Z","212-253-8686","Health",40.730207,-73.983044,"206 1st Avenue, New York City ,10009","Yes",,,"Pharmacy",,"EVCC","CALL FOR HOURS
 ",,"Opened","www.nycprx.com",,,,,,,,
 "OCD Chocolate Shop",216,"2020-05-15T04:00:00.000Z","212-777-6363","Dessert",40.726953,-73.990677,"63 E. 4th Street, New York, NY",,,"Delivering chocolate to the great people
 ","Candy & Chocolate",,"EVCC","IG is being updated
 ",,"Opened","ocdchocolate.com",,"https://www.instagram.com/ocdchocolate/",,"https://www.instagram.com/p/B993qNLpoOm/",,"Yes",,
-,217,,,,,,,,,,,,,,,"Unknown",,,,,,,,,
 "OddFellows",218,"2020-05-15T04:00:00.000Z","917-475-1812","Dessert",40.726747,-73.990214,"75 E. 4th Street, New York, NY","Yes","No","Preorder for pickup, see website for details!
 ","Ice Cream",,"EVCC",,"info@oddfellowsnyc.com","Opened","www.oddfellowsnyc.com",,"https://www.instagram.com/oddfellowsnyc/",,"https://www.instagram.com/p/B_BI0dfH-Cu/","https://squareup.com/gift/E2M8102E51XCS/order","No","https://venmo.com/oddfellowsnyc",
 "Odessa",219,"2020-05-15T04:00:00.000Z","212-253-1482","Restaurants",40.726503,-73.983567,"119 Avenue A, New York, NY 10009","Yes","Yes","Mon-Thu 8:00 AM - 2:45 AM, Fri-Sun 12:00 PM - 11:59 PM
@@ -684,8 +683,8 @@ Still open. For pickup or delivery via Uber Eats, Seamless, Grubhub, and DoorDas
 ",,"Unknown",,,,,,,,,
 "Roderick Lucente, DMD",250,"2020-04-04T04:00:00.000Z","212-777-1969","Health",40.728781,-73.979996,"525 E. 12th Street, New York, NY","No","No",,"Dental",,"PL","Dentist - ADA recommends dentists keep their offices closed to all but urgent and emergency procedures until April 30 at the earliest
 ",,"Closed","DoctorLucente.com",,"@doctorlucente",,"Dentist - ADA recommends dentists keep their offices closed to all but urgent and emergency procedures until April 30 at the earliest",,"No",,
-"Rossy's Bakery & Coffee Shop",251,"2020-05-27T04:00:00.000Z","212 253 2424","Dessert",40.721883,-73.981561,"242 E 3rd St, New York, NY 10009","Yes","No",,"Bakery",,"EVCC",,"rossysbakery@verizon.net","Opened","https://www.grubhub.com/restaurant/rossys-bakery--coffee-shop-242-e-3rd-st-new-york/831302","10:30 AM","https://www.instagram.com/rossysbakery/","7:00 PM","https://www.instagram.com/p/B-Zww02pL1g/",,,,
-"Royale",252,"2020-05-27T04:00:00.000Z","(212) 254-6600","Restaurants",40.725801,-73.977862,"157 Avenue C, New York, NY 10009","Yes","Yes",,"American",,"EVCC","IG is being updated
+"Rossy's Bakery & Coffee Shop",251,"2020-06-04T04:00:00.000Z","212 253 2424","Dessert",40.721883,-73.981561,"242 E 3rd St, New York, NY 10009","Yes","No",,"Bakery",,"EVCC",,"rossysbakery@verizon.net","Opened","https://www.grubhub.com/restaurant/rossys-bakery--coffee-shop-242-e-3rd-st-new-york/831302","10:30 AM","https://www.instagram.com/rossysbakery/","7:00 PM","https://www.instagram.com/p/B-Zww02pL1g/",,,,
+"Royale",252,"2020-06-04T04:00:00.000Z","(212) 254-6600","Restaurants",40.725801,-73.977862,"157 Avenue C, New York, NY 10009","Yes","Yes",,"American",,"EVCC","IG is being updated
 ","royale157@yahoo.com","Opened","https://www.seamless.com/menu/royale-157-ave-c-new-york/286534","12:00 PM",,"11:00 PM","https://www.instagram.com/p/B-XWo6KD8s9/",,,,
 "Ruby's Cafe",253,"2020-05-15T04:00:00.000Z","(646) 998-4265","Restaurants",40.731085,-73.988331,"198 E 11th St, New York, NY 10003","Yes","Yes","\[Raising funds]\(<https://www.gofundme.com/f/empty-your-purse-to-feed-a-nurse>) for an effort to feed first responders.
 ","Austrailian",,"EVCC","IG is being updated
@@ -703,10 +702,10 @@ During the COVID-19 crisis, all copays and other patient payments, including for
 ","Medical",,"EVCC",,,"Opened","ryanhealth.org/locations/ryan-nena-community-health-center",,,"5:00 PM","https://ryanhealth.org/locations/ryan-nena-community-health-center",,"Yes",,
 "S'MAC",257,"2020-04-03T04:00:00.000Z","(212) 358-7912","Restaurants",40.730227,-73.983727,"197 1st Ave, New York, NY","Yes","Yes","Regular menu plus Frozen Mac + Cheese Kits <https://www.instagram.com/p/B-KT5hLpu1S>
 ","American",,"EVCC",,"eastvillage@eatsmac.com","Opened",,"11:00 AM","Instagram.com/eatsmac","11:00 PM",,"https://www.toasttab.com/s-mac-east-village/giftcards",,"Forward gift card to catering@eatsmac.com, ask them to donate it and they'll apply it to the next order they deliver to a hospital",
-"Saifee Hardware Inc.",258,"2020-05-27T04:00:00.000Z","212-979-6396","Shops & Services",40.726735,-73.985583,"114 1st Avenue, New York, NY","Yes",,"SUN: 10 AM - 6 PM
+"Saifee Hardware Inc.",258,"2020-06-04T04:00:00.000Z","212-979-6396","Shops & Services",40.726735,-73.985583,"114 1st Avenue, New York, NY,10009","Yes",,"SUN: 10 AM - 6 PM
 ","Hardware",,"EVCC","survey response
 ","Rupak@saifeehardware.com","Opened","www.saifeehardware.com","9:00 AM","https://www.instagram.com/saifeehardware/","6:00 PM",,,,,
-"Sakaya",259,"2020-05-27T04:00:00.000Z","212-505-7253","Shops & Services",40.728716,-73.986347,"324 E. 9th Street, New York, NY","Yes",,,"Sake Shop",,"EVCC","IG is being updated
+"Sakaya",259,"2020-06-04T04:00:00.000Z","212-505-7253","Shops & Services",40.728716,-73.986347,"324 E. 9th Street, New York, NY,10003","Yes",,,"Sake Shop",,"EVCC","IG is being updated
 ","info@sakayanyc.com","Opened","www.sakayanyc.com",,"https://www.instagram.com/sakayanyc/",,,,,,
 "Sake Bar Satsko",260,"2020-04-26T04:00:00.000Z","(212) 614-0933","Restaurants",40.724446,-73.980261,"202 E 7th St, New York, NY 10009",,,,"Japanese",,"PG","FB is being updated EVIMA IG story said open, need to confirm
 ","INFO@SATSKO.COM","Unknown","https://www.satsko.com/about",,"https://www.instagram.com/sakebarsatsko/",,,"https://squareup.com/gift/RP824WEQ8WPTV/order",,"https://www.gofundme.com/f/support-the-staff-of-sake-bar-satsko?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",
@@ -980,7 +979,7 @@ Now through the end of May, we are offering all Moms FREE online membership when
 "Westside Market",374,"2020-05-07T04:00:00.000Z","(212) 253-8400","Groceries",40.731819,-73.988486,"84 Third Ave, New York, NY","Yes","Yes","Accepts SNAP/EBT. Senior Hours: 6am-8am. 10% discount for Seniors at all times. Delivery via <https://www.wmarketnyconline.com/>, Amazon, or via phone. For people who would like to shop in-store, but have their purchases delivered to them, they offer that service within a 10-block radius.
 ","Supermarket",,"EVCC","Website is being updated
 ",,"Opened","https://wmarketnyconline.com/products","24 hours","https://www.instagram.com/westsidemarketnyc/?hl=en",,"https://www.wmarketnyc.com/",,,,"6am-8am every day"
-"Random Accessories",375,"2020-05-27T04:00:00.000Z","212-358-0650","Retail",40.726714,-73.990126,"77 E. 4th Street,  New York, NY 10003","No","No","online orders only
+"Random Accessories",375,"2020-06-04T04:00:00.000Z","212-358-0650","Retail",40.726714,-73.990126,"77 E. 4th Street,  New York, NY 10003","No","No","online orders only
 ","Gifts & Home","15% off with code RANDOM15
 ","EVCC","survey response
 ",,"Opened","https://randomaccessoriesnyc.com",,"https://www.instagram.com/randomaccessoriesny/",,,"https://randomaccessoriesnyc.com/collections/gift-certificate/Gift-card","Yes",,"7am-8am every day
@@ -1460,7 +1459,7 @@ New takeout window. Place pick-up orders \[via phone]\(tel:2126733300). \[Click 
 "Feast",508,"2020-05-11T04:00:00.000Z","212-529-8880","Restaurants",40.732602,-73.988025,"102 3rd Avenue,  New York, NY 10003","Yes","No","TUE - SUN
 ","American",,"EVCC","survey response
 ","Contactkaren23@gmail.com","Opened","https://www.eatfeastnyc.com","3:00 PM","https://instagram.com/feastnyc","8:00 PM",,,,,
-"Secchu Yokota",509,"2020-05-27T04:00:00.000Z","212-777-1124","Restaurants",40.722836,-73.983116,"199 East 3rd Street,  New York, NY","Yes","Yes","WED - SUN
+"Secchu Yokota",509,"2020-06-04T04:00:00.000Z","212-777-1124","Restaurants",40.722836,-73.983116,"193 East 3rd Street,  New York, NY,10009","Yes","Yes","WED - SUN
 ","Japanese",,"EVCC","survey response, IG is being updated
 ","secchuyokota@gmail.com","Opened","http://www.secchuyokota.com","12:00 PM","https://www.instagram.com/secchuyokota/","8:00 PM",,,,"https://www.gofundme.com/f/secchu-yokota",
 "Supreme Laundromat",510,"2020-05-28T04:00:00.000Z","(212) 388-0211","Laundromat",40.724725,-73.9816261,"96 Avenue B, New York, NY 10009","Yes",,"\*\*CLOSED WEDNESDAYS\*\* Last wash 5:30. Wash and fold available as well. When I called at 5pm he said he could have ready for tomorrow morning, so I assume next day service. No mask, no service.
@@ -1505,7 +1504,7 @@ New takeout window. Place pick-up orders \[via phone]\(tel:2126733300). \[Click 
 ","Sewing Machine Repair",,"EVCC",,,"Opened","http://www.gizmonyc.com/",,,,,,,,
 "Tompkins Finest Deli & Grocery",528,"2020-05-07T04:00:00.000Z","(212) 228-6701","Groceries",40.72775041,-73.982449,"153 Avenue A, New York, NY 10009","Yes",,,"Deli ",,"EVCC","observed open, call for hours
 ",,"Opened",,,,,,,,,
-"Quick Repair on A",529,"2020-05-27T04:00:00.000Z","646-255-7890","Shops & Services",40.72765728,-73.98258856,"151 Avenue A,  New York, NY 10009","Yes",,"MON/WED/FRI only
+"Quick Repair on A",529,"2020-06-04T04:00:00.000Z","646-255-7890","Shops & Services",40.72765728,-73.98258856,"151 Avenue A,  New York, NY 10009","Yes",,"MON/WED/FRI only
 Repairs by appointment only, call or \[email]\(mailto: quickrepairavea@gmail.com)
 ","Computer & Phone Repair",,"EVCC","IG is being updated
 ",,"Opened","http://www.quickrepairona.com/",,"https://www.instagram.com/quickrepairandelectronics/?hl=en",,,,,,
@@ -1536,7 +1535,7 @@ Repairs by appointment only, call or \[email]\(mailto: quickrepairavea@gmail.com
 ","orders@michaelgeorgeflowers.com","Opened","https://www.michaelgeorgeflowers.com","9:00 AM","https://www.instagram.com/michaelgeorgeflowers/","2:00 PM",,,,,
 "EV Florist Corp",544,"2020-05-08T04:00:00.000Z","(212) 387-8305","Shops & Services",40.72852154,-73.9841952,"247 E 10th St, New York, NY 10009","Yes","Yes",,"Florist",,"TI","Called the business on the phone
 ",,"Opened",,"12:00 PM","https://www.instagram.com/evflorist/?hl=en","5:00 PM",,,,,
-"Popup Florist",545,"2020-05-27T04:00:00.000Z","(917) 472-7278","Shops & Services",40.72769,-73.98685,"63 E. 7th Street, New York, NY 10003","Yes","Yes",,"Florist",,"EVCC","IG is being updated
+"Popup Florist",545,"2020-06-04T04:00:00.000Z","(917) 472-7278","Shops & Services",40.72769,-73.98685,"63 E. 7th Street, New York, NY 10003","Yes","Yes",,"Florist",,"EVCC","IG is being updated
 ","heyyou@thepopupflorist.com","Opened","https://thepopupflorist.com",,"https://www.instagram.com/popupflorist/",,,,,,
 "Mayamezcal",546,"2020-05-09T04:00:00.000Z","(212) 253-5888","Restaurants",40.727058,-73.988187,"304 E 6th St, New York, NY 10003","Yes","Yes","Serving drinks and food.
 ","Mexican",,"PG",,,"Opened","http://mayahuelnyc.com","2:00 PM",,"9:00 PM",,,,,
@@ -1603,7 +1602,7 @@ Saturday-Sunday: 2pm - 9pm
 "Cafe Himalaya",576,"2020-05-20T04:00:00.000Z","212-358-0160","Restaurants",40.72322,-73.98792,"78 East 1st Street, New York, NY 10009","Yes","Yes","MON: Closed
 ","Tibetan",,"EVCC","form response
 ","cafehimalayany@gmail.com","Opened","https://cafehimalaya.weebly.com","12:00 PM","https://www.instagram.com/cafehimalaya_nyc/","9:00 PM",,,,,
-"Terra Thai",577,"2020-05-27T04:00:00.000Z","(646) 478-7415","Restaurants",40.72484,-73.98306,"518 E. 6th Street, New York, NY 10009","Yes","Yes","\[More info]\(<https://www.facebook.com/notes/terra-thai/hey-neighbors/2608924726032017/?__xts__[0]=68.ARDixS-N212h4O2nowMMW2C6ZuIQymWWHnU3wmKfKTUGijyHY6tkIZ44TThUOzbwGTM1ltZZnIqE4i2_9xqy_3y_dafN26g9Q6dVczolHzsS2owmAjxZxhmHo1R9oR6Va8p7Q92egn3jYY3YolQEfIfPsFNW-Kze5LkDPJE9PmyzLtmdSXxIoM40kJyFmlXqC6gIV3VLVDJAf1IMJSGTVm1hdoZ9uRqAWmNESFZNaUcBKQ&__tn__=K-R>) on this new, affordable thai place in the EV!
+"Terra Thai",577,"2020-06-04T04:00:00.000Z","(646) 478-7415","Restaurants",40.72484,-73.98306,"518 E. 6th Street, New York, NY 10009","Yes","Yes","\[More info]\(<https://www.facebook.com/notes/terra-thai/hey-neighbors/2608924726032017/?__xts__[0]=68.ARDixS-N212h4O2nowMMW2C6ZuIQymWWHnU3wmKfKTUGijyHY6tkIZ44TThUOzbwGTM1ltZZnIqE4i2_9xqy_3y_dafN26g9Q6dVczolHzsS2owmAjxZxhmHo1R9oR6Va8p7Q92egn3jYY3YolQEfIfPsFNW-Kze5LkDPJE9PmyzLtmdSXxIoM40kJyFmlXqC6gIV3VLVDJAf1IMJSGTVm1hdoZ9uRqAWmNESFZNaUcBKQ&__tn__=K-R>) on this new, affordable thai place in the EV!
 ","Thai",,"EVCC","IG is being updated
 ",,"Opened",,,"https://www.instagram.com/terrathai/?hl=en",,,,,,
 "Tableside Cook Shop",578,"2020-05-15T04:00:00.000Z","(646) 852-6498","Restaurants",40.72665,-73.986412,"345 E 6th St, New York, NY 10003","Yes","Yes",,"Italian",,"EVCC",,,"Opened","https://www.tablesidenyc.com","5:00 PM","https://www.instagram.com/tablesidenyc/?hl=en","9:30 PM",,,,,
@@ -1665,9 +1664,9 @@ SAT: 10 AM - 4 PM
 "Hearth",606,"2020-06-04T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes",,"\[Hearth for Home pantry items from 12 PM daily. Hot food menu from 5 PM daily]\(<https://www.instagram.com/p/CAv7pdGDtu4/>)
 ","Italian",,"PG","IG is being updated
 ",,"Opened","https://www.restauranthearth.com/","12:00 PM","https://instagram.com/hearthrestaurant","8:30 PM",,,,,
-"Luster Photo Lab NYC",607,"2020-05-27T04:00:00.000Z","(212) 979-1669","Shops & Services",40.7264975,-73.9833652,"121 Avenue A, New York, NY 10009","Yes",,"\*\*Mon-Fri\*\*: 10am-8pm \*\*Sat\*\*: 12pm-7pm \*\*Sunday: Closed\*\* Available for contactless pickup/drop off and mail-in orders.
+"Luster Photo Lab NYC",607,"2020-06-04T04:00:00.000Z","(212) 979-1669","Shops & Services",40.7264975,-73.9833652,"121 Avenue A, New York, NY 10009","Yes",,"\*\*Mon-Fri\*\*: 10am-6pm \*\*Sat\*\*: 12pm-6pm \*\*Sunday: Closed\*\* Available for contactless pickup/drop off and mail-in orders.
 ","Photo",,"PG",,,"Opened","lusterphoto.com",,"https://instagram.com/lusterphotolab",,,,"Yes",,
-"San Loco",608,"2020-05-27T04:00:00.000Z","212-260-7948","Restaurants",40.72437,-73.97893,"111 Avenue C, New York, NY 10009","Yes","Yes","No alchohol at Ave C location; plenty of options nearby!
+"San Loco",608,"2020-06-04T04:00:00.000Z","212-260-7948","Restaurants",40.72437,-73.97893,"111 Avenue C, New York, NY 10009","Yes","Yes","No alchohol at Ave C location; plenty of options nearby!
 ","Mexican",,"EVCC","IG is being updated
 ",,"Opened","https://www.sanloco.com/","4:00 PM","https://www.instagram.com/sanloconyc/?hl=en","11:00 PM",,,,"Call to send food to first responders!",
 "Muzzarella Pizza",609,"2020-06-03T04:00:00.000Z","(212) 614-0905","Restaurants",40.730234,-73.980706,"221 Avenue A, New York, NY 10009","Yes",,,"Pizza",,"PG",,,"Opened","https://muzzarella.pizza",,"https://www.instagram.com/muzzarellapizza/?hl=en",,,,,,
