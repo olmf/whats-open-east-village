@@ -1,0 +1,7 @@
+dark-green: #308528
+green: #7cb342
+purple: #9c27b0
+blue: #0288d1
+red: #eb6565
+yellow: #fff35f
+orange: #f2983f
