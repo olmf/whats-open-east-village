@@ -33,11 +33,11 @@
         mapboxgl.accessToken = 'pk.eyJ1IjoiemhpayIsImEiOiJjaW1pbGFpdHQwMGNidnBrZzU5MjF5MTJiIn0.N-EURex2qvfEiBsm-W9j7w';
         map = new mapboxgl.Map({
             container,
-            style: 'mapbox://styles/zhik/ckacv5hvo0uvs1iqjctbbbcnv',
-            center: [-73.9482, 40.7184],
-            zoom: 13,
+            style: 'mapbox://styles/zhik/ckazyd9oq05of1ipajanvk2ix',
+            center: [-73.985,40.725],
+            zoom: 14,
             maxZoom: 20,
-            minZoom: 12
+            minZoom: 13
         });
 
         map.addControl(new mapboxgl.NavigationControl());
@@ -135,10 +135,12 @@
             });
 
             //load icon and symbol layer
+            const uniqueStyleIcons = [...new Set(styles.map(style => style.icon))]
+
             Promise.all(
-                    styles.map(style => ({
-                        url: `./icons/${style.icon}`,
-                        id: style.icon
+                    uniqueStyleIcons.map(icon => ({
+                        url: `./icons/${icon}`,
+                        id: icon
                     })).map(img => new Promise((resolve, reject) => {
                         map.loadImage(img.url, function (error, res) {
                             map.addImage(img.id, res)

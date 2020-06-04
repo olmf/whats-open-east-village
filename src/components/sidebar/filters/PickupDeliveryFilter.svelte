@@ -4,24 +4,26 @@
     let showAll = true
     let showPickup = false
     let showDelivery = false
+    let showShipping = false
 
 
     function changeShowAll(){
         if(showAll){
             showPickup = false
             showDelivery = false
+            showShipping = false
         }
     }
 
     function clearShowAll(){
         //clear show all when pickup or delivery is checked
-        if(showPickup || showDelivery) showAll = false
-        if(!showPickup && !showPickup) showAll = true
+        if(showPickup || showDelivery || showShipping) showAll = false
+        if(!showPickup && !showPickup && !showShipping) showAll = true
     }
 
-    $: updateFilter(showAll, showPickup, showDelivery)
+    $: updateFilter(showAll, showPickup, showDelivery, showShipping)
 
-    function updateFilter(showAll, showPickup, showDelivery) {
+    function updateFilter(showAll, showPickup, showDelivery, showShipping) {
         if ($filters) {
             //remove existing filter
             const _filters = $filters
@@ -38,6 +40,9 @@
                         }
                         if(showDelivery){
                             bool = bool && row['Delivery Offered'].toLowerCase().includes('yes')
+                        }
+                        if(showShipping){
+                            bool = bool && row['Shipping Offered'].toLowerCase().includes('yes')
                         }
                         return bool
                     }
@@ -60,6 +65,9 @@
     </label>
     <label class="checkbox">
         <input type="checkbox" bind:checked={showDelivery}  on:change={clearShowAll}>Delivery
+    </label>
+    <label class="checkbox">
+        <input type="checkbox" bind:checked={showShipping}  on:change={clearShowAll}>Shipping
     </label>
 </div>
 

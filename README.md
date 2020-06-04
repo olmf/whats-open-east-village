@@ -14,7 +14,7 @@ A directory of essential businesses using Airtable (or Google sheets) as databas
 
 ## Architecture
 
-This map shows business locations from data hosted in [Airtable](https://airtable.com/shrRBozfbknHIlpIm).
+This map shows business locations from data hosted in [Airtable](https://airtable.com/invite/l?inviteId=invQFDkvOXAlhjPH2&inviteToken=07de5769fb0c70e46f9818f77061f1721382f9ad682822103cb1a49e27a35e65).
 
 Built using [Svelte](https://svelte.dev/), [Leaflet](https://leafletjs.com/), and [Carto.js](https://carto.com/developers/carto-js/).
 
@@ -24,9 +24,9 @@ Icons from [Maps Icons Collection](https://mapicons.mapsmarker.com).
 #### Database overview
 All data comes from 'public/data/row.csv', which is pulled every hour using `get-data-from-airtable.yml` github actions script.
 
-If you would like to adapt this code for your project Duplicate the Airtable base using this [link](https://airtable.com/invite/l?inviteId=inv56kwp8nak3J7ps&inviteToken=6d03467592349bbc0da69707c1609226eb7e3251b8421618447c820f1727adf4).
+If you would like to adapt this code for your project Duplicate the Airtable base using this [link](https://airtable.com/invite/l?inviteId=invQFDkvOXAlhjPH2&inviteToken=07de5769fb0c70e46f9818f77061f1721382f9ad682822103cb1a49e27a35e65).
 
-Afterwards change `AIRTABLE_API_KEY` , `AIRTABLE_BASE_ID`, `AIRTABLE_TABLE_NAME` on github secrets, or your .env file
+Afterwards change `AIRTABLE_API_KEY` , `AIRTABLE_BASE_ID`, `AIRTABLE_TABLE_NAME`, `AIRTABLE_BULLETIN_NAME` on github secrets, or your .env file
 
 #### Code overview
 1. The `App` component loads the `public/data/row.csv` into the `rows` store via the util/importData.js script, which pulls styles from constants.js to set up icon and color.
@@ -61,7 +61,7 @@ You can either build by running `npm run build` or run live development environm
 
 ## Copyrights
 
-Please see [license](https://github.com/zhik/east-village-essential-small-business/blob/master/LICENSE) file for details.
+Please see [license](https://github.com/BetaNYC/open_business_directory/blob/master/LICENSE) file for details.
 
 - Non-code, Creative Commons Attribution 4.0
 - Code, GNU General Public License

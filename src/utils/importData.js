@@ -5,7 +5,7 @@ function getColors(rows) {
     //get colors and icons from constants
     return rows.map(row => {
         const subLookup = styles.find(style => {
-            const subCategory = row['Sub-Category'].toLowerCase().trim()
+            const subCategory = row['Sub Category'].toLowerCase().trim()
             if(subCategory.length === 0 || !style.subcategoryName){
                 return false
             }
@@ -17,7 +17,7 @@ function getColors(rows) {
         let fillColor = '#909090',
             strokeColor = '#e8e8e8',
             icon = 'blank.png',
-            _closed = !row.Status.toLowerCase().includes('open')
+            _closed = !row.Status.toLowerCase().includes('opened')
 
         if (subLookup) {
             fillColor = subLookup.fillColor
@@ -54,7 +54,7 @@ function removeOverlap(rows) {
         if (overlapped.length > 1) {
             //move depending on the index
             const index = overlapped.indexOf(row)
-            row.coordinates = [lng1 + index * 0.00006, lat1 + index * 0.00003]
+            row.coordinates = [lng1 + index * 0.00004, lat1 + index * 0.00002]
         }
         return row
     })

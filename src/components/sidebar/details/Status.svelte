@@ -1,7 +1,7 @@
 <script>
     export let status
 
-    $: isOpened = status.toLowerCase().includes('open')
+    $: isOpened = status.toLowerCase().includes('opened')
 </script>
 
 {#if isOpened}

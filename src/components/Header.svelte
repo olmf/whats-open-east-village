@@ -3,7 +3,7 @@
     import MaterialIcon from './MaterialIcon.svelte'
 
     let innerWidth
-    let opened = false;
+    let opened = true;
 
 </script>
 
@@ -12,7 +12,7 @@
 <header>
     {#if innerWidth > 768}
         <div class="header-bar">
-            <h3 class="title is-3" id="title">Essentially Open North Brooklyn</h3>
+            <h3 class="title is-3" id="title">What's Open In The East Village Area During COVID-19?</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
                 <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
@@ -22,19 +22,17 @@
         </div>
         {#if opened}
             <div id="subtitle">
-                <p class="is-6 subtitle"><strong>Community mapping of Greenpoint and Williamsburg businesses operating
-                    during the COVID-19 crisis.</strong>
-                    <br/><br/>We are updating these listings regularly, but please check their Instagram, website, or
-                    call for
-                    the most current information.</p>
-                <p class="is-6 subtitle">Maintained by <a href="http://northbrooklynneighbors.org/">North Brooklyn
-                    Neighbors</a> and
-                    <a href="http://northbrooklynmutualaid.org/">North Brooklyn Mutual Aid</a>.
-                    To add or update info fill out <a href="https://airtable.com/shrGc92OIWFQoSf5X" target="_blank">this
-                        form</a>.</p>
+                <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
+                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and Paul
+                    Gale.</p>
+                <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
+                <div class="buttons are-small">
+                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Don't see
+                        your favorite business or update info?</a>
+                    <a href="mailto:whatsopenev@gmail.com" class="button is-info">Submit feedback or want to help</a>
+                </div>
             </div>
         {/if}
-        <p class="has-background-warning">Hours may be adjusted due to NYC curfew week of June 1</p>
     {:else}
         <div class="header-bar">
             <h3 class="title is-5">Essentially Open North Brooklyn</h3>
@@ -47,19 +45,17 @@
         </div>
         {#if opened}
             <div id="subtitle">
-                <p class="is-6 subtitle"><strong>Community mapping of Greenpoint and Williamsburg businesses operating
-                    during the COVID-19 crisis.</strong>
-                    <br/><br/>We are updating these listings regularly, but please check their Instagram, website, or
-                    call for
-                    the most current information.</p>
-                <p class="is-6 subtitle">Maintained by <a href="http://northbrooklynneighbors.org/">North Brooklyn
-                    Neighbors</a> and
-                    <a href="http://northbrooklynmutualaid.org/">North Brooklyn Mutual Aid</a>.
-                    To add or update info fill out <a href="https://airtable.com/shrGc92OIWFQoSf5X" target="_blank">this
-                        form</a>.</p>
+                <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
+                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and Paul
+                    Gale.</p>
+                <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
+                <div class="buttons are-small">
+                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Don't see
+                        your favorite business or update info?</a>
+                    <a href="mailto:whatsopenev@gmail.com" class="button is-info">Submit feedback or want to help</a>
+                </div>
             </div>
         {/if}
-        <p class="has-background-warning">Hours may be adjusted due to NYC curfew week of June 1</p>
     {/if}
 </header>
 
@@ -74,10 +70,6 @@
 
     .title {
         margin-bottom: 10px !important;
-    }
-
-    .has-background-warning{
-        padding: 0.2rem 1rem ;
     }
 
     @media only screen and (max-width: 768px) {

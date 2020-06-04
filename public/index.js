@@ -7,6 +7,7 @@ require('dotenv').config()
 const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID
 const AIRTABLE_TABLE_NAME = process.env.AIRTABLE_TABLE_NAME
+const AIRTABLE_BULLETIN_NAME = process.env.AIRTABLE_BULLETIN_NAME
 const directory = __dirname + '/data';
 
 const json2csvParser = new Parser()
@@ -45,21 +46,28 @@ function setupDirectory(dir) {
     }
 }
 
-async function main() {
-    console.log(' :: Setting up directory structure')
-    setupDirectory(directory)
-
-    console.log(` :: Getting rows from ${AIRTABLE_TABLE_NAME}`)
+async function getRows(table, ignoreFields = []){
     const base = new Airtable({
         apiKey: AIRTABLE_API_KEY
     }).base(AIRTABLE_BASE_ID)
-    const records = await getAllRecords(base, AIRTABLE_TABLE_NAME)
+
+    console.log(` :: Getting rows from ${table}`)
+    const records = await getAllRecords(base, table)
     const rows = records.map(row => row.fields).map(row => {
         let nRow = {}
-        Object.entries(row).forEach(([key, value]) => {
+        Object.entries(row).map(([key, value]) => {
+            //don't include ignoreFields
+            if(key in ignoreFields) return;
             //flatten array fields
             if(Array.isArray(value)){
-               nRow[key] = value.join(',')
+                if(value.length > 0 && (typeof val === 'object') && 'url' in value[0]){
+                    //get attachment urls
+                    nRow[key] = value.map(i => i.url).join(',')
+                    console.log(value.map(i => i.url).join(','))
+                }else{
+                    nRow[key] = value.join(',')
+                }
+
             }else{
                 nRow[key] = value
             }
@@ -67,10 +75,19 @@ async function main() {
         return nRow
     }).sort((a, b) => a.id - b.id)
 
-    console.log(' :: Updating data files')
-    const csv = json2csvParser.parse(rows);
-    await fs.writeFileSync(path.join(directory, 'rows.csv'), csv , 'utf8');
+    return json2csvParser.parse(rows);
+}
 
+async function main() {
+    console.log(' :: Setting up directory structure')
+    setupDirectory(directory)
+
+    const all = await getRows(AIRTABLE_TABLE_NAME, ['Email','Update Requests'])
+    const bulletin = await getRows(AIRTABLE_BULLETIN_NAME)
+
+    console.log(' :: Writing data files')
+    await fs.writeFileSync(path.join(directory, 'rows.csv'), all , 'utf8');
+    await fs.writeFileSync(path.join(directory, 'bulletin.csv'), bulletin , 'utf8');
 }
 
 main()

@@ -1,5 +1,6 @@
 <script>
     import {selectedItem} from '../../../stores'
+    import {getValidUrl} from '../../../utils/textFormatting'
     import MarkdownField from './MarkdownField.svelte'
     import ItemDetailsInfo from './ItemDetailsInfo.svelte'
     import PickupDelivery from './PickupDelivery.svelte'
@@ -11,7 +12,7 @@
 
     let subCategories = []
 
-    $: if (item) subCategories = item['Sub-Category'].split(',').filter(tag => tag.trim())
+    $: if (item) subCategories = item['Sub Category'].split(',').filter(tag => tag.trim())
 
     function resetSelect() {
         selectedItem.select(null)
@@ -26,7 +27,7 @@
         <img class="icon" src="./icons/{item.icon}"/>
     </div>
     <div class="content">
-        <h4 class="is-5 subtitle is-marginless">{item.Name}</h4>
+        <h4 class="is-5 subtitle is-marginless notranslate" translate="no">{item.Name}</h4>
         <p class="address">
             <span class="notranslate" translate="no">{item.Address}</span>
             <a href="http://maps.google.com/?q={item.Address}" target="_blank">
@@ -46,20 +47,40 @@
             {/if}
         </div>
 
-        <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
-        <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
-        <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
-        <ItemDetailsInfo url={item.Donate} text="Donate" icon="card_giftcard" type="website"/>
+        <ItemDetailsInfo text={item.Phone} url={item.Phone} icon="local_phone" type="phone" alt="Phone Number"/>
+        <ItemDetailsInfo url={item['Website']} text="Website" icon="public" type="website" alt="Website"/>
+        <ItemDetailsInfo url={item['Instagram']} text="Instagram" icon="photo_camera" type="website" alt="Instagramz"/>
 
-        <MarkdownField title="Hours" content={item.Hours}/>
+        {#if item['Fundraiser'] || item['Giftcard']}
+            <div class="field is-grouped is-grouped-multiline support">
+                <div class="tags">
+                    {#if item['Giftcard']}
+                        <a target="_blank" href="{getValidUrl(item['Giftcard'])}">
+                            <span class="tag is-link">Buy a GIFTCARD to support this business!</span>
+                        </a>
+                    {/if}
+                    {#if item['Fundraiser']}
+                        <a target="_blank" href="{getValidUrl(item['Fundraiser'])}">
+                            <span class="tag is-link">Contribute to this business's FUNDRAISER!</span>
+                        </a>
+                    {/if}
+                </div>
+            </div>
+        {/if}
+
+        <MarkdownField title="Special Offers" content={item['Special Offers']}/>
+
+        <p><strong>Open Time:</strong> {item['Open Time']} <strong>Close Time:</strong> {item['Close Time']}</p>
+
         <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
-<!--        <MarkdownField title="Notes" content={item.Notes}/>-->
+        <MarkdownField title="Notes" content={item.Notes}/>
         <hr>
 
         <PickupDelivery
                 pickup={item['Pickup Offered']}
                 delivery={item['Delivery Offered']}
-                notes={item['Delivery/Pickup Notes']}
+                shipping={item['Shipping Offered']}
+                notes=''
         />
 
         <LastUpdated lastUpdated={item['Last Updated']} source={item['Source']}/>

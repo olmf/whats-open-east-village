@@ -10,6 +10,7 @@
 
     $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
     $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
+    $: shipping = item['Shipping Offered'].toLowerCase().includes('yes')
 </script>
 
 <div class="item">
@@ -17,10 +18,13 @@
         <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
         <div class="icons">
             {#if pickup}
-                <MaterialIcon icon="local_mall"/>
+                <MaterialIcon icon="local_mall" alt="Pickup Offered"/>
             {/if}
             {#if delivery}
-                <MaterialIcon icon="local_shipping"/>
+                <MaterialIcon icon="moped" alt="Delivery Offered"/>
+            {/if}
+            {#if shipping}
+                <MaterialIcon icon="local_shipping" alt="Shipping Offered"/>
             {/if}
         </div>
     </a>

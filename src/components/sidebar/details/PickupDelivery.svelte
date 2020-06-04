@@ -3,6 +3,7 @@
 
     export let pickup
     export let delivery
+    export let shipping
     export let notes
 </script>
 
@@ -23,6 +24,15 @@
             <span class="tag"><strong>Delivery</strong></span>
             <span class="tag {delivery.toLowerCase().includes('yes') ? 'is-success' : 'is-white'}">
                 {delivery}
+            </span>
+        </div>
+    </div>
+
+    <div class="control">
+        <div class="tags has-addons">
+            <span class="tag"><strong>Shipping</strong></span>
+            <span class="tag {shipping.toLowerCase().includes('yes') ? 'is-success' : 'is-white'}">
+                {shipping}
             </span>
         </div>
     </div>
