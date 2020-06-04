@@ -40,11 +40,13 @@
             <Bulletin/>
         {/if}
     </div>
+    <p>Updated frequently and with ❤️️ by Perry Leung, EVCC, <a href="https://evgrieve.com" target="_blank">EV
+        Grieve</a>, and Paul Gale.</p>
 </main>
 <TopButton/>
 
 <style>
-    main{
+    main {
         margin: 0px auto;
         max-width: 1500px;
         color: #444;
@@ -54,7 +56,7 @@
     .dash {
         display: flex;
         flex-direction: column;
-        height: 98vh;
+        height: 96vh;
     }
 
     .dash > * {
@@ -81,7 +83,7 @@
 
 
     @media only screen and (max-width: 768px) {
-        main{
+        main {
             padding: 0 30px;
         }
 

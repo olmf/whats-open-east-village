@@ -1,7 +1,7 @@
 <script>
     import {filters} from '../../../stores'
 
-    let showOpened = false
+    let showOpened = true
 
     $: updateFilter(showOpened)
 
@@ -24,12 +24,12 @@
         }
     }
 </script>
-<div class="field">
-    <label class="label">Status</label>
-    <label class="checkbox">
-        <input type="checkbox" bind:checked={showOpened}>Hide closed listings
-    </label>
-</div>
+<!--<div class="field">-->
+<!--    <label class="label">Status</label>-->
+<!--    <label class="checkbox">-->
+<!--        <input type="checkbox" bind:checked={showOpened}>Hide closed listings-->
+<!--    </label>-->
+<!--</div>-->
 
 <style>
     label {

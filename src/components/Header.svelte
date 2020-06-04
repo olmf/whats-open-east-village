@@ -23,14 +23,11 @@
         {#if opened}
             <div id="subtitle">
                 <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
-                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and
-                    Paul
-                    Gale.</p>
+                    area during COVID-19.</strong></p>
                 <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
-                <div class="buttons are-small">
-                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Don't see
-                        your favorite business or update info?</a>
-                    <a href="mailto:whatsopenev@gmail.com" class="button is-info">Submit feedback or want to help</a>
+                <div class="buttons">
+                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+                    <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
                 </div>
             </div>
         {/if}
@@ -47,14 +44,11 @@
         {#if opened}
             <div id="subtitle">
                 <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
-                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and
-                    Paul
-                    Gale.</p>
+                    area during COVID-19.</strong></p>
                 <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
                 <div class="buttons are-small">
-                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Don't see
-                        your favorite business or update info?</a>
-                    <a href="mailto:whatsopenev@gmail.com" class="button is-info">Submit feedback or want to help</a>
+                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+                    <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
                 </div>
             </div>
         {/if}
@@ -87,5 +81,9 @@
 
     p {
         margin-bottom: 0.25rem !important;
+    }
+
+    .button {
+        font-weight: bold;
     }
 </style>
