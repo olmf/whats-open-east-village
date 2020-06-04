@@ -21,6 +21,13 @@
         slimSelect.set(value)
     }
 
+    $: {
+        //when options change setData
+        if(slimSelect && 'data' in options && options.data.length){
+            slimSelect.setData(options.data)
+        }
+    }
+
     onMount(async () => {
         slimSelect = new SlimSelect({select, onChange, ...options, placeholder: `All ${text}`})
     })
