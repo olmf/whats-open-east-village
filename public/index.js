@@ -10,8 +10,6 @@ const AIRTABLE_TABLE_NAME = process.env.AIRTABLE_TABLE_NAME
 const AIRTABLE_BULLETIN_NAME = process.env.AIRTABLE_BULLETIN_NAME
 const directory = __dirname + '/data';
 
-const json2csvParser = new Parser()
-
 function getAllRecords(base, tableName) {
     return new Promise((resolve, reject) => {
         let records = [];
@@ -46,11 +44,7 @@ function setupDirectory(dir) {
     }
 }
 
-async function getRows(table, ignoreFields = []){
-    const base = new Airtable({
-        apiKey: AIRTABLE_API_KEY
-    }).base(AIRTABLE_BASE_ID)
-
+async function getRows(base, table, ignoreFields = []){
     console.log(` :: Getting rows from ${table}`)
     const records = await getAllRecords(base, table)
     const rows = records.map(row => row.fields).map(row => {
@@ -60,10 +54,9 @@ async function getRows(table, ignoreFields = []){
             if(key in ignoreFields) return;
             //flatten array fields
             if(Array.isArray(value)){
-                if(value.length > 0 && (typeof val === 'object') && 'url' in value[0]){
+                if(value.length > 0 && (typeof value[0] === 'object') && 'url' in value[0]){
                     //get attachment urls
                     nRow[key] = value.map(i => i.url).join(',')
-                    console.log(value.map(i => i.url).join(','))
                 }else{
                     nRow[key] = value.join(',')
                 }
@@ -75,6 +68,7 @@ async function getRows(table, ignoreFields = []){
         return nRow
     }).sort((a, b) => a.id - b.id)
 
+    const json2csvParser = new Parser()
     return json2csvParser.parse(rows);
 }
 
@@ -82,8 +76,12 @@ async function main() {
     console.log(' :: Setting up directory structure')
     setupDirectory(directory)
 
-    const all = await getRows(AIRTABLE_TABLE_NAME, ['Email','Update Requests'])
-    const bulletin = await getRows(AIRTABLE_BULLETIN_NAME)
+    const base = new Airtable({
+        apiKey: AIRTABLE_API_KEY
+    }).base(AIRTABLE_BASE_ID)
+
+    const all = await getRows(base, AIRTABLE_TABLE_NAME, ['Email','Update Requests'])
+    const bulletin = await getRows(base, AIRTABLE_BULLETIN_NAME, [])
 
     console.log(' :: Writing data files')
     await fs.writeFileSync(path.join(directory, 'rows.csv'), all , 'utf8');

@@ -23,7 +23,8 @@
         {#if opened}
             <div id="subtitle">
                 <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
-                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and Paul
+                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and
+                    Paul
                     Gale.</p>
                 <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
                 <div class="buttons are-small">
@@ -46,7 +47,8 @@
         {#if opened}
             <div id="subtitle">
                 <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
-                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and Paul
+                    area during COVID-19.</strong> Updated frequently and with ❤️️ by Perry Leung, EVCC, EV Grieve, and
+                    Paul
                     Gale.</p>
                 <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
                 <div class="buttons are-small">
@@ -72,14 +74,11 @@
         margin-bottom: 10px !important;
     }
 
-    @media only screen and (max-width: 768px) {
-
-        #subtitle {
-            margin-top: 5px;
-            background-color: #eaeaea;
-            padding: 1rem 2rem;
-            z-index: 2;
-        }
+    #subtitle {
+        margin-top: 5px;
+        background-color: #f1f1f1;
+        padding: 1rem 2rem;
+        z-index: 2;
     }
 
     .is-clicked {

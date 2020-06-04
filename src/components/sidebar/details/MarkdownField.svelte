@@ -9,5 +9,9 @@
 </script>
 
 {#if !isEmpty}
-    <p><strong>{title}: </strong>{@html DOMPurify.sanitize(marked(content))}</p>
+    {#if title}
+        <p><strong>{title}: </strong>{@html DOMPurify.sanitize(marked(content))}</p>
+    {:else}
+        <p>{@html DOMPurify.sanitize(marked(content))}</p>
+    {/if}
 {/if}

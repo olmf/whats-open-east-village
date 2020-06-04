@@ -3,6 +3,7 @@
     import MapView from './components/MapView.svelte'
     import Sidebar from './components/Sidebar.svelte'
     import TopButton from './components/TopButton.svelte'
+    import Bulletin from './components/bulletin/Bulletin.svelte'
 
     import {rows, filters} from './stores'
 
@@ -15,23 +16,35 @@
     onMount(() => {
         importData('data/rows.csv', rows)
     })
+
+    let urlParams = new URLSearchParams(window.location.search)
+    $: bulletin = urlParams.get('bulletin')
+
+
 </script>
 
 <main>
-    <Header/>
-    <div class="content">
-        <div class="sidebar">
-            <Sidebar {items}/>
+    <div class="dash">
+        <Header/>
+        <div class="content">
+            <div class="sidebar">
+                <Sidebar {items}/>
+            </div>
+            <div class="map">
+                <MapView {items}/>
+            </div>
         </div>
-        <div class="map">
-            <MapView {items}/>
-        </div>
+    </div>
+    <div class="bulletin">
+        {#if bulletin === 'show'}
+            <Bulletin/>
+        {/if}
     </div>
 </main>
 <TopButton/>
 
 <style>
-    main {
+    .dash {
         display: flex;
         flex-direction: column;
         height: 98vh;
@@ -41,7 +54,7 @@
         padding: 0px 25px;
     }
 
-    main > * {
+    .dash > * {
         flex: 1;
     }
 
@@ -65,7 +78,8 @@
 
 
     @media only screen and (max-width: 768px) {
-        main {
+        .dash {
+            height: initial;
             padding: 0 30px;
         }
 
