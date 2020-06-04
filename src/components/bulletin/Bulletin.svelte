@@ -20,6 +20,6 @@
 
 <style>
     .bulletin{
-        margin: 1rem 2rem;
+        margin-top: 1rem;
     }
 </style>

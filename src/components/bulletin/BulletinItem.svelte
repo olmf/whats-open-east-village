@@ -20,6 +20,7 @@
         margin: 0.75rem
     }
     img {
+        margin-top: 0.5rem;
         max-height: 300px;
     }
 </style>

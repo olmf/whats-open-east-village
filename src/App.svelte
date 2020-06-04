@@ -44,14 +44,17 @@
 <TopButton/>
 
 <style>
-    .dash {
-        display: flex;
-        flex-direction: column;
-        height: 98vh;
+    main{
         margin: 0px auto;
         max-width: 1500px;
         color: #444;
         padding: 0px 25px;
+    }
+
+    .dash {
+        display: flex;
+        flex-direction: column;
+        height: 98vh;
     }
 
     .dash > * {
@@ -78,9 +81,13 @@
 
 
     @media only screen and (max-width: 768px) {
+        main{
+            padding: 0 30px;
+        }
+
         .dash {
             height: initial;
-            padding: 0 30px;
+
         }
 
         .content {
