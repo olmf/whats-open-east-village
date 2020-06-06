@@ -33,7 +33,7 @@
         {/if}
     {:else}
         <div class="header-bar">
-            <h3 class="title is-5">Essentially Open North Brooklyn</h3>
+            <h3 class="title is-5">What's Open In The East Village Area During COVID-19?</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
                 <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>

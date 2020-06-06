@@ -4,18 +4,13 @@
     import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
     import MaterialIcon from '../../MaterialIcon.svelte'
 
-    let opened = false
+    let opened = true
 
 </script>
 
 <CategoryFilters/>
-<button class="full" on:click={() => opened = !opened}>
-    More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>
-</button>
-<div class={opened ? '' : 'hidden'}>
-    <OpenedFilter/>
-    <PickupDeliveryFilter/>
-</div>
+<OpenedFilter/>
+<PickupDeliveryFilter/>
 
 <style>
     .full {
@@ -26,7 +21,7 @@
         padding: 5px 10px;
     }
 
-    .hidden{
+    .hidden {
         display: none;
     }
 </style>

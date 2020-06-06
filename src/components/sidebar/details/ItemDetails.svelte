@@ -41,7 +41,7 @@
             {#if subCategories.length}
                 <div class="tags are-small">
                     {#each subCategories as tag}
-                        <span class="tag">{tag}</span>
+                        <span class="tag"><strong>{tag}</strong></span>
                     {/each}
                 </div>
             {/if}

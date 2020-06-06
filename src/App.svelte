@@ -66,7 +66,7 @@
     .content {
         margin: 1rem 0rem;
         display: flex;
-        flex-wrap: wrap;
+        flex-wrap: wrap-reverse;
     }
 
     .map {

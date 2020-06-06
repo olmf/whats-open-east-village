@@ -5,7 +5,7 @@
     export let source = ''
 
 
-    $: date = new Date(lastUpdated).toLocaleString()
+    $: date = new Date(lastUpdated).toLocaleDateString()
     $: sourceIsLink = source.includes('http')
 </script>
 
