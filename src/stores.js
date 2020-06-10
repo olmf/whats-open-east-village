@@ -8,7 +8,7 @@ function createSelectedItem() {
         select: (row, map, center) => {
             //go to latlng
             if(map && center){
-                const zoom = 17
+                const zoom = 18
                 map.flyTo({center, zoom})
             }
             set(row)

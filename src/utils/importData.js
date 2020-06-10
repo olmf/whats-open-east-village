@@ -60,16 +60,19 @@ function removeOverlap(rows) {
     })
 }
 
+function sortByLastUpdated(rows){
+    return rows.sort((a,b) => new Date(a['Last Updated']) < new Date(b['Last Updated']))
+}
+
 
 async function importData(file, store) {
     const text = await (await fetch(file)).text()
     const rows = csvParse(text)
     //filter for rows with latlng
-    const filterRows = rows.filter(({Latitude, Longitude}) => +Latitude && +Longitude)
-
+    const filterRows = rows.filter(({Latitude, Longitude, Status}) => +Latitude && +Longitude && Status ==='Opened')
     console.log(`Imported ${filterRows.length} out of ${rows.length}. Check latlng columns, if there are missing rows.`, rows[0])
 
-    store.set(removeOverlap(getColors(filterRows)))
+    store.set(sortByLastUpdated(removeOverlap(getColors(filterRows))))
 }
 
 export default importData

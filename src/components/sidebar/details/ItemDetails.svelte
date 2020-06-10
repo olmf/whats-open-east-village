@@ -70,7 +70,13 @@
 
         <MarkdownField title="Special Offers" content={item['Special Offers']}/>
 
-        <p><strong>Open Time:</strong> {item['Open Time']} <strong>Close Time:</strong> {item['Close Time']}</p>
+        {#if item['Open Time']}
+            <p><strong>Open Time:</strong> {item['Open Time']}</p>
+        {/if}
+
+        {#if item['Close Time']}
+            <p><strong>Close Time:</strong> {item['Close Time']}</p>
+        {/if}
 
         <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
         <MarkdownField title="Notes" content={item.Notes}/>
