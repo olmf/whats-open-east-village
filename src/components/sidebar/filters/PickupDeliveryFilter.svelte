@@ -18,7 +18,7 @@
     function clearShowAll(){
         //clear show all when pickup or delivery is checked
         if(showPickup || showDelivery || showShipping) showAll = false
-        if(!showPickup && !showPickup && !showShipping) showAll = true
+        if(!showPickup && !showDelivery && !showShipping) showAll = true
     }
 
     $: updateFilter(showAll, showPickup, showDelivery, showShipping)
