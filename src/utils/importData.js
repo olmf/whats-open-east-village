@@ -5,11 +5,11 @@ function getColors(rows) {
     //get colors and icons from constants
     return rows.map(row => {
         const subLookup = styles.find(style => {
-            const subCategory = row['Sub Category'].toLowerCase().trim()
-            if(subCategory.length === 0 || !style.subcategoryName){
+            const subCategory = row['Sub Category']
+            if (subCategory.length === 0 || !style.subcategoryName) {
                 return false
             }
-            return style.categoryName === row.Category && subCategory.includes(style.subcategoryName)
+            return style.categoryName === row.Category && style.subcategoryName === subCategory
         })
         const lookup = styles.find(style => style.categoryName === row.Category)
 
@@ -60,8 +60,8 @@ function removeOverlap(rows) {
     })
 }
 
-function sortByLastUpdated(rows){
-    return rows.sort((a,b) => new Date(a['Last Updated']) < new Date(b['Last Updated']))
+function sortByLastUpdated(rows) {
+    return rows.sort((a, b) => new Date(a['Last Updated']) < new Date(b['Last Updated']))
 }
 
 
@@ -69,8 +69,8 @@ async function importData(file, store) {
     const text = await (await fetch(file)).text()
     const rows = csvParse(text)
     //filter for rows with latlng
-    const filterRows = rows.filter(({Latitude, Longitude, Status}) => +Latitude && +Longitude && Status ==='Opened')
-    console.log(`Imported ${filterRows.length} out of ${rows.length}. Check latlng columns, if there are missing rows.`, rows[0])
+    const filterRows = rows.filter(({Latitude, Longitude, Status}) => +Latitude && +Longitude && Status === 'Opened')
+    console.log(`Imported ${filterRows.length} out of ${rows.length}. Check latlng columns, if there are missing rows or closed businesses.`, rows[0])
 
     store.set(sortByLastUpdated(removeOverlap(getColors(filterRows))))
 }
