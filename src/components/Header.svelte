@@ -3,7 +3,13 @@
     import MaterialIcon from './MaterialIcon.svelte'
 
     let innerWidth
-    let opened = true;
+    let opened = localStorage.getItem('header') === null ? true : JSON.parse(localStorage.getItem('header'));
+
+    function toggleOpen(){
+        //toggle and save to local storage
+        opened = !opened
+        localStorage.setItem('header', opened)
+    }
 
 </script>
 
@@ -15,7 +21,7 @@
             <h3 class="title is-3" id="title">What's Open In The East Village Area During COVID-19?</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
-                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
+                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
                     <MaterialIcon icon="info"></MaterialIcon>
                 </button>
             </div>
@@ -24,7 +30,6 @@
             <div id="subtitle">
                 <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
                     area during COVID-19.</strong></p>
-                <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
                 <div class="buttons">
                     <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
                     <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
@@ -36,7 +41,7 @@
             <h3 class="title is-5">What's Open In The East Village Area During COVID-19?</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
-                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
+                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
                     <MaterialIcon icon="info"></MaterialIcon>
                 </button>
             </div>
@@ -45,7 +50,6 @@
             <div id="subtitle">
                 <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
                     area during COVID-19.</strong></p>
-                <p class="is-italic">Note: Hours may be adjusted due to NYC curfew week of June 1</p>
                 <div class="buttons are-small">
                     <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
                     <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
@@ -76,7 +80,7 @@
     }
 
     .is-clicked {
-        background-color: #ecf1f8;
+        background-color: #adbbb2;
     }
 
     p {
