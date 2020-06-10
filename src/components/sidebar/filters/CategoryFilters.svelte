@@ -1,5 +1,6 @@
 <script>
     import SlimSelect from './SlimSelect.svelte'
+    import CategoryFilterButtons from './CategoryFilterButtons.svelte'
     import {rows, filters} from '../../../stores'
     import {categoryGroups, styles} from '../../../constants'
 
@@ -22,6 +23,7 @@
                         .map(cat => ({
                             text: cat.categoryName,
                             value: cat.categoryName,
+                            color: cat.fillColor,
                             innerHTML: `<span style="padding-left: 5px; border-left: 5px solid ${cat.fillColor};">${cat.categoryName}</span>`
                         }))
 
@@ -100,8 +102,9 @@
 </script>
 
 {#if categoryOptions && 'data' in categoryOptions}
-    <SlimSelect bind:value={selectedCategories} options={categoryOptions} multiple={true} text="Categories"/>
+    <CategoryFilterButtons bind:value={selectedCategories} options={categoryOptions} text="Categories"/>
 {/if}
+
 
 {#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
     <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true}
