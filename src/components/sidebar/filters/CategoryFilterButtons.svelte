@@ -32,8 +32,6 @@
         categoryOptions = options.data.reduce((categoryOptions, group) => {
             return [...categoryOptions, ...group.options]
         }, [])
-
-        console.log(categoryOptions)
     }
 </script>
 

@@ -159,11 +159,11 @@
                                 'icon-allow-overlap': true,
                                 'icon-size': [
                                     'interpolate',
-                                    ['exponential', 0.6],
+                                    ['exponential', 0.8],
                                     ['zoom'],
-                                    15, 0.5,
+                                    15, 0.6,
                                     18, 0.8,
-                                    20, 1
+                                    22, 1.2
                                 ]
                             },
                             paint: {
