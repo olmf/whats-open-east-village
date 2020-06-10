@@ -9,7 +9,7 @@
 
     $: {
         if($rows.length){
-            newestMapUpdates = $rows.splice(0, 4)
+            newestMapUpdates =  $rows.sort((a, b) => new Date(a['Last Updated']) < new Date(b['Last Updated'])).splice(0, 4)
         }
     }
 
