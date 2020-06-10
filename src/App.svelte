@@ -36,7 +36,7 @@
         </div>
     </div>
     <div class="bulletin">
-        {#if bulletin === 'show'}
+        {#if bulletin !== 'hide'}
             <Bulletin/>
         {/if}
     </div>
