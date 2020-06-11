@@ -60,11 +60,6 @@ function removeOverlap(rows) {
     })
 }
 
-function sortByAlphabet(rows) {
-    return rows.sort((a,b) => a.Name.localeCompare(b.Name))
-}
-
-
 async function importData(file, store) {
     const text = await (await fetch(file)).text()
     const rows = csvParse(text)
@@ -72,7 +67,7 @@ async function importData(file, store) {
     const filterRows = rows.filter(({Latitude, Longitude, Status}) => +Latitude && +Longitude && Status === 'Opened')
     console.log(`Imported ${filterRows.length} out of ${rows.length}. Check latlng columns, if there are missing rows or closed businesses.`, rows[0])
 
-    store.set(sortByAlphabet(removeOverlap(getColors(filterRows))))
+    store.set(removeOverlap(getColors(filterRows)))
 }
 
 export default importData

@@ -1,38 +1,18 @@
 <script>
     import {rows, filters} from '../../../stores'
-    import Fuse from 'fuse.js'
 
     export let textSearch = ''
     let value = ''
-    let fuse = null
-
-    $: if ($rows) {
-        fuse = new Fuse($rows, {
-            isCaseSensitive: false,
-            includeMatches: true,
-            minMatchCharLength: 1,
-            threshold: 0.2,
-            keys: [
-                {
-                    name: 'Name',
-                    weight: 0.5
-                },
-                {
-                    name: 'Category',
-                    weight: 0.3
-                },
-                {
-                    name: 'Sub Category',
-                    weight: 0.2
-                }
-            ]
-        });
-    }
-
 
     function _search() {
-        const matchedRows = fuse.search(value);
-        const matchedIds = matchedRows.map(({item}) => item.id)
+        //const matchedRows = fuse.search(value);
+        const matchedRows = $rows.filter((row) => {
+            const name = row.Name.toLowerCase()
+            const cat = row.Category.toLowerCase()
+            const subCat = row['Sub Category'].toLowerCase()
+            return name.includes(value.toLowerCase()) || cat.includes(value.toLowerCase()) || subCat.includes(value.toLowerCase())
+        })
+        const matchedIds = matchedRows.map(({id}) => id)
         //remove existing filter
         const _filters = $filters
         const filter = _filters.findIndex(f => f.label === 'name')
@@ -41,7 +21,6 @@
         const nameFilter = {
             label: 'name',
             filter: (row) => {
-                if (!value.trim()) return true
                 return matchedIds.includes(row.id)
             }
         }
