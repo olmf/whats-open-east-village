@@ -1,17 +1,33 @@
 <script>
     import {rows, filters} from '../../../stores'
+    import FlexSearch from 'flexsearch'
 
     export let textSearch = ''
     let value = ''
+    let index;
+
+    $: if($rows){
+        index = new FlexSearch({
+            tokenize: "forward",
+            encode: "advanced",
+            resolution: 3,
+            depth: 3,
+            threshold: 3,
+            doc: {
+                id: "id",
+                field: [
+                    "Name",
+                    "Category",
+                    "Sub Category"
+                ]
+            }
+        })
+        index.add($rows);
+    }
+
 
     function _search() {
-        //const matchedRows = fuse.search(value);
-        const matchedRows = $rows.filter((row) => {
-            const name = row.Name.toLowerCase()
-            const cat = row.Category.toLowerCase()
-            const subCat = row['Sub Category'].toLowerCase()
-            return name.includes(value.toLowerCase()) || cat.includes(value.toLowerCase()) || subCat.includes(value.toLowerCase())
-        })
+        const matchedRows = index.search(value)
         const matchedIds = matchedRows.map(({id}) => id)
         //remove existing filter
         const _filters = $filters
@@ -21,7 +37,10 @@
         const nameFilter = {
             label: 'name',
             filter: (row) => {
-                return matchedIds.includes(row.id)
+                if(value.length){
+                    return matchedIds.includes(row.id)
+                }
+                return true
             }
         }
         filters.set([..._filters, nameFilter])
