@@ -808,8 +808,8 @@ You can check the menu from my bio. 👆🏻👆🏻👆🏻 Contact to hello@so
 "Tacos Cuaulta Morelos",292,"2020-03-31T04:00:00.000Z","347-772-5216","Restaurants",40.727341,-73.983171,"438 E. 9th Street, New York, NY 10009","Yes","Yes","Pls call for hours
 ","Mexican",,"EVCC",,,"Opened","http://ordertacoscuautlamorelos.com",,,,,,,,,,
 "Takahachi",293,"2020-05-11T04:00:00.000Z","(212) 505-6524","Restaurants",40.725303,-73.984359,"85 Avenue A, New York, NY 10009","Yes",,,"Japanese",,"PG",,,"Opened","https://www.takahachi.net/takahachi-eastvillage",,,,,,,,,,
-"Taqueria Diana",294,"2020-06-11T04:00:00.000Z","(646) 422-7871","Restaurants",40.72852,-73.988101,"129 2nd Ave, New York, NY 10003","No","No","Sun-Mon till 1AM; Tues-Wed till 2AM; Thurs till 3AM; Fri-Sat till 4AM
-","Mexican",,"EVCC",,,"Closed","https://www.taqueriadiana.com/","12:00 PM","https://www.instagram.com/taqueriadiana/","1:00 AM",,,,,,,
+"Taqueria Diana",294,"2020-06-15T04:00:00.000Z","(646) 422-7871","Restaurants",40.72852,-73.988101,"129 2nd Ave, New York, NY 10003","Yes","Yes","Sun-Mon till 1AM; Tues-Wed till 2AM; Thurs till 3AM; Fri-Sat till 4AM
+","Mexican",,"EVCC",,,"Opened","https://www.taqueriadiana.com/","12:00 PM","https://www.instagram.com/taqueriadiana/","1:00 AM",,,,,,,
 "Tatsu Ramen",295,"2020-06-11T04:00:00.000Z","(929) 284-7088","Restaurants",40.729132,-73.984599,"167 1st Avenue, New York, NY 10003","Yes","Yes",,"Japanese",,"EVCC",,,"Opened",,"11:00 AM","https://instagram.com/tatsuramen","11:00 PM",,,,,,,
 "Taverna Kyclades",296,"2020-06-11T04:00:00.000Z","212-432-0011","Restaurants",40.730967,-73.982485,"228 First Avenue, New York, NY 10009","Yes","Yes",,"Greek","10% off phone pickup orders
 50% off for first responders! (with ID)
@@ -1438,9 +1438,11 @@ TUE: Closed
 ",,"Opened",,"12:00 AM",,"12:00 PM",,,,,,,
 "Panya",493,"2020-04-28T04:00:00.000Z","212-777-1930","Dessert",40.729766,-73.989189,"8 Stuyvesant Street, New York, NY 10003","Yes","Yes",,"Bakery",,"EVCC","Hours as per sign in window
 ","panyanyc@gmail.com","Opened","http://panyabakeryny.com","10:00 AM","https://www.instagram.com/panyabakeryny/?hl=en","4:00 PM",,,,,,,
-"East Village Acupuncture",494,"2020-06-08T04:00:00.000Z","212-777-4486","Health",40.722804,-73.985427,"155 E. 2nd Street, New York,10009",,,"[We are offering remote consultations for herbs, acupressure, exercise and dietary suggestions.] (<https://www.eastvillageacupuncture.com/remote-treatments>) (MON Jun 15)
+"East Village Acupuncture",494,"2020-06-15T04:00:00.000Z","212-777-4486","Health",40.722804,-73.985427,"155 E. 2nd Street, New York,10009","Yes",,"Open for Acupuncture! Read about our new [safety protocols and procedures ][1]or ask us about remote healing sessions.
+
+  [1]: https://www.eastvillageacupuncture.com/new-protocols
 ","Natural & Alternative","We are doing remote health consults by donation
-","EVCC",,"eastvillageacu@gmail.com","Opened","https://www.eastvillageacupuncture.com",,"https://www.instagram.com/eastvillageacupuncture/?hl=en",,,"Yes",,,,,
+","EVCC",,"eastvillageacu@gmail.com","Opened","https://www.eastvillageacupuncture.com","12:00 PM","https://www.instagram.com/eastvillageacupuncture/?hl=en","8:30 PM",,"Yes",,,,,
 "Blue Meadow Flowers",495,"2020-04-28T04:00:00.000Z",,"Shops & Services",40.730955,-73.984256,"336 East 13th Street New York, NY 10003","Yes","Yes","Only open for delivery and pick-up, no retail. The flower industry has changed a lot in the past few weeks, and bouquets are created subject to availability. Tom, owner of Blue Meadow Flowers, can create a bouquet to brighten anyone's day.
 ","Florist",,"TI","Called business on phone, open Monday-Friday, and Mother's Day
 ","flowerstudionyc@gmail.com","Opened","http://www.bluemeadowflowers.com","9:00 AM",,"5:00 PM",,,,,,,
@@ -1697,7 +1699,7 @@ SAT: 10 AM - 4 PM
 ","Indonesian",,"PG",,,"Opened","http://balikitchennyc.com","11:00 AM",,"7:00 PM",,,,,,,
 "Avenue D Pizza",604,"2020-06-08T04:00:00.000Z","(646) 850-3674","Restaurants",40.7205688,-73.9784829,"15 Avenue D, New York, NY 10009","Yes",,,"Pizza",,"PG",,,"Opened",,,,"8:00 PM",,,,,,,
 "International Bar",605,"2020-06-08T04:00:00.000Z","(212) 777-1643","Restaurants",40.7264195,-73.9858007,"102 1st Avenue, New York, NY 10009","Yes",,,"Bar",,"PG",,,"Opened","http://internationalbarnyc.com","12:00 PM","https://www.instagram.com/internationalbarnyc/","8:00 PM",,,,,,,
-"Hearth",606,"2020-06-04T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes",,"\[Hearth for Home pantry items from 12 PM daily. Hot food menu from 5 PM daily]\(<https://www.instagram.com/p/CAv7pdGDtu4/>)
+"Hearth",606,"2020-06-04T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes",,"**Hearth for Home** pantry items from 12 PM daily. Hot food menu from 5 PM daily
 ","Italian",,"PG","IG is being updated
 ",,"Opened","https://www.restauranthearth.com/","12:00 PM","https://instagram.com/hearthrestaurant","8:30 PM",,,,,,,
 "Luster Photo Lab NYC",607,"2020-06-04T04:00:00.000Z","(212) 979-1669","Shops & Services",40.7264975,-73.9833652,"121 Avenue A, New York, NY 10009","Yes",,"\*\*Mon-Fri\*\*: 10am-6pm \*\*Sat\*\*: 12pm-6pm \*\*Sunday: Closed\*\* Available for contactless pickup/drop off and mail-in orders.
