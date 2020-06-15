@@ -41,7 +41,7 @@
             {#if subCategories.length}
                 <div class="tags are-small">
                     {#each subCategories as tag}
-                        <span class="tag"><strong>{tag}</strong></span>
+                        <span class="tag">{tag}</span>
                     {/each}
                 </div>
             {/if}
@@ -53,7 +53,7 @@
 
         {#if item['Fundraiser'] || item['Giftcard']}
             <div class="field is-grouped is-grouped-multiline support">
-                <div class="tags">
+                <div class="tags fund-gift">
                     {#if item['Giftcard']}
                         <a target="_blank" href="{getValidUrl(item['Giftcard'])}">
                             <span class="tag is-link">Buy a GIFTCARD to support this business!</span>
@@ -138,6 +138,10 @@
 
     .content * {
         margin-bottom: 5px;
+    }
+
+    .fund-gift a{
+        margin-right: 10px;
     }
 
 </style>
