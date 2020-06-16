@@ -480,7 +480,7 @@ Donate a meal!!! We at Khiladi will be delivering lunch to one hospital every we
 ","Korean",,"EVCC",,,"Opened","https://www.kokowingsnyc.com","12:00 PM","https://www.instagram.com/kokowings/","9:30 PM",,,,,,
 "Kolkata Chai Co.",160,"2020-06-14T04:00:00.000Z","(646) 892-3023","Restaurants",40.722854,-73.983091,"199 E. 3rd Street, New York, NY,10009",,"Yes",,"Cafe",,"EVCC","IG is being updated
 ",,"Opened","https://linktr.ee/kolkatachaico",,"https://www.instagram.com/kolkatachaico/",,,"Yes",,,,
-"Kona Coffee and Company",161,"2020-06-08T04:00:00.000Z",,"Restaurants",40.725867,-73.989869,"57 Second Ave, New York, NY ,10003","Yes",,"Free shipping on coffee bean purchases via website
+"Kona Coffee and Company",161,"2020-06-15T04:00:00.000Z",,"Restaurants",40.725867,-73.989869,"57 Second Ave, New York, NY ,10003","Yes",,"Free shipping on coffee bean purchases via website
 ","Cafe",,"EVCC",,,"Opened","https://www.konacoffee.nyc/","8:00 AM","https://www.instagram.com/konacoffeeco/","4:00 PM","http://konacoffee.nyc/gift-card","Yes",,,,
 "Kook Korean Restaurant",162,"2020-04-04T04:00:00.000Z","(212) 254-0600","Restaurants",40.72678465,-73.98738473,"324 E. 6th Street, New York, NY",,,,"Korean",,"PL","No info online - need to call
 ",,"Unknown",,,,,,,,,,
@@ -1037,7 +1037,7 @@ Sunday only: 9:00 AM - 6:00 PM
 "St. Dympna's",379,"2020-04-13T04:00:00.000Z",,"Restaurants",40.726424,-73.983592,"117 Avenue A, New York, NY 10009","Yes","No",,"Bar",,"EVCC",,,"Opened",,"2:00 PM","https://www.instagram.com/stdymphnas/?hl=en","8:00 PM",,,,,,
 "The Sock Man",380,"2020-04-13T04:00:00.000Z","212-529-0300 ","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY",,,"online orders only
 ","Fashion",,"EVCC",,,"Opened","https://www.thesockman.com",,"https://www.instagram.com/thesockmannyc/",,,"Yes",,,,
-"An Me",381,"2020-06-15T04:00:00.000Z","212-228-0500","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes",,"curbside pickup 
+"An Me",381,"2020-06-15T04:00:00.000Z","212-228-0500","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes",," open for curbside pickup!
 ","Childrens",,"EVCC",,,"Opened","https://anmeshop.com","1:00 PM ","https://www.instagram.com/anmeshop/","5:00 PM",,"Yes",,,,
 "Alphabets",382,"2020-06-04T04:00:00.000Z","212-475-7250","Retail",40.724411,-73.984481,"64 Avenue A, New York, NY 10009","Yes",,"MON / TUE / FRI: Instore Pickup
 ","Gifts & Home","We are doing FaceTime personal shopping sessions! If you would like some help from us to pick out and purchase the perfect gift for the moms in your life, message us on here and we can schedule an appointment! We will help you pick it out, gift wrap, and ship it off (or local drop off) for you!
@@ -1669,10 +1669,13 @@ Saturday-Sunday: 2pm - 9pm
 SAT: 11 AM - 4 PM
 ","Fashion",,"EVCC","form response
 ","aaopticians@gmail.com","Opened","www.anthonyaidenopticians.com","11:00 AM","https://www.instagram.com/anthonyaidenopticians/?hl=en","5:00 PM",,"Yes",,,,
-"Kadidja Natural Organic Shea ",585,"2020-06-08T04:00:00.000Z",,"Health",40.72785,-73.98222,"10th Street  Avenue A, New York, NY 10009","Yes","Yes","At Tomkins Square Market SUN ONLY or order online!
+"Kadidja Natural Organic Shea ",585,"2020-06-08T04:00:00.000Z",,"Health",40.72785,-73.98222,"10th Street  Avenue A, New York, NY 10009","Yes","Yes","At Tompkins Square Market SUN ONLY or order online!
 ","Natural & Alternative",,"EVCC","form response
 ","kadidja@kadidja.nyc","Opened","https://www.kadidja.nyc","10:00 AM ","https://www.instagram.com/kadidja.nyc/?hl=en","4:00 PM ",,"Yes","[Hand salve for hospital staff!](https://www.gofundme.com/f/Shea-Healing-Hands)",,,true
-"Whistle Salon",586,"2020-06-08T04:00:00.000Z","212-477-0631","Shops & Services",40.72847,-73.9831,"267 East 10th Street, New York, NY 10009","No","No",,"Hair",,"EVCC","form response
+"Whistle Salon",586,"2020-06-08T04:00:00.000Z","212-477-0631","Shops & Services",40.72847,-73.9831,"267 East 10th Street, New York, NY 10009","No","No",,"Hair","Order a manly identified shampoo and conditioner for your father figures on our [online shop][1] and they’ll be delivered in time for Father's Day! 
+
+  [1]: https://shop.saloninteractive.com/store/WHISTLESALON
+","EVCC","form response
 ","Willjohnson1975@gmail.com","Opened","http://www.whistlesalon.com",,"https://www.instagram.com/whistlesalon/?hl=en",,"http://www.whistlesalon.com/online.html","Yes",,,,
 "Anna",587,"2020-06-08T04:00:00.000Z","646-401-3228","Retail",40.7265,-73.98851,"304 E. 5th Street, New York, NY 10003","No","No","online orders only
 ","Fashion",,"EVCC","form response
@@ -1711,15 +1714,21 @@ SAT: 10 AM - 4 PM
 ","Indonesian",,"PG",,,"Opened","http://balikitchennyc.com","11:00 AM",,"7:00 PM",,,,,,
 "Avenue D Pizza",604,"2020-06-08T04:00:00.000Z","(646) 850-3674","Restaurants",40.7205688,-73.9784829,"15 Avenue D, New York, NY 10009","Yes",,,"Pizza",,"PG",,,"Opened",,,,"8:00 PM",,,,,,
 "International Bar",605,"2020-06-08T04:00:00.000Z","(212) 777-1643","Restaurants",40.7264195,-73.9858007,"102 1st Avenue, New York, NY 10009","Yes",,,"Bar",,"PG",,,"Opened","http://internationalbarnyc.com","12:00 PM","https://www.instagram.com/internationalbarnyc/","8:00 PM",,,,,,
-"Hearth",606,"2020-06-04T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes",,"**Hearth for Home** pantry items from 12 PM daily. Hot food menu from 5 PM daily
-","Italian",,"PG","IG is being updated
+"Hearth",606,"2020-06-04T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes",,"[Hearth for Home][1] pantry items from 12 PM daily. Hot food menu from 5 PM daily
+
+  [1]: https://www.instagram.com/p/CAv7pdGDtu4/
+","Italian",,"EVCC","IG is being updated
 ",,"Opened","https://www.restauranthearth.com/","12:00 PM","https://instagram.com/hearthrestaurant","8:30 PM",,,,,,
 "Luster Photo Lab NYC",607,"2020-06-04T04:00:00.000Z","(212) 979-1669","Shops & Services",40.7264975,-73.9833652,"121 Avenue A, New York, NY 10009","Yes",,"\*\*Mon-Fri\*\*: 10am-6pm \*\*Sat\*\*: 12pm-6pm \*\*Sunday: Closed\*\* Available for contactless pickup/drop off and mail-in orders.
 ","Photo",,"PG",,,"Opened","lusterphoto.com",,"https://instagram.com/lusterphotolab",,,"Yes",,,,
 "San Loco",608,"2020-06-04T04:00:00.000Z","212-260-7948","Restaurants",40.72437,-73.97893,"111 Avenue C, New York, NY 10009","Yes","Yes","No alchohol at Ave C location; plenty of options nearby!
 ","Mexican",,"EVCC","IG is being updated
 ",,"Opened","https://www.sanloco.com/","4:00 PM","https://www.instagram.com/sanloconyc/?hl=en","11:00 PM",,,"Call to send food to first responders!",,,
-"Muzzarella Pizza",609,"2020-06-03T04:00:00.000Z","(212) 614-0905","Restaurants",40.730234,-73.980706,"221 Avenue A, New York, NY 10009","Yes",,,"Pizza",,"PG",,,"Opened","https://muzzarella.pizza",,"https://www.instagram.com/muzzarellapizza/?hl=en",,,,,,,
+"Muzzarella Pizza",609,"2020-06-15T04:00:00.000Z","(212) 614-0905","Restaurants",40.730234,-73.980706,"221 Avenue A, New York, NY 10009","Yes",,,"Pizza","Use code [SAVE20][1] for 20% off!	
+
+  [1]: https://muzzarella.pizza
+","EVCC","IG is being updated
+",,"Opened","https://muzzarella.pizza",,"https://www.instagram.com/muzzarellapizza/?hl=en",,,,,,,
 "Superiority Burger",610,"2020-06-03T04:00:00.000Z","(212) 256-1192","Restaurants",40.72739,-73.98357,"430 E. 9th Street, New York, NY 10009","Yes",,"\[ORDER starting MON for limited grab-bag pick-up 4 - 7 PM WED-FRI while supplies last!]\(<http://www.superiorityburger.com/ordernow>)
 
 ","Sandwich",,"EVCC","IG is being updated
@@ -1747,7 +1756,7 @@ As of 5/30/20. Menu and more info \[here]\(<https://evgrieve.com/2020/05/the-wil
 ","Deli ",,"PG",,,"Unknown",,,,,,,,,,
 "Academy Records",619,"2020-06-03T04:00:00.000Z","(212) 780-9166","Retail",40.729795,-73.98266,"415 E 12th St, New York, NY 10009","Yes",,"Records for sale on their site and Instagram. Not open for in-store purchase, but as of now, they are buying records again. Call to set up an appointment.
 ","Records",,"PG",,,"Opened","https://academy-lps.com/",,"https://www.instagram.com/academyrecords/",,,,,,,
-"Organic Grill",620,"2020-06-04T04:00:00.000Z","(212) 477-7177","Restaurants",40.72739,-73.9858,"123 1st Avenue, New York, NY 10003","Yes","Yes","(CLOSED 6/3 THROUGH 6/5) Order online or call directly please!
+"Organic Grill",620,"2020-06-15T04:00:00.000Z","(212) 477-7177","Restaurants",40.72739,-73.9858,"123 1st Avenue, New York, NY 10003","Yes","Yes","Order online or call directly please!
 ","Vegan",,"EVCC",,,"Opened","https://www.theorganicgrill.com","1:00 PM","https://www.instagram.com/organicgrill/","7:30 PM",,,,,,
 "Au Za'atar",621,"2020-06-08T04:00:00.000Z","212-254-5660","Restaurants",40.728885,-73.981166,"188 Avenue A, New York, NY 10009","Yes","Yes",,"Middle Eastern",,"EVCC",,,"Opened","https://auzaatar.com","12:00 PM","https://www.instagram.com/p/CA6OA7gjCp3/","10:00 PM",,,,,,
 "The Hard Swallow",622,"2020-06-07T03:39:00.000Z","(212) 256-0124","Restaurants",40.727837,-73.984873,"140 1st Avenue, New York, NY 10009","Yes",,"Offering take-home drinks and hot dogs as of 6/6. [Profile in VICE about the owners][1].
