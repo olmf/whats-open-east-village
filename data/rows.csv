@@ -75,7 +75,8 @@ Please order delivery from Uber Eats, Postmates, Grubhub, Delivery.com or Caviar
 ",,"Opened","https://www.artichokepizza.com","11:00 AM",,"11:00 PM",,,,,,,,,
 "Atlas Cafe",23,"2020-04-04T04:00:00.000Z","212-539-0966","Restaurants",40.72651,-73.989528,"73 2nd Avenue, New York, NY",,,,"Cafe",,"PL","No info online - need to call
 ","No online presence","Unknown",,,,,,,,,,,,,
-"Atmi",24,"2020-06-17T04:00:00.000Z","212-228-5811","Shops & Services",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY,10003","Yes",,,"Wine Shop",,"EVCC",,"No online presence","Opened",,"2:00 PM",,"10:00 PM",,,,,,,,,
+"Atmi",24,"2020-06-22T04:00:00.000Z","212-228-5811","Shops & Services",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY,10003","No","No",,"Wine Shop",,"EVCC","Closed for repairs after looting
+","No online presence","Closed",,"2:00 PM",,"10:00 PM",,,,,,,,,
 "Atomic Wings",25,"2020-06-09T04:00:00.000Z","(212) 774-9464","Restaurants",40.729415,-73.983584,"184 1st Avenue, New York, NY 10009","Yes","Yes",,"Wings",,"EVCC","IG is being updated
 ","info@atomicwings.com","Opened","https://www.atomicwings.com/locations","11:00 AM","https://www.instagram.com/atomicwings/","11:00 PM",,,,,,,,,
 "Avalon Chemists",26,"2020-04-16T04:00:00.000Z","212-260-3131","Health",40.72400237,-73.99126186,"7 2nd Avenue, New York, NY","Yes","Yes","SAT: 10:00 AM - 6:00 PM. Local delivery includes Union Square area.
@@ -1098,9 +1099,13 @@ Sunday only: 9:00 AM - 6:00 PM
 ","Gifts & Home","We are doing FaceTime personal shopping sessions! If you would like some help from us to pick out and purchase the perfect gift for the moms in your life, message us on here and we can schedule an appointment! We will help you pick it out, gift wrap, and ship it off (or local drop off) for you!
 ","EVCC","IG is being updatesd
 ",,"Opened","https://alphabetsnyc.com","12:00 PM","https://www.instagram.com/alphabetsnyc/","4:00 PM",,"Yes",,,,,,,
-"Duo",383,"2020-06-17T04:00:00.000Z","212-777-7044","Retail",40.728654,-73.985508,"337 E. 9th Street, New York, NY 10003",,,"online Instagram orders only
+"Duo",383,"2020-06-22T04:00:00.000Z","212-777-7044","Retail",40.728654,-73.985508,"337 E. 9th Street, New York, NY 10003","Yes",,"SUN: 1:00 PM - 5:00 PM
+MON: Closed
+TUE - SAT: 1:00 PM - 7:00 PM
+Online & Instagram orders always!
+Limited access and safety protocols in place!
 ","Vintage","See our stories for deep discounts!
-","EVCC",,,"Opened","https://www.duonyc.com",,"https://www.instagram.com/duonyc/",,"https://www.instagram.com/p/B9z4Hmwp9Zj/","Yes",,,,,,,
+","EVCC",,,"Opened","https://www.duonyc.com","1:00 PM","https://www.instagram.com/duonyc/","7:00 PM","https://www.instagram.com/p/B9z4Hmwp9Zj/","Yes",,,,,,,
 "Pink Olive",384,"2020-06-17T04:00:00.000Z","212-780-0036","Retail",40.727592,-73.983074,"439 E. 9th Street, New York, NY 10009",,,"online orders only
 ","Gifts & Home",,"EVCC",,,"Opened","https://pinkolive.com",,"https://www.instagram.com/pinkoliveshop/",,"https://pinkolive.com/giftcert.php","Yes","https://www.gofundme.com/f/pinkolivefund",,,,,,
 "Casey's Rubber Stamps",385,"2020-06-15T04:00:00.000Z","917-669-4151","Retail",40.729688,-73.985282,"322 E. 11th Street, New York, NY 10003","Yes",,"curbside pickup, online & custom orders
@@ -1130,11 +1135,13 @@ We're open to the public, not just members. Senior and SNAP discounts. Limiting 
 
   [1]: https://www.instagram.com/p/B-XpsWvnPiM/
 ","Fitness",,"EVCC",,,"Opened","http://www.studio55c.org/",,"https://www.instagram.com/movingforlifedanceexercise/",,,"Yes",,,,,,,
-"Downtown Yarns",392,"2020-06-17T04:00:00.000Z","212-995-5991","Retail",40.723905,-73.985344,"45 Avenue A,  New York, NY 10009","Yes","Yes","CLOSED: MON 5/25
-MON - FRI: Order by phone or Instagram! [Order by 6 PM WED for FREE delivery THU PM to MN & BX][1]
-Order by 1PM FRI for FREE delivery SAT AM to BK, QN, SI
+"Downtown Yarns",392,"2020-06-17T04:00:00.000Z","212-995-5991","Retail",40.723905,-73.985344,"45 Avenue A,  New York, NY 10009","Yes","Yes","SAT: 11:00 AM - 4:00 PM
+SUN: Closed
+MON - FRI 11:00 AM - 6:00 PM
+Still taking orders for Pickup via [Instagram!][1]
 
-  [1]: https://www.instagram.com/p/B_xVU1kphxy/
+
+  [1]: https://www.instagram.com/downtownyarns/
 ","Yarn Shop",,"EVCC",,,"Opened","www.downtownyarns.com","11:00 AM","https://www.instagram.com/downtownyarns/","6:00 PM",,"Yes",,,,,,,
 "Walgreens",393,"2020-04-15T04:00:00.000Z","(212) 375-0734","Health",40.72979,-73.991805,"20 Astor Pl, New York, NY 10003","Yes","Yes",,"Pharmacy",,"PG","walgreens website
 ",,"Opened","https://www.walgreens.com/locator/walgreens-20+astor+pl-new+york-ny-10003/id=9731","9:00 AM",,"9:00 PM",,,,,,,,,
@@ -1230,8 +1237,8 @@ Real-time line length updates being provided by [these kind neighbors on twitter
 "Aum Shanti NYC",416,"2020-06-13T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"online orders / curbside pickup: order ahead!
 ","Gifts & Home",,"EVCC","IG is being updated
 ",,"Opened","www.aumshantibookshop.com","11:00 AM ","https://www.instagram.com/aumshantinyc/","5:00 PM",,"Yes",,,,,,,
-"La Sirena Mexican Folkart",417,"2020-06-11T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003",,,"Use discount code AMIGOD for 20% off orders over $100 shipped directly to your home
-","Gifts & Home",,"EVCC",,,"Opened","https://lasirenanyc.bigcartel.com",,"https://www.instagram.com/lasirena_nyc/",,,"Yes","https://www.gofundme.com/f/help-save-la-sirena-mexican-folk-art",,,,,,
+"La Sirena Mexican Folkart",417,"2020-06-22T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"Face masks hand made en Mexico! Come by and say ¡Hola! 
+","Gifts & Home",,"EVCC",,,"Opened","https://lasirenanyc.bigcartel.com","12:00 PM","https://www.instagram.com/lasirena_nyc/","5:00 PM",,"Yes","https://www.gofundme.com/f/help-save-la-sirena-mexican-folk-art",,,,,,
 "Spark Pretty",418,"2020-06-17T04:00:00.000Z","646-850-0327","Retail",40.728645,-73.985724,"333 E. 9th Street,  New York, NY 10003",,,"online orders only
 ","Fashion","Use Code SHOPSAFE to receive 25% off Online Orders!
 ","EVCC","IG is being updated
