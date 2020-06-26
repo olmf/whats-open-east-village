@@ -287,7 +287,7 @@ Our new pick-up hours are Tuesday-Saturday 1pm-8pm. We are closed to the public 
 ","info@discoverywines.com","Opened","www.discoverywines.com","1:00 PM","https://www.instagram.com/discoverywinesny/","8:00 PM",,,"Yes",,,,,,
 "Divya's Kitchen",80,"2020-06-04T04:00:00.000Z","212-477-4834","Restaurants",40.72382,-73.98849,"25 1st Avenue, New York, NY,10003 ","Yes","Yes","\*\*Closed Sundays\*\*
 ","Cafe",,"PG",,,"Opened","http://divyaskitchen.com/delivery-extended/","12:00 PM","https://www.instagram.com/divyaskitchennyc/","8:00 PM",,,"Yes",,,,,,
-"Doggie Dearest",81,"2020-04-08T04:00:00.000Z","212-254-3204","Shops & Services",40.724239,-73.982403,"543 E. 5th Street","No","No",,"Pet Supplies & Grooming",,"PL","No info online - need to call
+"Doggie Dearest",81,"2020-06-25T04:00:00.000Z","212-254-3204","Shops & Services",40.724239,-73.982403,"543 E. 5th Street","No","No",,"Pet Supplies & Grooming",,"EVCC","No info online - need to call
 ",,"Closed",,,,,,true,,,,,,,
 "Dua Kafe",82,"2020-06-22T04:00:00.000Z","212-228-1696 TRY new #","Restaurants",40.729702,-73.979382,"520 E. 14th St, New York,NY,10009","No","Yes","CLOSED ON WEDS
 ","Cafe",,"EVCC","Haven't been open, EVCC will keep checking
@@ -295,8 +295,8 @@ Our new pick-up hours are Tuesday-Saturday 1pm-8pm. We are closed to the public 
 "Dual Specialty Store",83,"2020-06-22T04:00:00.000Z","212-979-6045","Groceries",40.7262351,-73.9866124,"91 1st Avenue,New York,NY,10003","Yes","No","Accepts SNAP/EBT. If you use cash, 5% off purchases over $35 and 7% off purchases over $50.
 ","Spice Shop",,"EVCC","via EVGrieve post on 4/22
 ","dualsnyc@gmail.com","Opened","https://www.dualspecialtystorenyc.com/","11:00 AM","https://www.instagram.com/duals_market/","8:00 PM",,,"Yes",,,,,,
-"East 11th Street Deli Corp",84,"2020-04-08T04:00:00.000Z","(646) 952-0110","Groceries",40.72767,-73.980527,"528 E 11th St, New York, NY 10009","Yes",,,"Deli ",,"PL","Call for latest information
-",,"Opened",,"10:30",,"7:00",,,,,,,,,
+"East 11th Street Deli Corp",84,"2020-06-25T04:00:00.000Z","(646) 952-0110","Groceries",40.72767,-73.980527,"528 E 11th St, New York, NY 10009","Yes",,,"Deli ",,"EVCC","Call for latest information
+",,"Opened",,"10:30 AM",,"7:00 PM",,,,,,,,,
 "East Houston St. Wines & Liquor",85,"2020-06-24T04:00:00.000Z","212-432-6322","Shops & Services",40.722073,-73.984836,"250 E. Houston St, New York,NY,10002","Yes","Yes","SUN: 12:00 PM - 8:45 PM  
 
 Delivery and curb-side pickup available!
@@ -355,10 +355,13 @@ Beer + Growlers to go
 "Enchantments",99,"2020-06-09T04:00:00.000Z","212-228-4394","Health",40.72751,-73.98382,"424 E. 9th Street, New York, NY 10009","No","No","online orders only, curbside pickup starting June 1st
 ","Natural & Alternative",,"EVCC","curbside pickup June 1st
 ",,"Opened","www.enchantmentsincnyc.com",,"https://www.instagram.com/enchantmentsnyc/",,,true,"Yes",,,,,,
-"Equal Care Pharmacy",100,"2020-04-08T04:00:00.000Z","212-228-6137","Health",40.722084,-73.977495,"753 E. 5th Street",,,,"Pharmacy",,"PL","Sent survey to fill out
-","East5st@equalcare.com","Unknown","http://www.equalcare.com",,,,,,,,,,,,
-"Erin's Pharmacy",101,"2020-04-08T04:00:00.000Z","212-677-7335","Health",40.721265,-73.978056,"360 E. 4th Street",,,,"Pharmacy",,"PL","No info online - no answer - EVCC to research
-",,"Unknown",,,,,,,,,,,,,
+"Equal Care Pharmacy",100,"2020-06-25T04:00:00.000Z","212-228-6137","Health",40.722084,-73.977495,"753 E. 5th St, New York, NY,10009","Yes",,"TUE 9AM-6:30PM
+","Pharmacy",,"EVCC","Sent survey to fill out
+","East5st@equalcare.com","Opened","http://www.equalcare.com","9:00 AM",,"7:00 PM",,,,,,,,,
+"Erin's Pharmacy",101,"2020-06-25T04:00:00.000Z","212-677-7335","Health",40.721265,-73.978056,"360 E. 4th St, New York,NY,10009","Yes",,"SAT 10AM-3PM
+CLOSED SUN
+","Pharmacy",,"EVCC","No info online - no answer - EVCC to research
+",,"Opened",,"10:00 AM",,"6:00 PM",,,,,,,,,
 "Esperanto",102,"2020-03-29T04:00:00.000Z","(212) 505-6559","Restaurants",40.725512,-73.978124,"145 Avenue C, New York, NY 10009","Yes","Yes","We still have a full menu at your service! 
 
 Come to the very well known “Fonda Door”. You can also call the restaurant (212-505-6559) for pick up orders ! 
@@ -377,11 +380,10 @@ We’re open from 3 pm-9 pm. [See menu here][1]
 ",,"Opened",,"8:00 AM",,"8:00 PM",,,,,,,,,
 "F&M Slice Pizza",105,"2020-03-29T04:00:00.000Z","(347) 916-6922","Restaurants",40.725696,-73.977959,"153 Avenue C, New York, NY 10009",,,,"Pizza",,"PL","No info online - need to call
 ",,"Unknown",,,,,,,,,,,,,
-"Faith Pharmacy",106,"2020-04-08T04:00:00.000Z","212-387-8800","Health",40.724652,-73.976164,"743 E. 9th Street, New York City","Yes",,"Sunday is closed
-M-F: 10:45-5:45p
-Saturday: 10-2p
-","Pharmacy",,"PL","Call for latest info
-",,"Opened",,"See Notes",,"See Notes",,,,,,,,,
+"Faith Pharmacy",106,"2020-06-25T04:00:00.000Z","212-387-8800","Health",40.724652,-73.976164,"743 E. 9th Street, New York City,NY,10009","Yes",,"SUN is closed
+SAT 10AM-3AM
+","Pharmacy",,"EVCC","Call for latest info
+",,"Opened",,"9:30 AM",,"6:30 PM",,,,,,,,,
 "Fancy Juice",107,"2020-06-09T04:00:00.000Z","212-228-1256","Restaurants",40.72551,-73.98728,"69 1st Avenue, New York, New York 10003","Yes",,,"Juice Bar",,"EVCC","PLS CALL FOR HOURS
 ",,"Opened","http://www.fancyjuice.nyc",,,"7:45 PM",,,,,,,,,
 "Fiaschetteria Pistoia",108,"2020-06-22T04:00:00.000Z","212-777-3355","Restaurants",40.726709,-73.977261,"647 E 11th St, New York, NY 10009","Yes","Yes","One day we will welcome you in the restaurant again! Until then we can be together from a distance with pickup and delivery. EV and 7th Ave locations open every day 5:30 pm - 10:30 pm by phone. You can also find us on Caviar! Stay home, stay safe! 🌈🌈🌈 photo credits: @tinabfoto
@@ -642,12 +644,12 @@ Call directly for takeout. Delivery via Caviar, GrubHub and Uber Eats
 Order two pizzas, get a third for FREE ❤️ \*phone or @chownow orders only
 ","EVCC","survey response
 ","Palombino@mac.com","Opened","https://www.motorinopizza.com","11:30 AM","https://www.instagram.com/motorinopizza/","9:00 PM",,,,,,,,,
-"Mudpark",201,"2020-06-25T04:00:00.000Z","( 212) 529-8766 ","Restaurants",40.72297,-73.98804,"75 E. 1st Street, New York City, 10003","No",,"yes...we are open! mud is an #essentialbusiness ~ our #mudmarket has fruits, vegetables, wine, beer, a small food menu, and mud coffee to go
+"Mudpark",201,"2020-06-25T04:00:00.000Z","( 212) 529-8766 ","Restaurants",40.72297,-73.98804,"75 E. 1st Street, New York City, 10003","Yes",,"yes...we are open! mud is an #essentialbusiness ~ our #mudmarket has fruits, vegetables, wine, beer, a small food menu, and mud coffee to go
 
 7am - noon weekdays
 9am -2pm weekends
 ","Cafe",,"EVCC","TEMPORARILY CLOSED
-","hello@mudnyc.com","Closed","www.mudnyc.com","See notes","https://www.instagram.com/p/B-X3hcfjLXU/","See notes",,,,,"https://www.instagram.com/p/B-nlDBWDCW6/",,,,
+","hello@mudnyc.com","Opened","www.mudnyc.com","7:30 AM","https://www.instagram.com/p/B-X3hcfjLXU/","7:00 PM",,,,,"https://www.instagram.com/p/B-nlDBWDCW6/",,,,
 "Mudspot Cafe",202,"2020-06-22T04:00:00.000Z","212-228-9074","Restaurants",40.729103,-73.986631,"307 E. 9th Street, New York, NY, 10003","Yes",,"FRI - 7:30 AM - 10 PM SAT -8:00 AM-10:00 PM SUN 8:00 AM - 9:00 PM - 
 ","Cafe",,"EVCC",,"hello@mudnyc.com","Opened","www.mudnyc.com","7:30 AM","https://www.instagram.com/p/B-X3hcfjLXU/","9:00 PM",,,,,,,,,
 "Native Bean",203,"2020-06-22T04:00:00.000Z","212-228-8110","Restaurants",40.723521,-73.985267,"36 Avenue A, New York, NY, 10009","Yes","Yes","Open and close times fluctuate, Delivery available through [Seamless][1].
@@ -751,8 +753,8 @@ Wishing everyone to stay calm positive and safe
 ","myki@post-nyc.com, bobby@post-nyc.com","Opened","http://www.post-nyc.com","10:00 AM","https://www.instagram.com/postnewyork/","9:00 PM",,true,,"https://www.gofundme.com/f/pfs7j-feeding-our-frontline?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
 "Prince Tea House",238,"2020-03-31T04:00:00.000Z"," 646-892-3160","Restaurants",40.729485,-73.986702,"204 E. 10th Street, New York City",,,,"Tea Shop",,"PL","No info online - need to call
 ",,"Unknown","http://www.princeteahousenyc.com/contact-us/",,,,,,,,,,,,
-"Proto's Pizza",239,"2020-04-08T04:00:00.000Z","212-432-4044","Restaurants",40.725364,-73.989744,"50 2nd Avenue, New York, NY 10003","No","No","Fri - Sat - 10:00 PM
-","Pizza",,"EVCC",,,"Closed","https://www.protospizzamenu.com","3:00 PM","https://www.instagram.com/protospizza/","9:00 PM",,,,,"https://www.instagram.com/p/B-rfxYSlKoa/",,,,
+"Proto's Pizza",239,"2020-06-25T04:00:00.000Z","212-432-4044","Restaurants",40.725364,-73.989744,"50 2nd Avenue, New York, NY 10003","Yes","No","
+","Pizza",,"EVCC",,,"Opened","https://www.protospizzamenu.com","3:00 PM","https://www.instagram.com/protospizza/","8:30 PM",,,,,"https://www.instagram.com/p/B-rfxYSlKoa/",,,,
 "Pylos",240,"2020-03-29T04:00:00.000Z","212 473-0220","Restaurants",40.726071,-73.984144,"128 E 7th St, New York, NY 10009","Yes","Yes","10% off all pickup orders
 ","Greek",,"PG",,,"Opened",,"3:00 PM","https://www.instagram.com/pylos_nyc/?hl=en","10:00 PM",,,,,,,,,
 "Quality Plus Dry Cleaners",241,"2020-04-01T04:00:00.000Z","(212) 358-8838","Laundromat",40.731141,-73.985441,"200 Second Ave.","Yes",,,"Laundromat",,"PG",,,"Opened",,"8:30 AM",,"6:00 PM",,,,,,,,,
@@ -878,7 +880,7 @@ You can check the menu from my bio. 👆🏻👆🏻👆🏻 Contact to hello@so
 ",,"Opened","stuffedicecreamnyc.com",,"https://www.instagram.com/stuffedicecreamnyc/",,"https://squareup.com/gift/8P8P544Y4Y6GH/order",,,,,,,,
 "Sugar Sketch",285,"2020-03-30T04:00:00.000Z","646-922-7272","Dessert",40.72265629,-73.9846809,"172 E. 2nd Street, New York City","No","Yes","Online orders only. Brick and mortar is closed
 ","Bakery",,"PG",,,"Opened","www.sugarsketch.com","N/A","https://www.instagram.com/sugarsketch/","N/A","http://www.sugarsketch.com/new-products/gift-card",,,,,,,,
-"Sunny & Annie's Deli",286,"2020-04-08T04:00:00.000Z","212-677-3131","Groceries",40.724646,-73.981707,"94 Avenue B, New York, NY 10009","Yes","Yes","STILL OPEN 24 / 7! Great sandwiches
+"Sunny & Annie's Deli",286,"2020-06-25T04:00:00.000Z","212-677-3131","Groceries",40.724646,-73.981707,"94 Avenue B, New York, NY 10009","Yes","Yes","STILL OPEN 24 / 7! Great sandwiches
 ","Deli ",,"EVCC","Confirmed via phone
 ",,"Opened",,"12:00 AM","https://www.instagram.com/sunny_annies/?hl=en","12:00 AM",,true,,,,,,,
 "Sunrise Cleaners",287,"2020-04-01T04:00:00.000Z",,"Laundromat",40.724994,-73.988942,"66 E. Third Street New York, NY","Yes",,"\*\*Open ONLY on Mondays and Fridays\*\* for dry cleaning and drop-off laundry service. \*\*Cash-only.\*\*
