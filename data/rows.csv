@@ -360,7 +360,7 @@ We’re open from 3 pm-9 pm. [See menu here][1]
 "Essa Deli",103,"2020-06-09T04:00:00.000Z",,"Groceries",42.38075,-76.87261,"68 Avenue C, New York, NY 10009","Yes",,,"Deli ",,"EVCC","EVCC confirmed open, need phone / hours
 ",,"Opened",,,,,,,,,,,,,
 "Essex Card Shop",104,"2020-06-24T04:00:00.000Z","212-228-7740","Shops & Services",40.7235644,-73.98554993,"47 Avenue A, New York,NY,10009 ","Yes","Yes","\*\*Mon-Fri\*\*:8am-8pm \*\*Sat-Sun\*\*:9am-8pm. Notary & shipping services available. Someone on Whatsapp said they ""have had masks and gloves consistently"" in stock here. 4oz Isopropyl alcohol also in stock for $4.99 as of 5/1/20
-","Shipping",,"EVCC","EVCC confirmed open
+","Shipping",,"EVCC","EVCC	
 ",,"Opened",,"8:00 AM",,"8:00 PM",,,,,,,,,
 "F&M Slice Pizza",105,"2020-03-29T04:00:00.000Z","(347) 916-6922","Restaurants",40.725696,-73.977959,"153 Avenue C, New York, NY 10009",,,,"Pizza",,"PL","No info online - need to call
 ",,"Unknown",,,,,,,,,,,,,
@@ -1033,7 +1033,7 @@ FRI - SUN
 THU: Closed
 ","Books",,"EVCC","survey response
 ","bonnieslotnickcookbooks@earthlink.net","Opened","http://bonnieslotnickcookbooks.com","1:00 PM","https://www.facebook.com/Bonnie-Slotnick-Cookbooks-865258456866155/","6:00 PM",,true,"Yes",,,,,,"recCMs40nqcdw45lX"
-"East Village Vintage Collective",354,"2020-06-27T04:00:00.000Z","646-476-8036","Retail",40.728413,-73.979311,"545 E. 12th Street, New York, NY 10009","Yes","Yes","Online or by appointment til July 1: commencing countdown . . . 																	
+"East Village Vintage Collective",354,"2020-06-27T04:00:00.000Z","646-476-8036","Retail",40.728413,-73.979311,"545 E. 12th Street, New York, NY 10009","Yes","Yes","Online, Instagram or by appointment til July 1: commencing countdown . . . 																	
 ","Vintage",,"EVCC","survey response
 ","evvintagecollective@gmail.com","Opened","www.eastvillagevintagecollective.com",,"https://www.instagram.com/evvintagecollective/",,"https://www.eastvillagevintagecollective.com/product-category/giftcert-2/",true,"Yes",,,,,,"recgE5IajjFUdDOoP"
 "Gringer and Sons Appliances",355,"2020-06-17T04:00:00.000Z","212-475-0600","Shops & Services",40.723873,-73.988248,"29 1st Avenue, New York, NY 10003",,"Yes","Mon-Fri only
@@ -1090,7 +1090,7 @@ Now through the end of May, we are offering all Moms FREE online membership when
 "Westside Market",374,"2020-06-17T04:00:00.000Z","(212) 253-8400","Groceries",40.731819,-73.988486,"84 Third Ave, New York, NY","Yes","Yes","Accepts SNAP/EBT. Senior Hours: 6am-8am. 10% discount for Seniors at all times. Delivery via <https://www.wmarketnyconline.com/>, Amazon, or via phone. For people who would like to shop in-store, but have their purchases delivered to them, they offer that service within a 10-block radius.
 ","Supermarket",,"EVCC","Website is being updated
 ",,"Opened","https://wmarketnyconline.com/products","24 hours","https://www.instagram.com/westsidemarketnyc/?hl=en",,,,,,,,"6am-8am every day",,
-"Random Accessories",375,"2020-06-04T04:00:00.000Z","212-358-0650","Retail",40.726714,-73.990126,"77 E. 4th Street,  New York, NY 10003","Yes","No","12 PM - 3 PM most days (call to confirm), online orders always 	
+"Random Accessories",375,"2020-06-28T04:00:00.000Z","212-358-0650","Retail",40.726714,-73.990126,"77 E. 4th Street,  New York, NY 10003","Yes","No","MON: closed, online orders always 	
 ","Gifts & Home","15% off with code RANDOM15
 ","EVCC","survey response
 ",,"Opened","https://randomaccessoriesnyc.com","12:00 PM","https://www.instagram.com/randomaccessoriesny/","3:00 PM","https://randomaccessoriesnyc.com/collections/gift-certificate/Gift-card",true,"Yes",,,,"7am-8am every day
@@ -1125,8 +1125,8 @@ Online & Instagram orders always!
 Limited access and safety protocols in place!
 ","Vintage","See our stories for deep discounts!
 ","EVCC",,,"Opened","https://www.duonyc.com","1:00 PM","https://www.instagram.com/duonyc/","7:00 PM","https://www.instagram.com/p/B9z4Hmwp9Zj/",true,"Yes",,,,,,
-"Pink Olive",384,"2020-06-17T04:00:00.000Z","212-780-0036","Retail",40.727592,-73.983074,"439 E. 9th Street, New York, NY 10009",,,"online orders only
-","Gifts & Home",,"EVCC",,,"Opened","https://pinkolive.com",,"https://www.instagram.com/pinkoliveshop/",,"https://pinkolive.com/giftcert.php",true,"Yes","https://www.gofundme.com/f/pinkolivefund",,,,,
+"Pink Olive",384,"2020-06-28T04:00:00.000Z","212-780-0036","Retail",40.727592,-73.983074,"439 E. 9th Street, New York, NY 10009","Yes",,"Instore 12:00 PM - 5:00 PM, online orders always!		
+","Gifts & Home",,"EVCC",,,"Opened","https://pinkolive.com","12:00 PM","https://www.instagram.com/pinkoliveshop/","5:00 PM","https://pinkolive.com/giftcert.php",true,"Yes","https://www.gofundme.com/f/pinkolivefund",,,,,
 "Casey's Rubber Stamps",385,"2020-06-15T04:00:00.000Z","917-669-4151","Retail",40.729688,-73.985282,"322 E. 11th Street, New York, NY 10003","Yes",,"curbside pickup, online & custom orders
 ","Stationery",,"EVCC",,,"Opened","https://www.caseyrubberstamps.com",,"https://www.instagram.com/caseysrubberstamps/",,,,"Yes",,,,,,
 "Azaleas",386,"2020-06-15T04:00:00.000Z","212-228-5842","Retail",40.728911,-73.987196,"140 2nd Avenue, New York, NY,10003","Yes",,"open for curbside pickup & online orders 
@@ -1268,11 +1268,11 @@ Real-time line length updates being provided by [these kind neighbors on twitter
 "Jeepney",419,"2020-06-11T04:00:00.000Z","(908) 356-4147","Restaurants",40.730323,-73.983642,"201 1st Avenue, New York, NY 10003","Yes","Yes","\*\*Open Wednesday-Sunday only\*\*. Contactless pickup available if you call ahead at 908-356-4147
 ","Filipino",,"EVCC","Confirmed by phone
 ",,"Opened","https://www.seamless.com/menu/jeepney-201-1st-ave-new-york/285664","2:00 PM","https://www.instagram.com/jeepneynyc/","9:00 PM","https://the-maharlikans.square.site/",,,"https://www.gofundme.com/f/jeepney-employee-and-c19-survival-operations-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
-"Book Club Bar",420,"2020-06-17T04:00:00.000Z","(646) 678-4160","Retail",40.723004,-73.983206,"197 E 3rd St, New York, NY 10009","Yes","Yes","Open 10 AM til sunset!
+"Book Club Bar",420,"2020-06-28T04:00:00.000Z","(646) 678-4160","Retail",40.723004,-73.983206,"197 E 3rd St, New York, NY 10009","Yes","Yes","Open for takeout 10 AM til sunset; In-Store browsing week of July 6
 ","Books","[We're offering FREE book deliveries via bike messenger to all of Manhattan, parts of Brooklyn and Queens! In stock titles will be delivered same or next day by owner Nat 😁 🚴][1]
 
   [1]: https://www.instagram.com/p/B_Ps0blgIig/
-","EVCC","Reopened May 1, still doing free delivery, hours as per Nat 
+","EVCC","Instore browsing July 6
 ","nat@bookclubbar.com","Opened","https://bookclubbar.com/","10:00 AM","https://www.instagram.com/bookclubbar/","7:00 PM","https://bookclubbar.com/?q=h.cart.gcfuncs",,"Yes",,,,,,
 "886",421,"2020-06-22T04:00:00.000Z","(646) 882-0231","Restaurants",40.72878,-73.9887,"26 St Marks Pl, New York, NY, 10003","Yes","Yes","[Order Delivery][1] Closed MON,TUES
 
@@ -1295,7 +1295,7 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 ","Fashion","25% off with code STAYHOME!
 ","EVCC","survey response
 ","ayaka.nishi@gmail.com","Opened","https://www.ayakanishi.com",,"https://www.instagram.com/ayakanishi/",,"https://www.ayakanishi.com/products/gift-card",true,"Yes",,,,,,
-"Lancelotti",425,"2020-06-15T04:00:00.000Z","212-475-6851","Retail",40.724419,-73.984537,"66 Avenue A, New York, NY 10009","Yes",,"curbside pickup TUE-SAT, online orders always!
+"Lancelotti",425,"2020-06-28T04:00:00.000Z","212-475-6851","Retail",40.724419,-73.984537,"66 Avenue A, New York, NY 10009","Yes",,"TUE-SUN, online orders always!
 ","Gifts & Home",,"EVCC","survey response
 ","INFO@LANCELOTTI.COM","Opened","https://lancelotti.com","12:00 PM","https://www.instagram.com/lancelottinyc/","6:00 PM","please call or email INFO@LANCELOTTI.COM",,"Yes",,,true,,,
 "Van Da",426,"2020-06-22T04:00:00.000Z","(917) 994-4781","Restaurants",40.723364,-73.983119,"234 E 4th St, New York, NY 10009","Yes","Yes","Doing takeout and delivery collaborations with other local restaurants. Check their [Instagram ][1]for up to date information.
@@ -1981,8 +1981,8 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
 "Bar Verde",634,"2020-06-17T01:27:00.000Z","(212) 777-6965","Restaurants",40.7260633,-73.9897589,"65 2nd Avenue, New York, NY","Yes","Yes","Open **Mon-Wed**: 2pm-10pm
 **Thurs-Sun**: 1pm-10pm
 ","Mexican,Vegan",,"PG",,,"Opened",,,"https://instagram.com/barverdenyc",,,,,,,true,,,
-"Meg",636,"2020-06-18T21:26:00.000Z","(212) 260-6329","Retail",40.728844,-73.986685,"312 E 9th St, New York, NY 10003","Yes",,"Curbside pickup open Wednesdays-Saturdays.
-","Fashion",,"PG",,,"Opened","https://www.megshops.com","1:00 PM","https://www.instagram.com/megshop/","5:00 PM",,true,,,,,,,
+"Meg",636,"2020-06-28T21:26:00.000Z","(212) 260-6329","Retail",40.728844,-73.986685,"312 E 9th St, New York, NY 10003","Yes",,"WED - SAT
+","Fashion",,"EVCC",,,"Opened","https://www.megshops.com","1:00 PM","https://www.instagram.com/megshop/","5:00 PM",,true,,,,,,,
 "Love Thy Beast",637,,,"Retail",,,,,,,"Pet Supplies & Grooming",,,,,"Unknown",,,"https://www.instagram.com/lovethybeast/",,,,,,,,,,
 "SneakEZ",638,,,,,,,"Yes",,"Free shipping on all U.S. Orders!
 ",,,,,,"Opened","https://www.sneakezshop.com",,"https://www.instagram.com/sneakezshop",,,,"Yes",,,,,,
