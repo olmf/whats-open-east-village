@@ -10,5 +10,7 @@ export default function hexToRgbA(hex, alpha = 1){
         c= '0x'+c.join('');
         return `rgba(${(c>>16)&255}, ${(c>>8)&255}, ${c&255},${alpha})`;
     }
-    throw new Error('Bad Hex');
+    else{
+        return 'rgba(155,155,155,0.8)'
+    }
 }
