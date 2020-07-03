@@ -47,6 +47,13 @@
             {/if}
         </div>
 
+        {#if item['Outside Seating Offered'] && item['Outside Seating Offered'].toLowerCase().includes('yes')}
+            <div class="category">
+                <strong>Outdoor Seating/ Service -</strong>
+                <p><span class="tag is-primary is-small">{item['Outside Seating Offered']}</span></p>
+            </div>
+        {/if}
+
         <ItemDetailsInfo text={item.Phone} url={item.Phone} icon="local_phone" type="phone" alt="Phone Number"/>
         <ItemDetailsInfo url={item['Website']} text="Website" icon="public" type="website" alt="Website"/>
         <ItemDetailsInfo url={item['Instagram']} text="Instagram" icon="photo_camera" type="website" alt="Instagramz"/>

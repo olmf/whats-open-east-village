@@ -7,7 +7,7 @@
     function selectItem(item) {
         selectedItem.select(item, $mapObject, item.coordinates)
     }
-
+    $: outsideSeating = item['Outside Seating Offered'].toLowerCase().includes('yes')
     $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
     $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
     $: shipping = item['Shipping Offered'].toLowerCase().includes('yes')
@@ -17,6 +17,9 @@
     <a class="link" role="listitem" href="#" on:click={() => selectItem(item)}>
         <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
         <div class="icons">
+            {#if outsideSeating}
+                <MaterialIcon icon="deck" alt="Outside Seating Offered"/>
+            {/if}
             {#if pickup}
                 <MaterialIcon icon="local_mall" alt="Pickup Offered"/>
             {/if}
