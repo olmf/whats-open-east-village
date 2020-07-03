@@ -1285,9 +1285,9 @@ Real-time line length updates being provided by [these kind neighbors on twitter
   [1]: https://mobile.twitter.com/SRCCON/status/1252983555132731393
 ","Supermarket",,"EVCC","Confirmed by phone
 ",,"Opened",,"9:00 AM",,"9:00 PM",,,,,,,"8am-9am",,
-"Aum Shanti NYC",416,"2020-06-13T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"online orders / curbside pickup: order ahead!
-","Gifts & Home",,"EVCC","IG is being updated
-",,"Opened","www.aumshantibookshop.com","11:00 AM ","https://www.instagram.com/aumshantinyc/","5:00 PM",,,"Yes",,,,,,
+"Aum Shanti Bookshop",416,"2020-07-02T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"online orders / curbside pickup: order ahead!
+","Gifts & Home,Books",,"EVCC","IG is being updated
+",,"Opened","www.aumshantibookshop.com","11:00 AM ","https://www.instagram.com/aumshantinyc/","8:00 PM",,,"Yes",,,,,,
 "La Sirena Mexican Folkart",417,"2020-06-22T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"Face masks hand made en Mexico! Come by and say ¡Hola! 
 ","Gifts & Home",,"EVCC",,,"Opened","https://lasirenanyc.bigcartel.com","12:00 PM","https://www.instagram.com/lasirena_nyc/","5:00 PM",,true,"Yes","https://www.gofundme.com/f/help-save-la-sirena-mexican-folk-art",,,,,
 "Spark Pretty",418,"2020-07-02T04:00:00.000Z","646-850-0327","Retail",40.728645,-73.985724,"333 E. 9th Street,  New York, NY 10003","Yes",,"Tuesday through Sunday
@@ -1297,8 +1297,8 @@ Real-time line length updates being provided by [these kind neighbors on twitter
 "Jeepney",419,"2020-06-11T04:00:00.000Z","(908) 356-4147","Restaurants",40.730323,-73.983642,"201 1st Avenue, New York, NY 10003","Yes","Yes","\*\*Open WED - SUN only\*\*. Contactless pickup available if you call ahead at 908-356-4147
 ","Filipino",,"EVCC","Confirmed by phone
 ",,"Opened","https://www.seamless.com/menu/jeepney-201-1st-ave-new-york/285664","2:00 PM","https://www.instagram.com/jeepneynyc/","9:00 PM","https://the-maharlikans.square.site/",,,"https://www.gofundme.com/f/jeepney-employee-and-c19-survival-operations-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
-"Book Club Bar",420,"2020-06-28T04:00:00.000Z","(646) 678-4160","Retail",40.723004,-73.983206,"197 E 3rd St, New York, NY 10009","Yes","Yes","Open for takeout 10 AM til sunset; In-Store browsing week of July 6
-","Books","[We're offering FREE book deliveries via bike messenger to all of Manhattan, parts of Brooklyn and Queens! In stock titles will be delivered same or next day by owner Nat 😁 🚴][1]
+"Book Club Bar",420,"2020-07-02T04:00:00.000Z","(646) 678-4160","Retail",40.723004,-73.983206,"197 E 3rd St, New York, NY 10009","Yes","Yes","Open for takeout 10 AM til sunset; In-Store browsing week of July 6
+","Books,Bar","[We're offering FREE book deliveries via bike messenger to all of Manhattan, parts of Brooklyn and Queens! In stock titles will be delivered same or next day by owner Nat 😁 🚴][1]
 
   [1]: https://www.instagram.com/p/B_Ps0blgIig/
 ","EVCC","Instore browsing July 6
@@ -2058,8 +2058,12 @@ Order directly from [site][1]. 15% off first order.
 "VorteXity Books - Jen",653,"2020-07-02T19:22:00.000Z",,"Retail",40.72656,-73.983231,,"Yes",,"[DM][1] for inquiries and hours.
 
   [1]: https://www.instagram.com/vortexity_jen_fisher/?hl=en
-","Books",,"PG",,,"Opened",,,"https://www.instagram.com/vortexity_jen_fisher/?hl=en",,,,,,,,,,
+","Books",,"PG",,,"Opened","https://thequarterlessreview.com/Jen-Fisher",,"https://www.instagram.com/vortexity_jen_fisher/?hl=en",,,true,,,,,,,
 "Limited to One Record Shop",654,"2020-07-02T19:24:00.000Z","(917) 740-5233","Retail",40.729463,-73.985554,"221 E 10th St, New York, NY 10003","Yes",,"
 ","Records",,"PG",,,"Opened","http://www.limitedtooneshop.com/",,"https://www.instagram.com/limitedtoonenyc/",,,,"Yes",,,,,,
-"Lucky on B",655,"2020-07-02T22:54:00.000Z",,"Restaurants",,,,,,,"Bar",,"EVCC",,,"Unknown",,"12:00 PM",,"8:00 PM",,,,,,,,,
-,657,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,
+"Lucky on B",655,"2020-07-02T22:54:00.000Z",,"Restaurants",,,"168 Avenue B, New York, NY 10009","Yes",,,"Bar",,"EVCC",,,"Opened","http://www.luckyonb.com","12:00 PM","https://www.instagram.com/luckyonb/","8:00 PM",,true,,,,,,,
+"East Village Books",657,"2020-07-02T23:23:00.000Z","212-477-8647","Retail",40.66636,-73.69265,"99 St. Marks Place New York, NY 10009","Yes",,,"Books",,"EVCC",,"eastvillagebooksny@aol.com","Opened","https://www.newyorkcitybookbuyer.com/","1:30 PM",,"9:45 PM",,,,,,,,,
+"Printed Matter / St Marks",658,"2020-07-02T23:23:00.000Z","646-590-3247","Retail",40.72841,-73.98748,"38 St. Marks Place New York, NY 10003","Yes",,"WED and SAT only, curbside pickup. Please email johanna@printedmatter.org with your name and order # to schedule an appt.
+
+","Books",,"EVCC",,"johanna@printedmatter.org","Opened","https://www.printedmatter.org/","12:00 PM","https://www.instagram.com/printedmatter_stmarks/","6:00 PM",,,,,,,,,
+,659,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,
