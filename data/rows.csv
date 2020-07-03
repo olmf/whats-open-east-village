@@ -1381,7 +1381,7 @@ Email info@nycvelo.com
 ","Bicycle Shop",,"TransAlt",,,"Opened","http://www.franksbikes.com/","11:00 AM",,"5:00 PM",,,,,,,,,
 "Lime Tree Market",444,"2020-06-22T04:00:00.000Z","(917) 675-6480","Groceries",40.7281356,-73.98484823,"146 1st Avenue, New York, NY 10009","Yes","No",,"Deli ",,"EVCC","Website says ""We now deliver!"" but contact said they are NOT currently delivering.
 ",,"Opened","https://www.limetree-market.com","8:00 AM",,"7:00 PM",,,"No",,,,,,
-"Joyface",445,"2020-07-03T15:08:00.000Z","917-261-2166","Restaurants",40.723938,-73.978782,"104 Avenue C, New York, NY 10009","Yes",,"(Phase 2 outdoor hours) 
+"Joyface",445,"2020-07-03T15:08:00.000Z","917-261-2166","Restaurants",40.723938,-73.978782,"104 Avenue C, New York, NY 10009","Yes",,"Outdoor seating is available.
 Mon-Fri 3pm-11pm
 Sat-Sun: 1pm-11pm
 ","Bar",,"EVCC","survey response
@@ -2093,3 +2093,7 @@ SUN 11 AM - 6 PM
 ","Vintage",,"EVCC",,,"Opened","www.localclothing.com","12:00 PM ","https://www.instagram.com/localclothingnyc/?hl=en","5:00 PM",,,,,,,,,
 "Cardinal Spellman Center",666,,,,,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,
 "Salon  Cherie Cheri",667,"2020-07-03T05:57:00.000Z","646-484-5820","Shops & Services",40.72478,-73.98109,"105 Avenue B New York, NY 10009","Yes",,,"Hair",,"EVCC",,,"Opened","http://saloncheriecheri.com",,"https://www.instagram.com/saloncheriecheri/?hl=en",,,true,,,,,,,
+"Green Garden Buffet",668,"2020-07-03T16:00:00.000Z","(646) 575-1248","Restaurants",40.728516,-73.986156,"332 E 9th St, New York, NY 10003","Yes","Yes","10% student and senior citizen discount. Free delivery (minimum $15). More info, including menu, [here][1].
+
+  [1]: https://evgrieve.com/2020/07/green-garden-buffet-debuts-on-9th-street.html
+",,,"PG",,,"Opened",,"1:00 PM",,"10:00 PM",,true,,,,,,true,
