@@ -390,7 +390,7 @@ SAT 10AM-3AM
 "Frango's Peri Peri ",112,"2020-06-09T04:00:00.000Z","(917) 675-7897","Restaurants",40.727797,-73.979449,"182 Avenue B, New York, NY 10009 ","Yes","Yes","Delivery from Grubhub, DoorDash, UberEats, Postmates
 ","Brazilian","20% off pickup orders!
 ","EVCC",,,"Opened","https://www.facebook.com/Frangosnyc/","12:00 PM","https://www.instagram.com/frangosnyc/","11:00 PM",,,,,,,,,,
-"Frank",113,"2020-06-14T04:00:00.000Z","212-420-0202","Restaurants",40.726812,-73.988628,"88 2nd Avenue, New York, NY 10003","Yes","Yes",,"Italian",,"EVCC",,,"Opened",,"10:30 AM","https://www.instagram.com/frankrestaurant/","12:00 AM",,,,"https://www.gofundme.com/f/1zx28fg2yo?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link-tip",,,"Yes",,,
+"Frank",113,"2020-07-04T04:00:00.000Z","212-420-0202","Restaurants",40.726812,-73.988628,"88 2nd Avenue, New York, NY 10003","Yes","Yes",,"Italian",,"EVCC",,,"Opened",,"10:30 AM","https://www.instagram.com/frankrestaurant/","12:00 AM",,,,"https://www.gofundme.com/f/1zx28fg2yo?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link-tip",,,"Yes",,,
 "Fresco Gelateria",114,"2020-06-09T04:00:00.000Z","212-677-6320","Restaurants",40.728758,-73.987142,"138 2nd Avenue, New York,NY,10003","Yes","Yes",,"Cafe",,"EVCC","Hours as per note on door
 ",,"Opened","https://www.seamless.com/menu/fresco-gelateria-138-2nd-ave-new-york/320607","10:00 AM",,"7:00 PM",,,,,,,,,,
 "Funny Face Bakery",115,"2020-04-11T04:00:00.000Z","646-861-1274","Dessert",40.72717,-73.986699,"74 E. 7th Street",,"Yes","online orders
@@ -418,10 +418,10 @@ SAT 10AM-3AM
 ","EVCC",,,"Opened","http://www.gomikoreanwinebar.com","3:30 PM","https://www.instagram.com/gomiwinebar/","8:00 PM",,true,,"https://www.instagram.com/p/B-DgqRBFJ1h/",,,,,,
 "Good Beer",122,"2020-06-10T04:00:00.000Z","212-677-4836","Shops & Services",40.72762386,-73.9838149,"422 E. 9th Street, New York, NY,10009","Yes",,,"Beer Shop",,"EVCC","Twitter is being updated
 ",,"Opened","www.goodbeernyc.com",,,,,,,,,,,,,
-"Grape & Grain",123,"2020-06-03T04:00:00.000Z","(646) 490-4029","Restaurants",40.723965,-73.980829,"620 E. 6th Street, New York, NY 10009","Yes","Yes","WED - SUN
+"Grape & Grain",123,"2020-07-04T04:00:00.000Z","(646) 490-4029","Restaurants",40.723965,-73.980829,"620 E. 6th Street, New York, NY 10009","Yes","Yes","WED - SUN
 
-","Japanese",,"EVCC","limited time only, check IG
-",,"Opened","https://www.grubhub.com/restaurant/sustainable-sushi-at-grape-and-grain-620-e-6th-st-new-york/2045990?classicAffiliateId=%2Fr%2Fw%2F2045990%2F&utm_source=kitchen.grubhub.com&utm_medium=OOL&utm_campaign=order+online&utm_content=2045990","12:00 PM","https://www.instagram.com/grapeandgrainnyc/","8:00 PM",,,,,,,,,,
+","Japanese",,"EVCC","check IG
+",,"Opened","https://www.grubhub.com/restaurant/sustainable-sushi-at-grape-and-grain-620-e-6th-st-new-york/2045990?classicAffiliateId=%2Fr%2Fw%2F2045990%2F&utm_source=kitchen.grubhub.com&utm_medium=OOL&utm_campaign=order+online&utm_content=2045990","3:00 PM","https://www.instagram.com/grapeandgrainnyc/","10:00 PM",,true,,,,,"Yes",,,
 "Gruppo",124,"2020-06-24T04:00:00.000Z","212-995-2100","Restaurants",40.724773,-73.981695,"98 Avenue B, New York, NY 10009","Yes","Yes",,"Pizza",,"EVCC",,,"Opened","https://www.nycthincrust.com/location/gruppo-thin-crust/","4:00 PM","https://www.instagram.com/gruppothincrust/","9:00 PM",,,,,,,,,,
 "Guac",125,"2020-03-31T04:00:00.000Z",,"Restaurants",40.727593,-73.979104,"179 Avenue B, New York, NY 10009","No","No","Guac has closed per Yelp (confirmed by owner's message)
 ","Mexican",,"PL",,,"Closed",,,,,,,"No",,"https://www.yelp.com/biz/guac-and-jazzo-manhattan-2",,,,,
@@ -570,7 +570,7 @@ Saturday & Sunday 2pm-9pm
 "Lower East Side Coffee Shop",172,"2020-07-02T04:00:00.000Z","212-260-5842","Restaurants",40.730343,-73.980756,"442 E. 14th Street, New York, NY","Yes","Yes","Outdoor seating available.
 ","American",,"EVCC","hours as per sign in window
 ",,"Opened","http://www.lowereastsidecoffeenyc.com/","6:00 AM",,"4:00 PM",,,,,,,"Yes",,,
-"Lil' Frankie's",173,"2020-06-03T04:00:00.000Z","212 420-4900","Restaurants",40.723604,-73.988501,"19 1st Avenue, New York, NY 10003","Yes","Yes","11:00 AM - 12:00 PM Sun - Thurs, 11:00 AM - 2:00 AM Fri - Sat
+"Lil' Frankie's",173,"2020-07-04T04:00:00.000Z","212 420-4900","Restaurants",40.723604,-73.988501,"19 1st Avenue, New York, NY 10003","Yes","Yes","11:00 AM - 12:00 PM Sun - Thurs, 11:00 AM - 2:00 AM Fri - Sat
 
 Outdoor seating available.
 ","Italian",,"EVCC","4/4 - confirmed hours
@@ -1773,8 +1773,9 @@ Repairs by appointment only, call or email quickrepairavea@gmail.com
 ","orders@michaelgeorgeflowers.com","Opened","https://www.michaelgeorgeflowers.com","9:00 AM","https://www.instagram.com/michaelgeorgeflowers/","2:00 PM",,,,,,,,,,
 "EV Florist Corp",544,"2020-06-17T04:00:00.000Z","(212) 387-8305","Shops & Services",40.72852154,-73.9841952,"247 E 10th St, New York, NY 10009","Yes","Yes",,"Florist",,"EVCC","Called the business on the phone
 ",,"Opened",,"12:00 PM","https://www.instagram.com/evflorist/?hl=en","5:00 PM",,,,,,,,,,
-"Popup Florist",545,"2020-06-04T04:00:00.000Z","(917) 472-7278","Shops & Services",40.72769,-73.98685,"63 E. 7th Street, New York, NY 10003","Yes","Yes",,"Florist",,"EVCC","IG is being updated
-","heyyou@thepopupflorist.com","Opened","https://thepopupflorist.com",,"https://www.instagram.com/popupflorist/",,,,,,,,,,,
+"Popup Florist",545,"2020-07-04T04:00:00.000Z","(917) 472-7278","Shops & Services",40.72769,-73.98685,"63 E. 7th Street, New York, NY 10003","Yes","Yes","hamptons deliveries this wknd!					
+","Florist",,"EVCC","IG is being updated
+","heyyou@thepopupflorist.com","Opened","https://thepopupflorist.com",,"https://www.instagram.com/popupflorist/",,,true,,,,,,,,
 "Mayamezcal",546,"2020-06-17T04:00:00.000Z","(212) 253-5888","Restaurants",40.727058,-73.988187,"304 E 6th St, New York, NY 10003","Yes","Yes","Serving drinks and food.
 ","Mexican",,"EVCC",,,"Opened","http://mayahuelnyc.com","2:00 PM",,"8:00 PM",,,,,,,,,,
 "Barcade",547,"2020-06-17T04:00:00.000Z","(212) 388-0522","Restaurants",40.729164,-73.989539,"6 St Marks Pl, New York, NY 10003","Yes","Yes","Serving drinks and food. Growlers as low as $10. Check [website ][1]for daily listings of what's on tap. 
@@ -1783,7 +1784,8 @@ Repairs by appointment only, call or email quickrepairavea@gmail.com
 ","Bar",,"EVCC",,,"Opened","http://barcadestmarks.com","12:00 PM","https://www.instagram.com/barcade/","8:00 PM","https://barcade.com",,,,,,,,,
 "Sunny's Florist",548,"2020-06-17T04:00:00.000Z","(212) 473-0185","Shops & Services",40.727257,-73.988417,"102 2nd Ave, New York, NY 10003","Yes",,"call back tmm
 ","Florist",,"EVCC",,,"Opened",,,,,,true,,,,,,,,
-"Lori McLean Jewelry",549,"2020-06-03T04:00:00.000Z","(212) 242-3204","Shops & Services",40.729645,-73.981171,"207 Avenue A, New York, NY 10009	",,"Yes","online orders only
+"Lori McLean Jewelry",549,"2020-06-03T04:00:00.000Z","(212) 242-3204","Shops & Services",40.729645,-73.981171,"207 Avenue A, New York, NY 10009	","Yes","Yes","by appointment, online orders always!
+
 ","Fashion","
 ","EVCC",,,"Opened","https://lorimclean.com/",,"http://instagram.com/lorimcleanjewelry",,,true,"Yes",,,,,,,
 "Ama Raw Bar",550,"2020-07-02T04:00:00.000Z","(212) 845-9896","Restaurants",40.72802,-73.97932,"190 Avenue B, New York, NY 10009","Yes","No","FRI - SUN, Outdoor seating available.
@@ -1968,7 +1970,7 @@ SAT 8:00 AM - 11:00 PM
 SUN 9:00 AM - 9:00 PM
 ","Deli ",,"EVCC",,,"Opened","https://best-price-deli-and-grocery.business.site/?utm_source=gmb&utm_medium=referral","7:00 AM",,"10:00 PM",,,,,,,,,,
 "Soothr",614,"2020-06-03T04:00:00.000Z","212-844-9789","Restaurants",40.73225,-73.98738,"204 E. 13th Street, New York, NY 10003","Yes",,,"Thai",,"EVCC",,,"Opened","soothrnyc.com",,"https://www.instagram.com/soothr_nyc/",,,true,,,,,,,,
-"Good Night Sonny",615,"2020-06-03T04:00:00.000Z","(646) 692-3254","Restaurants",40.72757,-73.98526,"134 1ST AVENUE, New York, NY 10009","Yes",,"WED - SUN: 3 PM - 9 PM
+"Good Night Sonny",615,"2020-07-04T04:00:00.000Z","(646) 692-3254","Restaurants",40.72757,-73.98526,"134 1ST AVENUE, New York, NY 10009","Yes",,"WED - SUN: 3 PM - 9 PM
 SAT - SUN: 1 PM - 9 PM
 ","Bar",,"EVCC",,,"Opened","https://www.goodnightsonnynyc.com","3:00 PM","https://www.instagram.com/goodnightsonnynyc/","9:00 PM",,,,,,,,,,
 "Oda House",616,"2020-05-19T04:00:00.000Z","212 353 3838","Restaurants",40.72757,-73.98526,"76 Avenue B, New York, NY 10009","Yes",,,"Georgian",,"EVCC",,,"Opened","https://odahouse.com",,"https://www.instagram.com/odahouseny/",,,,,,,,,,,
@@ -2019,7 +2021,7 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
 "Bar Verde",634,"2020-06-17T01:27:00.000Z","(212) 777-6965","Restaurants",40.7260633,-73.9897589,"65 2nd Avenue, New York, NY 10003","Yes","Yes","Open **Mon-Wed**: 2pm-10pm
 **Thurs-Sun**: 1pm-10pm
 ","Mexican,Vegan",,"PG",,,"Opened",,,"https://instagram.com/barverdenyc",,,,,,,true,,,,
-"Meg",636,"2020-06-28T21:26:00.000Z","(212) 260-6329","Retail",40.728844,-73.986685,"312 E 9th St, New York, NY 10003","Yes",,"WED - SAT
+"Meg",636,"2020-07-04T21:26:00.000Z","(212) 260-6329","Retail",40.728844,-73.986685,"312 E 9th St, New York, NY 10003","Yes",,"WED - SAT
 ","Fashion",,"EVCC","IG is being updated
 ",,"Opened","https://www.megshops.com","1:00 PM","https://www.instagram.com/megshop/","5:00 PM",,true,,,,,,,,
 "Love Thy Beast",637,"2020-06-26T18:57:00.000Z",,"Retail",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown",,,"https://www.instagram.com/lovethybeast/",,,,,,,,,,,
