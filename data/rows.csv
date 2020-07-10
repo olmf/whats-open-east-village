@@ -2155,7 +2155,8 @@ SUN: 11:00 AM to 7:00 PM
 "Fox & Jane Salon",689,"2020-07-10T02:24:00.000Z","646-688-3643","Shops & Services",40.72831,-73.98272,"277 E. 10th Street New York, NY 10009","Yes",,,"Hair",,"EVCC",,,"Opened","www.foxandjanesalon.com","11:00 AM","https://www.instagram.com/foxandjane/","8:00 PM",,,,,,,,,,
 "Headdress Hair Salon",690,"2020-07-10T02:24:00.000Z","2​12-97​9-2199","Shops & Services",40.72873,-73.9867,"312 E. 9th Street New York, NY 10003","Yes",,,"Hair","20% off Hairstory
 ","EVCC",,,"Opened","www.headdresshairsalon.com","10:00 AM","https://www.instagram.com/headdress_hairsalon/","9:00 PM",,,,,,,,,,
-"Suki",691,"2020-07-10T02:43:00.000Z",,"Restaurants",,,"111 1st Avenue, New York, NY 10003",,,,"Japanese",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
+"Suki",691,"2020-07-10T02:43:00.000Z",,"Restaurants",40.72695,73.98616,"111 1st Avenue, New York, NY 10003","Yes","Yes","Your favorite Japanese curry in a new location
+","Japanese",,"EVCC",,,"Opened",,"12:00 PM","https://www.instagram.com/sukicurry/","10:00 PM",,true,,,,,,,,
 "Jenna Perry Hair",692,"2020-07-10T02:24:00.000Z","646-719-1611","Shops & Services",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009","Yes",,"SAT: 10:00 AM  - 6:00 PM
 
 ","Hair",,"EVCC",,"HELLO@JENNAPERRYHAIR.COM","Opened","https://www.jennaperryhair.com/","11:00 AM","https://www.instagram.com/jennaperryhair/","8:00 PM",,,,,,,,,,
@@ -2166,3 +2167,7 @@ SUN: 11:00 AM to 7:00 PM
 ","Hair",,"EVCC",,,"Opened","http://kaminotech.nyc","11:00 AM","https://www.instagram.com/kaminotechnyc/","8:00 PM",,,,,,,,,,
 "Kino Salon",695,"2020-07-10T02:24:00.000Z","212-420-5930","Shops & Services",40.7263,-73.99104,"7 E. 3rd Street, New York, NY 10003","Yes",,"SAT & SUN: 11:00 AM - 8:00 PM
 ","Hair",,"EVCC",,,"Opened","https://www.kinohairny.com/","12:00 PM","https://www.instagram.com/kinohairny/","8:30 PM",,,,,,,,,,
+"Lifestyle Salon",696,"2020-07-10T02:24:00.000Z","212-228-5577","Shops & Services",40.73215,-73.98598,"243 E. 13th Street, New York, NY 10003","Yes",,"SUN & MON: Closed
+
+","Hair",,"EVCC",,,"Opened","https://lifestylesalonnyc.com/","10:00 AM","https://www.instagram.com/lifestylesalonnyc/","7:00 PM",,,,,,,,,,
+,697,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
