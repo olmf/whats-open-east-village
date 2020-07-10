@@ -557,9 +557,9 @@ Saturday & Sunday 2pm-9pm
 "Lavanderia aka Bright Laundry Land",168,"2020-06-17T04:00:00.000Z","(212) 228-2423","Laundromat",40.721258,-73.987491,"108 Stanton Street, New York, NY,10002","Yes",,"Drop-off only.
 ","Laundromat",,"EVCC","""Closed until further notice"" - Eric Lewis
 ",,"Opened",,"10:00 AM",,"5:00 PM",,,,,,,,,,
-"Le Fournil",169,"2020-03-31T04:00:00.000Z",,"Restaurants",40.72789749,-73.98841804,"115 2nd Avenue, New York City","Yes","Yes","Now open from 10 a.m. until 6 p.m., with delivery via UberEats.
-","Cafe",,"PL","IG is being updated
-",,"Opened",,"10:00 AM",,"6:00 PM",,,,,,,,,,
+"Le Fournil",169,"2020-07-10T04:00:00.000Z",,"Restaurants",40.72789749,-73.98841804,"115 2nd Avenue, New York City","Yes","Yes","Now open from 10 a.m. until 6 p.m., with delivery via UberEats.
+","Cafe",,"EVCC","IG is being updated
+",,"Opened","https://www.lefournilnyc.com","10:00 AM","https://www.instagram.com/lefournilnyc/?hl=en","6:00 PM",,,,,,,,,,
 "Le Petit Parisien",170,"2020-03-31T04:00:00.000Z","917-262-0406","Restaurants",40.728288,-73.989098,"32 E. 7th Street, New York, NY","Yes","Yes",,"Cafe",,"EVCC","No info online - need to call
 ",,"Opened","https://www.lepetitparisienusa.com/",,"https://www.instagram.com/lepetitparisiennyc/",,,,,,,,,,true,
 "Le Sia",171,"2020-04-14T04:00:00.000Z","646-370-6423","Restaurants",40.728914,-73.989832,"11 E 7th St, New York, NY 10003","Yes","Yes","Sick of home cooking? This Shrimp and Snow Crab boil with 13 Chinese Spices should be your delivery order! 🤩Check us out on @ubereats @seamless and @grubhub!
@@ -1075,7 +1075,8 @@ THU: Closed
 ","Custom Perfume",,"EVCC","survey response
 ","fsny92@gmail.com","Opened","fragranceshopnewyork.com",,,,,true,"Yes",,,,,,,
 "Elliot Mann",360,"2020-07-04T04:00:00.000Z","212-260-9181","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","Yes",,"In-store 11:00 AM - 5:00 PM, online orders always!
-","Fashion","
+","Fashion","25% off with checkout code GONEFISHIN 
+
 ","EVCC","survey response
 ",,"Opened","https://elliotmann.com","11:00 AM","https://www.instagram.com/elliotmannnyc/","5:00 PM","https://elliotmann.com/collections/gift-cards",true,"Yes",,,,,,,
 "7B Horseshoe Bar (Vazacs)",361,"2020-06-04T04:00:00.000Z","212-677-6742","Restaurants",40.725013,-73.981392,"108 Avenue B, New York, NY 10009","Yes",,,"Bar",,"EVCC",,,"Opened",,"12:00 PM","https://www.instagram.com/7bhorseshoebar/","8:00 PM",,,,,,,,,,
@@ -1780,10 +1781,10 @@ Repairs by appointment only, call or email quickrepairavea@gmail.com
 
 ","Fashion","
 ","EVCC",,,"Opened","https://lorimclean.com/",,"http://instagram.com/lorimcleanjewelry",,,true,"Yes",,,,,,,
-"Ama Raw Bar",550,"2020-07-02T04:00:00.000Z","(212) 845-9896","Restaurants",40.72802,-73.97932,"190 Avenue B, New York, NY 10009","Yes","No","FRI - SUN, Outdoor seating available.
+"Ama Raw Bar",550,"2020-07-10T04:00:00.000Z","(212) 845-9896","Restaurants",40.72802,-73.97932,"190 Avenue B, New York, NY 10009","Yes",,"TUE - SUN, Outdoor seating available.
 
 ","Asian",,"EVCC","
-",,"Opened","https://www.amarawbar.com","2:00 PM","https://www.instagram.com/amarawbar/","8:00 PM","https://www.amarawbar.com",true,,,"Yes",,,,,
+",,"Opened","https://www.amarawbar.com","4:00 PM","https://www.instagram.com/amarawbar/","10:00 PM","https://www.amarawbar.com",true,,,"Yes",,,,,
 "Kanoyama",551,"2020-07-04T04:00:00.000Z","(212) 777-5266","Restaurants",40.730619,-73.986551,"175 2nd Ave, New York, NY 10003","Yes","Yes","MON: Closed	
 
 ","Japanese",,"EVCC","IG is being updated
@@ -2155,7 +2156,7 @@ SUN: 11:00 AM to 7:00 PM
 "Fox & Jane Salon",689,"2020-07-10T02:24:00.000Z","646-688-3643","Shops & Services",40.72831,-73.98272,"277 E. 10th Street New York, NY 10009","Yes",,,"Hair",,"EVCC",,,"Opened","www.foxandjanesalon.com","11:00 AM","https://www.instagram.com/foxandjane/","8:00 PM",,,,,,,,,,
 "Headdress Hair Salon",690,"2020-07-10T02:24:00.000Z","2​12-97​9-2199","Shops & Services",40.72873,-73.9867,"312 E. 9th Street New York, NY 10003","Yes",,,"Hair","20% off Hairstory
 ","EVCC",,,"Opened","www.headdresshairsalon.com","10:00 AM","https://www.instagram.com/headdress_hairsalon/","9:00 PM",,,,,,,,,,
-"Suki",691,"2020-07-10T02:43:00.000Z",,"Restaurants",40.72695,73.98616,"111 1st Avenue, New York, NY 10003","Yes","Yes","Your favorite Japanese curry in a new location
+"Suki",691,"2020-07-10T02:43:00.000Z",,"Restaurants",40.727134,-73.986081,"111 1st Avenue, New York, NY 10003","Yes","Yes","Your favorite Japanese curry in a new location
 ","Japanese",,"EVCC",,,"Opened",,"12:00 PM","https://www.instagram.com/sukicurry/","10:00 PM",,true,,,,,,,,
 "Jenna Perry Hair",692,"2020-07-10T02:24:00.000Z","646-719-1611","Shops & Services",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009","Yes",,"SAT: 10:00 AM  - 6:00 PM
 
@@ -2170,4 +2171,5 @@ SUN: 11:00 AM to 7:00 PM
 "Lifestyle Salon",696,"2020-07-10T02:24:00.000Z","212-228-5577","Shops & Services",40.73215,-73.98598,"243 E. 13th Street, New York, NY 10003","Yes",,"SUN & MON: Closed
 
 ","Hair",,"EVCC",,,"Opened","https://lifestylesalonnyc.com/","10:00 AM","https://www.instagram.com/lifestylesalonnyc/","7:00 PM",,,,,,,,,,
-,697,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+"Hanoi House",697,"2020-07-10T04:44:00.000Z",,"Restaurants",40.66615,-73.69189,"119 St. Mark's Place, New York, NY 10009 ","Yes","Yes",,"Vietnamese",,"EVCC",,,"Opened",,,"https://www.instagram.com/hanoi.house/",,,,,,"Yes",,,,,
+,698,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
