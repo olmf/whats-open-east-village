@@ -2278,9 +2278,11 @@ SUN: 10:00 AM - 5:00 PM
 "He Fashion Boutique",733,"2020-07-23T02:58:00.000Z","212-539-0200","Shops & Services",40.72948,-73.98474,"338 E. 11th Street, New York, NY 10003","Yes",,,"Fashion",,"EVCC",,,"Opened","www.hefashionboutique.com","12:00 PM","https://www.instagram.com/hefashionboutique/","6:00 PM",,,,,,,,,,
 "Still House",734,"2020-07-23T02:58:00.000Z","212-539-0200","Shops & Services",40.72906,-73.98669,"307 E. 9th Street, New York, NY 10003","Yes",,"SUN: 11:00 AM - 7:00 PM
 ","Fashion",,"EVCC",,,"Opened","www.stillhousenyc.com","12:00 PM","https://www.instagram.com/stillhousenyc/","8:00 PM",,,,,,,,,,
-"Verameat",735,"2020-07-23T02:58:00.000Z","212-388-9045","Shops & Services",,,"315 E. 9th Street, New York, NY 10003",,,,"Fashion",,"EVCC",,,"Unknown","www.verameat.com",,"https://www.instagram.com/p/CC4Nuz1AGDP/",,,,,,,,,,,
-"Selene Alterations",736,"2020-07-23T02:58:00.000Z","212-777-1908","Shops & Services",,,"271 E. 10th Street",,,,,,"EVCC",,,"Unknown","http://www.selenenyc.com/",,,,,,,,,,,,,
-"VideoGamesNewYork",738,"2020-07-23T02:58:00.000Z","212-539-1039","Shops & Services",,,"202 E. 6th Street",,,,,,"EVCC",,,"Unknown","www.videogamesnewyork.com/",,,,,,,,,,,,,
+"Verameat",735,"2020-07-23T02:58:00.000Z","212-388-9045","Shops & Services",40.72903,-73.98629,"315 E. 9th Street, New York, NY 10003","Yes",,,"Fashion",,"EVCC",,,"Opened","www.verameat.com","12:00 PM","https://www.instagram.com/p/CC4Nuz1AGDP/","8:00 PM",,,,,,,,,,
+"Selene Alterations",736,"2020-07-23T02:58:00.000Z","212-777-1908","Shops & Services",40.72841,-73.98295,"271 E. 10th Street, New York, NY 10009","Yes",,"SAT: 11:00 AM - 6:00 PM
+SUN: Closed
+",,,"EVCC",,,"Opened","http://www.selenenyc.com/","11:00 AM","https://www.instagram.com/selenebridalnyc/","7:30 PM",,,,,,,,,,
+"VideoGamesNewYork",738,"2020-07-23T02:58:00.000Z","212-539-1039","Shops & Services",40.728,-73.99048,"202 E. 6th Street, New York, NY 10003","Yes",,,,,"EVCC",,,"Opened","www.videogamesnewyork.com/","10:00 AM","https://www.instagram.com/videogamesnewyork/","8:00 PM",,,,,,,,,,
 ,739,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 ,740,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 ,741,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
