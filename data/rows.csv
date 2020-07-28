@@ -908,7 +908,7 @@ You can check the menu from my bio. 👆🏻👆🏻👆🏻 Contact to hello@so
 ","Laundromat",,"PG",,,"Opened",,"9:00 AM",,"5:00 PM",,,,,,,,,,
 "Sunrise Mart",288,"2020-06-24T04:00:00.000Z","212-598-3040","Groceries",40.72972,-73.989297,"4 Stuyvesant Street, New York, NY 10003","Yes","Yes",,"Specialty Market",,"EVCC","Confirmed via phone
 ",,"Opened","https://www.mercato.com/shop/sunrise-mart-soho?utm_medium=Social&utm_source=Facebook_Merchant&utm_campaign=SunriseMart","11:00 AM","https://www.instagram.com/sunrise_mart/","7:00 PM",,,,,,,,"None",,
-"Supper",289,"2020-06-03T04:00:00.000Z","212-477-7600","Restaurants",40.722962,-73.985208,"156 E. 2nd Street, New York, NY 10009","Yes","Yes","Outdoor seating available. MON-THU 4:00 PM -12:00 AM, FRI - SAT 11:00 AM - 12:00 AM
+"Supper",289,"2020-06-03T04:00:00.000Z","212-477-7600","Restaurants",40.722962,-73.985208,"156 E. 2nd Street, New York, NY 10009","Yes","Yes","
 ","Italian",,"EVCC",,,"Opened","https://www.supperrestaurant.com","4:00 PM","https://www.instagram.com/suppernyc/","12:00 AM","Yes","https://www.itson.me/gifts/new-york/merchants/2035-supper-restaurant#/",,,"If you want to get involved and donate a meal or want to request help at your hospital email us reservations@frankcares.com or call 212-420-0040 from 11-5pm and Carol will be happy to give you options.",,,,,
 "Sweet Generation",290,"2020-06-17T04:00:00.000Z","646-964-5777","Dessert",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","Yes","Yes","Open SAT - SUN til 6:00 PM or later.  Serving coffee and espresso as well. DELIVERIES MON-FRI ONLY: please visit us at sweetgeneration.org. As always, we have gift cards available that have no expiration.
 ","Bakery",,"EVCC",,,"Opened","www.sweetgeneration.org","9:00 AM","https://www.instagram.com/swtgeneration/","5:00 PM",,,,,,,,,,
@@ -1961,11 +1961,9 @@ SAT: 10 AM - 4 PM
   [1]: https://muzzarella.pizza
 ","EVCC","IG is being updated
 ",,"Opened","https://muzzarella.pizza","11:00 PM","https://www.instagram.com/muzzarellapizza/?hl=en","9:00 PM","No",,,,,,,,,
-"Superiority Burger",610,"2020-06-03T04:00:00.000Z","(212) 256-1192","Restaurants",40.72739,-73.98357,"430 E. 9th Street, New York, NY 10009","Yes",,"[ORDER starting MON for limited grab-bag pick-up 4 - 7 PM WED-FRI while supplies last!][1]
-
-  [1]: http://www.superiorityburger.com/ordernow
+"Superiority Burger",610,"2020-07-28T04:00:00.000Z","(212) 256-1192","Restaurants",40.72739,-73.98357,"430 E. 9th Street, New York, NY 10009","Yes","No","
 ","Sandwich,Vegan",,"EVCC","IG is being updated
-","info@superiorityburger.com","Opened","http://www.superiorityburger.com/ordernow","4:00 PM","https://www.instagram.com/superiorityburger/?hl=en","7:00 PM",,,,,,,,,,
+","info@superiorityburger.com","Opened","http://www.superiorityburger.com/ordernow","4:00 PM","https://www.instagram.com/superiorityburger/?hl=en","7:00 PM","No",,,,,,,,,
 "Lin's Laundromat",611,"2020-07-27T04:00:00.000Z","(212) 253-0763","Laundromat",40.72974,-73.98339,"194 1st Avenue, New York, NY 10009","Yes",,,"Laundromat",,"EVCC",,,"Opened",,,,,,,,true,,,,,,
 "Lucy's ",612,"2020-07-27T04:00:00.000Z","(212) 673-3824","Restaurants",40.72715,-73.98313,"135 Avenue A, New York, NY 10009","Yes",,"Serving drinks from a to-go table at the front door. [More info at EV Grieve][1] and recent [profile of Lucy][2].
 
@@ -1974,7 +1972,9 @@ SAT: 10 AM - 4 PM
 ","Bar",,"EVCC",,,"Opened",,"7:00 PM",,"4:00 AM",,,,true,,,,,,
 "Best Price ",613,"2020-07-27T04:00:00.000Z","(212) 979-1588","Groceries",40.72371,-73.98814,"197 1st Avenue, New York, NY 10009","Yes",,"OPEN 24 HOURS
 ","Deli ",,"EVCC",,,"Opened","https://best-price-deli-and-grocery.business.site/?utm_source=gmb&utm_medium=referral","12:00 AM",,"12:00 PM",,,,,,,,,,
-"Soothr",614,"2020-06-03T04:00:00.000Z","212-844-9789","Restaurants",40.73225,-73.98738,"204 E. 13th Street, New York, NY 10003","Yes",,,"Thai",,"EVCC",,,"Opened","soothrnyc.com",,"https://www.instagram.com/soothr_nyc/",,,,,true,,,,,,
+"Soothr",614,"2020-07-28T04:00:00.000Z","212-844-9789","Restaurants",40.73225,-73.98738,"204 E. 13th Street, New York, NY 10003","Yes","Yes","
+","Thai",,"EVCC","IG is being updated
+",,"Opened","https://www.soothrnyc.com/","12:00 PM","https://www.instagram.com/soothr_nyc/","10:00 PM","Yes",,,true,,,,,,
 "Good Night Sonny",615,"2020-07-27T04:00:00.000Z","(646) 692-3254","Restaurants",40.72757,-73.98526,"134 1ST AVENUE, New York, NY 10009","Yes",,"MONDAY CLOSED
 SAT - SUN: 1 PM - 10 PM
 ","Bar",,"EVCC",,,"Opened","https://www.goodnightsonnynyc.com","4:00 PM","https://www.instagram.com/goodnightsonnynyc/","10:00 PM",,,,,,,,,,
