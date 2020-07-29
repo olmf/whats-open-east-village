@@ -9,7 +9,9 @@
 
     $: {
         if($rows.length){
-            newestMapUpdates =  $rows.sort((a, b) => new Date(a['Last Updated']) < new Date(b['Last Updated'])).slice(0, 4)
+            newestMapUpdates =  $rows.sort((a, b) => {
+                return new Date(a['Last Updated']) <= new Date(b['Last Updated']) ? 1 : -1
+            }).slice(0, 4)
         }
     }
 
