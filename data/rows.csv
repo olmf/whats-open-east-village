@@ -335,10 +335,9 @@ Employee reports they have had masks consistently in stock and gloves often in s
 ",,"Opened","www.eastvillagewines.com","12:00 PM",,"See notes",,,,,,,,,,
 "Eastpoint",95,"2020-06-14T04:00:00.000Z","(646) 882-0593","Restaurants",40.722242,-73.983019,"25 Avenue B, New York, NY 10009","No","No",,"Mexican",,"EVCC","IG is sporadic, EVCC research
 ",,"Closed","https://eastpointnyc.com/",,"https://www.instagram.com/eastpointnyc/",,,,,,,,,,,
-"El Rinconcito",96,"2020-07-28T04:00:00.000Z","212-254-1381","Restaurants",40.725549,-73.977059,"408 E. 10th Street, New York, NY 10009","Yes","Yes","MON - FRI only
+"El Rinconcito",96,"2020-07-28T04:00:00.000Z","212-254-1381","Restaurants",40.725549,-73.977059,"408 E. 10th Street, New York, NY 10009","Yes","Yes","
 ","Dominican","
-","EVCC","IG is being updated confirmed hours by phone 
-salvatore double check Mon-Fri only? 
+","EVCC","IG is being updated 
 ",,"Opened",,"9:00 AM","https://www.instagram.com/elrinconles/","8:30 PM",,,,true,,,,,,
 "Eliza's Local",97,"2020-06-25T04:00:00.000Z","(212) 203-9931","Restaurants",40.729336,-73.989747,"2 St. Mark's Pl, New York, NY,10003","Yes",,"THURS, 2:30PM - 4PM
 FRI, SAT, 11AM - 4AM
@@ -549,9 +548,10 @@ SUN: 12:30 PM - 9:30 PM
 ",,"Opened",,"12:00 PM",,"10:00 PM",,,,true,,,,,,
 "Kotobuki",163,"2020-06-17T04:00:00.000Z","212-353-5088","Restaurants",40.73112,-73.989161,"56 3rd Avenue, New York, NY 10003","Yes","Yes","Tue - Sun
 ","Japanese",,"EVCC",,,"Opened","http://www.kotobukirestaurants.com","4:30 PM","https://www.instagram.com/dinekotobuki/?hl=en","9:00 PM",,,,true,,,,,,
-"La Palapa",164,"2020-08-03T04:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Marks Place, New York, NY 10003","Yes","Yes","FRI -SAT -  5pm-12am, Sun-Th 5pm-11pm
-","Mexican",,"EVCC","confirmed by phone call 
-",,"Opened","https://www.lapalapa.com","12:00 PM","https://www.instagram.com/la_palapa/","5:00 PM","Yes",,,true,"[Fundraiser for hospital meals!](https://www.gofundme.com/f/la-palapa-meals-for-hospitals)",,,,,
+"La Palapa",164,"2020-08-03T04:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Marks Place, New York, NY 10003","Yes","Yes","FRI & SAT: 5:00 PM - midnight
+
+","Mexican",,"EVCC","
+",,"Opened","https://www.lapalapa.com","12:00 PM","https://www.instagram.com/la_palapa/","11:00 PM","Yes",,,true,"[Fundraiser for hospital meals!](https://www.gofundme.com/f/la-palapa-meals-for-hospitals)",,,,,
 "Ladybird",165,"2020-08-03T04:00:00.000Z","917-261-5524","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY ,10009","Yes","Yes","SAT: 2:00 PM - 11:00 PM
 SUN: 2:00 PM - 11:00 PM
 MON - TUE: Closed
@@ -695,13 +695,12 @@ Free shipping in NY, NJ, CT.
 ","Pizza",,"EVCC","EV location is PERMANENTLY CLOSED
 
 ",,"Closed","https://nolitapizzanyc.com","12:00 PM","https://www.instagram.com/nolitapizzanyc/","8:00 PM",,,,,,"https://evgrieve.com/2020/06/nolita-pizza-leaves-2nd-avenue.html",,,,
-"Numero 28",212,"2020-08-03T04:00:00.000Z","212-777-1555","Restaurants",40.730414,-73.985964,"176 2nd Avenue, New York, NY 10003","Yes","Yes","FRI - SAT - 12:00 PM - 12:00 AM 
+"Numero 28",212,"2020-08-03T04:00:00.000Z","212-777-1555","Restaurants",40.730414,-73.985964,"176 2nd Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: noon  - midnight 
 ","Pizza","USE CODE “N28ONLINE” 20% OFF ON ANY ONLINE ORDER
 ","EVCC","confirmed by phone call 
 ",,"Opened","https://www.numero28.com/menu-and-locations/east-village-new-york/","12:00 PM","https://www.instagram.com/numero28/","11:00 PM","Yes",,,," ",,,,,
 "NY Institute of Aromatic Studies",213,"2020-03-31T04:00:00.000Z","917-310-7845","Health",40.728969,-73.979534,"530 E. 13th Street, New York, NY",,,,"Natural & Alternative",,"PL",,"INFO@AROMATICSTUDIES.COM","Unknown","aromaticstudies.com",,"https://www.instagram.com/aromaticstudies/",,,,,true,,,,,,
-"NYC Deli Market Corp #1",214,"2020-07-29T04:00:00.000Z","(646) 767-9134","Groceries",40.724294,-73.975929,"129 Avenue D, New York, NY 10009","Yes",,,"Deli ",,"EVCC","Laura check phone, hours
-salvatore call back tomorrow
+"NYC Deli Market Corp #1",214,"2020-07-29T04:00:00.000Z","(646) 767-9134","Groceries",40.724294,-73.975929,"129 Avenue D, New York, NY 10009","Yes",,,"Deli ",,"EVCC","
 ",,"Opened",,,,"8:00 PM",,,,,,,,,,
 "NYC Pharmacy",215,"2020-07-29T04:00:00.000Z","212-253-8686","Health",40.730207,-73.983044,"206 1st Avenue, New York City, 10009","Yes",,"SAT: 11:00 AM - 7:00 PM
 SUN: Closed 
@@ -747,8 +746,9 @@ Email physicalgraffitea@gmail.com
   [1]: https://physicalgraffitea.com
 ","Tea Shop",,"EVCC","IG is being updated
 ","physicalgraffitea@gmail.com","Opened","https://physicalgraffitea.com","12:00 PM","https://www.instagram.com/physicalgraffitea/?hl=en","7:00 PM",,,"Yes",true,,,,,,
-"Pink's",231,"2020-04-09T04:00:00.000Z",,"Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY","No","No","Only LES location is open 
-","Bar",,"EVCC",,,"Closed","http://pinks.nyc",,"https://www.instagram.com/pinksnyc/",,,,,,,"http://pinks.nyc/#new-page-1",,,,
+"Pink's",231,"2020-08-03T04:00:00.000Z",,"Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY","No","No","Only LES location is open 
+","Bar",,"EVCC","salvatore call for hours
+",,"Closed","http://pinks.nyc",,"https://www.instagram.com/pinksnyc/",,,,,,,"http://pinks.nyc/#new-page-1",,,,
 "Plado Tasting Bar",232,"2020-03-31T04:00:00.000Z","646-850-5151","Restaurants",40.72228,-73.98393,"192 E 2nd St, New York, NY 10009","Yes",,"Call to order 646-850-5151. [Menu ][1]on website. Offering beer and wine specials as well.
 
   [1]: https://www.pladonyc.com/taste
@@ -759,8 +759,8 @@ Email physicalgraffitea@gmail.com
 ",,"https://www.instagram.com/poconyc/",,,,"No",,"Tune in every Thursday @ 6pm & watch @_andypnyc_ whip up cocktails & raise money for the poco team! What cocktail do you wanna see next ?! Cash app - $poconyc ***","https://www.instagram.com/p/B9-Ap9Dnep3/",,,,
 "Poke N Roll",234,"2020-06-14T04:00:00.000Z","212-420-7653","Restaurants",40.727542,-73.983013,"441 E 9th St","Yes","No",,"Japanese",,"EVCC","Call for hours
 ",,"Opened","https://www.pokeandrollnyc.com",,"https://www.instagram.com/pokeandrollnyc/",,,,,true,,,,,,
-"Porsena",235,"2020-08-01T04:00:00.000Z","(212) 228-4923","Restaurants",40.728709,-73.989417,"21 E 7th St, New York, NY 10003","No","No","Closed permanently as of 8/1/20
-","Italian",,"EVCC",,,"Closed",,,"https://www.instagram.com/porsenanyc/",,,,,,"https://www.gofundme.com/f/porsena-staff-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
+"Porsena",235,"2020-08-01T04:00:00.000Z","(212) 228-4923","Restaurants",40.728709,-73.989417,"21 E 7th St, New York, NY 10003","No","No","PERMANENTLY CLOSED
+","Italian",,"EVCC",,,"Closed",,,"https://www.instagram.com/porsenanyc/",,,,,,"https://www.gofundme.com/f/porsena-staff-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1","https://evgrieve.com/2020/08/porsena-has-closed-for-good-on-7th.html",,,,
 "Porto Rico Imported",236,"2020-06-22T04:00:00.000Z","212-533-1982","Groceries",40.72832284,-73.98735119,"40 St. Mark's Place. New York, NY,10003","Yes",,"SAT: 10 am - 5pm
 [Coffee to go: buy 5, get one free!][1]
 
@@ -1043,7 +1043,7 @@ FRI -SAT: noon - 4:00 AM
 ",,"Opened","http://villagesquarepizzanyc.com","12:00 PM","https://www.instagram.com/villagesquarepizza/","12:00 PM","Yes",,,,"https://www.gofundme.com/f/village-square-pizza-x-support-nyc-hospitals?sharetype=teams&member=4145602&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=51acedbe934c4332b95715f73f531280",,,,,
 "Village Veterinarian",339,"2020-04-04T04:00:00.000Z","212-979-9870","Shops & Services",40.729777,-73.985434,"318 E. 11th Street, New York, NY 10003",,,,"Veterinary Services",,"PL","No info online - need to call
 ",,"Unknown","http://www.villageveterinarian.com",,,,,,,,,,,,,
-"Wafels & Dinges",340,"2020-08-03T04:00:00.000Z","(212) 510-7114","Dessert",40.721826,-73.983281,"15 Avenue B, New York, NY 10009","Yes","Yes","FRI & SAT: 8 AM till midnight
+"Wafels & Dinges",340,"2020-08-03T04:00:00.000Z","(212) 510-7114","Dessert",40.721826,-73.983281,"15 Avenue B, New York, NY 10009","Yes","Yes","FRI & SAT: 8:00 AM - midnight
 ","Ice Cream","
 ","EVCC","hours on website
 ",,"Opened","https://www.shopdinges.com/","8:00 AM","https://www.instagram.com/wafelsanddinges/","10:00 PM",,"https://www.shopdinges.com/gift-cards","Yes",,,,,,,
@@ -1963,6 +1963,7 @@ SAT: 10 AM - 4 PM
 ","Bar",,"PG",,,"Closed","https://www.facebook.com/William-Barnacle-Tavern-323687330991867/",,"https://www.instagram.com/william_barnacle_tavern/?hl=en",,,,,,,,,,,
 "Emmy Squared",598,"2020-08-03T04:00:00.000Z","(917) 463-3737","Restaurants",40.725993,-73.986807,"83 1st Avenue, New York, NY 10003","Yes","Yes","
 ","Pizza",,"EVCC","IG is being updated
+salvatore check hours
 ",,"Opened","https://www.emmysquaredpizza.com/location/east-village-new-york/","4:00 PM","https://www.instagram.com/emmysquaredpizza/?hl=en","9:00 PM","Yes",,,,,,,,,
 "Swift Hibernian Lounge",599,"2020-08-03T04:00:00.000Z","(212) 260-3600","Restaurants",40.727263,-73.992329,"34 E 4th St, New York, NY 10003","Yes",,"
 ","Bar",,"EVCC","IG is being updated
@@ -1970,17 +1971,16 @@ SAT: 10 AM - 4 PM
 "McSorley's Old Ale House",600,"2020-08-03T04:00:00.000Z","(212) 473-9148","Restaurants",40.72876,-73.989695,"15 East 7th Street, New York NY 10003","Yes",,"
 ","Bar",,"EVCC","
 ",,"Opened","https://mcsorleysoldalehouse.nyc","2:00 PM","https://www.instagram.com/mcsorleysales/?hl=en","10:00 PM","Yes",,,,,,,,,
-"Tacos Cholula",601,"2020-08-03T04:00:00.000Z","(347) 772-5216","Restaurants",40.723161,-73.985882,"142 E 2nd St, New York, NY 10009","Yes",,"Delivery and Takeout
-No curbside pickup
+"Tacos Cholula",601,"2020-08-03T04:00:00.000Z","(347) 772-5216","Restaurants",40.723161,-73.985882,"142 E 2nd St, New York, NY 10009","Yes",,"Popular food cart
 ","Mexican",,"EVCC",,,"Opened",,"11:00 AM ",,"10:30 PM",,,,,,,,,,
 "Karma Book Store",602,"2020-07-29T04:00:00.000Z","212-390-9297","Retail",40.72381,-73.98591,"136 E. 3rd Street, New York, NY 10009","Yes",,"By appt ONLY, online orders always! 
 ","Books",,"EVCC","
 ",,"Opened","https://bookstore.karmakarma.org/#grid","11:00 AM","https://www.instagram.com/karmabookstore/?hl=en","7:00 PM",,,"Yes",,,,,,,
-"Bali Kitchen",603,"2020-07-29T04:00:00.000Z","(646) 678-4784","Restaurants",40.725368,-73.987585,"128 E 4th St, New York, NY 10003","Yes","Yes","Closing after dinner service AUG 1	
-","Indonesian",,"EVCC","PERMANENTLY CLOSING after dinner service AUG 1
-",,"Opened","http://balikitchennyc.com","11:00 AM",,"7:00 PM",,,,true,,"https://evgrieve.com/2020/07/bali-kitchen-closes-on-aug-1-covid-19.html",,,,
-"Avenue D Pizza",604,"2020-07-29T04:00:00.000Z","(646) 850-3674","Restaurants",40.7205688,-73.9784829,"15 Avenue D, New York, NY 10009","Yes",,,"Pizza",,"EVCC","salvatore call back they were busy 
-",,"Opened",,,,"8:00 PM",,,,,,,,,,
+"Bali Kitchen",603,"2020-08-03T04:00:00.000Z","(646) 678-4784","Restaurants",40.725368,-73.987585,"128 E 4th St, New York, NY 10003","Yes","Yes","SAT & SUN ONLY! through August
+","Indonesian",,"EVCC","PERMANENTLY CLOSING AUG 31
+",,"Opened","http://balikitchennyc.com","11:00 AM","https://www.instagram.com/balikitchen/?hl=en","7:00 PM",,,,true,,"https://evgrieve.com/2020/08/bali-kitchen-officially-closing-today.html",,,,
+"Avenue D Pizza",604,"2020-07-29T04:00:00.000Z","(646) 850-3674","Restaurants",40.7205688,-73.9784829,"15 Avenue D, New York, NY 10009","Yes",,,"Pizza",,"EVCC","
+",,"Opened",,"6:00 AM",,"8:00 PM",,,,,,,,,,
 "International Bar",605,"2020-07-29T04:00:00.000Z","(212) 777-1643","Restaurants",40.7264195,-73.9858007,"102 1st Avenue, New York, NY 10009","Yes",,,"Bar",,"EVCC","time is on IG
 ",,"Opened","http://internationalbarnyc.com","12:00 PM","https://www.instagram.com/internationalbarnyc/","8:00 PM","Yes",,,,,,,,,
 "Hearth",606,"2020-07-27T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes","Yes","FRI & SAT: til 9:30 PM
@@ -1992,7 +1992,7 @@ SUN: Closed
 ","Photo",,"EVCC","confirmed time by phone call 
 ",,"Opened","http://www.lusterphoto.com/","10:00 AM ","https://instagram.com/lusterphotolab","7:00 PM",,,"Yes",true,,,,,,
 "San Loco",608,"2020-07-29T04:00:00.000Z","212-260-7948","Restaurants",40.72437,-73.97893,"111 Avenue C, New York, NY 10009","Yes","Yes","
-","Mexican",,"EVCC","salvatore call back later for hours
+","Mexican",,"EVCC","salvatore call back later for hours 
 IG is being updated
 ",,"Opened","https://www.sanloco.com/","3:00 PM","https://www.instagram.com/sanloconyc/?hl=en","10:00 PM","Yes",,,,,,,,,
 "Muzzarella Pizza",609,"2020-07-27T04:00:00.000Z","(212) 614-0905","Restaurants",40.730234,-73.980706,"221 Avenue A, New York, NY 10009","Yes","Yes",,"Pizza","Use code [SAVE20][1] for 20% off!	
