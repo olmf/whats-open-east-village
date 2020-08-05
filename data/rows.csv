@@ -77,8 +77,7 @@ CLOSED SUN,MON,THURS,FRI
 ","Dental",,"EVCC","Dentist - ADA recommends dentists keep their offices closed to all but urgent and emergency procedures until April 30 at the earliest
 ",,"Opened",,"11:00 AM",,"7:00 PM",,,,,,"Dentist - ADA recommends dentists keep their offices closed to all but urgent and emergency procedures until April 30 at the earliest",,,,
 "Artichoke",22,"2020-08-05T04:00:00.000Z","(212) 228-2004","Restaurants",40.73209569,-73.98390824,"321 E 14th St, New York, NY 10003","Yes","Yes","Pickup is available directly through our website. 		
-","Pizza",,"EVCC","Website is being updated, IG is for all shops (omit)
-salvatore call 
+","Pizza",,"EVCC","Website is being updated, IG is for all shops (omit)confirmed hours by phone call
 ",,"Opened","https://www.artichokepizza.com","11:00 AM",,"11:00 PM",,,,,,,,,,
 "Atlas Cafe",23,"2020-06-25T04:00:00.000Z","212-539-0966","Restaurants",40.72651,-73.989528,"73 2nd Avenue, New York, NY,10003","Yes",,"Delivery,Takeout hrs: 10AM-10:45PM
 ","Cafe",,"EVCC","No info online - need to call
@@ -164,7 +163,7 @@ SUN: 11AM - 10PM
 "Brix NYC",46,"2020-06-27T04:00:00.000Z","212-777-0691","Shops & Services",40.72729664,-73.97977582,"170 Avenue B, New York, NY 10009","Yes","Yes","Free Delivery when possible, please call 	
 ","Wine",,"EVCC","Website is being updated
 ","info@brixwines.com","Opened","www.barnyardcheese.com/visit-brix-wines","12:00 PM","https://www.instagram.com/brixwineshopnyc/?hl=en","8:00 PM",,,"Yes",true,,,,,,
-"Brodo",47,"2020-07-04T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300543,-73.9832243,"200 1st Avenue, New York, NY 10009","Yes","Yes","East Village: 11 AM - 6 PM, closed Sunday.
+"Brodo",47,"2020-08-05T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300543,-73.9832243,"200 1st Avenue, New York, NY 10009","Yes","Yes","East Village: 11 AM - 6 PM, closed Sunday.
 
 To order please visit order.brodo.com. We can't thank you enough for your support.
 ","Broth",,"EVCC","IG is being updated
@@ -1614,11 +1613,12 @@ TUE: Closed
 "Root & Bone",484,"2020-07-04T04:00:00.000Z","646-682-7080","Restaurants",40.722667,-73.983324,"200 E. 3rd Street,  New York, NY 10009","Yes","Yes","SAT - SUN: 12PM - 5PM
 MON - TUE: Closed
 ","American",,"EVCC",,,"Opened","https://rootnbone.com","5:00 PM","https://www.instagram.com/rootnbonenyc/","9:00 PM","Yes","https://rootnbone.com/product/gift-card/",,,"https://www.gofundme.com/f/root-amp-bone-nyc-emergency-relief?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,
-"Buenos Aires",485,"2020-07-02T04:00:00.000Z","212-228-2775","Restaurants",40.725219,-73.983116,"513 E. 6th Street,  New York, NY 10009","Yes","Yes","Full butcher shop in addition to prepared food! Outdoor seating available.
+"Buenos Aires",485,"2020-08-05T04:00:00.000Z","212-228-2775","Restaurants",40.725219,-73.983116,"513 E. 6th Street,  New York, NY 10009","Yes","Yes","Full butcher shop in addition to prepared food! Outdoor seating available.
 ","Argentinian","[check out this deal!][1]
 
   [1]: https://www.instagram.com/p/CAPLKmkDVeT/
-","EVCC",,,"Opened","https://www.buenosairesnyc.com","12:00 PM","https://www.instagram.com/buenosairesnyc/?hl=en","9:00 PM","Yes",,"Yes",,,,,,,
+","EVCC","salvatore call back no answer
+",,"Opened","https://www.buenosairesnyc.com","12:00 PM","https://www.instagram.com/buenosairesnyc/?hl=en","9:00 PM","Yes",,"Yes",,,,,,,
 "14th Street Produce Vendor",486,"2020-08-04T04:00:00.000Z",,"Groceries",40.731625,-73.982592,"14th St and 1st Ave - NW, New York, NY 10009","Yes",,"[via Town & Village article][1]. Possibly open 24hrs. If not, then very late.
 
   [1]: https://town-village.com/2020/04/22/popular-fruit-cart-reopens-as-council-members-call-for-covid-relief/
@@ -1680,10 +1680,12 @@ reservations only for now
 ",,"Opened","www.bikefixnyc.com",,"https://www.instagram.com/bikefix.nyc/?hl=en",,,,,,,,,,,
 "Busy Bee Bikes",500,"2020-06-22T04:00:00.000Z","212-228-2347","Shops & Services",40.72594,-73.984491,"437 E 6th St, New York, NY 10009",,,,"Bicycles",,"EVCC","need to call
 ",,"Unknown",,"11:00 AM",,"7:30 PM",,,,,,,,,,
-"CC Cyclery and Company",501,"2020-06-09T04:00:00.000Z","646-602-6944","Shops & Services",40.728965,-73.979575,"530 E 13th St, New York, NY 10009","Yes",,"[By appointment for essential work ONLY. Call/leave msg I will attempt to call back. If I do not within 24 hours I am sorry & you should make other arrangements. I am the only one who's available from my staff.][1]
+"CC Cyclery and Company",501,"2020-08-05T04:00:00.000Z","646-602-6944","Shops & Services",40.728965,-73.979575,"530 E 13th St, New York, NY 10009","Yes",,"[By appointment for essential work ONLY. Call/leave msg I will attempt to call back. If I do not within 24 hours I am sorry & you should make other arrangements. I am the only one who's available from my staff.][1]
 
   [1]: https://www.instagram.com/p/B9zuM1eF5Ei/
-","Bicycles",,"EVCC",,"cccyclerynyc@gmail.com","Opened","www.continuumcycles.com",,"https://www.instagram.com/cccyclery/?hl=en",,,,,,,,,,,
+","Bicycles",,"EVCC","confirmed by phone call
+
+","cccyclerynyc@gmail.com","Opened","www.continuumcycles.com","1:00 PM","https://www.instagram.com/cccyclery/?hl=en","6:00 PM",,,,,,,,,,
 "Wing Bike Showroom",502,"2020-06-11T04:00:00.000Z",,"Shops & Services",40.730453,-73.983973,"345 E 12th St, New York, NY 10003","Yes",,"Test drives by appointment only.
 ","Bicycles","TAKE200RACK for $200 off any bike AND a free front or rear rack. \*Reply to your order confirmation with your preference.
 ","EVCC","IG is being updated, store hours BY APPT ONLY
@@ -1870,10 +1872,12 @@ MON: Closed
 "16 Handles",562,"2020-08-04T04:00:00.000Z","212-260-4414","Dessert",40.72961,-73.98719,"153 2nd Avenue, New York, NY 10003","Yes","Yes",,"Ice Cream",,"EVCC","IG is being updated
 confirmed by phone call
 ",,"Opened","https://order.16handles.com/location/East-Village","12:00 PM","https://www.instagram.com/16handles/?hl=en","10:00 PM",,,,,,,,,,
-"Calexico",563,"2020-07-29T04:00:00.000Z","(646) 590-1466","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY, 10003","Yes","Yes","
-","Mexican",,"EVCC","salvatore call to double-check hours
+"Calexico",563,"2020-08-05T04:00:00.000Z","(646) 590-1466","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY, 10003","Yes","Yes","
+","Mexican",,"EVCC","confirmed by phone call 
+
 ","eastvillage@calexico.com","Opened","https://www.calexico.com","12:00 PM","https://www.instagram.com/calexiconyc/?hl=en","9:00 PM","Yes",,,,,,,,,
-"Brick Lane Curry House",564,"2020-07-29T04:00:00.000Z","212-979-2900","Restaurants",40.72662,-73.98939,"79 2nd Avenue, New York, NY 10003","Yes","Yes",,"Indian",,"EVCC","salvatore call to double-check hours
+"Brick Lane Curry House",564,"2020-08-05T04:00:00.000Z","212-979-2900","Restaurants",40.72662,-73.98939,"79 2nd Avenue, New York, NY 10003","Yes","Yes",,"Indian",,"EVCC","salvatore call to double-check hours
+called and phone was staticy
 ",,"Opened","http://www.bricklanecurryhouse.com/downtown/","12:00 PM","https://www.instagram.com/bricklanecurry/?hl=en","1:00 AM","Yes",,,,,,,,,
 "Double Zero",565,"2020-07-27T04:00:00.000Z",,"Restaurants",40.72611,-73.98955,"65 2nd Avenue, New York, NY 10003","Yes","Yes","Outdoor Dining Hours:
 MON-WEDS:  noon –10 PM
@@ -1895,7 +1899,7 @@ MON-WED:  2 PM -10 PM, + 1-10PM THURS-SUN.
 "Sushi by M",570,"2020-07-04T04:00:00.000Z","(347) 688-8101","Restaurants",40.726689,-73.990235,"75 E 4th St, New York, NY 10003","Yes","Yes",,"Japanese","Sushi by m wanna offer 20.20% off to all healthcare workers this year after we reopen (include take out )
 ","EVCC","PLS CALL for hours
 ",,"Opened","https://direct.chownow.com/order/21784/locations/31570",,"https://www.instagram.com/sushi_by_m/?hl=en",,,,,true,,,,,,
-"Black & White Bar",571,"2020-06-09T04:00:00.000Z","(212) 253-0246","Restaurants",40.730855,-73.989873,"86 E 10th St, New York, NY 10003","Yes",,,"Bar",,"PG","salvatore call for hours
+"Black & White Bar",571,"2020-08-05T04:00:00.000Z","(212) 253-0246","Restaurants",40.730855,-73.989873,"86 E 10th St, New York, NY 10003","Yes",,,"Bar",,"PG","salvatore call for hours
 ",,"Opened",,,,,,,,,,,,,,
 "Augurs Well Bar",572,"2020-08-05T04:00:00.000Z",,"Restaurants",40.727033,-73.983684,"115 St Marks Pl, New York, NY 10009","Yes",,"Free delivery, $50 minimum. [DM][1] for menu and details.
 
