@@ -559,7 +559,7 @@ SUN: 12:30 PM - 9:30 PM
 ","Korean",,"EVCC","No info online - need to call
 ",,"Opened",,"12:00 PM",,"10:00 PM",,,,true,,,,,,
 "Kotobuki",163,"2020-06-17T04:00:00.000Z","212-353-5088","Restaurants",40.73112,-73.989161,"56 3rd Avenue, New York, NY 10003","Yes","Yes","Tue - Sun
-","Japanese",,"EVCC",,,"Opened","http://www.kotobukirestaurants.com","4:30 PM","https://www.instagram.com/dinekotobuki/?hl=en","9:00 PM",,,,true,,,,,,
+","Japanese",,"EVCC",,,"Opened","http://www.kotobukirestaurants.com","4:30 PM","https://www.instagram.com/dinekotobuki/?hl=en","9:00 PM","Yes",,,true,,,,,,
 "La Palapa",164,"2020-08-03T04:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Marks Place, New York, NY 10003","Yes","Yes","FRI & SAT: noon - midnight
 
 ","Mexican",,"EVCC","
@@ -2446,8 +2446,9 @@ WED: Closed
 "New York Public Library Tompkins Square ",764,"2020-08-05T17:01:00.000Z",,"Community Services",,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "New York Public Library Ottendorfer",765,"2020-08-05T17:01:00.000Z",,"Community Services",,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "The Chippery",766,"2020-08-05T17:04:00.000Z",,"Restaurants",40.72604,-73.98668,"85 1st Avenue, New York, NY, 10003","Yes","Yes","SUN: 11:00 AM - 10:00 PM
-",,,"EVCC",,,"Opened","https://www.the-chippery.com/","11:00 AM","https://www.instagram.com/p/CDZtSy0pxdA/","2:00 PM",,,,,,,,,,
-"Phoenix",767,"2020-08-05T17:09:00.000Z","212) 477-9979","Restaurants",40.72994,-73.98108,"447 E 13th St, New York, NY 10009","Yes",,,"Bar",,"EVCC",,,"Opened","https://www.phoenixbarnyc.com/","3:00 PM","https://www.instagram.com/phoenixbarnyc/","4:00 AM",,,,,,,,,,
+",,,"EVCC",,,"Opened","https://www.the-chippery.com/","11:00 AM","https://www.instagram.com/thechippery/","2:00 AM",,,,,,,,,,
+"Phoenix",767,"2020-08-05T17:09:00.000Z","212) 477-9979","Restaurants",40.72994,-73.98108,"447 E 13th St, New York, NY 10009","Yes",,,"Bar",,"EVCC","Laura  talk to Stephanie re hrs
+",,"Opened","https://www.phoenixbarnyc.com/","3:00 PM","https://www.instagram.com/phoenixbarnyc/",,,,,,,,,,,
 "All Service Locksmith",768,"2020-08-05T17:10:00.000Z","(212) 319-7575","Shops & Services",,,"241 E. 10th Street, New York, NY 10003",,,,"Locksmith",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Vivi Bubble Tea",769,"2020-08-05T17:12:00.000Z","(212) 777-3698","Restaurants",40.73058,-73.9896,"30 3rd Ave, New York, NY 10003","Yes",,,"Bubble Tea",,"EVCC",,,"Opened","https://vivibubbletea.com/","12:00 PM","https://www.instagram.com/vivibubbletea/?hl=en","5:30 PM",,,,,,,,,,
 "Mast Books",770,"2020-08-05T17:18:00.000Z","(646) 370-1114","Retail",,,,,,,"Books",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
@@ -2456,3 +2457,5 @@ WED: Closed
 "Shake & Tail",773,"2020-08-05T17:28:00.000Z",,"Shops & Services",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Manhattan45",774,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 "Pinky's Space",775,"2020-08-07T16:14:00.000Z",,"Restaurants",,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
+"Fun City Tattoo",776,"2020-08-07T18:22:00.000Z",,"Shops & Services",,,,,,,"Tattoo",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
+"Auriga Cafe",777,"2020-08-07T18:39:00.000Z",,"Restaurants",,,,,,,"American",,"EVCC",,,"Unknown",,,"https://www.instagram.com/auriga_cafe/",,"Yes",,,,,,,,,
