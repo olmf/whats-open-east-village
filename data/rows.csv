@@ -720,9 +720,9 @@ Free shipping in NY, NJ, CT.
 SUN: Closed 
 ","Pharmacy",,"EVCC","website is being updated 
 ",,"Opened","www.nycprx.com","11:00 AM",,"9:00 PM",,,,,,,,,,
-"OCD Chocolate Shop",216,"2020-07-04T04:00:00.000Z","212-777-6363","Dessert",40.726953,-73.990677,"63 E. 4th Street, New York, NY,10003",,,"	
+"OCD Chocolate Shop",216,"2020-07-04T04:00:00.000Z","212-777-6363","Dessert",40.726953,-73.990677,"63 E. 4th Street, New York, NY,10003","Yes",,"Open for pickup and shipping, usually after 2:00 PM
 ","Candy & Chocolate",,"EVCC","IG is being updated
-",,"Opened","ocdchocolate.com",,"https://www.instagram.com/ocdchocolate/",,,,"Yes",,,,,,,
+",,"Opened","ocdchocolate.com","2:00 PM","https://www.instagram.com/ocdchocolate/",,,,"Yes",,,,,,,
 "OddFellows",218,"2020-07-04T04:00:00.000Z","917-475-1812","Dessert",40.726747,-73.990214,"75 E. 4th Street, New York, NY,10003","No","No","East Village location is Temporarily Closed
 ","Ice Cream",,"EVCC",,"info@oddfellowsnyc.com","Closed","www.oddfellowsnyc.com",,"https://www.instagram.com/oddfellowsnyc/",,,"https://squareup.com/gift/E2M8102E51XCS/order","No",,"https://venmo.com/oddfellowsnyc","https://www.instagram.com/p/CBY8rkopTCx/",,,,
 "Odessa",219,"2020-07-04T04:00:00.000Z","212-253-1482","Restaurants",40.726503,-73.983567,"119 Avenue A, New York, NY 10009","No","No","Closed for renovations
@@ -1335,7 +1335,7 @@ Real-time line length updates being provided by [these kind neighbors on twitter
 "Aum Shanti Bookshop",416,"2020-07-02T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"online orders / curbside pickup: order ahead!
 ","Gifts & Home,Books",,"EVCC","IG is being updated
 ",,"Opened","www.aumshantibookshop.com","11:00 AM ","https://www.instagram.com/aumshantinyc/","8:00 PM",,,"Yes",,,,,,,
-"La Sirena Mexican Folkart",417,"2020-08-07T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"MON & FRI only, online always!
+"La Sirena Mexican Folkart",417,"2020-08-07T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"MON, THU & FRI only, online always!
 Hand-embroidered masks from Mexico!
 ","Gifts & Home","Mention ""FIESTA"" sale for 30% off! 
 50% off orders over $500!!
@@ -2021,7 +2021,7 @@ confirmed by phone call
 ",,"Opened","https://mcsorleysoldalehouse.nyc","2:00 PM","https://www.instagram.com/mcsorleysales/?hl=en","10:00 PM","Yes",,,,,,,,,
 "Tacos Cholula",601,"2020-08-03T04:00:00.000Z","(347) 772-5216","Restaurants",40.723161,-73.985882,"142 E 2nd St, New York, NY 10009","Yes",,"Popular food cart
 ","Mexican",,"EVCC",,,"Opened",,"11:00 AM ",,"10:30 PM",,,,,,,,,,
-"Karma Book Store",602,"2020-07-29T04:00:00.000Z","212-390-9297","Retail",40.72381,-73.98591,"136 E. 3rd Street, New York, NY 10009","Yes",,"BY APPT ONLY, online orders always! 
+"Karma Book Store",602,"2020-07-29T04:00:00.000Z","212-390-9297","Retail",40.72381,-73.98591,"136 E. 3rd Street, New York, NY 10009","Yes",,"BY APPT, online orders always! 
 ","Books",,"EVCC","
 ",,"Opened","https://bookstore.karmakarma.org/#grid","11:00 AM","https://www.instagram.com/karmabookstore/?hl=en","7:00 PM",,,"Yes",,,,,,,
 "Bali Kitchen",603,"2020-08-03T04:00:00.000Z","(646) 678-4784","Restaurants",40.725368,-73.987585,"128 E 4th St, New York, NY 10003","Yes","Yes","SAT & SUN ONLY! through August
@@ -2117,7 +2117,7 @@ Open 7 days a week.
 "Trinity SAFH",631,"2020-06-14T05:15:00.000Z","(212) 228-5254","Free Food",40.72604,-73.980186,"602 E 9th St, New York, NY 10009","Yes",,"Lunch M-F: 11:00 AM - 12:00 PM
 Food Pantry M-F: 12:30 PM - 1:30 PM
 ",,,"EVCC",,"alex@safhnyc.org","Opened","http://safhnyc.org",,"https://www.instagram.com/trinitysafh/",,,,,,"https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=133401340&vlrStratCode=hamQxxwwezV9ZPtytYki0bly4RCfUMxKmB%2fZhn8DYUgDayIHxFeLbSZEPhO%2fM1vL",,true,,,
-"Idlewild Coffee",632,"2020-08-06T15:12:00.000Z",,"Restaurants",40.72662,-73.98886,"300 E. 5th Street, New York, NY 10003","No",,"Permanently closed as of 8/4/20
+"Idlewild Coffee",632,"2020-08-06T15:12:00.000Z",,"Restaurants",40.72662,-73.98886,"300 E. 5th Street, New York, NY 10003","No",,"PERMANENTLY CLOSED as of 8/4/20
 ","Cafe",,"PG",,,"Closed","http://www.idlewildcoffeeco.com","7:30 AM","https://www.instagram.com/idlewildcoffeeco/?hl=en","3:30 PM","No",,,,,,,,,
 "Juicy Lucy",633,"2020-06-18T04:00:00.000Z","(212) 777-5829","Restaurants",40.72349,-73.988675,"72 E 1st St, New York, NY 10003","Yes","Yes","**Closed Tuesdays + Wednesdays**
 ","Juice Bar",,"PG","IG is being updated
