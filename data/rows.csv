@@ -153,9 +153,9 @@ SUN: 11AM - 10PM
 "Boris & Horton",42,"2020-08-05T04:00:00.000Z","212-510-8986","Restaurants",42.38075,-76.87261,"195 Avenue A, New York, NY,10009","Yes","No","SAT & SUN: 8:00 AM - 5:00 PM
 ","Cafe",,"EVCC","IG is being updated OPEN 7 DAYS starting  5/4
 ","logan@borisandhorton.com","Opened","https://borisandhorton.com/","8:00 AM","https://www.instagram.com/borisandhorton/","1:00 PM",,"https://borisandhorton.com/collections/our-products/products/gift-card",,,"Follow IG page for Virtual Trivia Night Fundraisers",,,,,
-"Boulton & Watt",43,"2020-06-24T04:00:00.000Z","646-490-6004","Restaurants",40.722505,-73.986352,"5 Avenue A, New York, NY,10009","No","No","SAT,SUN = 10AM-2AM
+"Boulton & Watt",43,"2020-08-07T04:00:00.000Z","646-490-6004","Restaurants",40.722505,-73.986352,"5 Avenue A, New York, NY,10009",,,"
 ","American",,"EVCC","IG is being updated
-","info@boultonandwattnyc.com","Closed","https://www.boultonandwattnyc.com","12:00 PM","https://www.instagram.com/boultonandwatt/","2:00 AM",,,,,"https://www.gofundme.com/f/paradise-hospitality-relief-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet","Working on rolling out takeout as per IG post 3/15, nothing since gfm 3/21 https://www.instagram.com/p/B9xW_BIBxTB/",,,,
+","info@boultonandwattnyc.com","Unknown","https://www.boultonandwattnyc.com",,"https://www.instagram.com/boultonandwatt/",,"Yes",,,,"https://www.gofundme.com/f/paradise-hospitality-relief-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,
 "Brick Lane Curry House",44,"2020-06-11T04:00:00.000Z","212-979-8787","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY 10003","Yes","Yes","
 ","Indian",,"EVCC","IG is being updated DUPLICATE LISTING (see 139)
 ","info@bricklanecurryhouse.com","Opened","http://www.bricklanecurryhouse.com/downtown/","12:00 PM","https://www.instagram.com/bricklanecurry/","10:30 PM",,,,,,,,,,
@@ -1335,7 +1335,7 @@ Real-time line length updates being provided by [these kind neighbors on twitter
 "Aum Shanti Bookshop",416,"2020-07-02T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"online orders / curbside pickup: order ahead!
 ","Gifts & Home,Books",,"EVCC","IG is being updated
 ",,"Opened","www.aumshantibookshop.com","11:00 AM ","https://www.instagram.com/aumshantinyc/","8:00 PM",,,"Yes",,,,,,,
-"La Sirena Mexican Folkart",417,"2020-08-03T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"MON & FRI only, online always!
+"La Sirena Mexican Folkart",417,"2020-08-07T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"MON & FRI only, online always!
 Hand-embroidered masks from Mexico!
 ","Gifts & Home","Mention ""FIESTA"" sale for 30% off! 
 50% off orders over $500!!
@@ -2455,3 +2455,4 @@ WED: Closed
 "Isabella",772,"2020-08-05T17:27:00.000Z",,"Restaurants",,,"110 St. Mark's Place, New York, NY 10009",,,,"Italian",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Shake & Tail",773,"2020-08-05T17:28:00.000Z",,"Shops & Services",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Manhattan45",774,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+"Pinky's Space",775,"2020-08-07T16:14:00.000Z",,"Restaurants",,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
