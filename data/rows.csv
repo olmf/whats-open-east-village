@@ -1395,7 +1395,7 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 "Middle Collegiate Church",432,"2020-06-22T04:00:00.000Z","(212) 477-0666","Free Food",40.727652,-73.987592,"50 East 7th Street, New York, NY 10003","Yes",,"Call for hours and other information.
 ",,,"EVCC",,,"Opened",,,,,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,
 "St. Francis Xavier Mission",433,"2020-06-22T04:00:00.000Z","(212) 627-2100","Free Food",40.737862,-73.995472,"55 W 15th Street, New York, NY 10011","Yes",,"Call for hours and other information.
-",,,"EVCC",,,"Opened",,,,,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,
+","Meals",,"EVCC",,,"Opened",,,,,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,
 "Beam Living",434,"2020-06-22T04:00:00.000Z","(833) 749-0444","Free Food",40.730978,-73.980805,"435 E 14th Street, New York,NY,10009","Yes",,"Call for hours and other information.
 ",,,"EVCC",,,"Opened",,"9:00 AM",,"6:00 PM",,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,
 "Lillian Wald Food Pantry",435,"2020-06-22T04:00:00.000Z","(212) 260 - 2731","Free Food",40.720237,-73.978181,"12 Avenue D, New York, NY 10009","Yes",,"Call for hours and other information.
@@ -2459,3 +2459,7 @@ WED: Closed
 "Pinky's Space",775,"2020-08-07T16:14:00.000Z",,"Restaurants",,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Fun City Tattoo",776,"2020-08-07T18:22:00.000Z",,"Shops & Services",,,,,,,"Tattoo",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Auriga Cafe",777,"2020-08-07T18:39:00.000Z",,"Restaurants",,,,,,,"American",,"EVCC",,,"Unknown",,,"https://www.instagram.com/auriga_cafe/",,"Yes",,,,,,,,,
+"Girls Prep Elementary LES",778,"2020-08-08T18:07:00.000Z",,"Free Food",40.719891,-73.977387,"442 E Houston St, New York, NY 10002",,,"[Red Rabbit][1] is distributing fresh chilled meals for all during some weeks from this location. Usually Mon-Fri from 12:15pm-12:45PM, but check their [Instagram][1] to see if they're active this week, and direct message them for more details.
+
+  [1]: https://www.instagram.com/myredrabbit/
+","Meals",,"PG",,,"Unknown",,,"https://www.instagram.com/myredrabbit/",,,,,,,,,,,
