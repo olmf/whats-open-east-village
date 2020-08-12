@@ -1023,12 +1023,11 @@ CLOSED MON
 "Tropical",321,"2020-04-04T04:00:00.000Z","917-409-5998","Restaurants",40.723882,-73.976132,"403 E. 8th Street, New York, NY 10009",,,,"Juice Bar",,"PL","No info online - need to call
 ",,"Unknown",,,,,,,,,,,,,,
 "Tuome",322,"2020-03-27T04:00:00.000Z","(646) 833-7811","Restaurants",40.72407,-73.982929,"536 E 5th St, New York, NY 10009","No","No",,"American",,"PG",,,"Closed","https://www.tuomenyc.com",,"https://www.instagram.com/tuomenyc/",,,,,,"https://www.gofundme.com/f/tuome-staff-relief-fund536",,,,,
-"Two Boots Pizza",323,"2020-07-04T04:00:00.000Z"," (212) 254-1919","Restaurants",40.72370382,-73.98500719,"42 Avenue A, New York, NY 10009","Yes","Yes","Weekends til 10 PM 			
-","Pizza","Use code TWOBOOTS10 for 10% off [your online order ][1]
-
-  [1]: https://twoboots.com
+"Two Boots Pizza",323,"2020-08-12T04:00:00.000Z"," (212) 254-1919","Restaurants",40.72370382,-73.98500719,"42 Avenue A, New York, NY 10009","Yes","Yes","FRI & SAT 12:00 PM - 11:00 PM
+","Pizza","
 ","EVCC","IG is being updated
-","info@twoboots.com","Opened","https://twoboots.com/","4:00 PM","https://www.instagram.com/twobootspizza/","9:00 PM",,,,,,,,,,
+confirmed by phone 
+","info@twoboots.com","Opened","https://twoboots.com/","12:00 PM","https://www.instagram.com/twobootspizza/","10:00 PM",,,,,,,,,,
 "Two Brothers Pizza",324,"2020-03-31T04:00:00.000Z","212-777-0600","Restaurants",40.728655,-73.98849,"32 St. Marks Place, New York, NY 10003","Yes",,,"Pizza",,"EVCC",,,"Opened","https://www.2brospizzanyc.com",,,,,,,,,,,,,
 "Union Market",325,"2020-04-16T04:00:00.000Z","212-677-2441","Groceries",40.722397,-73.985834,"240 E. Houston Street, New York, NY 10009","Yes","No","Senior Hours: 9AM-10AM. Accepts SNAP/EBT.
 ","Specialty Market",,"PG","Website is being updated
@@ -1107,8 +1106,9 @@ SUN: noon - 9:00 PM
 "Yankee Pizza",350,"2020-07-28T04:00:00.000Z","646-760-3334","Restaurants",40.726709,-73.977261,"181 Avenue C, New York, NY 10009","Yes","Yes","SUN: 11:00 AM - 8:00 PM
 ","Pizza",,"EVCC","website is being updated 
 ",,"Opened","www.yankeepizzamenu.com","11:00 AM",,"9:00 PM",,,,,,,,,,
-"Zaragoza Mexican Deli-Grocery",351,"2020-07-04T04:00:00.000Z","212-780-9204","Groceries",40.7300141,-73.9808626,"215 Avenue A, New York, NY 10009","Yes",,"\*\*Closed Sundays\*\*	
-","Specialty Market,Mexican",,"EVCC",,,"Opened",,"10:00 AM",,"10:00 PM","Yes",,,,,,,,,
+"Zaragoza Mexican Deli-Grocery",351,"2020-08-12T04:00:00.000Z","212-780-9204","Groceries",40.7300141,-73.9808626,"215 Avenue A, New York, NY 10009","Yes",,"\*\*Closed Sundays\*\*	
+","Specialty Market,Mexican",,"EVCC","confirmed by phone 
+",,"Opened",,"10:00 AM",,"10:00 PM","Yes",,,,,,,,,
 "Exit9 Gifts",352,"2020-07-27T04:00:00.000Z","212-228-0145","Retail",40.7241016,-73.9852646,"51 Avenue A, New York, NY 10009","Yes","No","WED - SUN for sure, online orders always! 
 									
 ","Gifts & Home",,"EVCC","survey response
@@ -1200,8 +1200,9 @@ Sunday only: 9:00 AM - 6:00 PM
 ","Bar",,"EVCC",,,"Opened",,"2:00 PM","https://www.instagram.com/stdymphnas/?hl=en","8:00 PM","Yes",,,,,,,,,
 "The Sock Man",380,"2020-04-13T04:00:00.000Z","212-529-0300 ","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY",,,"online orders only
 ","Fashion",,"EVCC",,,"Opened","https://www.thesockman.com",,"https://www.instagram.com/thesockmannyc/",,,,"Yes",,,,,,,
-"An Me",381,"2020-07-02T04:00:00.000Z","212-228-0500","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes",,"TUE - FRI, online orders always!
-","Childrens",,"EVCC",,,"Opened","https://anmeshop.com","1:00 PM ","https://www.instagram.com/anmeshop/","5:00 PM",,,"Yes",true,,,,,,
+"An Me",381,"2020-08-12T04:00:00.000Z","212-228-0500","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes",,"MON - Closed
+","Childrens",,"EVCC","confirmed by phone 
+",,"Opened","https://anmeshop.com","12:00 PM ","https://www.instagram.com/anmeshop/","5:00 PM",,,"Yes",true,,,,,,
 "Alphabets",382,"2020-07-28T04:00:00.000Z","212-475-7250","Retail",40.724411,-73.984481,"64 Avenue A, New York, NY 10009",,,"NYC location is permanently closed, moving to Palm Springs, CA. Will be shipping again soon, please check back.
 
 ","Gifts & Home","
@@ -1349,8 +1350,8 @@ Real-time line length updates being provided by [these kind neighbors on twitter
   [1]: https://mobile.twitter.com/SRCCON/status/1252983555132731393
 ","Supermarket",,"EVCC","Confirmed by phone
 ",,"Opened",,"9:00 AM",,"9:00 PM",,,,,,,,,"8am-9am",
-"Aum Shanti Bookshop",416,"2020-07-02T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"online orders / curbside pickup: order ahead!
-","Gifts & Home,Books",,"EVCC","IG is being updated
+"Aum Shanti Bookshop",416,"2020-08-12T04:00:00.000Z","212-505-2665","Retail",40.732541,-73.986101,"230 E. 14th Street.  New York, NY 10003","Yes",,"THU - SUN: 11:00 AM - 9:00 PM
+","Gifts & Home,Books",,"EVCC","confirmed by phone 
 ",,"Opened","www.aumshantibookshop.com","11:00 AM ","https://www.instagram.com/aumshantinyc/","8:00 PM",,,"Yes",,,,,,,
 "La Sirena Mexican Folkart",417,"2020-08-07T04:00:00.000Z","212-780-9113","Retail",40.725949,-73.990269,"27 E. 3rd Street.  New York, NY 10003","Yes",,"MON, THU & FRI only, online always!
 Hand-embroidered masks from Mexico!
@@ -1363,9 +1364,9 @@ MON: Closed
 ","Fashion","Use Code SHOPSAFE to receive 25% off Online Orders!
 ","EVCC","IG is being updated
 ",,"Opened","sparkpretty.com","12:00 PM","https://www.instagram.com/sparkpretty/","6:00 PM",,,"Yes",true,,,,,,
-"Jeepney",419,"2020-07-04T04:00:00.000Z","(908) 356-4147","Restaurants",40.730323,-73.983642,"201 1st Avenue, New York, NY 10003","Yes","Yes","\*\*Open WED - SUN only\*\*. Contactless pickup available if you call ahead at 908-356-4147
+"Jeepney",419,"2020-07-04T04:00:00.000Z","(908) 356-4147","Restaurants",40.730323,-73.983642,"201 1st Avenue, New York, NY 10003","Yes","Yes","SAT & SUN open at Noon 
 ","Filipino",,"EVCC","Confirmed by phone
-",,"Opened","https://www.seamless.com/menu/jeepney-201-1st-ave-new-york/285664","2:00 PM","https://www.instagram.com/jeepneynyc/","9:00 PM","Yes","https://the-maharlikans.square.site/",,,"https://www.gofundme.com/f/jeepney-employee-and-c19-survival-operations-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
+",,"Opened","https://www.seamless.com/menu/jeepney-201-1st-ave-new-york/285664","4:00 PM","https://www.instagram.com/jeepneynyc/","9:00 PM","Yes","https://the-maharlikans.square.site/",,,"https://www.gofundme.com/f/jeepney-employee-and-c19-survival-operations-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
 "Book Club Bar",420,"2020-07-29T04:00:00.000Z","(646) 678-4160","Retail",40.723004,-73.983206,"197 E 3rd St, New York, NY 10009","Yes","Yes","Outdoor seating, takeout and in-store browsing!
 ","Books,Bar","[We're offering FREE book deliveries via bike messenger to all of Manhattan, parts of Brooklyn and Queens! In stock titles will be delivered same or next day by owner Nat 😁 🚴][1]
 
@@ -1718,9 +1719,9 @@ reservations only for now
 ","Bicycles",,"EVCC","confirmed by phone call
 
 ","cccyclerynyc@gmail.com","Opened","www.continuumcycles.com","1:00 PM","https://www.instagram.com/cccyclery/?hl=en","6:00 PM",,,,,,,,,,
-"Wing Bike Showroom",502,"2020-06-11T04:00:00.000Z",,"Shops & Services",40.730453,-73.983973,"345 E 12th St, New York, NY 10003","Yes",,"Test drives by appointment only.
+"Wing Bike Showroom",502,"2020-08-12T04:00:00.000Z",,"Shops & Services",40.730453,-73.983973,"345 E 12th St, New York, NY 10003","Yes",,"Test drives by appointment only.
 ","Bicycles","TAKE200RACK for $200 off any bike AND a free front or rear rack. \*Reply to your order confirmation with your preference.
-","EVCC","IG is being updated, store hours BY APPT ONLY
+","EVCC","IG is being updated, laura 
 ",,"Opened","https://wingbikes.com/",,"https://www.instagram.com/wingbikes/?hl=en",,,,"Yes",,,,,,,
 "PS 134 Henrietta Szold",503,"2020-06-22T04:00:00.000Z",,"Free Food",40.714324,-73.982954,"293 E Broadway New York, NY 10002","Yes",,"\*\*Serving Kosher, halal, and vegetarian meals.\*\* As of 4/30/20, only Kosher public school food pickup site in the area.
 
@@ -1837,8 +1838,9 @@ SUN: 11:00 AM - 9:00 PM
 "Ave C Food Corp",540,"2020-06-17T04:00:00.000Z","212-466-3354","Groceries",40.72685023,-73.97673539,"185 Avenue C, New York, NY 10009","Yes",,,"Deli ",,"EVCC","pls call for hours
 ",,"Opened",,,,,,,,,,,,,,
 "Sal's Deli & Grocery",541,"2020-05-07T04:00:00.000Z","(212) 673-4895","Groceries",40.72893,-73.97869,"216 Avenue B, New York, NY 10009","Yes",,,"Deli ",,"EVCC",,,"Opened",,,,,,,,,,,,,,
-"Guerra Paint & Pigment",542,"2020-06-11T04:00:00.000Z","212-529-0628","Shops & Services",40.72926,-73.9804,"510 E. 13th Street, New York, NY 10009","Yes",,,"Artist's Paint",,"EVCC","IG is being updated
-",,"Opened","www.guerrapaint.com",,"https://www.instagram.com/guerrapaint/?hl=en",,,,"Yes",,,,,,,
+"Guerra Paint & Pigment",542,"2020-06-11T04:00:00.000Z","212-529-0628","Shops & Services",40.72926,-73.9804,"510 E. 13th Street, New York, NY 10009","Yes",,"SAT & SUN Closed
+","Artist's Paint",,"EVCC","confirmed by phone 
+",,"Opened","www.guerrapaint.com","12:00 PM","https://www.instagram.com/guerrapaint/?hl=en","7:00 PM",,,"Yes",,,,,,,
 "Michael George Flowers",543,"2020-06-17T04:00:00.000Z","(212) 883-0304","Shops & Services",40.72833559,-73.97871947,"199 Avenue B, New York, NY 10009","Yes","Yes","Open for orders online 24/7!
 ","Florist",,"EVCC","Called the business on the phone
 ","orders@michaelgeorgeflowers.com","Opened","https://www.michaelgeorgeflowers.com","9:00 AM","https://www.instagram.com/michaelgeorgeflowers/","2:00 PM",,,,,,,,,,
@@ -1919,8 +1921,9 @@ Delivery
 MON-WED:  2 PM -10 PM, + 1-10PM THURS-SUN.
 ","Pizza",,"EVCC","IG is being updated	
 ",,"Opened","https://www.matthewkenneycuisine.com/double-zero","12:00 PM","https://www.instagram.com/doublezeromk/?hl=en","11:00 PM","Yes","https://squareup.com/gift/BG1XWZ1RX18YG/order",,,,,true,,,
-"W R Cleaners",566,"2020-06-11T04:00:00.000Z","212-598-1800","Laundromat",40.72542,-73.98818,"112 E. 4th Street, New York, NY","Yes",,"Drop-off only
-",,,"EVCC",,,"Opened",,"8:00 AM",,"5:00 PM",,,,,,,,,,
+"W R Cleaners",566,"2020-08-12T04:00:00.000Z","212-598-1800","Laundromat",40.72542,-73.98818,"112 E. 4th Street, New York, NY","Yes",,"Drop-off only
+",,,"EVCC","salvatore call back 
+",,"Opened",,"8:00 AM",,"5:00 PM",,,,,,,,,,
 "Factory Tamal",567,"2020-08-05T04:00:00.000Z",,"Restaurants",40.726889,-73.990761,"63 E 4th Street New York, New York City 10003","Yes","Yes","Our film, [FOOD OF LOVE / Tamale Man][1], has been selected to be a part of the 2020 Food Film Festival!
 It’s the first part of a series featuring professional and home cooks who explore the role of love as an ingredient. 
 
@@ -1951,10 +1954,11 @@ It’s the first part of a series featuring professional and home cooks who expl
 ","Japanese",,"EVCC","IG is old, website can't be reached LS confirms open 
 confirmed hours by phone call 
 ",,"Opened","https://www.yelp.com/biz/beron-beron-new-york","2:00 PM","https://www.instagram.com/beronberon.nyc/","10:30 PM","Yes",,,true,,,,,,
-"Village Creperie",574,"2020-07-04T04:00:00.000Z","(917) 675-6366","Dessert",40.7286069,-73.9858057,"445 E 9th St, New York, NY 10009","Yes",,"[Menu][1]
+"Village Creperie",574,"2020-08-12T04:00:00.000Z","(917) 675-6366","Dessert",40.7286069,-73.9858057,"445 E 9th St, New York, NY 10009","Yes",,"[Menu][1]
 
   [1]: https://1.bp.blogspot.com/-lZ95Q0k9VM0/XsBVAJM1viI/AAAAAAADThs/obN9N--gufYnZcCJYgrbf81G43zHjEmmwCLcBGAsYHQ/s1600/unnamed-4.jpg
-","Bakery",,"EVCC",,,"Opened",,,"https://www.instagram.com/villagecreperie/",,"Yes",,,,,,,,,
+","Bakery",,"EVCC","confirmed by phone 
+",,"Opened",,"7:00 AM","https://www.instagram.com/villagecreperie/","11:00 PM","Yes",,,,,,,,,
 "Papaya Dog",575,"2020-08-11T04:00:00.000Z","(646) 654-7010","Restaurants",40.7315882,-73.9826645,"239 1st Avenue, New York, NY 10003","Yes",,,"American",,"EVCC","Confirmed by phone
 
 ",,"Opened",,"8:00 AM",,"5:00 AM",,,,,,,,,,
