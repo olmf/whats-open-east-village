@@ -2258,9 +2258,9 @@ MON & TUE: Closed
 ","Medical",,"EVCC",,"info@14streetmedical.com","Unknown","https://www.14streetmedical.com/",,,,,,,,,,,,,
 "Eye and Health",675,"2020-07-03T23:00:00.000Z","212-228-0950","Health",40.72888,-73.9848,"159 1st Avenue New York, NY 10003","Yes",,"Saturday hours: 10 AM - 6:30 PM
 ","Optician",,"EVCC",,"info@eyeandhealth.com","Opened","www.eyeandhealth.com","9:30 AM",,"7:00 PM",,,,,,,,,,
-"Manhattan Eyeworks",676,"2020-07-03T23:00:00.000Z","212-460-9240","Health",40.729229,-73.984573,"169 1st Avenue New York, NY 10003","Yes",,"MON - FRI
+"Manhattan Eyeworks",676,"2020-07-03T23:00:00.000Z","212-460-9240","Health",40.729229,-73.984573,"169 1st Avenue New York, NY 10003","Yes",,"Exams by appointment only	
 
-","Optician",,"EVCC",,,"Opened","www.manhattaneyeworks.com","10:30 AM",,"7:00 PM",,,"Yes",,,,,,,
+","Optician",,"EVCC",,,"Opened","www.manhattaneyeworks.com","10:30 AM","https://www.instagram.com/manhattaneyeworks/?hl=en","7:00 PM",,,"Yes",,,,,,,
 "B-Side",677,"2020-07-10T05:01:00.000Z","(212) 475-4600","Restaurants",40.726501,-73.98851,"204 Avenue B, New York, NY 10009","Yes",,"TUE - FRI
 SAT - SUN: 2 PM - 10 PM
 ","Bar","<https://drinkwellforgood.itemorder.com/product/14463842>
@@ -2463,7 +2463,7 @@ Highlights from the menu include meritha (assorted platters), loukaniko souvlaki
 "Angel's Share",756,"2020-08-05T01:15:00.000Z","(212) 777-5415","Restaurants",40.7298,-73.98919,"8 Stuyvesant St, New York, NY 10003","Yes",,,"Japanese",,"EVCC",,,"Opened","https://www.angelssharenyc.com/","3:00 PM","https://www.instagram.com/angelssharenyc/","8:00 PM",,,,true,,,,,,
 "Elisa's Love Bites",757,"2020-08-05T01:17:00.000Z",,"Dessert",40.72754,-73.98302,"441 E 9th St, New York, NY 10009","Yes",,,"Bakery,Gluten Free",,"EVCC","Reopening AUG 6 
 ",,"Opened","https://elisaslovebites.com/","11:00 AM","https://www.instagram.com/elisaslovebites/","7:00 PM",,,,true,,,,,,
-"Stranded Records",758,"2020-08-05T01:27:00.000Z","(212) 529-2081","Retail",40.72716,-73.99043,"218 E 5th St, New York, NY 10003","Yes",,"FRI - SUN ONLY
+"Stranded Records",758,"2020-08-05T01:27:00.000Z","(212) 529-2081","Retail",40.72716,-73.99043,"218 E 5th St, New York, NY 10003","Yes",,"FRI - SUN Only
 ","Music",,"EVCC",,,"Opened","https://www.strandedrecords.com/?fbclid=IwAR2i5VYJaW-8H7N2HhgtNvrJO4uw3iO1g6b-W6bmc6IZD6tp3LyaDscwiUM","12:00 PM","https://www.instagram.com/strandedrecords/?hl=en","6:00 PM",,,,,,,,,,
 "Village Grannies",759,"2020-08-05T01:28:00.000Z","(212) 254-1555","Retail",40.72827,-73.98561,"346 E 9th St, New York, NY 10003","Yes",,"SUN & MON: 1:00 PM - 6:00 PM
 WED: Closed
@@ -2488,7 +2488,9 @@ WED: Closed
 "212 Hisae's",771,"2020-08-05T17:24:00.000Z",,"Restaurants",,,,,,,"Asian",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Isabella",772,"2020-08-05T17:27:00.000Z",,"Restaurants",,,"110 St. Mark's Place, New York, NY 10009",,,,"Italian",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Shake & Tail",773,"2020-08-05T17:28:00.000Z",,"Shops & Services",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
-"Manhattan45",774,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+"Manhattan45",774,"2020-08-12T00:34:00.000Z","646-649-4938","Retail",,,"220 E. 10th Street, New York, NY 10003","Yes",,"TUE - SAT onl
+SUN & MON: Closed
+","Records",,"EVCC",,,"Opened","http://www.manhattan45.com/","1:00 PM","https://www.instagram.com/m45records/","8:00 PM",,,,,,,,,,
 "Pinky's Space",775,"2020-08-07T16:14:00.000Z",,"Restaurants",,,,,,,,,"EVCC",,,"Unknown",,,,,"Yes",,,,,,,,,
 "Fun City Tattoo",776,"2020-08-07T18:22:00.000Z",,"Shops & Services",,,,,,,"Tattoo",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Auriga Cafe",777,"2020-08-07T18:39:00.000Z",,"Restaurants",,,,,,,"American",,"EVCC",,,"Unknown",,,"https://www.instagram.com/auriga_cafe/",,"Yes",,,,,,,,,
@@ -2510,3 +2512,8 @@ New restaurant with cute outdoor space directly underneath the mural & right nex
 ","Music",,"EVCC",,,"Opened",,"1:00 PM",,"8:00 PM",,,,,,,,,,
 "He ",785,"2020-08-10T03:26:00.000Z",,"Retail",,,,,,,"Jewelry",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Perfection Cuts",786,"2020-08-11T23:08:00.000Z","(212) 777-7055","Shops & Services",,,"77 Avenue C, New York, NY 10009",,,,"Hair",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
+"Alex Shoe Repair",787,"2020-08-11T23:28:00.000Z","212-995-0570","Shops & Services",,,"99 Avenue C, New York, NY 10009",,,,"Shoe Repair",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
+"Petit Chou",788,"2020-08-11T23:42:00.000Z",,"Dessert",,,"229 1st Avenue, New York, NY 10003",,,"SAT: 8:00 AM - 9:00 PM
+SUN: 9:00 AM - 9:00 PM
+","Bakery",,"EVCC",,,"Unknown",,"8:00 AM",,"8:00 PM",,,,,,,,,,
+"Mace",789,"2020-08-12T00:09:00.000Z",,"Restaurants",,,,,,,"American",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
