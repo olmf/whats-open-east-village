@@ -1000,8 +1000,8 @@ CLOSED MON
 "The Smith",311,"2020-03-29T04:00:00.000Z","212) 420-9800","Restaurants",40.731002,-73.988393,"55 3rd Ave, New York, NY 10003","Yes","Yes",,"American",,"PG",,,"Opened",,,,,,,,,,,,,,
 "The Source Unlimited Print & Copy Shop",312,"2020-06-22T04:00:00.000Z","212-473-7833","Shops & Services",40.728753,-73.985752,"331 E. 9th St. New York, NY, 10003",,,"open on etsy and for email orders only
 ","Stationery",,"EVCC",,"santo@sourceunltd.com","Opened","https://www.etsy.com/shop/sourceunltdprint","N/A","https://www.instagram.com/thesourceunltdprinting/","N/A",,,"Yes",,,,,,,
-"The Wayland",313,"2020-08-09T04:00:00.000Z","(212) 777-7022","Restaurants",40.725063,-73.977821,"700 E 9th St, New York, NY 10009","No","No","Liquor license suspended.
-","Bar",,"EVCC","Liquor license suspended, Laura check back
+"The Wayland",313,"2020-08-09T04:00:00.000Z","(212) 777-7022","Restaurants",40.725063,-73.977821,"700 E 9th St, New York, NY 10009","No","No","Liquor license suspended
+","Bar",,"EVCC","check back re liquor license
 ",,"Closed","http://www.thewaylandnyc.com/",,"https://www.instagram.com/thewaylandnyc/?hl=en",,"Yes",,,,"https://www.gofundme.com/f/endless-hospitality-staff-relief-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,
 "Third Rail Coffee",314,"2020-07-29T04:00:00.000Z","646-580-1240","Restaurants",40.7298,-73.987177,"159 2nd Avenue, New York, NY","No","No","
 ","Cafe",,"EVCC","LEASE TERMINATION NOTICE AS OF [EV][1]grieve
@@ -1136,7 +1136,7 @@ SUNDAYS CLOSED
 ","Fashion",,"EVCC","survey response + <https://www.instagram.com/p/B-9wxxkgC5r/>
 ","Baroness@Baroness.com","Opened","www.baroness.com","1:00 PM ","https://www.instagram.com/latexbaroness/","7:00 PM",,"https://store.baroness.com/giftcertificates.php","Yes",true,,,,,,
 "Maiden Lane",358,"2020-08-11T04:00:00.000Z","646-755-8911","Restaurants",40.726002,-73.980642,"162 Avenue B, New York, NY 10009","Yes","Yes","Liquor license suspended. Serving food and non-alcoholic beverages only
-","American",,"EVCC","Liquor license suspended	7/31, laura check back
+","American",,"EVCC","check back re liquor license
 ","gareth@themaidenlane.com","Opened","http://www.themaidenlane.com","9:00 AM","https://instagram.com/themaidenlane?igshid=kh44ev7f64ra","12:00 AM","Yes",,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,
 "Fragrance Shop New York",359,"2020-06-17T04:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003",,,"Thursday 5-7pm, Friday-Saturday 12-4pm
 ","Custom Perfume",,"EVCC","survey response
@@ -2220,7 +2220,7 @@ Order directly from [site][1]. 15% off first order.
 "Limited to One Record Shop",654,"2020-07-02T19:24:00.000Z","(917) 740-5233","Retail",40.729463,-73.985554,"221 E 10th St, New York, NY 10003","Yes",,"
 ","Records",,"PG",,,"Opened","http://www.limitedtooneshop.com/",,"https://www.instagram.com/limitedtoonenyc/",,,,"Yes",,,,,,,
 "Lucky on B",655,"2020-08-07T22:54:00.000Z",,"Restaurants",40.72728,-73.979897,"168 Avenue B, New York, NY 10009","No",,"Liquor license suspended			
-","Bar",,"EVCC","Liquor license suspended, Laura check back
+","Bar",,"EVCC","check back re liquor license
 ",,"Closed","http://www.luckyonb.com","12:00 PM","https://www.instagram.com/luckyonb/","8:00 PM","Yes",,,true,,,,,,
 "East Village Books",657,"2020-07-02T23:23:00.000Z","212-477-8647","Retail",40.66636,-73.69265,"99 St. Marks Place New York, NY 10009","Yes",,,"Books",,"EVCC",,"eastvillagebooksny@aol.com","Opened","https://www.newyorkcitybookbuyer.com/","1:30 PM",,"9:45 PM",,,,,,,,,,
 "Printed Matter / St Marks",658,"2020-08-04T23:23:00.000Z","646-590-3247","Retail",40.728409,-73.98748,"38 St. Marks Place New York, NY 10003","Yes",,"BY APPT ONLY shopping and online order pickups: <mailto:visit@printedmatter.org>
@@ -2528,6 +2528,6 @@ SUN: 9:00 AM - 9:00 PM
 "Mace",789,"2020-08-12T00:09:00.000Z",,"Restaurants",,,,,,,"Bar",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Yuca Bar",790,"2020-08-12T00:50:00.000Z",,"Restaurants",,,,,,,"Bar",,"EVCC",,,"Unknown","http://www.yucabarnyc.com/",,"https://www.instagram.com/yucabar/",,"Yes",,,,,,,,,
 "Hairy Lemon",791,"2020-08-13T18:45:00.000Z",,"Restaurants",,,"28 Avenue B, New York, NY 10009","No","No","Liquor license suspended					
-","Bar",,"EVCC","Liquor license suspended, Laura check back
+","Bar",,"EVCC","check back re liquor license
 ",,"Closed","https://www.hairylemonnyc.com/",,,,,,,,,,,,,
 ,792,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
