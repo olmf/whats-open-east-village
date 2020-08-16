@@ -2332,8 +2332,13 @@ SUN: Closed
 ","Hair",,"EVCC",,,"Opened","http://www.non-project.com/salon","11:00 AM","https://www.instagram.com/nonproject/","8:00 PM",,,,,,,,,,
 "Organic Lounge 11",700,"2020-07-11T04:14:00.000Z","646-420-3506","Shops & Services",40.72863,-73.98235,"438 E. 11th Street, New York, NY 10009","Yes",,"MON, FRI, SAT: Closed
 
-By appointment only. Opening times change each day, call to confirm.
-","Hair",,"EVCC",,,"Opened","www.hairbybobby.com","11:00 AM","https://www.instagram.com/hairbybobby/?hl=en","10:00 PM",,,,,,,,,,
+SUN:: 10:00 AM - 10:00 PM
+TUES: 9:00 AM - 10:00 PM
+WED: 9:00 AM - 10:00 PM
+THURS: 8:00 PM - 10:00 PM
+
+By appointment only. 
+","Hair",,"EVCC",,,"Opened","www.hairbybobby.com","10:00 AM","https://www.instagram.com/hairbybobby/?hl=en","10:00 PM",,,,,,,,,,
 "Permacuts",701,"2020-07-11T19:34:00.000Z","212-673-4786","Shops & Services",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009","Yes",,"SUN: Call for hours
 
 ","Hair",,"EVCC",,,"Opened","http://permacutsalon.com/","10:00 AM","https://www.instagram.com/p/CBq4DvinH1d/","6:00 PM",,,,,,,,,,
@@ -2560,9 +2565,14 @@ Sunday: 9am-9pm
 ","Bakery",,"PG",,,"Opened",,"8:00 AM","https://www.instagram.com/petitchou.nyc/","8:00 PM",,,,,,"Instagram",,,,
 "Lori McLean",794,"2020-08-16T21:02:00.000Z","212-242-3204","Retail",40.72969,-73.98127,"207 Avenue A, New York, NY 10009","Yes",,"MON - WED: Closed
 ","Jewelry,Fashion",,"EVCC",,,"Opened","https://www.lorimclean.com/","12:00 PM","https://www.instagram.com/lorimcleanjewelry/","5:00 PM",,,,,,,,,,
-"Studio DuArte",795,"2020-08-16T21:02:00.000Z",,,,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
-"Howl! Happening Now",796,"2020-08-16T21:02:00.000Z",,,,,,,,,,,"EVCC",,,"Unknown",,,,,,,,,,,,,,
-"Karma Karma",797,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+"Studio DuArte",795,"2020-08-16T21:02:00.000Z","212-260-0676 ","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","Yes",,"MON & TUES: Closed
+
+","Jewelry,Fashion",,"EVCC",,,"Opened","http://studioduarte.com/","1:00 PM","https://www.instagram.com/studio_duarte/?hl=en","6:00 PM",,,,,,,,,,
+"Howl! Happening Now",796,"2020-08-16T21:02:00.000Z","917-475-1294","Shops & Services",40.72483,-73.99166,"6 E. 1st Street, New York, NY 10003","Yes",,"MON & TUES: Closed
+
+","Gallery",,"EVCC",,,"Opened","https://www.howlarts.org/","11:00 AM","https://www.instagram.com/howlhappening/","6:00 PM",,,,,,,,,,
+"Karma Gallery",797,"2020-08-16T21:02:00.000Z","212-390-8290","Shops & Services",40.72263,-73.98479,"172 E. 2nd Street, New York, NY 10009","Yes",,"SAT & SUN: Closed
+","Gallery",,"EVCC",,,"Opened","https://karmakarma.org/","10:00 AM","https://www.instagram.com/karmakarma9/?hl=en","6:00 PM",,,,,,,,,,
 ,798,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 ,799,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 ,800,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
