@@ -86,7 +86,7 @@ CLOSED SUN,MON,THURS,FRI
 "Atlas Cafe",23,"2020-06-25T04:00:00.000Z","212-539-0966","Restaurants",40.72651,-73.989528,"73 2nd Avenue, New York, NY,10003","Yes",,"Delivery,Takeout hrs: 10AM-10:45PM
 ","Cafe",,"EVCC","No info online - need to call
 ","No online presence","Opened",,"8:00 AM",,"12:00 PM",,,,,,,,,,
-"Atmi",24,"2020-07-29T04:00:00.000Z","212-228-5811","Shops & Services",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY 10003","Yes","Yes","	
+"Atmi",24,"2020-08-18T04:00:00.000Z","212-228-5811","Shops & Services",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY 10003","Yes","Yes","	
 ","Wine",,"EVCC","			
 ","No online presence","Opened",,"11:00 AM",,"11:45 PM",,,,,,,,,,
 "Atomic Wings",25,"2020-08-05T04:00:00.000Z","(212) 774-9464","Restaurants",40.729415,-73.983584,"184 1st Avenue, New York, NY 10009","Yes","Yes",,"Wings",,"EVCC","IG is being updated
@@ -101,10 +101,10 @@ PHONE for pickup orders  (delivery from Caviar)
 ","Vegan","
 ","EVCC","IG is being updated, hours from website 
 ","info@avantgardennyc.com","Opened","https://www.avantgardennyc.com/","5:00 PM","https://www.instagram.com/avantgardennyc/","10:00 PM","Yes","http://www.derossiglobal.com/products/giftcertificate/buy",,,"https://www.gofundme.com/f/feed-the-east-village",,,,,
-"Avenue C Pharmacy",28,"2020-06-17T04:00:00.000Z","212-228-0764","Health",40.726528,-73.976532,"178 Avenue C, New York, NY 10009","Yes","Yes","SUN: closed
+"Avenue C Pharmacy",28,"2020-08-18T04:00:00.000Z","212-228-0764","Health",40.726528,-73.976532,"178 Avenue C, New York, NY 10009","Yes","Yes","SUN: closed
 Notary services available
 ","Pharmacy",,"EVCC","Confirmed by phone
-","No email listed online","Opened","https://www.facebook.com/Avenue-C-Pharmacy-Surgical-162723810422700/","9:30 AM",,"6:00 PM",,,,,,,,,,
+","No email listed online","Opened","https://www.facebook.com/Avenue-C-Pharmacy-Surgical-162723810422700/","9:30 AM",,"7:00 PM",,,,,,,,,,
 "B Cup",29,"2020-07-29T04:00:00.000Z","212-228-4808","Restaurants",40.729706,-73.980355,"212 Avenue B, New York, NY,10009","Yes","Yes","
 ","Cafe",,"EVCC","IG is being updated
 time from IG post 7/15
@@ -138,8 +138,8 @@ Now accepting credit cards and Apple/Google Pay.
   [1]: https://www.instagram.com/p/B-TSnh-FOPj/
 ","Mediterranean",,"EVCC","IG is being updated
 ","No email listed online","Opened","http://bin141.com","3:00 PM","https://www.instagram.com/bin141nyc/","7:00 PM",,,,,,,,,,
-"Bite",38,"2020-06-24T04:00:00.000Z","(212) 677-3123","Restaurants",40.733144,-73.986164,"211 E. 14th Street, New York, NY,10003","No","No",,"Mediterranean",,"EVCC","14th Street location is still closed per IG comment
-","bitenyc@gmail.com","Closed","https://www.bitenyc.com/",,"https://www.instagram.com/bitenycfood/",,,,,,"https://www.gofundme.com/f/support-your-local-store?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet","https://www.instagram.com/p/B-sWMMejWME/",,,,
+"Bite",38,"2020-08-18T04:00:00.000Z","(212) 677-3123","Restaurants",40.733144,-73.986164,"211 E. 14th Street, New York, NY,10003","Yes","Yes",,"Middle Eastern",,"EVCC","14th Street location is still closed per IG comment
+","bitenyc@gmail.com","Opened","https://www.bitenyc.com/","9:30 AM","https://www.instagram.com/bitenycfood/","8:30 PM",,,,,"https://www.gofundme.com/f/support-your-local-store?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet","https://www.instagram.com/p/B-sWMMejWME/",,,,
 "Black Seed Bagels",39,"2020-08-18T04:00:00.000Z","646-518-1236","Restaurants",40.729058,-73.983843,"176 1st Avenue, New York, NY,10009","Yes","No","FRI - SUN only Walk-up or [Order in advance][1]
 
   [1]: https://order.blackseedbagels.com/locations/blackseedbagels
@@ -528,9 +528,7 @@ See website & note on door:
 ",,"Opened",,"8:00 AM","https://www.instagram.com/juicevitality/","7:30  PM",,,"No",true,,,,,,
 "Juicy Lucy",149,"2020-07-29T04:00:00.000Z","212-777-5829","Restaurants",40.72526739,-73.984294,"85 Avenue A, New York, NY,10009","Yes","Yes","
 ","Juice Bar",,"EVCC","confirmed by phone call 
-",,"Opened","https://juicylucyjuice.square.site/","7:00 AM","https://www.instagram.com/juicylucyjuicebar/","10:30 PM",,,,true,,,true,,,
-"Juicy Lucy",150,"2020-03-31T04:00:00.000Z","212-777-5829","Restaurants",40.723489,-73.988641,"72 E. 1st Street, New York, NY","No","No",,"Juice Bar",,"PL","IG is being updated, opening soon! check back 
-",,"Closed","Juicylucyjuice.com",,"https://www.instagram.com/juicylucyjuicebar/",,,,"No",true,,"https://www.instagram.com/p/B99teh1lJyg/",,,,
+","juicylucy@gogosurfer.com","Opened","https://juicylucyjuice.square.site/","7:00 AM","https://www.instagram.com/juicylucyjuicebar/","10:30 PM",,,,true,,,true,,,
 "K & W Best Dry Cleaner & Laundry",151,"2020-04-01T04:00:00.000Z","(646) 918-7135","Laundromat",40.730972,-73.987242,"229 E. 11th Street, New York, NY","Yes",,,"Laundromat",,"PG",,,"Opened",,,,,,,,,,,,,,
 "Kafana",152,"2020-08-10T04:00:00.000Z","212-353-8000","Restaurants",40.72432,-73.97851,"116 Avenue C, New York, NY 10009","Yes","Yes","
 
@@ -783,9 +781,10 @@ Email physicalgraffitea@gmail.com
   [1]: https://physicalgraffitea.com
 ","Tea Shop",,"EVCC","confirmed by phone 
 ","physicalgraffitea@gmail.com","Opened","https://physicalgraffitea.com","12:00 PM","https://www.instagram.com/physicalgraffitea/?hl=en","7:00 PM",,,"Yes",true,,,,,,
-"Pink's",231,"2020-08-03T04:00:00.000Z","(646) 918-6231","Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY","Yes","Yes","
-","Bar",,"EVCC","salvatore call for hours
-",,"Opened","http://pinks.nyc",,"https://www.instagram.com/pinksnyc/",,"Yes",,,,,"http://pinks.nyc/#new-page-1",,,,
+"Pink's",231,"2020-08-18T04:00:00.000Z","(646) 918-6231","Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY","Yes","Yes","
+","Bar",,"EVCC","Confirmed by phone
+
+",,"Opened","http://pinks.nyc","2:00 PM","https://www.instagram.com/pinksnyc/","11:00 PM","Yes",,,,,"http://pinks.nyc/#new-page-1",,,,
 "Plado Tasting Bar",232,"2020-03-31T04:00:00.000Z","646-850-5151","Restaurants",40.72228,-73.98393,"192 E 2nd St, New York, NY 10009","Yes",,"Call to order 646-850-5151. [Menu ][1]on website. Offering beer and wine specials as well.
 
   [1]: https://www.pladonyc.com/taste
@@ -877,10 +876,13 @@ Carries N95 masks
 ","info@sakayanyc.com","Opened","www.sakayanyc.com","12:00 PM","https://www.instagram.com/sakayanyc/","8:00 PM",,,,,,,,,,
 "Sake Bar Satsko",260,"2020-06-28T04:00:00.000Z","(212) 614-0933","Restaurants",40.724446,-73.980261,"202 E 7th St, New York, NY 10009","Yes","Yes",,"Japanese",,"EVCC","IG is being updated, PLS CALL for hours	
 ","INFO@SATSKO.COM","Opened","https://www.satsko.com/about",,"https://www.instagram.com/sakebarsatsko/",,,"https://squareup.com/gift/RP824WEQ8WPTV/order",,true,"https://www.gofundme.com/f/support-the-staff-of-sake-bar-satsko?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
-"Saltwater Coffee",261,"2020-08-11T04:00:00.000Z","917-881-2245","Restaurants",40.730309,-73.983965,"345 E. 12th Street, New York, NY","Yes","No","ORDER BEANS ONLINE: <https://www.saltwaternyc.com/>
-","Cafe",,"EVCC","IG is being updated		
-salvatore call for hours
-",,"Opened","www.saltwaternyc.com",,"https://www.instagram.com/saltwaternyc/",,,,"Yes",,,,,,,
+"Saltwater Coffee",261,"2020-08-11T04:00:00.000Z","917-881-2245","Restaurants",40.730309,-73.983965,"345 E. 12th Street, New York, NY","Yes","No","SAT & SUN: 8:00 AM - 7:00 PM
+ORDER BEANS ONLINE: <https://www.saltwaternyc.com/>
+
+","Cafe",,"EVCC","IG is being updated
+Confirmed by phone
+
+",,"Opened","www.saltwaternyc.com","7:00 AM","https://www.instagram.com/saltwaternyc/","7:00 PM",,,"Yes",,,,,,,
 "Sammy's Halal",262,"2020-03-31T04:00:00.000Z","917-965-2009","Restaurants",40.7269,-73.986177,"109 1st Avenue, New York, NY 10003","Yes","Yes","grubhub, ubereats
 ","Middle Eastern",,"EVCC",,,"Opened","https://www.sammyshalal.com",,"https://www.instagram.com/sammyshalal/",,,,,,,,,,,
 "Santa Barbara Deli",263,"2020-07-10T04:00:00.000Z","212-254-1732","Groceries",40.72824709,-73.97909015,"551 E 12th St A, New York, NY 10009","Yes","Yes","Delivery available on seamless, grubhub, doordash, postmates
@@ -1448,8 +1450,6 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 ",,,"EVCC",,,"Opened",,"9:30 AM",,"12:30 PM",,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,
 "New York City Pharmacy",436,"2020-06-22T04:00:00.000Z","(212) 253-8686","Health",40.730254,-73.983151,"206 1st Avenue, New York, NY 10009","Yes",,"Store Hours: \*\*Monday-Friday: 11AM - 8PM\*\* // \*\*Saturday: 11AM - 6PM\*\* // \*\*Sunday: Closed\*\* Accepts Health Bucks. Also offers color printing, copies, and faxing services.
 ","Pharmacy",,"EVCC",,,"Opened","https://www.nycprx.com/","12:00 PM",,"5:00 PM",,,,,,,,,,
-"Interfaith Community Services Food For Life",437,,,,40.726471,-73.983195,"129-111 Avenue A
-New York, NY 10009",,,,,,,,,"Unknown",,,,,,,,,,,,,,
 "Nowon",438,"2020-06-22T04:00:00.000Z","(646) 692-3867","Restaurants",40.725341,-73.983334,"507 E. 6th Street, New York, NY 10009","Yes","Yes","Offering outdoor dining. Reserve tables via Resy, walk ins available. CLOSED MON,
 FRI-12PM-10PM
 SAT-11AM-10PM
@@ -1476,16 +1476,9 @@ IG is being updated
 Sat-Sun: 1pm-11pm
 ","Bar",,"EVCC","survey response
 ","Jen@joyface.nyc","Opened","https://joyface.nyc","5:00 PM","https://www.instagram.com/joyfacenyc/","2:00 AM","Yes",,,true,,,,,,"reccmPjL6plT1TXeo"
-"Bite",446,"2020-06-22T04:00:00.000Z","(212) 431-0301","Restaurants",40.725674,-73.994673,"333 Lafayette St, New York, NY 10012","Yes","Yes","\*\*CLOSED SUNDAYS\*\*. Can order via [website ][1]or call (212) 431-0301.
-
-  [1]: https://www.bitenyc.com/
-","Mediterranean",,"EVCC","via phone
-","amimny@gmail.com","Opened","https://www.bitenyc.com/","9:30 AM","https://www.instagram.com/bitenyc/","7:30 PM",,,,,"https://www.gofundme.com/f/support-your-local-store?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,
-"Bite",447,"2020-06-22T04:00:00.000Z","(212) 677-3123","Restaurants",40.733148,-73.986176,"211 E 14th St, New York, NY 10003","No","Yes","\*\*CLOSED SUNDAYS\*\*. Can order via [website ][1]or call (212) 677-3123.
-
-  [1]: https://www.bitenyc.com/
-","Mediterranean",,"EVCC","via phone
-","amimny@gmail.com","Opened","https://www.bitenyc.com/","9:30 AM","https://www.instagram.com/bitenyc/","7:30 PM",,,,,"https://www.gofundme.com/f/support-your-local-store?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,
+"Bite",446,"2020-08-18T04:00:00.000Z","(212) 431-0301","Restaurants",40.725674,-73.994673,"333 Lafayette St, New York, NY 10012","Yes","Yes","
+","Middle Eastern",,"EVCC","via phone
+","amimny@gmail.com","Opened","https://www.bitenyc.com/","8:00 AM","https://www.instagram.com/bitenyc/","8:00 PM",,,,,"https://www.gofundme.com/f/support-your-local-store?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,
 "Kmart",448,"2020-06-22T04:00:00.000Z","(212) 673-1540","Retail",40.73015,-73.991071,"770 Broadway, New York, NY 10003","Yes",,"Store open 7 days a week. \*\*Pharmacy Hours\*\* Mon-Fri:10AM-6PM//Sat:9AM-5PM//Pharmacy Closed Sundays. Can order some items ahead and pickup in store [here][1].
 
   [1]: https://www.kmart.com/en_us/dap/in-vehicle-pickup.html
@@ -1569,7 +1562,7 @@ All the info can be found on our website: [reclaimedorganics.org/residents][1]
 ","Thai","Lunch Specials MON -SAT: 12:00 PM - 4:00 PM
 ","EVCC","Confirmed by phone
 ","No email listed online","Opened","https://katithai.com/","12:00 PM","https://www.instagram.com/katithaicuisinenyc/?hl=en","11:00 PM",,,,true,,,,,,
-"Deal 99cent Discount store",463,"2020-06-22T04:00:00.000Z","(212) 388-1919","Shops & Services",40.725533,-73.987028,"73 1st Ave New York, NY 10003","Yes",,"Deal 99cent Discount store has been open every day throughout the shutdown, and is a handy source for 
+"Deal 99cent Discount Store",463,"2020-06-22T04:00:00.000Z","(212) 388-1919","Shops & Services",40.725533,-73.987028,"73 1st Ave New York, NY 10003","Yes",,"Deal 99cent Discount store has been open every day throughout the shutdown, and is a handy source for 
 toilet paper, paper towels, selected food & toiletries, sundries, etc.
 ","Dollar Store",,"EVCC","Inbox tip
 ","No online presence","Opened",,"8:30 AM",,"8:30 PM",,,,,,,,,,
@@ -1847,18 +1840,24 @@ SUN: 11:00 AM - 9:00 PM
 ","Computer & Phone Repair",,"EVCC","confirmed by phone call
 
 ",,"Opened","http://www.quickrepairona.com/","9:00 AM","https://www.instagram.com/quickrepairandelectronics/?hl=en","9:00 PM",,,,,,,,,,
-"Ave A Deli & Food",530,"2020-06-17T04:00:00.000Z",,"Groceries",40.72317054,-73.98555483,"24 Avenue A, New York, NY 10009","Yes",,,"Deli ",,"EVCC",,,"Opened",,,,,,,,,,,,,,
+"Ave A Deli & Food",530,"2020-08-18T04:00:00.000Z",,"Groceries",40.72317054,-73.98555483,"24 Avenue A, New York, NY 10009","Yes",,,"Deli ",,"EVCC","laura check
+",,"Opened",,,,,,,,,,,,,,
 "Downtown Florist",531,"2020-06-17T04:00:00.000Z","212-233-4890","Shops & Services",40.72155,-73.98102,"27 Avenue C, New York, NY 10009",,,"Buy online, pickup in store 30% OFF!
 ","Florist",,"EVCC","observed sign ""30% off online orders"" NEED website: is downtown1 on murray st same business?
 ",,"Opened",,,,,,,"Yes",,,,,,,
-"Flordel",532,"2020-06-17T04:00:00.000Z","929-999-4526","Shops & Services",40.722012,-73.982262,"226 E 3rd St, New York, NY 10009","Yes","Yes",,"Florist",,"EVCC",,,"Opened",,,,,,,,,,,,,,
-"Fresno II  Gourmet Deli",533,"2020-08-11T04:00:00.000Z","(212) 253-1500","Groceries",40.72166879,-73.98055745,"31 Avenue C, New York, NY 10009","Yes",,,"Deli ",,"EVCC","salvatore call for hours
+"Flordel",532,"2020-08-18T04:00:00.000Z","929-999-4526","Shops & Services",40.722012,-73.982262,"226 E 3rd St, New York, NY 10009","Yes","Yes",,"Florist",,"EVCC",,,"Opened",,,,,,,,,,,,,,
+"Fresno II  Gourmet Deli",533,"2020-08-18T04:00:00.000Z","(212) 253-1500","Groceries",40.72166879,-73.98055745,"31 Avenue C, New York, NY 10009","Yes",,"open 24/7 
+","Deli ",,"EVCC","Confirmed by phone
+
 ",,"Opened","http://www.fresnodeli2.com",,,,,,,,,,,,,
 "Yoli",534,"2020-07-04T04:00:00.000Z","(212) 420-1075","Restaurants",40.72167885,-73.98039484,"274 E. 3rd Street, New York, NY 10009","Yes",,,"Dominican",,"EVCC",,,"Opened",,"7:00 AM",,"7:00 PM",,,,true,,,,,,
-"Nur Grocery Two",535,"2020-08-11T04:00:00.000Z","(646) 370-5327","Groceries",40.72224,-73.97983,"54 Avenue C, New York, NY 10009","Yes",,,"Deli ",,"EVCC","salvatore check phone (as per google), hours 
+"Nur Grocery Two",535,"2020-08-18T04:00:00.000Z","(646) 370-5327","Groceries",40.72224,-73.97983,"54 Avenue C, New York, NY 10009","Yes",,"Open 24/7
+","Deli ",,"EVCC","Confirmed by phone
+
 ",,"Opened",,,,,,,,,,,,,,
-"Avenue C Laundromat",536,"2020-06-17T04:00:00.000Z","212-388-9933","Laundromat",40.72288,-73.98006,"69 Avenue C, New York, NY 10009","Yes",,,"Laundromat",,"EVCC","pls call for hours
-",,"Opened",,,,,,,,,,,,,,
+"Avenue C Laundromat",536,"2020-08-18T04:00:00.000Z","212-388-9933","Laundromat",40.72288,-73.98006,"69 Avenue C, New York, NY 10009","Yes",,,"Laundromat",,"EVCC","Confirmed by phone
+
+",,"Opened",,"8:00 AM",,"9:00 PM",,,,,,,,,,
 "Your Desire In Food",537,"2020-06-17T04:00:00.000Z","(212) 228-9824","Groceries",40.72406,-73.97898,"226 E 7th St, New York, NY 10009","Yes",,,"Deli ",,"EVCC","pls call for hours
 ",,"Opened",,,,,,,,,,,,,,
 "Yankee Deli",538,"2020-06-17T04:00:00.000Z","(212) 677-7373","Groceries",40.72654128,-73.97693538,"647 E 11th St, New York, NY 10009","Yes",,,"Deli ",,"EVCC","pls call for hours
@@ -1866,8 +1865,9 @@ SUN: 11:00 AM - 9:00 PM
 "Yankee Deli Two",539,"2020-06-17T04:00:00.000Z","(212) 677-8383","Groceries",40.72446,-73.97828,"122 Avenue C, New York, NY 10009","Yes",,"Check out the great buffet!
 ","Deli ",,"EVCC","pls call for hours
 ",,"Opened",,,,,,,,,,,,,,
-"Ave C Food Corp",540,"2020-06-17T04:00:00.000Z","212-466-3354","Groceries",40.72685023,-73.97673539,"185 Avenue C, New York, NY 10009","Yes",,,"Deli ",,"EVCC","pls call for hours
-",,"Opened",,,,,,,,,,,,,,
+"Ave C Food Corp",540,"2020-08-18T04:00:00.000Z","212-466-3354","Groceries",40.72685023,-73.97673539,"185 Avenue C, New York, NY 10009","Yes",,,"Deli ",,"EVCC","Confirmed by phone
+
+",,"Opened",,"6:00 AM",,"2:00 AM",,,,,,,,,,
 "Sal's Deli & Grocery",541,"2020-05-07T04:00:00.000Z","(212) 673-4895","Groceries",40.72893,-73.97869,"216 Avenue B, New York, NY 10009","Yes",,,"Deli ",,"EVCC",,,"Opened",,,,,,,,,,,,,,
 "Guerra Paint & Pigment",542,"2020-06-11T04:00:00.000Z","212-529-0628","Shops & Services",40.72926,-73.9804,"510 E. 13th Street, New York, NY 10009","Yes",,"SAT & SUN: Closed
 ","Artist's Paint",,"EVCC","confirmed by phone 
@@ -2197,7 +2197,7 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
 ",,"Closed","http://www.idlewildcoffeeco.com","7:30 AM","https://www.instagram.com/idlewildcoffeeco/?hl=en","3:30 PM","No",,,,,,,,,
 "Juicy Lucy",633,"2020-06-18T04:00:00.000Z","(212) 777-5829","Restaurants",40.72349,-73.988675,"72 E 1st St, New York, NY 10003","Yes","Yes","**Closed Tuesdays + Wednesdays**
 ","Juice Bar",,"PG","IG is being updated
-",,"Opened","Juicylucyjuice.com","10:00 AM","https://www.instagram.com/juicylucyjuicebar/","6:00 PM",,,,true,,,,,,
+","juicylucy@gogosurfer.com","Opened",,"10:00 AM","https://www.instagram.com/juicylucyjuicebar/","6:00 PM",,,,true,,,,,,
 "Bar Verde",634,"2020-06-17T01:27:00.000Z","(212) 777-6965","Restaurants",40.7260633,-73.9897589,"65 2nd Avenue, New York, NY 10003","Yes","Yes","Open **Mon-Wed**: 2pm-10pm
 **Thurs-Sun**: 1pm-10pm
 ","Mexican,Vegan",,"PG",,,"Opened",,,"https://instagram.com/barverdenyc",,,,,,,,true,,,
@@ -2470,7 +2470,7 @@ SUN: 10:00 AM - 5:00 PM
 "D.L. Cerney",731,"2020-07-17T19:18:00.000Z","212-673-7033","Retail",40.72859,-73.98637,"324 E. 9th Street, New York, NY 10003","Yes",,,"Fashion",,"EVCC",,,"Opened","http://dlcerney.com/","12:00 PM","https://www.instagram.com/p/CCBhoX1glet/","6:00 PM",,,,,,,,,,
 "Love Only",732,"2020-07-17T19:18:00.000Z","917-280-0649","Retail",40.72733,-73.98342,"434 E. 9th Street, New York, NY 10009","Yes",,"SUN: noon - 7:00 PM
 ","Fashion",,"EVCC",,,"Opened","https://www.facebook.com/LoveOnlyNYC/","12:00 PM","https://www.instagram.com/p/CB8bVpBDjCz/","8:00 PM",,,,,,,,,,
-"He Fashion Boutique",733,"2020-07-23T02:58:00.000Z","212-539-0200","Retail",40.72948,-73.98474,"338 E. 11th Street, New York, NY 10003","Yes",,,"Fashion",,"EVCC",,,"Opened","www.hefashionboutique.com","12:00 PM","https://www.instagram.com/hefashionboutique/","6:00 PM",,,,,,,,,,
+"He Fashion Boutique",733,"2020-08-19T02:58:00.000Z","212-539-0200","Retail",40.72948,-73.98474,"338 E. 11th Street, New York, NY 10003","Yes",,,"Jewelry",,"EVCC",,,"Opened","www.hefashionboutique.com","12:00 PM","https://www.instagram.com/hefashionboutique/","6:00 PM",,,,,,,,,,
 "Still House",734,"2020-07-23T02:58:00.000Z","212-539-0200","Retail",40.72906,-73.98669,"307 E. 9th Street, New York, NY 10003","Yes",,"SUN: 11:00 AM - 7:00 PM
 ","Fashion",,"EVCC",,,"Opened","www.stillhousenyc.com","12:00 PM","https://www.instagram.com/stillhousenyc/","8:00 PM",,,,,,,,,,
 "Verameat",735,"2020-07-23T02:58:00.000Z","212-388-9045","Retail",40.72903,-73.98629,"315 E. 9th Street, New York, NY 10003","Yes",,,"Fashion,Jewelry",,"EVCC",,,"Opened","www.verameat.com","12:00 PM","https://www.instagram.com/p/CC4Nuz1AGDP/","8:00 PM",,,,,,,,,,
@@ -2478,7 +2478,7 @@ SUN: 10:00 AM - 5:00 PM
 SUN: Closed
 ","Fashion",,"EVCC",,,"Opened","http://www.selenenyc.com/","11:00 AM","https://www.instagram.com/selenebridalnyc/","7:30 PM",,,,,,,,,,
 "VideoGamesNewYork",738,"2020-07-23T02:58:00.000Z","212-539-1039","Retail",40.728,-73.99048,"202 E. 6th Street, New York, NY 10003","Yes",,,,,"EVCC",,,"Opened","www.videogamesnewyork.com/","10:00 AM","https://www.instagram.com/videogamesnewyork/","8:00 PM",,,,,,,,,,
-"Florist outside of Healthy Market Place",739,"2020-07-10T17:57:00.000Z",,"Retail",40.73075,-73.983478,"217 1st Avenue, New York, NY 10003","Yes",,"via local user: ""Florist outside the Healthy Market Place deli. They have flowers, plants, succulents, and some GORGEOUS orchids. Hours vary, but 7 days a week.""
+"Florist outside of Healthy Market Place",739,"2020-08-18T17:57:00.000Z",,"Shops & Services",40.73075,-73.983478,"217 1st Avenue, New York, NY 10003","Yes",,"via local user: ""Florist outside the Healthy Market Place deli. They have flowers, plants, succulents, and some GORGEOUS orchids. Hours vary, but 7 days a week.""
 ","Florist",,"PG",,,"Opened",,,,,,,,true,,,,,,
 "Rivington Guitars",740,"2020-07-28T18:04:00.000Z","(212) 505-5313","Shops & Services",40.7269,-73.990288,"73 E. 4th Street, New York, NY 10003","Yes",,"MON / WED / FRI only
 ","Music",,"PG",,"Rivingtoninfo@gmail.com","Opened","www.RivingtonGuitars.com","10:00 AM","http://instagram.com/RivingtonGuitars","6:00 PM",,"www.RivingtonGuitars.com",,,,,,,,
@@ -2486,15 +2486,15 @@ SUN: Closed
 ","Ethiopian",,"PG",,,"Opened","https://awashny.com/","4:30 PM",,"9:00 PM",,,,,"https://awashny.com/blog/campaigns/support-awash-ethiopian-restaurant/",,,,,
 "El Diablito Taqueria",743,"2020-07-28T18:04:00.000Z","(646) 692-9268","Restaurants",40.725072,-73.989177,"60 E. 3rd Street, New York, NY 10003","Yes","Yes","SAT & SUN 11:00 AM -11:30 PM
 ","Mexican",,"PG",,,"Opened","http://eldiablitotaqueria.com/","4:00 PM",,"11:30 PM",,,,,,,,,,
-"iSouvlaki",745,"2020-07-29T18:41:00.000Z","(212) 401-5747","Restaurants",40.7322406,-73.988381,"139 E. 12th Street, New York, NY 10003","Yes",,"FRI & SAT: 4:00 PM -11:00 PM
+"iSouvlaki",745,"2020-07-29T18:41:00.000Z","(212) 401-5747","Restaurants",40.7322406,-73.988381,"139 E. 12th Street, New York, NY 10003","Yes","Yes","FRI & SAT: 4:00 PM -11:00 PM
 SUN: 4:00 PM - 10:00 PM
 Delivery begins on Aug. 11.
 
 Highlights from the menu include meritha (assorted platters), loukaniko souvlaki and pork tylikto. There are a variety of Greek salads and vegetarian options available. An assortment of Greek desserts are featured, including sour cherry yogurt and halva. Greek beers and small bottles of wine can also be purchased.
-","Greek",,"PG","laura salvatore add delivery AUG 11
-",,"Opened","http://www.isoulvaki.com","4:00 PM",,"10:00 PM","Yes",,,,,,,,,
+","Greek",,"PG","
+",,"Opened","http://isouvlaki.com/","4:00 PM","https://www.instagram.com/isouvlakinyc/?hl=en","10:00 PM","Yes",,,,,,,,,
 "Hi Collar",747,"2020-07-29T23:51:00.000Z",,"Restaurants",40.72963,-73.98777,"231 E. 9th Street, New York, NY 10003","Yes",,,"Cafe,Japanese",,"EVCC",,,"Opened","https://hicollar.square.site/",,"https://www.instagram.com/hi_collar/?hl=en",,,,,true,,,,,,
-"Healthy Market Place ",748,"2020-08-05T01:03:00.000Z",,"Groceries",,,,,,"AKA Hamptons Food Market?
+"Healthy Market Place ",748,"2020-08-05T01:03:00.000Z",,"Groceries",40.73075,-73.983478,"217 1st Avenue, New York, NY 10003",,,"AKA Hamptons Food Market?
 ","Deli ",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Three Kings Tattoo",749,"2020-07-31T20:43:00.000Z","212-505-8287","Shops & Services",40.72712,-73.98002,"343 E 10th Street, New York, NY 10009","Yes",,,"Tattoo",,"EVCC",,,"Opened","https://www.threekingstattoo.com/","11:00 AM","https://www.instagram.com/p/CB8vbceAIIJ/","9:00 PM",,,,,,,,,,
 "East Side Ink",750,"2020-07-31T20:43:00.000Z","212-477-2060","Shops & Services",40.72453,-73.98127,"95 Avenue B, New York, NY 10009","Yes",,"MON: Closed
@@ -2571,7 +2571,6 @@ New restaurant with cute outdoor space directly underneath the mural & right nex
 ","Meals",,"PG",,,"Opened","http://www.interfaithnyc.com",,,,,,,,,,,,,
 "Manhattan45",784,"2020-08-10T02:59:00.000Z",,"Retail",40.72911,-73.98582,"220 E. 10th Street, New York, NY 10003","Yes",,"TUE - SUN only, online always!		
 ","Music",,"EVCC",,,"Opened",,"1:00 PM",,"8:00 PM",,,,,,,,,,
-"He ",785,"2020-08-10T03:26:00.000Z",,"Retail",40.72948,-73.98474,"338 E 11th St, New York, NY 10003","Yes",,,"Jewelry",,"EVCC",,,"Opened","https://www.hefashionboutique.com/","11:00 AM","https://www.instagram.com/hefashionboutique/","9:00 PM",,,,,,,,,,
 "Perfection Cuts",786,"2020-08-11T23:08:00.000Z","(212) 777-7055","Shops & Services",40.72324,-73.97979,"77 Avenue C, New York, NY 10009","Yes",,"MON: Closed
 THURS: 10:00 AM- 9:00 PM
 FRI: 10:00 AM - 10:00 PM
@@ -2597,7 +2596,7 @@ Sun: 10:00 AM - 11:00 PM
 SUN: 9:00 AM - 9:00 PM
 ","Bakery",,"PG",,,"Opened",,"8:00 AM","https://www.instagram.com/petitchou.nyc/","8:00 PM",,,,,,"Instagram",,,,
 "Lori McLean",794,"2020-08-16T21:02:00.000Z","212-242-3204","Retail",40.72969,-73.98127,"207 Avenue A, New York, NY 10009","Yes",,"MON - WED: Closed
-","Jewelry,Fashion",,"EVCC",,,"Opened","https://www.lorimclean.com/","12:00 PM","https://www.instagram.com/lorimcleanjewelry/","5:00 PM",,,,,,,,,,
+","Jewelry,Fashion",,"EVCC",,,"Opened","https://www.lorimclean.com/","12:00 PM","https://www.instagram.com/lorimcleanjewelry/","5:00 PM",,,"Yes",,,,,,,
 "Studio DuArte",795,"2020-08-16T21:02:00.000Z","212-260-0676 ","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","Yes",,"MON & TUES: Closed
 
 ","Jewelry,Fashion",,"EVCC",,,"Opened","http://studioduarte.com/","1:00 PM","https://www.instagram.com/studio_duarte/?hl=en","6:00 PM",,,,,,,,,,
