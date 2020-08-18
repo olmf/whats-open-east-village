@@ -535,11 +535,11 @@ Confirmed by phone
 "Kapri Cleaners",154,"2020-04-01T04:00:00.000Z","(212) 420-8853","Laundromat",40.722073,-73.984836,"250 E. Houston Street, New York, NY","Yes",,,"Laundromat",,"PG",,,"Opened",,,,,,,,,,,,,,
 "Katz's Deli",155,"2020-04-01T04:00:00.000Z","212-254-2246","Restaurants",40.722115,-73.987526,"205 East Houston Street, New York, NY 10002","Yes","Yes","Mon - Wed: 8:00am - 10:45 pm Thu: -2:45am                                                       Fri: 8:00am - Open all night! Sat: Open all day! Sunday: -10:45pm
 ","Jewish",,"EVCC",,,"Opened","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r",,"https://www.instagram.com/katzsdeli/?hl=en",,,,"Yes",,,,,,,
-"Khiladi NYC",156,"2020-07-29T04:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","Yes","MON - THU: 11:00 AM -10:30 PM, with a break from 2:30 PM -5:30 PM.
-FRI: 11:00 AM - midnight, with a break from 2:30 PM -5:30 PM.
-SAT: 11:30 AM-midnight
+"Khiladi NYC",156,"2020-08-17T04:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","Yes","MON - THU: 11:00 AM -10:30 PM, with a break from 2:30 PM -5:30 PM.
+FRI: 11:00 AM - midnight, with a break from 2:30 PM - 5:30 PM.
+SAT: 11:30 AM- midnight
 SUN: 11:00 AM - 11:00 PM
-Outdoor seating available.
+
 ","Indian",,"EVCC","time is on website 
 ","hello@khiladinyc.com","Opened","http://khiladinyc.com","11:00 AM","https://www.instagram.com/khiladiny/","10:30 PM","Yes","https://squareup.com/gift/MX8T6S1JJ6D5F/order",,true,,,,,,
 "Kimomi Pet",157,"2020-03-31T04:00:00.000Z","646-286-4303","Shops & Services",40.728836,-73.988895,"22 St. Mark's Place, New York, NY",,,,"Pet Supplies & Grooming",,"PL","No info online - need to call 
@@ -1261,7 +1261,7 @@ Outdoor seating is available, in partnership with William Barnacle.
 
 
 ","nycopy@gmail.com","Opened","www.nycc.com","8:30 AM","https://www.instagram.com/eastvillagenycopy/?hl=en","6:00 PM",,,"Yes",,,,,,,
-"4th Street Food Co-op",390,"2020-08-11T04:00:00.000Z","212-674-3623","Groceries",40.726619,-73.990834,"58 East 4th St, New York, NY 10003","Yes","Yes","MON / TUE / THU / FRI: noon - 6:00 PM
+"4th Street Food Co-op",390,"2020-08-17T04:00:00.000Z","212-674-3623","Groceries",40.726619,-73.990834,"58 East 4th St, New York, NY 10003","Yes","Yes","MON / TUE / THU / FRI: noon - 6:00 PM
 WED: 4:00 PM to 7:00 PM
 SAT: 1:00 PM - 5:00 PM
 SUN: noon - 7:00 PM
@@ -1818,7 +1818,8 @@ laura check
 "Villa Cemita",523,"2020-07-29T04:00:00.000Z","(917) 544-3309","Restaurants",40.723878,-73.984946,"50 Avenue A, New York, NY 10009","No","No","Marketplace offers groceries & popular dishes
 ","Mexican",,"EVCC","PERMANENTLY CLOSED		
 ",,"Closed","https://villacemita.com","12:00 PM",,"9:00 PM",,,,true,,,,,,
-"Sheen Brothers",524,"2020-06-17T04:00:00.000Z","(212) 674-8835","Groceries",40.726745,-73.979847,"346 East 10th Street, New York, NY 10009","Yes",,,"Deli ",,"EVCC",,,"Opened",,"8:00 AM",,"8:00 PM",,,,true,,,,,,
+"Sheen Brothers",524,"2020-08-17T04:00:00.000Z","(212) 674-8835","Groceries",40.726745,-73.979847,"346 East 10th Street, New York, NY 10009","Yes",,"SAT & SUN: 7:00 AM - midnight
+","Deli ",,"EVCC",,,"Opened",,"7:00 AM",,"11:00 PM",,,,true,,,,,,
 "Gotham Divers",525,"2020-07-29T04:00:00.000Z","212-780-0879","Shops & Services",40.725665,-73.987598,"125 E. 4th Street, New York, NY 10003",,,"Check Instagram for Jersey shore dives, plus online orders and classes!
 ","Dive Shop","[PADI e-learning courses 25% OFF!]][1]
 
@@ -2124,10 +2125,10 @@ For pickup via online pre-order ONLY
 "Lucy's ",612,"2020-08-05T04:00:00.000Z","(212) 673-3824","Restaurants",40.72715,-73.98313,"135 Avenue A, New York, NY 10009","No",,"CLOSED til Sept 
 ","Bar",,"EVCC","closed til Sept as per sign on door Laura check back
 ",,"Closed",,"4:00 PM",,"10:00 PM",,,,true,,,,,,
-"Best Price ",613,"2020-08-03T04:00:00.000Z","(212) 979-1588","Groceries",40.72371,-73.98814,"197 1st Avenue, New York, NY 10009","Yes",,"SAT: 7:00 AM - midnight
+"Best Price ",613,"2020-08-17T04:00:00.000Z","(212) 979-1588","Groceries",40.72371,-73.98814,"197 1st Avenue, New York, NY 10009","Yes",,"SAT: 7:00 AM - midnight
 SUN: 9:00 AM - 9:00 PM
 ","Deli ",,"EVCC","hours as per sign on door
-",,"Opened","https://best-price-deli-and-grocery.business.site/?utm_source=gmb&utm_medium=referral","6:00 AM",,"12:00 AM",,,,,,,,,,
+",,"Opened","https://best-price-deli-and-grocery.business.site/?utm_source=gmb&utm_medium=referral","6:00 AM",,"12:00 AM",,,,true,,,,,,
 "Soothr",614,"2020-07-28T04:00:00.000Z","212-844-9789","Restaurants",40.73225,-73.98738,"204 E. 13th Street, New York, NY 10003","Yes","Yes","
 ","Thai",,"EVCC","IG is being updated
 ",,"Opened","https://www.soothrnyc.com/","12:00 PM","https://www.instagram.com/soothr_nyc/","10:00 PM","Yes",,,true,,,,,,
@@ -2580,9 +2581,8 @@ Sun: 10:00 AM - 11:00 PM
 "Hairy Lemon",791,"2020-08-13T18:45:00.000Z",,"Restaurants",,,"28 Avenue B, New York, NY 10009","No","No","Liquor license suspended					
 ","Bar",,"EVCC","check back re liquor license
 ",,"Closed","https://www.hairylemonnyc.com/",,,,,,,,,,,,,
-"Petit Chou",793,"2020-08-13T21:22:00.000Z",,"Dessert",40.7311545,-73.9831121,"229 1st Avenue, New York, NY 10003","Yes",,"Monday-Friday: 8am-8pm
-Saturday: 8am-9pm
-Sunday: 9am-9pm
+"Petit Chou",793,"2020-08-13T21:22:00.000Z",,"Dessert",40.7311545,-73.9831121,"229 1st Avenue, New York, NY 10003","Yes",,"SAT: 8:00 AM - 9:00 PM
+SUN: 9:00 AM - 9:00 PM
 ","Bakery",,"PG",,,"Opened",,"8:00 AM","https://www.instagram.com/petitchou.nyc/","8:00 PM",,,,,,"Instagram",,,,
 "Lori McLean",794,"2020-08-16T21:02:00.000Z","212-242-3204","Retail",40.72969,-73.98127,"207 Avenue A, New York, NY 10009","Yes",,"MON - WED: Closed
 ","Jewelry,Fashion",,"EVCC",,,"Opened","https://www.lorimclean.com/","12:00 PM","https://www.instagram.com/lorimcleanjewelry/","5:00 PM",,,,,,,,,,
