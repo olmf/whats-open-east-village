@@ -335,7 +335,7 @@ THUR 12 AM - 7:00 PM CLOSED FRI,SAT,SUN
 SUN: Closed	
 ","Shipping",,"EVCC","Confirmed by phone
 ",,"Opened","www.eastvillagepostal.com","9:30 AM","https://www.instagram.com/eastvillagepostal/","7:00 PM","Yes",,,true,,,,,,
-"East Village Prescription Center",92,"2020-06-17T04:00:00.000Z","212-260-4878","Health",40.723653,-73.985608,"41 Avenue A, New York,NY,10009","Yes","Yes","SUN: closed
+"East Village Prescription Center",92,"2020-08-19T04:00:00.000Z","212-260-4878","Health",40.723653,-73.985608,"41 Avenue A, New York,NY,10009","Yes","Yes","SUN: closed
 Front store closes at 9:30
 Employee reports they have had masks consistently in stock and gloves often in stock.
 ","Pharmacy",,"EVCC","Confirmed by phone
@@ -427,11 +427,13 @@ confirmed by phone call
 "Gem Spa",117,"2020-08-05T04:00:00.000Z","(917)-509-0964","Restaurants",40.728525,-73.988022,"131 2nd Avenue, New York, NY,10003","No","No","Gem Spa is permanently closed, but still taking online orders for artwork & merchandise! 
 ","Cafe",,"EVCC","PERMANENTLY CLOSED
 ",,"Opened","https://gemspanyc.com",,"https://www.instagram.com/besteggcream/",,,,"Yes",,,,,,,
-"Gena's Grill",118,"2020-07-04T04:00:00.000Z","212 473-3700","Restaurants",40.730346,-73.982986,"210 1st Ave, New York, NY,10009","Yes","Yes","
+"Gena's Grill",118,"2020-08-19T04:00:00.000Z","212 473-3700","Restaurants",40.730346,-73.982986,"210 1st Ave, New York, NY,10009","Yes","Yes","
 ","Dominican",,"EVCC","Confirmed by phone
-",,"Opened","http://www.genasgrill.com/","8:00 AM",,"9:30 PM","Yes",,,,,,,,,
-"Gentle Wash Laundromat",119,"2020-06-17T04:00:00.000Z","(212) 673-6886","Laundromat",40.7256846,-73.98399238,"97 Avenue A, New York, NY,10009","Yes",,"Drop-off service and self-wash for now. Won't let you in after 5:30PM. Masks sold here.
-","Laundromat",,"EVCC",,,"Opened",,"8:00 AM",,"8:00 PM",,,,,,,,,,
+",,"Opened","http://www.genasgrill.com/","7:00 AM",,"11:00 PM","Yes",,,,,,,,,
+"Gentle Wash Laundromat",119,"2020-06-17T04:00:00.000Z","(212) 673-6886","Laundromat",40.7256846,-73.98399238,"97 Avenue A, New York, NY,10009","Yes",,"
+","Laundromat",,"EVCC","Confirmed by phone
+
+",,"Opened",,"7:00 AM",,"9:00 PM",,,,,,,,,,
 "Gnocco",120,"2020-08-10T04:00:00.000Z","(212) 677-1913","Restaurants",40.727188,-73.980236,"337 E. 10th Street, New York, NY 10009","Yes",,"
 ","Italian","[Order directly from our website and get 20% Off! -  Promo Code GNOCCO20][1]
 
@@ -1166,9 +1168,10 @@ SUNDAYS CLOSED
 "Maiden Lane",358,"2020-08-11T04:00:00.000Z","646-755-8911","Restaurants",40.726002,-73.980642,"162 Avenue B, New York, NY 10009","Yes","Yes","Liquor license suspended. Serving food and non-alcoholic beverages only
 ","American",,"EVCC","check back re liquor license
 ","gareth@themaidenlane.com","Opened","http://www.themaidenlane.com","9:00 AM","https://instagram.com/themaidenlane?igshid=kh44ev7f64ra","12:00 AM","Yes",,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,
-"Fragrance Shop New York",359,"2020-06-17T04:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003",,,"Thursday 5-7pm, Friday-Saturday 12-4pm
-","Custom Perfume",,"EVCC","survey response
-","fsny92@gmail.com","Opened","fragranceshopnewyork.com",,,,,,"Yes",true,,,,,,
+"Fragrance Shop New York",359,"2020-06-17T04:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003",,,"
+","Custom Perfume",,"EVCC","Confirmed by phone
+
+","fsny92@gmail.com","Opened","fragranceshopnewyork.com","11:00 AM",,"6:00 PM",,,"Yes",true,,,,,,
 "Elliot Mann",360,"2020-07-27T04:00:00.000Z","212-260-9181","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","Yes",,"In-store: noon - 5:00 PM, online orders always!
 ","Fashion","
 ","EVCC","survey response
@@ -1264,15 +1267,15 @@ SUN: 2:30 PM - 7:00 PM
 Confirmed by phone
 
 ","cindy@azaleasnyc.com","Opened","https://www.azaleasnyc.com","12:00 PM","https://www.instagram.com/azaleasnyc/","4:30 PM",,,"Yes",true,,,,,,
-"Foxface",387,"2020-07-03T15:07:00.000Z",,"Restaurants",40.727652,-73.985733,"80 St. Mark's Place, New York, NY 10003","Yes",,"Hours are subject to change, but currently
-Wednesday
+"Foxface",387,"2020-08-19T15:07:00.000Z",,"Restaurants",40.727652,-73.985733,"80 St. Mark's Place, New York, NY 10003","Yes",,"Hours are subject to change, but currently
+MON Closed
 Sandwiches 12:30pm-3:30pm
 Dinner: 5:30pm-9:30pm
 Thu-Sat 12pm-10pm
 
 Outdoor seating is available, in partnership with William Barnacle. 
-","Sandwich",,"survey response","IG is being updated
-","orik@foxface.nyc","Opened","https://foxface-nyc.square.site",,"https://www.instagram.com/foxface_nyc/",,"Yes","https://squareup.com/gift/QQVB9FDKP6JFZ/order",,,,,,,,"recQTPxRUI0aErC4o"
+","Sandwich",,"EVCC","IG is being updated
+","orik@foxface.nyc","Opened","https://foxface-nyc.square.site","12:00 PM","https://www.instagram.com/foxface_nyc/","10:00 PM","Yes","https://squareup.com/gift/QQVB9FDKP6JFZ/order",,,,,,,,"recQTPxRUI0aErC4o"
 "4th Street Copy Center",388,"2020-04-13T04:00:00.000Z","212-466-0871","Shops & Services",40.72692,-73.990593,"65 E. 4th Street",,,,"Copies",,"EVCC","Please call
 ",,"Unknown",,,,,,,,,,,,,,
 "NY Copy Print & Ship Center",389,"2020-08-04T04:00:00.000Z","212-673-5628","Shops & Services",40.728791,-73.98979,"13 E. 7th Street, New York, NY,10003","Yes",,"MON - FRI ONLY
@@ -1851,7 +1854,9 @@ SUN: 11:00 AM - 9:00 PM
 ","Florist",,"EVCC","Confirmed by phone
 
 ",,"Opened",,"10:30 AM ",,"5:00 PM",,,"Yes",,,,,,,
-"Flordel",532,"2020-08-18T04:00:00.000Z","929-999-4526","Shops & Services",40.722012,-73.982262,"226 E 3rd St, New York, NY 10009","Yes","Yes",,"Florist",,"EVCC",,,"Opened",,,,,,,,,,,,,,
+"Flordel",532,"2020-08-18T04:00:00.000Z","929-999-4526","Shops & Services",40.722012,-73.982262,"226 E 3rd St, New York, NY 10009","Yes","Yes",,"Florist",,"EVCC","Confirmed by phone
+
+",,"Opened",,"9:00 AM",,"7:00 PM",,,,,,,,,,
 "Fresno II  Gourmet Deli",533,"2020-08-18T04:00:00.000Z","(212) 253-1500","Groceries",40.72166879,-73.98055745,"31 Avenue C, New York, NY 10009","Yes",,"open 24/7 
 ","Deli ",,"EVCC","Confirmed by phone
 
