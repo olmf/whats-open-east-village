@@ -2582,7 +2582,7 @@ SUN: 11:00 AM - 6:00 PM
 SAT: Closed
 SUN: 10:00 AM - 5:00 PM
 ","Shoe Repair",,"EVCC",,,"Opened",,"8:30 AM",,"7:00 PM",,,,,,,,,,
-"Mace",789,"2020-08-12T00:09:00.000Z","(347) 866-7739","Restaurants",40.72903,-73.98083,"505 E 12th St, New York, NY 10009","Yes",,"MON & TUES: Closed
+"Mace Bar",789,"2020-08-12T00:09:00.000Z","(347) 866-7739","Restaurants",40.72903,-73.98083,"505 E 12th St, New York, NY 10009","Yes",,"MON & TUES: Closed
 
 ","Bar",,"EVCC",,,"Opened","http://www.macenewyork.com/","4:00 PM","https://www.instagram.com/macebarnyc/","10:00 PM",,,,,,,,,,
 "Yuca Bar",790,"2020-08-12T00:50:00.000Z"," (212) 982-9533","Restaurants",40.72627,-73.98376,"111 Avenue A, New York, NY 10009","Yes",,"Thurs: 11:00 AM - 12:00 AM
@@ -2619,7 +2619,9 @@ Health Bucks are here! EBT users -- for every $5 spent in EBT, customers receiv
 ",,,"PG",,,"Opened","https://www.grownyc.org/greenmarket/manhattan/astorplace",,"https://www.instagram.com/grownyc_manhattan/",,,,,,,,,,,
 "Meyhane ",800,"2020-08-18T01:45:00.000Z","(212) 533-4875","Restaurants",40.73016,-73.98644,"166 2nd Avenue, New York, NY 10003","Yes","Yes","SUN: noon - 10:00 PM
 ","Middle Eastern",,"EVCC",,,"Opened","https://www.meyhanekitchen.com/","12:00 PM","https://www.instagram.com/meyhane__mediterranean_nyc/","11:00 PM","Yes",,,,,,,,,
-,801,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+"Villianess",801,"2020-08-20T00:10:00.000Z",,"Retail",40.72765,-73.979073,"181 Avenue B, New York, NY 10009",,,"Second-hand Black designer clothing is BACK!
+","Vintage,Fashion",,"EVCC","reopening 8/25 laura
+",,"Unknown",,"2:00 PM","https://www.instagram.com/villainessnyc/?hl=en","8:00 PM",,,,true,,,,true,,
 ,802,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 ,803,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 "Minca Ramen Factory",804,"2020-08-17T02:44:00.000Z","(212) 505-8001","Restaurants",40.723998,-73.982949,"536 E 5th St, New York, NY 10009","Yes","Yes","Call for hours.
