@@ -1627,11 +1627,11 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 NY NY 10009",,," 	
 ","Hair",,"EVCC","IG is being updated. EV location is PERMANENTLY CLOSING, see LS		
 ","gwenn@parlorhairsalon.com","Opened","http://www.parlorhairsalon.com/east-village","12:00 PM","https://www.instagram.com/parlorbeautyofficial/","9:00 PM",,"http://www.parlorhairsalon.com/book-online","Yes",true,,"http://www.parlorhairsalon.com/east-village",,,,
-"Sabor Y Mexico",478,,"(212) 533-4002","Restaurants",40.728546,-73.984399,"160 1st Avenue, New York, NY 10009","Yes","Yes","MON - THU: ~1:00 PM - 8:30 PM, delivery avail after 3:00 PM
+"Sabor Y Mexico",478,"2020-08-20T01:15:00.000Z","(212) 533-4002","Restaurants",40.728546,-73.984399,"160 1st Avenue, New York, NY 10009","Yes","Yes","MON - THU: ~1:00 PM - 8:30 PM, delivery avail after 3:00 PM
 FRI - SUN: noon - 8:30 PM
 \*\*They prefer orders by phone (212-533-4002)\*\*, but are available on most major apps
 ","Mexican",,"EVCC","by phone
-",,"Opened","https://www.seamless.com/menu/sabor-a-mexico-taqueria-160-1st-ave-new-york/296596","1:00 PM",,"8:30 PM",,,,,,,,,,
+",,"Opened","https://www.seamless.com/menu/sabor-a-mexico-taqueria-160-1st-ave-new-york/296596","1:00 PM","https://www.instagram.com/saboramexico_les/?hl=en","8:30 PM","Yes",,,,,,,,,
 "B-NYC Dollar Plus",479,"2020-08-05T04:00:00.000Z",,"Shops & Services",40.728765,-73.978204,"215 Avenue B, New York, NY 10009","Yes",,"\*\*Closed Sundays\*\*
 
 From tipster: ""Small handy discount store with lots of useful stuff, including disposable gloves, toilet paper, paper towels, soap, household cleaners, cookware, and sundries. Small, but 3-customer limit currently applies for safety's sake.""
@@ -2210,7 +2210,7 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
 "Love Thy Beast",637,"2020-06-26T18:57:00.000Z",,"Retail",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown",,,"https://www.instagram.com/lovethybeast/",,,,,,,,,,,
 "SneakEZ",638,"2020-07-04T18:57:00.000Z","646-801-5606","Retail",40.72734,-73.98307,"440 E. 9th Street, New York, NY 10009","Yes",,"Free shipping on all U.S. Orders!
 ","Fashion",,"EVCC",,,"Opened","https://www.sneakezshop.com","1:00 PM","https://www.instagram.com/sneakezshop","8:00 PM",,,"Yes",,,,,,,
-"White Trash",639,"2020-07-04T18:57:00.000Z","212-598-5956 ","Retail",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003",,,,"Gifts & Home",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
+"White Trash",639,"2020-07-04T18:57:00.000Z","212-598-5956 ","Retail",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003",,,,"Gifts & Home,Vintage",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
 "Lavagna",640,"2020-07-02T18:41:00.000Z","(212) 979-1005","Restaurants",40.72411,-73.982366," 545 E 5th St, New York, NY 10009","Yes","Yes","Open with few outdoor tables Tues-Sunday. Order online on our [website][1] or make a [reservation][2].
 
 
@@ -2512,7 +2512,7 @@ Highlights from the menu include meritha (assorted platters), loukaniko souvlaki
 ","Hair",,"EVCC",,,"Opened",,"11:00 AM","https://www.instagram.com/p/CC_pxlUJRRB/","9:00 PM",,,,,,,,,,
 "Sao Mai",755,"2020-08-05T01:13:00.000Z","(212) 358-8880","Restaurants",40.7304,-73.98364,"203 1st Avenue, New York, NY 10003","Yes",,,"Vietnamese",,"EVCC",,,"Opened",,"12:00 PM","https://www.instagram.com/p/B2Uu2TRnxsT/","10:00 PM",,,,true,,,,,,
 "Angel's Share",756,"2020-08-05T01:15:00.000Z","(212) 777-5415","Restaurants",40.7298,-73.98919,"8 Stuyvesant St, New York, NY 10003","Yes",,,"Japanese",,"EVCC",,,"Opened","https://www.angelssharenyc.com/","3:00 PM","https://www.instagram.com/angelssharenyc/","8:00 PM",,,,true,,,,,,
-"Elisa's Love Bites",757,"2020-08-05T01:17:00.000Z",,"Dessert",40.72754,-73.98302,"441 E 9th St, New York, NY 10009","Yes",,,"Bakery,Gluten Free",,"EVCC","Reopening AUG 6 
+"Elisa's Love Bites",757,"2020-08-20T01:17:00.000Z",,"Dessert",40.72754,-73.98302,"441 E 9th St, New York, NY 10009","Yes",,,"Bakery,Gluten Free",,"EVCC","IG is being updated opened AUG 6 
 ",,"Opened","https://elisaslovebites.com/","11:00 AM","https://www.instagram.com/elisaslovebites/","7:00 PM",,,,true,,,,,,
 "Stranded Records",758,"2020-08-05T01:27:00.000Z","(212) 529-2081","Retail",40.72716,-73.99043,"218 E 5th St, New York, NY 10003","Yes",,"FRI - SUN Only
 ","Music",,"EVCC",,,"Opened","https://www.strandedrecords.com/?fbclid=IwAR2i5VYJaW-8H7N2HhgtNvrJO4uw3iO1g6b-W6bmc6IZD6tp3LyaDscwiUM","12:00 PM","https://www.instagram.com/strandedrecords/?hl=en","6:00 PM",,,,,,,,,,
@@ -2593,14 +2593,15 @@ Sun: 10:00 AM - 11:00 PM
 "Hairy Lemon",791,"2020-08-13T18:45:00.000Z",,"Restaurants",,,"28 Avenue B, New York, NY 10009","No","No","Liquor license suspended					
 ","Bar",,"EVCC","check back re liquor license
 ",,"Closed","https://www.hairylemonnyc.com/",,,,,,,,,,,,,
-"Petit Chou",793,"2020-08-13T21:22:00.000Z",,"Dessert",40.7311545,-73.9831121,"229 1st Avenue, New York, NY 10003","Yes",,"SAT: 8:00 AM - 9:00 PM
+"Petit Chou",793,"2020-08-13T21:22:00.000Z","917-475-1620","Dessert",40.7311545,-73.9831121,"229 1st Avenue, New York, NY 10003","Yes",,"SAT: 8:00 AM - 9:00 PM
 SUN: 9:00 AM - 9:00 PM
-","Bakery",,"PG",,,"Opened",,"8:00 AM","https://www.instagram.com/petitchou.nyc/","8:00 PM",,,,,,"Instagram",,,,
+","Bakery",,"PG","IG is being updated
+",,"Opened",,"8:00 AM","https://www.instagram.com/petitchou.nyc/","8:00 PM",,,,,,,,,,
 "Lori McLean",794,"2020-08-16T21:02:00.000Z","212-242-3204","Retail",40.72969,-73.98127,"207 Avenue A, New York, NY 10009","Yes",,"MON - WED: Closed
-","Jewelry,Fashion",,"EVCC",,,"Opened","https://www.lorimclean.com/","12:00 PM","https://www.instagram.com/lorimcleanjewelry/","5:00 PM",,,"Yes",,,,,,,
+","Jewelry",,"EVCC",,,"Opened","https://www.lorimclean.com/","12:00 PM","https://www.instagram.com/lorimcleanjewelry/","5:00 PM",,,"Yes",,,,,,,
 "Studio DuArte",795,"2020-08-16T21:02:00.000Z","212-260-0676 ","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","Yes",,"MON & TUES: Closed
 
-","Vintage",,"EVCC",,,"Opened","http://studioduarte.com/","1:00 PM","https://www.instagram.com/studio_duarte/?hl=en","6:00 PM",,,,,,,,,,
+","Vintage,Jewelry",,"EVCC",,,"Opened","http://studioduarte.com/","1:00 PM","https://www.instagram.com/studio_duarte/?hl=en","6:00 PM",,,,,,,,,,
 "Howl! Happening Now",796,"2020-08-16T21:02:00.000Z","917-475-1294","Shops & Services",40.72483,-73.99166,"6 E. 1st Street, New York, NY 10003","Yes",,"MON & TUES: Closed
 
 ","Gallery",,"EVCC",,,"Opened","https://www.howlarts.org/","11:00 AM","https://www.instagram.com/howlhappening/","6:00 PM",,,,,,,,,,
@@ -2621,8 +2622,11 @@ Health Bucks are here! EBT users -- for every $5 spent in EBT, customers receiv
 ","Middle Eastern",,"EVCC",,,"Opened","https://www.meyhanekitchen.com/","12:00 PM","https://www.instagram.com/meyhane__mediterranean_nyc/","11:00 PM","Yes",,,,,,,,,
 "Villianess",801,"2020-08-20T00:10:00.000Z",,"Retail",40.72765,-73.979073,"181 Avenue B, New York, NY 10009",,,"Second-hand Black designer clothing is BACK!
 ","Vintage,Fashion",,"EVCC","reopening 8/25 laura
-",,"Unknown",,"2:00 PM","https://www.instagram.com/villainessnyc/?hl=en","8:00 PM",,,,true,,,,true,,
-,802,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+","villainessnyc@gmail.com","Unknown",,"2:00 PM","https://www.instagram.com/villainessnyc/?hl=en","8:00 PM",,,,true,,,,true,,
+"Juke Bar",802,"2020-08-20T00:54:00.000Z",,"Restaurants",40.73109,-73.98551,"196 2nd Avenue, New York, NY 10003","Yes",,"SAT & SUN: 2:00 PM - 11:00 PM
+
+","Bar",,"EVCC","IG is being updated
+","JUKEBARNYC@GMAIL.COM","Opened","http://jukebarnyc.com/","4:00 PM","https://www.instagram.com/jukebarnyc/?hl=en","11:00 PM","Yes",,,,,,,,,
 ,803,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
 "Minca Ramen Factory",804,"2020-08-17T02:44:00.000Z","(212) 505-8001","Restaurants",40.723998,-73.982949,"536 E 5th St, New York, NY 10009","Yes","Yes","Call for hours.
 ","Japanese",,"PG",,,"Opened","http://newyorkramen.com/minca/",,,,"Yes",,,,,,,,,
