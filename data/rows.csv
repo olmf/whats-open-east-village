@@ -265,7 +265,9 @@ MON: Closed
 ","Medical",,"EVCC","Confirmed by phone
 
 ",,"Opened","healthcare.housingworks.org/locations/location-3","10:00 AM","https://www.instagram.com/p/CBQsJtclr2B/","5:00 PM",,,,,,,,,,
-"Dallas BBQ",72,"2020-03-31T04:00:00.000Z","212-777-5574","Restaurants",40.72862,-73.987355,"132 2nd Avenue, New York, NY 10003","Yes","Yes",,"BBQ",,"EVCC",,,"Opened","https://dallasbbq.dineloyal.com/order/location",,"https://www.instagram.com/dallasbbq/",,,,,,,,,,,
+"Dallas BBQ",72,"2020-08-19T04:00:00.000Z","212-777-5574","Restaurants",40.72862,-73.987355,"132 2nd Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: 12:00 PM - 11:00 PM
+","BBQ",,"EVCC","IG is being updated
+",,"Opened","https://dallasbbq.dineloyal.com/order/location","12;00 PM ","https://www.instagram.com/dallasbbq/","10:00 PM","Yes",,,,,,,,,
 "Dan & John's Wings",73,"2020-08-19T04:00:00.000Z","888-977-9464 ","Restaurants",40.727824,-73.985394,"135 1st Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 4:00 PM - 11:00 PM
 SUN: 4:00 PM - 9:00 PM
 ","Wings",,"EVCC","Confirmed by phone
@@ -1627,11 +1629,10 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 NY NY 10009",,," 	
 ","Hair",,"EVCC","IG is being updated. EV location is PERMANENTLY CLOSING, see LS		
 ","gwenn@parlorhairsalon.com","Opened","http://www.parlorhairsalon.com/east-village","12:00 PM","https://www.instagram.com/parlorbeautyofficial/","9:00 PM",,"http://www.parlorhairsalon.com/book-online","Yes",true,,"http://www.parlorhairsalon.com/east-village",,,,
-"Sabor Y Mexico",478,"2020-08-20T01:15:00.000Z","(212) 533-4002","Restaurants",40.728546,-73.984399,"160 1st Avenue, New York, NY 10009","Yes","Yes","MON - THU: ~1:00 PM - 8:30 PM, delivery avail after 3:00 PM
-FRI - SUN: noon - 8:30 PM
+"Sabor A Mexico",478,"2020-08-20T01:15:00.000Z","(212) 533-4002","Restaurants",40.728546,-73.984399,"160 1st Avenue, New York, NY 10009","Yes","Yes","FRI - SUN: noon - 10:00 PM (takeout til 11:00 PM)
 \*\*They prefer orders by phone (212-533-4002)\*\*, but are available on most major apps
-","Mexican",,"EVCC","by phone
-",,"Opened","https://www.seamless.com/menu/sabor-a-mexico-taqueria-160-1st-ave-new-york/296596","1:00 PM","https://www.instagram.com/saboramexico_les/?hl=en","8:30 PM","Yes",,,,,,,,,
+","Mexican",,"EVCC","IG is being updated
+",,"Opened",,"1:00 PM","https://www.instagram.com/saboramexico_les/?hl=en","10:00 PM","Yes",,,true,,,,,,
 "B-NYC Dollar Plus",479,"2020-08-05T04:00:00.000Z",,"Shops & Services",40.728765,-73.978204,"215 Avenue B, New York, NY 10009","Yes",,"\*\*Closed Sundays\*\*
 
 From tipster: ""Small handy discount store with lots of useful stuff, including disposable gloves, toilet paper, paper towels, soap, household cleaners, cookware, and sundries. Small, but 3-customer limit currently applies for safety's sake.""
@@ -2168,54 +2169,51 @@ Order online or call directly please!
 "Au Za'atar",621,"2020-07-27T04:00:00.000Z","212-254-5660","Restaurants",40.728885,-73.981166,"188 Avenue A, New York, NY 10009","Yes","Yes","
 ","Middle Eastern",,"EVCC","IG is being updated
 ",,"Opened","https://auzaatar.com","11:00 AM","https://www.instagram.com/auzaatar/","11:00 PM","Yes",,,true,,,,,,
-"The Hard Swallow",622,"2020-06-07T03:39:00.000Z","(212) 256-0124","Restaurants",40.727837,-73.984873,"140 1st Avenue, New York, NY 10009","Yes",,"Offering take-home drinks and hot dogs as of 6/6. [Profile in VICE about the owners][1].
-
-  [1]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE2bm04-7pAhUYmHIEHZ1TDdIQFjAMegQICBAB&url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2F8845y3%2Fthe-life-death-and-rebirth-of-new-york-citys-most-resilient-dive-bar&usg=AOvVaw23fPo9WZIjhG-Z2jMtgD1x
-","Bar",,"PG",,,"Opened","http://thehardswallownyc.com","12:00 PM","https://www.instagram.com/thehardswallownyc/","7:00 PM",,,,true,,,,true,,
-"Big Bar",623,"2020-06-07T03:39:00.000Z","(212) 777-6969","Restaurants",40.727589,-73.986427,"75 E 7th St, New York, NY 10003","Yes",,"Open weekend of 6/6-6/7. Call to confirm open status on future dates.
-","Bar",,"PG",,,"Opened",,"12:00 PM","https://www.instagram.com/bigbarnewyork/","5:00 PM",,,,,,,,,,
-"Papilles",624,"2020-06-07T03:39:00.000Z","(646) 850-5345","Restaurants",40.726451,-73.983991,"127 E 7th St, New York, NY 10009","Yes","Yes","Offering a three-course meal on select nights. More info [here][1]. 
+"The Hard Swallow",622,"2020-08-20T03:39:00.000Z","(212) 256-0124","Restaurants",40.727837,-73.984873,"140 1st Avenue, New York, NY 10009","Yes",,"THU - SAT: noon - 11:00 PM
+SUN: Closed
+","Bar",,"EVCC",,,"Opened","http://thehardswallownyc.com","12:00 PM","https://www.instagram.com/thehardswallownyc/","10:00 PM",,,,true,,,,true,,
+"Big Bar",623,"2020-08-20T03:39:00.000Z","(212) 777-6969","Restaurants",40.727589,-73.986427,"75 E 7th St, New York, NY 10003","Yes",,"MON & TUE: Closed
+","Bar",,"EVCC",,,"Opened",,"5:00 PM","https://www.instagram.com/bigbarnewyork/","11:00 PM","Yes",,,,,,,,,
+"Papilles",624,"2020-08-20T03:39:00.000Z","(646) 850-5345","Restaurants",40.726451,-73.983991,"127 E 7th St, New York, NY 10009","No","No","Closed til early September.
+Offering a three-course meal on select nights. More info [here][1]. 
 
   [1]: https://app.upserve.com/s/papilles-new-york
-","French",,"PG",,,"Opened","http://www.papillesrestaurant.com/",,"https://www.instagram.com/papillesnyc/",,,,,,,,,,,
-"Kindred",625,"2020-07-04T03:39:00.000Z",,"Restaurants",40.726456,-73.986668,"342 E 6th St, New York, NY 10003","Yes","Yes","Kindred Spirits & Provisions, offering a variety of to-go items. More details  [here][1]. 
-
-Open 7 days a week.
-**Mon-Fri**: 4pm-11pm
-**Sat-Sun**: 12pm-11pm
-
-  [1]: https://www.kindredspiritsandprovisions.com/
-","Mediterranean",,"PG",,,"Opened",,,"https://www.instagram.com/kindred_nyc/",,,,,true,,,,,,
+","French",,"EVCC","closed til early Sept laura	
+",,"Closed","http://www.papillesrestaurant.com/",,"https://www.instagram.com/papillesnyc/",,,,,,,"https://www.instagram.com/p/CC_t_PjjdJd/",,,,
+"Kindred",625,"2020-08-20T03:39:00.000Z",,"Restaurants",40.726456,-73.986668,"342 E 6th St, New York, NY 10003","Yes","Yes","SAT: 4:00 PM - 10:30 PM
+SUN: 4:00 PM - 10:00 PM
+","Mediterranean",,"EVCC","IG is being updated
+",,"Opened",,"5:00 PM","https://www.instagram.com/kindred_nyc/","10:30 PM","Yes",,,true,,,,,,
 "Fruit Stand",626,"2020-06-08T01:49:00.000Z",,"Groceries",40.726333,-73.986154,"Corner Of 1st Ave And 6th At New York, NY 10009","Yes",,,,,"PG",,,"Opened",,,,,,,,,,,,,,
 "Forsythia",628,"2020-06-16T21:06:00.000Z","646.450.5406","Restaurants",40.726484,-73.984972,"104 E. 7th Street New York, NY 10009","Yes","Yes","3 course dinners to prep at home in 20 mins or less. **Closed Sundays. **Pickup from 4:30PM-7:30PM. Delivery from 5PM-8PM.
 
 ","Italian",,"PG","Temp pop-up
 ","info@forsythianyc.com","Opened","https://www.forsythianyc.com",,"https://www.instagram.com/forsythia_nyc/",,,,,,,,,,,
-"Horus Cafe on A",630,"2020-06-14T05:04:00.000Z","(212) 228-4774","Restaurants",40.72792,-73.98195,"293 E 10th St, New York, NY 10009","Yes",,,"Middle Eastern",,"EVCC",,,"Opened","http://www.horusona.com","11:00 AM","https://www.instagram.com/horuscafeona/","10:00 PM",,,,,,,,,,
+"Horus Cafe on A",630,"2020-08-19T05:04:00.000Z","(212) 228-4774","Restaurants",40.72792,-73.98195,"293 E 10th St, New York, NY 10009","Yes",,,"Middle Eastern",,"EVCC","IG is being updated Hookah
+",,"Opened","http://www.horusona.com","9:00 AM","https://www.instagram.com/horuscafeona/","11:00 PM","Yes",,,,,"http://www.horuscafeona.com/",,,,
 "Trinity SAFH",631,"2020-06-14T05:15:00.000Z","(212) 228-5254","Free Food",40.72604,-73.980186,"602 E 9th St, New York, NY 10009","Yes",,"Lunch M-F: 11:00 AM - 12:00 PM
 Food Pantry M-F: 12:30 PM - 1:30 PM
 ",,,"EVCC",,"alex@safhnyc.org","Opened","http://safhnyc.org",,"https://www.instagram.com/trinitysafh/",,,,,,"https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=133401340&vlrStratCode=hamQxxwwezV9ZPtytYki0bly4RCfUMxKmB%2fZhn8DYUgDayIHxFeLbSZEPhO%2fM1vL",,true,,,
 "Idlewild Coffee",632,"2020-08-06T15:12:00.000Z",,"Restaurants",40.72662,-73.98886,"300 E. 5th Street, New York, NY 10003","No",,"PERMANENTLY CLOSED as of 8/4/20
 ","Cafe",,"PG","PERMANENTLY CLOSED
-",,"Closed","http://www.idlewildcoffeeco.com","7:30 AM","https://www.instagram.com/idlewildcoffeeco/?hl=en","3:30 PM","No",,,,,,,,,
-"Juicy Lucy",633,"2020-06-18T04:00:00.000Z","(212) 777-5829","Restaurants",40.72349,-73.988675,"72 E 1st St, New York, NY 10003","Yes","Yes","**Closed Tuesdays + Wednesdays**
+",,"Closed","http://www.idlewildcoffeeco.com","7:30 AM","https://www.instagram.com/idlewildcoffeeco/?hl=en","3:30 PM",,,,,,,,,,
+"Juicy Lucy",633,"2020-08-19T04:00:00.000Z","(212) 777-5829","Restaurants",40.72349,-73.988675,"72 E 1st St, New York, NY 10003","Yes","Yes","**Closed Tuesdays + Wednesdays**
 ","Juice Bar",,"PG","IG is being updated
 ","juicylucy@gogosurfer.com","Opened",,"10:00 AM","https://www.instagram.com/juicylucyjuicebar/","6:00 PM",,,,true,,,,,,
-"Bar Verde",634,"2020-06-17T01:27:00.000Z","(212) 777-6965","Restaurants",40.7260633,-73.9897589,"65 2nd Avenue, New York, NY 10003","Yes","Yes","Open **Mon-Wed**: 2pm-10pm
-**Thurs-Sun**: 1pm-10pm
-","Mexican,Vegan",,"PG",,,"Opened",,,"https://instagram.com/barverdenyc",,,,,,,,true,,,
-"Meg",636,"2020-07-04T21:26:00.000Z","(212) 260-6329","Retail",40.728844,-73.986685,"312 E 9th St, New York, NY 10003","Yes",,"WED - SAT
+"Bar Verde",634,"2020-08-20T01:27:00.000Z","(212) 777-6965","Restaurants",40.7260633,-73.9897589,"65 2nd Avenue, New York, NY 10003","Yes","Yes","THU - SUN: noon - 11:00 PM
+","Mexican,Vegan",,"PG",,,"Opened","https://www.matthewkenneycuisine.com/bar-verde","1:00 PM ","https://instagram.com/barverdenyc","11:00 PM","Yes",,,,,,true,,,
+"Meg",636,"2020-08-19T21:26:00.000Z","(212) 260-6329","Retail",40.728844,-73.986685,"312 E 9th St, New York, NY 10003","Yes",,"TUE - SAT
+SUN & MON: Closed
 ","Fashion",,"EVCC","IG is being updated
-",,"Opened","https://www.megshops.com","1:00 PM","https://www.instagram.com/megshop/","5:00 PM",,,,true,,,,,,
+",,"Opened","https://www.megshops.com","11:00 AM","https://www.instagram.com/megshop/","7:00 PM",,,,true,,,,,,
 "Love Thy Beast",637,"2020-06-26T18:57:00.000Z",,"Retail",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown",,,"https://www.instagram.com/lovethybeast/",,,,,,,,,,,
 "SneakEZ",638,"2020-07-04T18:57:00.000Z","646-801-5606","Retail",40.72734,-73.98307,"440 E. 9th Street, New York, NY 10009","Yes",,"Free shipping on all U.S. Orders!
 ","Fashion",,"EVCC",,,"Opened","https://www.sneakezshop.com","1:00 PM","https://www.instagram.com/sneakezshop","8:00 PM",,,"Yes",,,,,,,
-"White Trash",639,"2020-07-04T18:57:00.000Z","212-598-5956 ","Retail",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003",,,,"Gifts & Home,Vintage",,"EVCC",,,"Unknown",,,,,,,,,,,,,,
-"Lavagna",640,"2020-07-02T18:41:00.000Z","(212) 979-1005","Restaurants",40.72411,-73.982366," 545 E 5th St, New York, NY 10009","Yes","Yes","Open with few outdoor tables Tues-Sunday. Order online on our [website][1] or make a [reservation][2].
-
-
-  [1]: https://app.upserve.com/s/lavagna-new-york
-  [2]: http://www.opentable.com/lavagna-reservations-new-york?rtype=ism&restref=38509
+"White Trash",639,"2020-08-19T18:57:00.000Z","212-598-5956 ","Retail",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003","Yes",,"Online always! or by appointment
+","Gifts & Home,Vintage",,"EVCC","IG is being updated
+",,"Opened","https://www.whitetrashnyc.com/",,"https://www.instagram.com/whitetrashnyc/",,,,,,,,,,,
+"Lavagna",640,"2020-08-19T18:41:00.000Z","(212) 979-1005","Restaurants",40.72411,-73.982366," 545 E 5th St, New York, NY 10009","Yes","Yes","SUN: 1:00 PM - 10:00 PM
+\*\*\*order from our website\*\*\*
 ","Italian",,"PG",,,"Opened","https://www.lavagnanyc.com","5:00 PM","https://www.instagram.com/lavagna_restaurant/","10:00 PM","Yes",,,,,,,,,
 "Yonah Schimmel's Knish Bakery",641,"2020-07-02T17:45:00.000Z"," (212) 477-2858","Restaurants",40.723158,-73.990137,"137 E Houston St, New York, NY 10002","Yes",,,"Jewish,Bakery,Deli ",,"PG",,,"Opened","http://knishery.com","10:00 AM","https://www.instagram.com/yonahschimmel/","7:00 PM",,,"Yes",,,,,,,
 "Nomad",642,"2020-07-29T18:37:00.000Z","(212) 253-5410","Restaurants",40.726541,-73.98892,"78 2nd Ave, New York, NY 10003","Yes",,"15% off if you order directly from their [site][1]. Also offering menu items from now-closed Cucina di Pesce. Recent loving profile on Nomad [here][2].
@@ -2223,7 +2221,7 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
   [1]: http://nomadny.com
   [2]: https://heated.medium.com/this-algerian-restaurant-has-everything-diners-want-4b7d6fd8ce76
 ","Algerian",,"PG",,,"Opened","http://nomadny.com",,"https://www.instagram.com/nomadrestaurantny/",,,,,,,,,,,
-"9th Street Vintage",643,"2020-07-02T18:10:00.000Z","(917) 265-8833","Retail",40.728275,-73.98558,"346 E 9th St, New York, NY 10003","Yes",,"Open Wednesday-Saturday or by appointment Mondays and Tuesdays. Currently offering 20% off on [site store][1]. Mask required for entry.
+"9th Street Vintage",643,"2020-07-02T18:10:00.000Z","(917) 265-8833","Retail",40.728275,-73.98558,"346 E 9th St, New York, NY 10003","Yes",,"Open Wednesday-Saturday or by appointment Mondays and Tuesdays. Currently offering 20% off on [site store][1]. 
 
   [1]: https://www.9thstvintage.com/shop
 ","Vintage",,"PG",,"Info@9thstvintage.com ","Opened","https://www.9thstvintage.com/shop","12:00 PM","https://www.instagram.com/p/CB8cQPTg4r_/","5:00 PM",,,,,,,,,,
@@ -2470,7 +2468,7 @@ SUN: 10:00 AM - 5:00 PM
 "City Fun",730,"2020-07-17T19:18:00.000Z","646-360-4147","Retail",40.7245,-73.98779,"45 1st Avenue, New York, NY 10003","Yes",,"SUN: noon - 6:00 PM
 ","Fashion",,"EVCC","
 ",,"Opened","https://city-fun.business.site/","12:00 PM","https://www.instagram.com/p/CBrCsAxjixO/","7:00 PM",,,,,,,,,,
-"D.L. Cerney",731,"2020-07-17T19:18:00.000Z","212-673-7033","Retail",40.72859,-73.98637,"324 E. 9th Street, New York, NY 10003","Yes",,,"Fashion",,"EVCC",,,"Opened","http://dlcerney.com/","12:00 PM","https://www.instagram.com/p/CCBhoX1glet/","6:00 PM",,,,,,,,,,
+"D.L. Cerney",731,"2020-08-19T19:18:00.000Z","212-673-7033","Retail",40.72859,-73.98637,"324 E. 9th Street, New York, NY 10003","Yes",,,"Fashion",,"EVCC",,,"Opened","http://dlcerney.com/","12:00 PM","https://www.instagram.com/p/CCBhoX1glet/","8:00 PM",,,,,,,,,,
 "Love Only",732,"2020-07-17T19:18:00.000Z","917-280-0649","Retail",40.72733,-73.98342,"434 E. 9th Street, New York, NY 10009","Yes",,"SUN: noon - 7:00 PM
 ","Fashion",,"EVCC",,,"Opened","https://www.facebook.com/LoveOnlyNYC/","12:00 PM","https://www.instagram.com/p/CB8bVpBDjCz/","8:00 PM",,,,,,,,,,
 "He Fashion Boutique",733,"2020-08-19T02:58:00.000Z","212-539-0200","Retail",40.72948,-73.98474,"338 E. 11th Street, New York, NY 10003","Yes",,,"Jewelry",,"EVCC",,,"Opened","www.hefashionboutique.com","12:00 PM","https://www.instagram.com/hefashionboutique/","6:00 PM",,,,,,,,,,
@@ -2554,7 +2552,7 @@ FRI & SAT: 5:00 PM - 2:00 AM
 "Manhattan45",774,"2020-08-12T00:34:00.000Z","646-649-4938","Retail",40.729111,-73.985817,"220 E. 10th Street, New York, NY 10003","Yes",,"TUE - SAT Only
 SUN & MON: Closed
 ","Records",,"EVCC",,,"Opened","http://www.manhattan45.com/","1:00 PM","https://www.instagram.com/m45records/","8:00 PM",,,,,,,,,,
-"Pinky's Space",775,"2020-08-07T16:14:00.000Z","(917) 960-9969","Restaurants",40.7236,-73.98879,"70 E 1st St, New York, NY 10003","Yes",,"SUN: 10:00 AM - 10:00 PM
+"Pinky's Space",775,"2020-08-19T16:14:00.000Z","(917) 960-9969","Restaurants",40.7236,-73.98879,"70 E 1st St, New York, NY 10003","Yes",,"SUN: 10:00 AM - 10:00 PM
 ",,,"EVCC",,,"Opened","https://pinkys.space/","12:00 PM","https://www.instagram.com/pinkysspace/","12:00 AM","Yes",,,,,,,,,
 "Fun City Tattoo",776,"2020-08-07T18:22:00.000Z","(212) 353-8282","Shops & Services",40.72723,-73.98499,"94 St Marks Pl, New York, NY 10002","Yes",,,"Tattoo",,"EVCC",,,"Opened","https://www.funcitytattoo.com/","12:00 PM","https://www.instagram.com/funcitytattoo/","10:00 PM",,,,,,,,,,
 "Auriga Cafe",777,"2020-08-07T18:39:00.000Z","(646) 669-7231","Restaurants",40.72917,-73.98088,"198 Avenue A, New York, NY 10009","Yes",,,"American",,"EVCC",,,"Opened","https://www.aurigacafe.com/","12:00 PM","https://www.instagram.com/auriga_cafe/","9:00 PM","Yes",,,,,,,,,
@@ -2627,6 +2625,8 @@ Health Bucks are here! EBT users -- for every $5 spent in EBT, customers receiv
 
 ","Bar",,"EVCC","IG is being updated
 ","JUKEBARNYC@GMAIL.COM","Opened","http://jukebarnyc.com/","4:00 PM","https://www.instagram.com/jukebarnyc/?hl=en","11:00 PM","Yes",,,,,,,,,
-,803,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,
+"East Village Physical Medicine",803,"2020-08-20T01:57:00.000Z","212-260-2213","Health",40.72855,-73.98888,"33 E. 7th Street, New York, NY 10003","Yes",,"By appointment 
+","Medical",,"EVCC","IG is being updated
+",,"Opened","http://eastvillagechiropractic.com/",,"https://www.instagram.com/evillagephysmed/",,,,,,,,,,,
 "Minca Ramen Factory",804,"2020-08-17T02:44:00.000Z","(212) 505-8001","Restaurants",40.723998,-73.982949,"536 E 5th St, New York, NY 10009","Yes","Yes","Call for hours.
 ","Japanese",,"PG",,,"Opened","http://newyorkramen.com/minca/",,,,"Yes",,,,,,,,,
