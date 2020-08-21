@@ -458,12 +458,12 @@ confirmed by phone call
 ",,"Opened","https://www.grapeandgrainnyc.com/","2:00 PM","https://www.instagram.com/grapeandgrainnyc/","10:00 PM","Yes","https://squareup.com/gift/T5853W8RTSRN9/order",,true,,,,,,
 "Gruppo",124,"2020-08-17T04:00:00.000Z","212-995-2100","Restaurants",40.724773,-73.981695,"98 Avenue B, New York, NY 10009","Yes","Yes","No cash for now, please.
 ","Pizza",,"EVCC",,,"Opened","https://www.nycthincrust.com/location/gruppo-thin-crust/","4:00 PM","https://www.instagram.com/gruppothincrust/","9:00 PM","Yes",,,,,,,,,
-"Guac",125,"2020-03-31T04:00:00.000Z",,"Restaurants",40.727593,-73.979104,"179 Avenue B, New York, NY 10009","No","No","Guac has closed per Yelp (confirmed by owner's message)
+"Guac",125,"2020-03-31T04:00:00.000Z",,"Restaurants",40.727593,-73.979104,"179 Avenue B, New York, NY 10009","No","No","confirmed by owner's message
 ","Mexican",,"PL",,,"Closed",,,,,,,"No",,,"https://www.yelp.com/biz/guac-and-jazzo-manhattan-2",,,,
-"H & W Hardware",126,"2020-03-31T04:00:00.000Z","212-477-2840","Shops & Services",40.730724,-73.98272,"220 1st Avenue, New York, NY",,,,"Hardware",,"PL","No info online - need to call
-",,"Unknown",,,,,,,,,,,,,,
+"H & W Hardware",126,"2020-08-20T04:00:00.000Z","212-477-2840","Shops & Services",40.730724,-73.98272,"220 1st Avenue, New York, NY","Yes",,,"Hardware",,"EVCC","No info online - need to call
+",,"Opened",,,,,,,,,,,,,,
 "H Mart",127,"2020-03-31T04:00:00.000Z","646-596-7755","Groceries",40.730284,-73.988951,"35 3rd Avenue, New York City",,,,"Specialty Market,Korean",,"PL","No info online - need to call
-",,"Unknown",,,,,,,,true,,,,,,
+",,"Unknown","https://asianmart.com/",,"https://www.instagram.com/hmartatnyu/?hl=en",,,,,true,,,,,,
 "H. Brickman & Son Hardware",128,"2020-04-16T04:00:00.000Z","212-674-3213","Shops & Services",40.725039,-73.987557,"55 1st Avenue, New York, NY,10003","Yes",,"SAT-8AM-7PM, SUN-10AM-7PM
 Whatsapp user on 4/22/20 was able to purchase \*\*nitrile gloves\*\* here.
 ","Hardware",,"EVCC","IG is being updated
@@ -1261,7 +1261,7 @@ SUN: 2:30 PM - 7:00 PM
 ","Stationery",,"EVCC","Confirmed by phone
 
 ",,"Opened","https://www.caseyrubberstamps.com","2:00 PM","https://www.instagram.com/caseysrubberstamps/","8:00 PM",,,"Yes",,,,,,,
-"Azaleas",386,"2020-08-18T04:00:00.000Z","212-228-5842","Retail",40.728911,-73.987196,"140 2nd Avenue, New York, NY 10003","Yes",,"SUN: closed, 	online orders always!
+"Azaleas",386,"2020-08-18T04:00:00.000Z","212-228-5842","Retail",40.728911,-73.987196,"140 2nd Avenue, New York, NY 10003","Yes",,"SUN: closed,	online orders always!
 ","Fashion","code summer30 for 30 % off
 ","EVCC","IG is being updated
 Confirmed by phone
@@ -1931,10 +1931,10 @@ laura check hours
 "Sahara East",556,"2020-08-11T04:00:00.000Z","212-353-9000","Restaurants",40.72945,-73.98363,"184 1st Avenue, New York, NY 10009","Yes","Yes","SAT & SUN: 4:00 PM - 1:00 AM
 ","Middle Eastern",,"EVCC","confirmed by phone 
 ",,"Opened",,"3:00 ","https://www.instagram.com/saharaeastnyc/?hl=en","12:00 ","Yes",,,,,,,,,
-"Caravan of Dreams",557,"2020-08-17T04:00:00.000Z","(212) 254-1613","Restaurants",40.726385,-73.985663,"405 E 6th St, New York, NY 10009","Yes","Yes","
+"Caravan of Dreams",557,"2020-08-17T04:00:00.000Z","(212) 254-1613","Restaurants",40.726385,-73.985663,"405 E 6th St, New York, NY 10009","Yes","Yes","TUE & WED: 2:00 PM - 10:30 PM
 ","Vegan",,"EVCC","Confirmed by phone
 
-",,"Opened","http://caravanofdreams.net/","4:00 PM","https://www.instagram.com/caravanofdreamsny/","10:30 PM","Yes",,,,,,,,,
+",,"Opened","http://caravanofdreams.net/","2:00 PM","https://www.instagram.com/caravanofdreamsny/","10:30 PM","Yes",,,,,,,,,
 "Strings Ramen",558,"2020-08-11T04:00:00.000Z","(646) 609-6029","Restaurants",40.730833,-73.985757,"188 2nd Ave, New York, NY 10003","Yes","Yes","
 ","Japanese",,"EVCC","confirmed by phone 
 ","stringseastvillage@gmail.com","Opened","https://www.ramenchicago.com/","12:00 PM","https://www.instagram.com/stringsramen/?hl=en","9:00 PM","Yes",,,true,,,,,,
@@ -1951,8 +1951,9 @@ laura check hours
 "16 Handles",562,"2020-08-04T04:00:00.000Z","212-260-4414","Dessert",40.72961,-73.98719,"153 2nd Avenue, New York, NY 10003","Yes","Yes",,"Ice Cream",,"EVCC","IG is being updated
 confirmed by phone call
 ",,"Opened","https://order.16handles.com/location/East-Village","12:00 PM","https://www.instagram.com/16handles/?hl=en","10:00 PM",,,,,,,,,,
-"Calexico",563,"2020-08-05T04:00:00.000Z","(646) 590-1466","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY, 10003","Yes","Yes","
-","Mexican",,"EVCC","confirmed by phone call 
+"Calexico",563,"2020-08-20T04:00:00.000Z","(646) 590-1466","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY, 10003","Yes","Yes","
+","Mexican","50% OFF your next online order with code TACOTIME 
+","EVCC","confirmed by phone call 
 
 ","eastvillage@calexico.com","Opened","https://www.calexico.com","12:00 PM","https://www.instagram.com/calexiconyc/?hl=en","9:00 PM","Yes",,,,,,,,,
 "Brick Lane Curry House",564,"2020-08-05T04:00:00.000Z","212-979-2900","Restaurants",40.72662,-73.98939,"79 2nd Avenue, New York, NY 10003","Yes","Yes",,"Indian",,"EVCC","confirmed by phone call 
@@ -2631,5 +2632,9 @@ Health Bucks are here! EBT users -- for every $5 spent in EBT, customers receiv
 "East Village Physical Medicine",803,"2020-08-20T01:57:00.000Z","212-260-2213","Health",40.72855,-73.98888,"33 E. 7th Street, New York, NY 10003","Yes",,"By appointment 
 ","Medical",,"EVCC","IG is being updated
 ",,"Opened","http://eastvillagechiropractic.com/",,"https://www.instagram.com/evillagephysmed/",,,,,,,,,,,
-"Minca Ramen Factory",804,"2020-08-17T02:44:00.000Z","(212) 505-8001","Restaurants",40.723998,-73.982949,"536 E 5th St, New York, NY 10009","Yes","Yes","Call for hours.
-","Japanese",,"PG",,,"Opened","http://newyorkramen.com/minca/",,,,"Yes",,,,,,,,,
+"Minca Ramen Factory",804,"2020-08-17T02:44:00.000Z","(212) 505-8001","Restaurants",40.723998,-73.982949,"536 E 5th St, New York, NY 10009","Yes","Yes","
+","Japanese",,"PG",,,"Opened","http://newyorkramen.com/minca/",,"https://www.instagram.com/minca_nyramen/?hl=en",,"Yes",,,,,,,,,
+"Brasserie Saint Marc",805,"2020-08-21T01:24:00.000Z","(212) 548-3959","Restaurants",40.7286,-73.98709,"136 2nd Avenue, New York, NY 10003","Yes","Yes",,"French",,"EVCC","EVCC confirmed		
+","Contact@brasseriesaintmarc.com","Opened","https://www.brasseriesaintmarc.com/",,"https://www.instagram.com/brasseriesaintmarcnyc/?hl=en",,"Yes",,,,,,,,,
+"The 13th Step",806,"2020-08-21T01:43:00.000Z","(212) 228-8020","Restaurants",40.72956,-73.98743,"149 2nd Avenue, New York, NY 10003","Yes",,,"Bar",,"EVCC","IG is being updated
+",,"Opened","http://13thstep.eatdrinkandbemerry.com/",,"https://www.instagram.com/the13thstepnyc/?hl=en",,"Yes",,,,,,,,,
