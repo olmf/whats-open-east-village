@@ -1,4 +1,4 @@
-"Name","id","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Sub Category","Special Offers","Contributor","Spreadsheet Update Notes","Email","Status","Last modified by","Website","Open Time","Instagram","Close Time","Outside Seating Offered","Giftcard","Shipping Offered","MWBE","Fundraiser","Source","LGBTQ","Black Owned Business","Special Accommodation Hours","Update Requests"
+"Name","id","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Sub Categories","Special Offers","Contributor","Spreadsheet Update Notes","Email","Status","Last modified by","Website","Open Time","Instagram","Close Time","Outside Seating Offered","Giftcard","Shipping Offered","MWBE","Fundraiser","Source","LGBTQ","Black Owned Business","Special Accommodation Hours","Update Requests"
 "10th St & Avenue C Liquor",1,"2020-06-02T04:00:00.000Z","212-995-8200","Shops & Services",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","Call ahead
 ","Wine","
 ","EVCC","They keep random hours in the best of times! put 'Call for hours' in the notes
@@ -2220,7 +2220,6 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
 SUN & MON: Closed
 ","Fashion",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.megshops.com","11:00 AM","https://www.instagram.com/megshop/","7:00 PM",,,,true,,,,,,
-"Love Thy Beast",637,"2020-06-26T18:57:00.000Z",,"Retail",,,,,,,"Pet Supplies & Grooming",,"EVCC",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/lovethybeast/",,,,,,,,,,,
 "SneakEZ",638,"2020-07-04T18:57:00.000Z","646-801-5606","Retail",40.72734,-73.98307,"440 E. 9th Street, New York, NY 10009","Yes",,"Free shipping on all U.S. Orders!
 ","Fashion",,"EVCC",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.sneakezshop.com","1:00 PM","https://www.instagram.com/sneakezshop","8:00 PM",,,"Yes",,,,,,,
 "White Trash",639,"2020-08-19T18:57:00.000Z","212-598-5956 ","Retail",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003","Yes",,"Online always! or by appointment
@@ -2340,7 +2339,7 @@ SUN: 12 pm - 10 pm
 
 Call to make appointment!
 ","Tattoo",,"EVCC",,"sales@jewels32.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://jewels32.com/","11:00 AM","https://www.instagram.com/jewels_32/","11:00 PM",,,,,,,,,,
-"Kiehl's",682,"2020-07-05T13:54:00.000Z","212-677-3171","Retail",40.73274,-73.98737,"109 3rd Avenue, New York, NY 10003","Yes",,,,,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","www.kiehls.com","11:00 AM","https://www.instagram.com/kiehls/?hl=en","5:00 PM",,,,,,,,,,
+"Kiehl's",682,"2020-07-05T13:54:00.000Z","212-677-3171","Retail",40.73274,-73.98737,"109 3rd Avenue, New York, NY 10003","Yes",,,"Cosmetics & Grooming ",,"EVCC",,,"Opened","{""id"":""usr2SVHfQvhVDjmbV"",""email"":""iwvancuren@gmail.com"",""name"":""Isaac VanCuren""}","www.kiehls.com","11:00 AM","https://www.instagram.com/kiehls/?hl=en","5:00 PM",,,,,,,,,,
 "Restoration Antiques",683,"2020-07-07T19:20:00.000Z","(212) 253-0500","Retail",40.7325828,-73.9893737,"109 E 12th St, New York, NY 10003","Yes","Yes","Closed Sundays and Mondays
 ","Vintage,Gifts & Home",,"PG",,"restorationnyc@yahoo.com","Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://www.facebook.com/RestorationAntiquesnyc/","1:30 PM","http://instagram.com/mcmfurniture","6:30 PM",,,"Yes",,,"phone call",,,,
 "Arthur & D Hair Salon",684,"2020-07-09T04:00:00.000Z","646-726-4126","Shops & Services",40.72201,-73.98226,"226 E. 3rd Street New York, NY 10009","Yes",,"SUN: Closes 7:00 PM
@@ -2675,5 +2674,6 @@ Rare, new and unusual beer
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
 "Love Thy Beast",814,"2020-08-23T05:44:00.000Z","(646) 876-1005","Shops & Services",40.72662,-73.988861,"300 E. 5th Street, New York, NY 10003","Yes",,,"Pet Supplies & Grooming",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lovethybeast.com","11:00 AM","https://www.instagram.com/lovethybeast/","6:00 PM",,,,,,,,,,
-"Veeray Dhaba",815,"2020-08-23T05:53:00.000Z","(212) 777-1420","Restaurants",,,"222 1st Avenue, New York, NY 10009",,,,"Punjabi",,"EVCC","Opening soon
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
+"Veeray Dhaba",815,"2020-08-23T05:53:00.000Z","(212) 777-1420","Restaurants",40.73076,-73.98265,"222 1st Avenue, New York, NY 10009",,,,"Punjabi",,"EVCC","Opening soon
+",,"Unknown","{""id"":""usr2SVHfQvhVDjmbV"",""email"":""iwvancuren@gmail.com"",""name"":""Isaac VanCuren""}",,,,,,,,,,,,,,
+,816,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,
