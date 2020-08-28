@@ -5,7 +5,7 @@ function getColors(rows) {
     //get colors and icons from constants
     return rows.map(row => {
         const subLookup = styles.find(style => {
-            const subCategory = row['Sub Category']
+            const subCategory = row['Sub Categories']
             if (subCategory.length === 0 || !style.subcategoryName) {
                 return false
             }

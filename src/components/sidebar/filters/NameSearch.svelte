@@ -18,7 +18,7 @@
                 field: [
                     "Name",
                     "Category",
-                    "Sub Category"
+                    "Sub Categories"
                 ]
             }
         })
