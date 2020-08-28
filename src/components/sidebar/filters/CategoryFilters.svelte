@@ -61,7 +61,7 @@
             //reset
             selectedSubCategories = []
             const subCategories = rows.filter(({Category}) => selectedCategories.includes(Category))
-                    .map(c => c['Sub Category'])
+                    .map(c => c['Sub Categories'])
                     .reduce((a, c) => {
                         //split by comma
                         return [...a, ...c.split(',')]
@@ -85,7 +85,7 @@
                     filter: (row) => {
                         if (selectedCategories.length) {
                             if (selectedSubCategories.length) {
-                                return selectedCategories.includes(row.Category) && row['Sub Category'].includes(selectedSubCategories)
+                                return selectedCategories.includes(row.Category) && row['Sub Categories'].includes(selectedSubCategories)
                             } else {
                                 return selectedCategories.includes(row.Category)
                             }

@@ -12,7 +12,7 @@
 
     let subCategories = []
 
-    $: if (item) subCategories = item['Sub Category'].split(',').filter(tag => tag.trim())
+    $: if (item) subCategories = item['Sub Categories'].split(',').filter(tag => tag.trim())
 
     function resetSelect() {
         selectedItem.select(null)
