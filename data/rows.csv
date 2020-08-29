@@ -102,13 +102,13 @@ Notary services available
 ","Cafe",,"EVCC","IG is being updated
 time from IG post 7/15
 ","bcupcafe@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.bcupcafe.com","7:30 AM","https://www.instagram.com/bcupcafe/?hl=en","4:00 PM","Yes",,,,,"https://www.instagram.com/p/CCqJoLED4f7/",,,,
-"B&H Dairy",30,"2020-08-03T04:00:00.000Z","212-505-8065","Restaurants",40.728506,-73.988015,"127 2nd Avenue, New York, NY,10003","Yes","Yes","MON - THU: 9:00 AM - 8:30 PM** **
+"B&H Dairy",30,"2020-08-29T04:00:00.000Z","212-505-8065","Restaurants",40.728506,-73.988015,"127 2nd Avenue, New York, NY,10003","Yes","Yes","MON - THU: 9:00 AM - 8:30 PM** **
 FRI: 9:00 AM - 9:30 PM
 SAT & SUN: 8:00 AM - 9:30 PM
 **Order by phone [212-505-8065](http://tel:2125058065)**[ ](http://tel:2125058065)
 Now accepting credit cards and Apple/Google Pay. 
 ","Kosher",,"EVCC","hours on IG July 22 
-","bandhvegetarian@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/BHDairyKosherRestaurant/","9:00 AM","https://www.instagram.com/bandhdairy","8:30 PM","Yes","mailto:bandhvegetarian@gmail.com",,,"gf.me/u/xrmjvc","https://www.instagram.com/p/CC8rJsVDYVe/",,,,
+","bandhvegetarian@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/BHDairyKosherRestaurant/","9:00 AM","https://www.instagram.com/bandhdairy","8:30 PM","Yes","mailto:bandhvegetarian@gmail.com",,,,"https://www.instagram.com/p/CC8rJsVDYVe/",,,,
 "Banh Mi Zon",31,"2020-06-24T04:00:00.000Z","646-524-6384","Restaurants",40.725731,-73.984274,"443 E. 6th Street, New York, NY 10009","Yes","Yes",,"Vietnamese",,"EVCC","IG is being updated
 ","banhmizon@gmail.com","Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","http://banhmizon.com","11:30 AM","https://www.instagram.com/banhmizon/","8:00 PM",,,,true,,,,,,
 "Barnyard",32,"2020-07-27T04:00:00.000Z","212-674-BARN","Groceries",40.727297,-73.979883,"168 Avenue B, New York, NY,10009","Yes","Yes","SUN: Closed
@@ -522,8 +522,8 @@ Confirmed by phone
 
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}","http://www.kafananyc.com","5:00 PM","https://www.instagram.com/kafananyc/","10:15 PM","Yes",,,,"https://www.gofundme.com/f/kafana-fundraiser?utm_medium=email&utm_source=product&utm_campaign=p_email+4904-welcome-wp-v5",,,,,
 "Kapri Cleaners",154,"2020-04-01T04:00:00.000Z","(212) 420-8853","Laundromat",40.722073,-73.984836,"250 E. Houston Street, New York, NY","Yes",,,"Laundromat",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
-"Katz's Deli",155,"2020-04-01T04:00:00.000Z","212-254-2246","Restaurants",40.722115,-73.987526,"205 East Houston Street, New York, NY 10002","Yes","Yes","Mon - Wed: 8:00am - 10:45 pm Thu: -2:45am                                                       Fri: 8:00am - Open all night! Sat: Open all day! Sunday: -10:45pm
-","Jewish",,"EVCC",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r",,"https://www.instagram.com/katzsdeli/?hl=en",,,,"Yes",,,,,,,
+"Katz's Deli",155,"2020-08-29T04:00:00.000Z","212-254-2246","Restaurants",40.722115,-73.987526,"205 East Houston Street, New York, NY 10002","Yes","Yes","Mon - Wed: 8:00am - 10:45 pm Thu: -2:45am                                                       Fri: 8:00am - Open all night! Sat: Open all day! Sunday: -10:45pm
+","Jewish",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r",,"https://www.instagram.com/katzsdeli/?hl=en",,"Yes",,"Yes",,,,,,,
 "Khiladi NYC",156,"2020-08-17T04:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","Yes","MON - THU: 11:00 AM -10:30 PM, with a break from 2:30 PM -5:30 PM.
 FRI: 11:00 AM - midnight, with a break from 2:30 PM - 5:30 PM.
 SAT: 11:30 AM- midnight
@@ -2144,8 +2144,8 @@ Order directly from [site](https://www.misslilys.com). 15% off first order.
 ","Jamaican,Bar,Juice Bar",,"PG",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.misslilys.com",,"https://www.instagram.com/misslilys/",,"Yes",,,,,,,,,
 "VorteXity Books - Jen",653,"2020-07-02T19:22:00.000Z",,"Retail",40.72656,-73.983231,,"Yes",,"[DM](https://www.instagram.com/vortexity_jen_fisher/?hl=en) for inquiries and hours.
 ","Books",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://thequarterlessreview.com/Jen-Fisher",,"https://www.instagram.com/vortexity_jen_fisher/?hl=en",,,,,true,,,,,,
-"Limited to One Record Shop",654,"2020-07-02T19:24:00.000Z","(917) 740-5233","Retail",40.729463,-73.985554,"221 E 10th St, New York, NY 10003","Yes",,"
-","Records",,"PG",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://www.limitedtooneshop.com/",,"https://www.instagram.com/limitedtoonenyc/",,,,"Yes",,,,,,,
+"Limited to One Record Shop",654,"2020-08-29T19:24:00.000Z","(917) 740-5233","Retail",40.729463,-73.985554,"221 E 10th St, New York, NY 10003","Yes",,"
+","Records",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.limitedtooneshop.com/","12:00 PM","https://www.instagram.com/limitedtoonenyc/","&:00 OM",,,"Yes",,,,,,,
 "Lucky on B",655,"2020-08-07T22:54:00.000Z",,"Restaurants",40.72728,-73.979897,"168 Avenue B, New York, NY 10009","No",,"Liquor license suspended			
 ","Bar",,"EVCC","check back re liquor license
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.luckyonb.com","12:00 PM","https://www.instagram.com/luckyonb/","8:00 PM","Yes",,,true,,,,,,
@@ -2392,10 +2392,10 @@ Highlights from the menu include meritha (assorted platters), loukaniko souvlaki
 "Healthy Market Place ",748,"2020-08-05T01:03:00.000Z",,"Groceries",40.73075,-73.983478,"217 1st Avenue, New York, NY 10003","Yes",,"
 ","Deli ",,"EVCC","Laura research hours	
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
-"Three Kings Tattoo",749,"2020-07-31T20:43:00.000Z","212-505-8287","Shops & Services",40.72712,-73.98002,"343 E 10th Street, New York, NY 10009","Yes",,,"Tattoo",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.threekingstattoo.com/","11:00 AM","https://www.instagram.com/p/CB8vbceAIIJ/","9:00 PM",,,,,,,,,,
-"East Side Ink",750,"2020-07-31T20:43:00.000Z","212-477-2060","Shops & Services",40.72453,-73.98127,"95 Avenue B, New York, NY 10009","Yes",,"MON: Closed
-","Tattoo",,"EVCC",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://eastsideinktattoo.com/","1:00 PM","https://www.instagram.com/p/CB9eFJxHWsR/","9:00 PM",,,,,,,,,,
-"Land of Buddha",751,"2020-07-31T20:43:00.000Z","(646)-602-6588","Retail",40.72945,-73.98897,"11 Saint Marks Place, New York, NY 10003","Yes",,,"Gifts & Home",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lobny.com/","12:00 PM","https://www.instagram.com/p/CBR5PrOn7dA/","10:00 PM",,,,,,,,,,
+"Three Kings Tattoo",749,"2020-08-29T20:43:00.000Z","212-505-8287","Shops & Services",40.72712,-73.98002,"343 E 10th Street, New York, NY 10009","Yes",,,"Tattoo",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.threekingstattoo.com/","11:00 AM","https://www.instagram.com/threekingstattoo/","9:00 PM",,,,,,,,,,
+"East Side Ink",750,"2020-08-29T20:43:00.000Z","212-477-2060","Shops & Services",40.72453,-73.98127,"95 Avenue B, New York, NY 10009","Yes",,"MON: Closed
+","Tattoo",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://eastsideinktattoo.com/","1:00 PM","https://www.instagram.com/eastsideinktattoo/","9:00 PM",,,,,,,,,,
+"Land of Buddha",751,"2020-08-29T20:43:00.000Z","(646)-602-6588","Retail",40.72945,-73.98897,"11 Saint Marks Place, New York, NY 10003","Yes",,,"Gifts & Home",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lobny.com/","12:00 PM","https://www.instagram.com/landofbuddha/","10:00 PM",,,,,,,,,,
 "Cobblestones ",752,"2020-08-05T01:03:00.000Z","(212) 673-5372","Retail",40.72869,-73.98663,"314 E 9th St, New York, NY 10003","Yes",,"
 ","Vintage",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}",,"1:00 PM",,"5:00 PM",,,,true,,,,,,
 "Momofuku Noodle Bar",753,"2020-08-05T01:03:00.000Z"," (212) 777-7773","Restaurants",40.72924,-73.98443,"171 1st Avenue, New York, NY 10003","Yes","Yes","FRI - SUN: 3:00 PM - 9:00 PM
@@ -2422,7 +2422,7 @@ WED: Closed
 "New York Public Library Tompkins Square ",764,"2020-08-05T17:01:00.000Z","(212) 228-4747","Community Services",40.72731,-73.9804,"331 East 10th Street, New York, NY 10009","Yes",,"WED: 12:00 PM - 7:00 PM
 FRI & SAT: 11:00 AM - 5:00 PM
 SUN: Closed
-","Books",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://www.nypl.org/locations/tompkins-square","11:00 AM",,"6:00 PM",,,,,,,,,,
+","Books",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.nypl.org/locations/tompkins-square","11:00 AM","https://www.instagram.com/tompkins_square_library/","6:00 PM",,,,,,,,,,
 "New York Public Library Ottendorfer",765,"2020-08-05T17:01:00.000Z","(212) 674-0947","Community Services",40.72904,-73.9878,"135 2nd Ave, New York, NY 10003",,,,"Books",,"EVCC",,,"Unknown","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://www.nypl.org/about/locations/ottendorfer",,,,,,,,,,,,,
 "The Chippery",766,"2020-08-05T17:04:00.000Z",,"Restaurants",40.72604,-73.98668,"85 1st Avenue, New York, NY, 10003","Yes","Yes","SUN: 11:00 AM - 10:00 PM
 ",,,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.the-chippery.com/","11:00 AM","https://www.instagram.com/thechippery/","2:00 AM",,,,,,,,,,
@@ -2435,15 +2435,15 @@ SUN: Closed
 
 Available for pickups only
 ","Books",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://mastbooks.com/","11:00 AM","https://www.instagram.com/mastbooks/?hl=en","6:00 PM",,,,,,,,,,
-"212 Hisae's",771,"2020-08-05T17:24:00.000Z","212) 614-3226","Restaurants",40.72965,-73.98876,"212 E 9th St, New York, NY 10003","Yes",,"THURS: 5:00 PM - 1:00 AM
+"212 Hisae's",771,"2020-08-29T17:24:00.000Z","212) 614-3226","Restaurants",40.72965,-73.98876,"212 E 9th St, New York, NY 10003","Yes",,"THURS: 5:00 PM - 1:00 AM
 FRI & SAT: 5:00 PM - 2:00 AM
-","Asian",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}",,"5:00 PM",,"12:00 AM",,,,,,,,,,
-"Isabella",772,"2020-08-05T17:27:00.000Z","646-678-3206","Restaurants",40.66611,-73.69267,"110 St. Mark's Place, New York, NY 10009","Yes",,"MON & TUES: Closed
-","Italian",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}",,"1:00 PM",,"8:45 PM",,,,,,,,,,
-"Shake & Tail",773,"2020-08-05T17:28:00.000Z","(646) 797-7152","Shops & Services",40.72958,-73.98498,"330 E 11th St, New York, NY 10003","Yes",,"Call for hours
+","Asian",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"5:00 PM",,"12:00 AM",,,,,,,,,,
+"Isabella",772,"2020-08-29T17:27:00.000Z","646-678-3206","Restaurants",40.66611,-73.69267,"110 St. Mark's Place, New York, NY 10009","Yes",,"MON & TUES: Closed
+","Italian",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.isabellaitaliannyc.com","1:00 PM","https://www.instagram.com/isabellasnyc/","8:45 PM","Yes",,,,,,,,,
+"Shake & Tail",773,"2020-08-29T17:28:00.000Z","(646) 797-7152","Shops & Services",40.72958,-73.98498,"330 E 11th St, New York, NY 10003","Yes",,"Call for hours
 
-","Pet Supplies & Grooming",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","http://shakeandtailny.com/",,,,,,,,,,,,,
-"Manhattan45",774,"2020-08-12T00:34:00.000Z","646-649-4938","Retail",40.729111,-73.985817,"220 E. 10th Street, New York, NY 10003","Yes",,"TUE - SAT Only
+","Pet Supplies & Grooming",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://shakeandtailny.com/",,"https://www.instagram.com/shakeandtail/",,,,,,,,,,,
+"Manhattan45",774,"2020-08-30T00:34:00.000Z","646-649-4938","Retail",40.729111,-73.985817,"220 E. 10th Street, New York, NY 10003","Yes",,"TUE - SAT Only
 SUN & MON: Closed
 ","Records",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.manhattan45.com/","1:00 PM","https://www.instagram.com/m45records/","8:00 PM",,,,,,,,,,
 "Pinky's Space",775,"2020-08-19T16:14:00.000Z","(917) 960-9969","Restaurants",40.7236,-73.98879,"70 E 1st St, New York, NY 10003","Yes",,"SUN: 10:00 AM - 10:00 PM
@@ -2564,8 +2564,8 @@ SUN: 11:00 AM - 5:00 PM
 ","info@gianonyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.gianonyc.com","5:00 PM","https://www.instagram.com/gianonyc/","10:00 PM","Yes","https://www.gianonyc.com/gift-card",,,,,,,,
 "Soda Club",818,"2020-08-24T19:33:00.000Z",,"Restaurants",40.72666,-73.9798,"155 Avenue B, New York, NY 10009",,,,"Vegan,Italian",,"EVCC","Opening TBD
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
-"Club Cumming",819,"2020-08-24T19:41:00.000Z",,"Restaurants",40.72543,-73.98334,"505 E. 6th Street, New York, NY 10009",,,,"Bar","[Virtual Variety Show ](https://www.instagram.com/p/CER0nvRh0Ha/)AUG 27!
-","EVCC",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/clubcumming/",,"Yes",,,,,,true,,,
+"Club Cumming",819,"2020-08-24T19:41:00.000Z",,"Restaurants",40.72543,-73.98334,"505 E. 6th Street, New York, NY 10009","Yes",,,"Bar","
+","EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/clubcumming/",,"Yes",,,,,,true,,,
 "Pineapple Club",820,"2020-08-24T19:49:00.000Z","(212) 697-8600","Restaurants",40.72538,-73.98319,"509 E. 6th Street, New York, NY 10009","Yes",,,,,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/pineappleclubnyc/",,"Yes",,,,,,,,,
 "Fit Ritual",821,"2020-08-24T19:56:00.000Z","646-707-7332","Health",40.72481,-73.98185,"543 E. 6th Street, New York, NY 10009","Yes",,"Masks are Required
@@ -2583,7 +2583,11 @@ SUN: noon - 9:30 PM
 "Borrachito",824,"2020-08-28T15:23:00.000Z","(646) 992-4743","Restaurants",40.7294306,-73.980746,"206 Avenue A, New York, NY 10009","Yes","Yes","Recently swapped places with The Garret East, which it used to be in the back of. Now Borrachito is the main event. More info on the restaurant [here](https://www.timeout.com/newyork/news/a-hidden-taco-bar-in-the-east-village-reopens-on-wednesday-082420)! Text 646 992 4743 for takeout + delivery.
 ","Mexican",,"PG","evgrieve post
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://borrachitonyc.com/","2:00pm","http://instagram.com/borrachitonyc","11:00pm","Yes",,,,,,,,,
-"Famous Cutz",825,"2020-08-29T17:38:00.000Z",,"Shops & Services",,,"156 1st Avenue, New York, NY 10009",,,,"Hair",,"EVCC",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/famouscutzny/",,,,,,,,,,,
+"Famous Cutz",825,"2020-08-29T17:38:00.000Z",,"Shops & Services",40.72838,-73.98432,"156 1st Avenue, New York, NY 10009","Yes",,"A second location on 1st Avenue!
+SAT: 10:00 AM - 8:00 PM
+SUN: 10:00 AM - 7:00 PM
+","Hair",,"EVCC","new location not yet on website, check back
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"10:00 AM","https://www.instagram.com/famouscutzny/","8:30 PM",,,,,,,,,,
 "Lost City Oyster House",826,"2020-08-28T16:07:00.000Z","(347) 455-0228","Restaurants",40.726306,-73.9776055,"171 Avenue C, New York, NY 10009","Yes",,"Opened August 2020. Formerly The Lost Lady.
 ","Bar,Seafood",,"PG","evgrieve post
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Http://lostcityoysterhouse.com","4:00pm","https://www.instagram.com/lostcityoysterhouse/","10:30pm","Yes",,,,,,,,,
