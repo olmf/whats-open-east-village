@@ -2068,8 +2068,8 @@ SUN: 10:00 AM - 10:30 PM
 MON: Closed
 ","American",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://thewildsonnyc.com","12:00 PM","http://thewildsonnyc.com/","10:30 PM","Yes",,,,,,,,,
-"Academy Records",619,"2020-07-27T04:00:00.000Z","(212) 780-9166","Retail",40.729795,-73.98266,"415 E 12th St, New York, NY 10009",,,"Buying collections: call for appointment! Not yet open for in-store purchase: buy  online or Instagram. 
-","Records",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://academy-lps.com/",,"https://www.instagram.com/academyrecords/",,,,"Yes",,,,,,,
+"Academy Records",619,"2020-08-29T04:00:00.000Z","(212) 780-9166","Retail",40.729795,-73.98266,"415 E 12th St, New York, NY 10009","Yes",,"Buying collections: call for appointment! Not yet open for in-store purchase: buy  online or Instagram. 
+","Records",,"EVCC",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://academy-lps.com/",,"https://www.instagram.com/academyrecords/",,,,"Yes",,,,,,,
 "Organic Grill",620,"2020-07-27T04:00:00.000Z","(212) 477-7177","Restaurants",40.72739,-73.9858,"123 1st Avenue, New York, NY 10003","Yes","Yes","THU - SUN ONLY 
 Order online or call directly please!
 ","Vegan",,"EVCC","IG is being updated
@@ -2581,3 +2581,6 @@ SUN: noon - 9:30 PM
 ,825,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,
 "Lost City Oyster House",826,"2020-08-28T16:07:00.000Z","(347) 455-0228","Restaurants",40.726306,-73.9776055,"171 Loisaida Ave, New York, NY 10009",,,"Opened August 2020. Formerly The Lost Lady.
 ","Bar,Seafood",,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","Http://lostcityoysterhouse.com","4:00pm","https://www.instagram.com/lostcityoysterhouse/","10:30pm","Yes",,,,,,,,,
+"A-1 Record Shop",827,"2020-08-29T15:20:00.000Z","(212) 473-2870","Shops & Services",40.7258209,-73.9844384,"439 E 6th St, New York, NY 10009","Yes",,"Message on Instagram or call for curbside pickup.
+","Records",,,,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","Http://a1recordshop.com",,"https://www.instagram.com/a1recordshop/",,,,,,,,,,,
+"Waxing Center EV",828,,,"Shops & Services",,,"209 1st Ave, New York, NY 10003",,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
