@@ -1763,8 +1763,8 @@ laura check
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.gothamdivers.com",,"https://www.instagram.com/gothamdivers/",,,,"Yes",,,,,,,
 "E. 10th Street Finest Deli",526,"2020-06-17T04:00:00.000Z","212-533-9700","Groceries",40.728627,-73.984298,"162 1st Avenue, New York, NY 10009","Yes",,,"Deli ",,"EVCC","observed open, call for hours
 ",,"Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}",,,,,,,,,,,,,,
-"Gizmo Sewing Supplies",527,"2020-06-17T04:00:00.000Z","646-221-3658","Shops & Services",40.72868713,-73.98489115,"160 1st Avenue, New York, NY 10009","Yes",,"Sewing machine repair by appointment only 
-","Sewing Machine Repair",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","http://www.gizmonyc.com/",,,,,,,true,,,,,,
+"Gizmo Sewing Supplies",527,"2020-08-31T04:00:00.000Z","646-221-3658","Shops & Services",40.72868713,-73.98489115,"160 1st Avenue, New York, NY 10009","Yes",,"Sewing machine repair by appointment only 
+","Sewing Machine Repair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.gizmonyc.com/",,,,,,,true,,,,,,
 "Tompkins Finest Deli & Grocery",528,"2020-05-07T04:00:00.000Z","(212) 228-6701","Groceries",40.72775041,-73.982449,"153 Avenue A, New York, NY 10009","Yes",,,"Deli ",,"EVCC","laura check, call for hours
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
 "Quick Repair on A",529,"2020-07-29T04:00:00.000Z","646-255-7890","Shops & Services",40.72765728,-73.98258856,"151 Avenue A,  New York, NY 10009","Yes",,"SAT: 10:00 AM - 9:00 PM 
@@ -2019,10 +2019,10 @@ confirmed by phone call
 ","Indonesian",,"EVCC","PERMANENTLY CLOSING AUG 31
 ",,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://balikitchennyc.com","11:00 AM","https://www.instagram.com/balikitchen/?hl=en","7:00 PM",,,,true,,"https://evgrieve.com/2020/08/bali-kitchen-officially-closing-today.html",,,,
 "Avenue D Pizza",604,"2020-08-19T04:00:00.000Z","(646) 850-3674","Restaurants",40.7205688,-73.9784829,"15 Avenue D, New York, NY 10009","Yes",,,"Pizza",,"EVCC","
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"6:00 AM","https://www.instagram.com/internationalbarnyc/","8:00 PM",,,,,,,,,,
-"International Bar",605,"2020-08-19T04:00:00.000Z","(212) 777-1643","Restaurants",40.7264195,-73.9858007,"102 1st Avenue, New York, NY 10009","Yes",,"Now with party subs from [Superiority Burger!](https://www.instagram.com/p/CEFnT8uD72-/)
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"6:00 AM",,"8:00 PM",,,,,,,,,,
+"International Bar",605,"2020-08-19T04:00:00.000Z","(212) 777-1643","Restaurants",40.7264195,-73.9858007,"102 1st Avenue, New York, NY 10009","Yes",,"Party subs from [Superiority Burger](https://www.instagram.com/p/CEFnT8uD72-/) Saturdays & Mondays (might get lucky Sundays and Tuesdays too)
 ","Bar",,"EVCC","time is on IG
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://internationalbarnyc.com","1:00 PM","https://www.instagram.com/internationalbarnyc/","9:00 PM","Yes",,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://internationalbarnyc.com","1:00 PM","https://www.instagram.com/internationalbarnyc/","9:00 PM","Yes",,,true,,,,,,
 "Hearth",606,"2020-07-27T04:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes","Yes","FRI & SAT: til 9:30 PM
 ","Italian",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.restauranthearth.com/","12:00 PM","https://instagram.com/hearthrestaurant","9:00 PM","Yes",,,,,,,,,
@@ -2616,4 +2616,8 @@ No phone number listed.
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://bigapplebarbershop.com/","9:30 AM","https://www.instagram.com/bigapplebarbers/?hl=en","7:30 PM",,,,,,,,,,
 "GS Socks & Belts",835,"2020-08-31T22:00:00.000Z",,"Retail",40.72969,-73.97939,"520 E. 14th Street, New York, NY 10009","Yes",,"Great prices on the basics!
 ","Fashion",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
-,836,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,
+"Museum of Reclaimed Urban Space (MoRUS)",836,"2020-09-01T02:00:00.000Z","973-818-8495","Shops & Services",40.7258,-73.977966,"155 Avenue C, New York, NY 10009","Yes",,"TUE & THU - SUN only
+FREE admission; suggested donation $5
+","Gallery",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.morusnyc.org/","11:00 AM","https://www.instagram.com/morusnyc/?hl=en","7:00 PM",,,,,,,,,,
+,837,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,
+,838,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,
