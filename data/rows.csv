@@ -1946,9 +1946,11 @@ ls
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.luisthaifoodnyc.com","5:00 PM",,"9:00 PM",,,,true,,,,,,
 "Sabieng Thai",580,"2020-08-11T04:00:00.000Z","(212) 253-2742","Restaurants",40.72557,-73.98724,"71 1st Avenue, New York, NY 10003","Yes","Yes",,"Thai",,"EVCC","ls check
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.sabiengthainy.com",,"https://www.instagram.com/explore/tags/thesabiengthai/?hl=en",,,,,true,,,,,,
-"Ravagh ",581,"2020-08-11T04:00:00.000Z","212-335-0207","Restaurants",40.7274409,-73.9856407,"125 1st Ave, New York, NY 10003","Yes","Yes","FRI & SAT til 11PM
-","Middle Eastern",,"EVCC","confirmed by phone 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.ravaghrestaurants.com/ravagh-east-village.html","11:00 AM","https://www.instagram.com/ravagh_restaurants/?hl=en","10:30 PM","Yes",,,,,,,,,
+"Ravagh ",581,"2020-09-02T04:00:00.000Z","212-335-0207","Restaurants",40.7274409,-73.9856407,"125 1st Ave, New York, NY 10003","No","No","Permanently closed.									
+FRI & SAT til 11PM
+","Middle Eastern",,"EVCC","PERMANENTLY CLOSED
+EVCC observed empty 9/1	
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.ravaghrestaurants.com/ravagh-east-village.html","11:00 AM","https://www.instagram.com/ravagh_restaurants/?hl=en","10:30 PM","Yes",,,,,,,,,
 "Tallgrass Burger",582,"2020-08-04T04:00:00.000Z","212-253-2990","Restaurants",40.73041,-73.98288,"214 First Avenue, New York, NY 10009","Yes","Yes","
 ","American",,"EVCC","IG is being updated
 confirmed by phone call
@@ -2624,7 +2626,7 @@ No phone number listed.
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://bigapplebarbershop.com/","9:30 AM","https://www.instagram.com/bigapplebarbers/?hl=en","7:30 PM",,,,,,,,,,
 "GS Socks & Belts",835,"2020-08-31T22:00:00.000Z",,"Retail",40.72969,-73.97939,"520 E. 14th Street, New York, NY 10009","Yes",,"Great prices on the basics!
 ","Fashion",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
-"Museum of Reclaimed Urban Space (MoRUS)",836,"2020-09-01T02:00:00.000Z","973-818-8495","Shops & Services",40.7258,-73.977966,"155 Avenue C, New York, NY 10009","Yes",,"TUE & THU - SUN only
+"Museum of Reclaimed Urban Space (MoRUS)",836,"2020-09-01T02:00:00.000Z","973-818-8495","Community Services",40.7258,-73.977966,"155 Avenue C, New York, NY 10009","Yes",,"TUE & THU - SUN only
 FREE admission; suggested donation $5
 ","Gallery",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.morusnyc.org/","11:00 AM","https://www.instagram.com/morusnyc/?hl=en","7:00 PM",,,,,,,,,,
 "Sushi Kai ",837,"2020-09-01T02:20:00.000Z",,"Restaurants",,,,,,,"Japanese",,"EVCC",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
@@ -2637,3 +2639,6 @@ SUN: Closed
 ","EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:30 AM ",,"10:00 PM","Yes",,,true,,,,,,
 "Desnuda",840,"2020-09-02T06:28:00.000Z",,"Restaurants",,,"122 E. 7th Street, New York, NY 10009",,,,"Vegan",,"EVCC","what Ravi is up to here we shall learn in good time: LS check back 
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/desnuda_cevicheria/",,,,,,,,,,,
+"Swiss Institute",841,"2020-09-02T23:38:00.000Z","212-925-2035","Community Services",,,"38 St. Mark's Place, New York, NY 10003",,,,"Museum",,"EVCC",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
+"Nai Tapas",842,,,,,,,,,,,,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
+"Amigo by Nai",843,,,,,,,,,,,,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,
