@@ -1957,8 +1957,8 @@ IG is being updated
 "Ravagh ",581,"2020-09-02T04:00:00.000Z","212-335-0207","Restaurants",40.7274409,-73.9856407,"125 1st Ave, New York, NY 10003","No","No","Permanently closed.									
 FRI & SAT til 11PM
 ","Middle Eastern",,"EVCC","PERMANENTLY CLOSED
-EVCC observed empty 9/1	
-",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.ravaghrestaurants.com/ravagh-east-village.html","11:00 AM","https://www.instagram.com/ravagh_restaurants/?hl=en","10:30 PM","Yes",,,,,,,,,
+EVCC observed empty 9/1/2020. Opened Fall 2014.
+",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.ravaghrestaurants.com/ravagh-east-village.html","11:00 AM","https://www.instagram.com/ravagh_restaurants/?hl=en","10:30 PM","Yes",,,,,,,,,
 "Tallgrass Burger",582,"2020-08-04T04:00:00.000Z","212-253-2990","Restaurants",40.73041,-73.98288,"214 First Avenue, New York, NY 10009","Yes","Yes","
 ","American",,"EVCC","IG is being updated
 confirmed by phone call
@@ -2566,10 +2566,10 @@ Rare, new and unusual beer
 
 ","Bar",,"EVCC","IG is being updated	
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"4:00 PM ",,"10:30 PM","Yes",,,,,,,,,
-"Baked Cravings",811,"2020-08-23T05:18:00.000Z","(917) 482-3887","Dessert",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","Yes","Yes","Peanut free!!
+"Baked Cravings",811,"2020-08-23T05:18:00.000Z","(917) 482-3887","Dessert",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","Yes","Yes","Peanut and nut free!!
 
 ","Bakery",,"EVCC","Opened 9/1
-",,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://www.bakedcravings.com","12:00 PM","https://www.instagram.com/bakedcravingsny/","8:00 PM",,,,true,,,,true,,
+",,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.bakedcravings.com","12:00 PM","https://www.instagram.com/bakedcravingsny/","8:00 PM",,,,true,,,,true,,
 "Death & Co",812,"2020-08-23T05:19:00.000Z",,"Restaurants",40.72603,-73.98461,"433 E. 6th Street, New York, NY 10009","Yes",,"MON & TUE: Closed
 ","Bar",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.deathandcompany.com","5:00 PM ","https://www.instagram.com/deathandcompany/","11:00 PM","Yes",,,,,,,,,
@@ -2731,3 +2731,7 @@ By appointment.
 ",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
 "By Name",870,"2020-09-08T14:50:00.000Z",,"Restaurants",,,,,,,"Cafe",,,"Closed September 2020. Opened June 2019.
 ",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
+"Mermaid Inn",871,"2020-09-08T16:13:00.000Z",,"Restaurants",,,,,,,"Seafood",,,"Closed September 2020. Opened 2003.
+",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
+"Mani in Pasta",873,"2020-09-08T16:17:00.000Z",,"Restaurants",,,,,,,"Italian",,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
+" 99-Cent Fresh Pizza & Hot Dog",874,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
