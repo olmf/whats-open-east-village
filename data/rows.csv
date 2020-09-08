@@ -896,9 +896,9 @@ SUN: 11:00 AM - 6:00 PM
 WED,THUR - 12 AM - 5 PM
 ","Dental",,"EVCC","Dentist - ADA recommends dentists keep their offices closed to all but urgent and emergency procedures until April 30 at the earliest
 ","smpdentalpc@gmail.com.","Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","smpdentalnyc.com","11:00 AM",,"7:00 PM",,,"No",,,"Dentist - ADA recommends dentists keep their offices closed to all but urgent and emergency procedures until April 30 at the earliest",,,,
-"Snowdays Shavery",271,"2020-07-04T04:00:00.000Z","212-982-8881","Dessert",40.729016,-73.984674,"241 E. 10th Street, New York, NY.10003","Yes","No","
-","Ice Cream",,"EVCC","IG is being updated
-","info@snowdaysnyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.snowdaysnyc.com","1:00 PM","https://www.instagram.com/snowdaysnyc/","6:00 PM",,"https://squareup.com/gift/GNTP6K8NQCDYS/order?external_source=postoffice-egift-widget&external_token=lb0UPSSjyiaOiEzL","No",true,,,,,,
+"Snowdays Shavery",271,"2020-09-08T04:00:00.000Z","212-982-8881","Dessert",40.729016,-73.984674,"241 E. 10th Street, New York, NY.10003","No","No","
+","Ice Cream",,"EVCC","Closed Sept 2020 (via EVGrieve). Opened August 2014
+","info@snowdaysnyc.com","Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","www.snowdaysnyc.com","1:00 PM","https://www.instagram.com/snowdaysnyc/","6:00 PM",,"https://squareup.com/gift/GNTP6K8NQCDYS/order?external_source=postoffice-egift-widget&external_token=lb0UPSSjyiaOiEzL","No",true,,,,,,
 "Solo Pizza NYC",272,"2020-08-17T04:00:00.000Z","(212) 420-7656","Restaurants",40.722424,-73.982899,"27 Avenue B, New York, NY 10009","Yes","Yes",,"Pizza",,"EVCC","Confirmed by phone
 
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}","https://solopizzanyc.hungerrush.com","3:00 PM","https://www.instagram.com/eatsolopizza/?hl=en","10:00 PM",,,,,,,,,,
@@ -1949,11 +1949,9 @@ IG is being updated
 "Tableside Cook Shop",578,"2020-08-11T04:00:00.000Z","(646) 852-6498","Restaurants",40.72665,-73.986412,"345 E 6th St, New York, NY 10003","Yes","Yes","FRI & SAT: 5:00 PM - 10:00 PM
 ","Italian",,"EVCC","confirmed by phone 
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}","https://www.tablesidenyc.com","5:00 PM","https://www.instagram.com/tablesidenyc/?hl=en","9:30 PM","Yes",,,,,,,,,
-"Lui's Thai Food",579,"2020-07-04T04:00:00.000Z","(646) 669-9310","Restaurants",40.72527,-73.9876,"128 E 4th St, New York, NY 10003",,,"SAT - SUN 1-4Pm plus evening hours
-","Thai",,"EVCC","Chef Let is in the hospital
-ls
-
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.luisthaifoodnyc.com","5:00 PM",,"9:00 PM",,,,true,,,,,,
+"Lui's Thai Food",579,"2020-09-08T04:00:00.000Z","(646) 669-9310","Restaurants",40.72527,-73.9876,"128 E 4th St, New York, NY 10003",,,"SAT - SUN 1-4Pm plus evening hours
+","Thai",,"EVCC","Chef Lek discharged from hospital but will not be reopening (via EVGrieve)
+",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://www.luisthaifoodnyc.com","5:00 PM",,"9:00 PM",,,,true,,,,,,
 "Sabieng Thai",580,"2020-08-11T04:00:00.000Z","(212) 253-2742","Restaurants",40.72557,-73.98724,"71 1st Avenue, New York, NY 10003","Yes","Yes",,"Thai",,"EVCC","ls check
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.sabiengthainy.com",,"https://www.instagram.com/explore/tags/thesabiengthai/?hl=en",,,,,true,,,,,,
 "Ravagh ",581,"2020-09-02T04:00:00.000Z","212-335-0207","Restaurants",40.7274409,-73.9856407,"125 1st Ave, New York, NY 10003","No","No","Permanently closed.									
@@ -2729,3 +2727,7 @@ By appointment.
 ","Gallery",,"EVCC",,,"Unknown","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://212arts.com/","3:00 PM","https://www.instagram.com/212arts/","7:00 PM",,,,,,,,,,
 "Rocky's Crystals & Minerals",867,"2020-09-08T01:59:00.000Z","212-995-8222","Shops & Services",,,"280 E. 10th Street, New York, NY 10009",,,,"Florist",,"EVCC",,,"Unknown","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://www.rockyscrystalsonline.com/",,"https://www.instagram.com/rockyscrystals/?hl=en",,,,,,,,,,,
 ,868,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,
+"Blockheads",869,"2020-09-08T14:48:00.000Z",,"Restaurants",,,"60 3rd Ave, New York, NY",,,,"Mexican",,,"Closed September 2020. Opened July 2015.
+",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
+"By Name",870,"2020-09-08T14:50:00.000Z",,"Restaurants",,,,,,,"Cafe",,,"Closed September 2020. Opened June 2019.
+",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,
