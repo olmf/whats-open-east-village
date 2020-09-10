@@ -2708,7 +2708,7 @@ SUN: noon - 10:30 PM
 ",,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.popseatrite.com",,"https://www.instagram.com/popseatrite/",,,,,,,,,,,,"2020-09-01",
 "Marysia Beauty Salon",859,"2020-09-07T06:32:00.000Z","212-777-2490","Shops & Services",40.7267,-73.98629,"101 1st Avenue, New York, NY 10003","Yes",,"Reasonably-priced local salon, check it out!
 ","Hair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/pages/Marysia-Beauty-Salon/111430445586428",,,,,,,,,,,,,,,
-"Brooklyn Dumpling Shop",860,"2020-09-07T06:41:00.000Z",,"Restaurants",,,"131 1st Ave, New York, NY 10003",,,,,,"EVCC","Oct 2020 LS
+"Brooklyn Dumpling Shop",860,"2020-09-07T06:41:00.000Z",,"Restaurants",,,"131 1st Avenue, New York, NY 10003",,,,,,"EVCC","Oct 2020 LS
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/brooklyndumplingshop/",,,,,true,,,,true,,,,
 "las' lap",861,"2020-09-07T06:49:00.000Z","(646) 484-6002","Restaurants",,,"74 Orchard Street, New York, NY 10002","Yes",,"Rum bar: THU - SUN only
 ","Bar",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.laslapnewyork.com","2:00 PM","https://www.instagram.com/laslapnyc/","10:00 PM","Yes",,,true,,,,true,,,,
@@ -2727,22 +2727,23 @@ By appointment.
 ","Gallery",,"EVCC",,,"Unknown","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://212arts.com/","3:00 PM","https://www.instagram.com/212arts/","7:00 PM",,,,,,,,,,,,
 "Rocky's Crystals & Minerals",867,"2020-09-09T01:59:00.000Z","212-995-8222","Retail",,,"280 E. 10th Street, New York, NY 10009","No","No",,"Gifts & Home",,"EVCC","
 ",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.rockyscrystalsonline.com/",,"https://www.instagram.com/rockyscrystals/?hl=en",,,,,,,"EVCC",,,,,"2019-07-01","2020-07-01"
-"Blockheads",869,"2020-09-08T14:48:00.000Z",,"Restaurants",,,"60 3rd Ave, New York, NY","No",,"EV location closed.
+"Blockheads",869,"2020-09-08T14:48:00.000Z",,"Restaurants",,,"60 3rd Avenue, New York, NY 10003","No",,"EV location closed.
 ","Mexican",,,"
-",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,"2015-07-01","2020-09-01"
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,"2015-07-01","2020-09-01"
 "By Name",870,"2020-09-08T14:50:00.000Z",,"Restaurants",,,,"No",,,"Cafe",,,"
 ",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,"2019-06-01","2020-09-01"
 "Mermaid Inn",871,"2020-09-08T16:13:00.000Z",,"Restaurants",,,,"No",,"EV location closed.
 ","Seafood",,,"
 ",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,"https://evgrieve.com/search?q=mermaid",,,,,"2003-01-01","2020-09-01"
-"Mani in Pasta",873,"2020-09-08T16:17:00.000Z",,"Restaurants",,,"245 E. 14th St., New York, NY","No",,,"Italian",,,"Had shut down in April 2020 during COVID, was broken into and robbed on June 2, 2020.
-",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,"https://evgrieve.com/2020/09/mani-in-pasta-closes-on-14th-street.html",,,,,"2017-12-01","2020-09-01"
+"Mani in Pasta",873,"2020-09-08T16:17:00.000Z",,"Restaurants",,,"245 E. 14th Street, New York, NY 10003","No",,,"Italian",,,"Had shut down in April 2020 during COVID, was broken into and robbed on June 2, 2020.
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,"https://evgrieve.com/2020/09/mani-in-pasta-closes-on-14th-street.html",,,,,"2017-12-01","2020-09-01"
 " 99-Cent Fresh Pizza & Hot Dog",874,"2020-09-08T16:19:00.000Z","(917) 409-1640","Restaurants",40.726945,-73.983117,"131 Avenue A, New York, NY 10009","Yes",,,"Pizza",,,,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,,
-"99 Favor Taste",875,"2020-09-08T16:20:00.000Z",,"Restaurants",,,"37 St. Marks Place, New York, NY","No",,,"Chinese",,,"
-",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,"2017-07-01","2020-08-01"
-"Turntable Lab",876,"2020-09-08T16:34:00.000Z",,"Retail",,," 84 E. 10th St., New York, NY","No",,,"Records",,,"Previously had 16 years on 7th St and Ave A.
+"99 Favor Taste",875,"2020-09-08T16:20:00.000Z",,"Restaurants",,,"37 St. Mark's Place, New York, NY 10003","No",,,"Chinese",,,"
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,"2017-07-01","2020-08-01"
+"Turntable Lab",876,"2020-09-08T16:34:00.000Z",,"Retail",,," 84 E. 10th Street, New York, NY 10003","No",,,"Records",,,"Previously had 16 years on 7th St and Ave A.
 
-",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,"2017-02-01","2020-08-01"
-"Yuba",877,"2020-09-08T16:37:00.000Z",,"Restaurants",,,"105 E 9th St, New York, NY 10003","No",,,"Japanese",,,"
-",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,"2011-01-01","2020-08-01"
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,"2017-02-01","2020-08-01"
+"Yuba",877,"2020-09-08T16:37:00.000Z",,"Restaurants",,,"105 E 9th Street, New York, NY 10003","No",,,"Japanese",,,"
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,"2011-01-01","2020-08-01"
 "Monk Thrift Shop",878,"2020-09-10T01:19:00.000Z","212-673-7282","Retail",,,"97 E. 3rd Street, New York, NY 10003",,,,"Vintage",,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,
+"Tease Salon",879,"2020-09-10T02:19:00.000Z",,"Shops & Services",,,"352 E 13th Street, New York, NY 10003",,,,"Hair",,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,
