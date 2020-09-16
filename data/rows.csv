@@ -404,8 +404,9 @@ SAT 10AM-3AM
 "Fresco Gelateria",114,"2020-08-05T04:00:00.000Z","212-677-6320","Restaurants",40.728758,-73.987142,"138 2nd Avenue, New York,NY,10003","Yes","Yes",,"Cafe",,"EVCC","confirmed by phone call
 
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}","https://www.seamless.com/menu/fresco-gelateria-138-2nd-ave-new-york/320607","8:00 AM","https://www.instagram.com/frescocafeny/?hl=en","4:00 PM",,,,,,,,,,,,
-"Funny Face Bakery",115,"2020-04-11T04:00:00.000Z","646-861-1274","Dessert",40.72717,-73.986699,"74 E. 7th Street",,"Yes","online orders
-","Bakery",,"EVCC",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","https://funnyfacebakery.com/",,"https://www.instagram.com/funnyfacebakery/",,,,,,,,,,,,,
+"Funny Face Bakery",115,"2020-09-15T04:00:00.000Z","646-861-1274","Dessert",40.72717,-73.986699,"74 E. 7th Street, New York, NY 10003","No","No","online orders
+","Bakery",,"EVCC","PERMANENTLY CLOSED, moving to larger space in Brooklyn
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://funnyfacebakery.com/",,"https://www.instagram.com/funnyfacebakery/",,,,,true,,,"2020-09-01",,"2016-04-01",,,
 "Future You Cafe",116,"2020-03-29T04:00:00.000Z","646-360-2100","Restaurants",40.726565,-73.984313,"117 E. 7th Street, New York, NY","No","No","
 
 ","Cafe",,"EVCC","PERMANENTLY CLOSED May 28 2020. Opened November 2018.
@@ -1199,7 +1200,7 @@ FRI:  ONLY by Appt for Custom Fragrance, 20% deposit required.
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://illuminaeast.com",,"https://www.instagram.com/illumina_east/",,,,"Yes",,,"https://evgrieve.com/2020/07/bad-karma-illumina-east-closes-on.html",,,,,,
 "Three Jewels",365,"2020-08-23T04:00:00.000Z","(646) 851-0355","Health",40.726324,-73.991123,"5 E 3rd St, New York, NY 10003",,,"livestream and online classes
 ","Yoga",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.threejewels.org",,"https://www.instagram.com/threejewelsnyc/",,,,"Yes",,"https://www.threejewels.org/the-emergency-jewel-fund",,,,,,,
-"Up and Up Laundromat",366,"2020-04-10T04:00:00.000Z","(212) 598-1800","Laundromat",40.722738,-73.986242,"13 Avenue A","No",,,"Laundromat",,"PG",,,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
+"Up and Up Laundromat",366,"2020-04-10T04:00:00.000Z","(212) 598-1800","Laundromat",40.722738,-73.986242,"13 Avenue A, New York, NY 10009","No",,,"Laundromat",,"PG",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
 "Liox Cleaners & Laundry",367,"2020-04-10T04:00:00.000Z","(212) 203-6624","Laundromat",40.719828,-73.990347,"123 Allen St","No","Yes","Storefront closed. Offering door-to-door dry cleaning and wash-and-fold service. Typically 3 day turnaround. Schedule pickup through WEBSITE ONLY or through info@lioxcleaners.com
 ","Laundromat",,"PG",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","http://lioxcleaners.com","8:00 AM",,"8:00 PM",,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
 "Ms. Bubble Laundromat",368,"2020-06-17T04:00:00.000Z","(212) 475-0110","Laundromat",40.718647,-73.982988," 202 Rivington St, New York, NY 10002","Yes",,"Last wash is at 4:30pm every day. You must wear a mask to enter, and must wait outside while your clothes are washing and drying. Also offering drop off service.
@@ -1233,7 +1234,7 @@ MON: closed, online orders always!
 Sunday only: 9:00 AM - 6:00 PM
 ","Supermarket",,"PL","Website is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0417724","8:00 AM",,"7:00 PM",,,,,,,,,,,"7am-8am every day",
-"Whole Foods (Union Square)",377,"2020-04-10T04:00:00.000Z","(212) 673-5388","Groceries",40.734793,-73.991359,"4 Union Sq East, New York, NY ","Yes","Yes","Senior Hours: 7am-8am every day
+"Whole Foods (Union Square)",377,"2020-04-10T04:00:00.000Z","(212) 673-5388","Groceries",40.734793,-73.991359,"4 Union Sq East, New York, NY 10003","Yes","Yes","Senior Hours: 7am-8am every day
 
 Sunday only: 9:00 AM - 6:00 PM
 ","Supermarket",,"PL","Website is being updated
@@ -1246,7 +1247,7 @@ Sunday only: 9:00 AM - 6:00 PM
 
 
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"2:00 PM","https://www.instagram.com/stdymphnas/?hl=en","8:00 PM","Yes",,,,,,,,,,,
-"The Sock Man",380,"2020-04-13T04:00:00.000Z","212-529-0300 ","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY","Yes",,"Socks (of course) & a great selection of shades! 
+"The Sock Man",380,"2020-04-13T04:00:00.000Z","212-529-0300 ","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY 10009","Yes",,"Socks (of course) & a great selection of shades! 
 ","Fashion",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.thesockman.com",,"https://www.instagram.com/thesockmannyc/",,,,"Yes",,,,,,,,,
 "An Me",381,"2020-08-12T04:00:00.000Z","212-228-0500","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes",,"MON: Closed
 ","Childrens",,"EVCC","confirmed by phone 
@@ -2802,20 +2803,25 @@ SUN: 1:00 PM - 6:00 PM
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.ibizanyc.com/",,"https://www.instagram.com/ibizaboutiquenyc/",,,,,true,,,,,,,,
 "Ki Smith",885,"2020-09-12T04:57:00.000Z","212.677.5131","Retail",40.72416,-73.98406,"197 E. 4th Street, New York, NY 10009","Yes",,"SUN: 12:30 PM - 5:30 PM
 MON & TUES: Closed
-","Gallery",,,,"info@kismithgallery.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.kismithgallery.com/works-on-paper","12:30 PM","https://www.instagram.com/kismithgallery/?hl=en","8:30 PM",,,,,,,,,,,,
+","Gallery",,,,"info@kismithgallery.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.kismithgallery.com/works-on-paper","12:30 PM","https://www.instagram.com/kismithgallery/?hl=en","8:30 PM",,,,,,,,,"2020-09-09",,,
 "Ralph's Famous Italian Ices & Ice Cream",886,"2020-09-12T13:20:00.000Z",,"Restaurants",40.7275,-73.98289,"145 Avenue A, New York, NY 10009","Yes",,"
 ","Ice Cream",,,"Just opened on 9/11, phone number not listed yet.
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.ralphsices.com/","11:00 AM","https://www.instagram.com/ralphsfamous/","11:00 PM",,,,,,,,,"2020-09-11",,,
-"Piccola Strada",887,"2020-09-12T22:25:00.000Z",,"Restaurants",,,,,,,"Italian",,,"Open: pls complete listing
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/piccolastrada_4thstreet/?hl=en",,"Yes",,,,,,,,,,,
-"Professional PT",888,"2020-09-13T01:36:00.000Z",,"Health",,,"88 E. 4th Street, New York, NY 10003",,,,"Medical",,,"Open: pls complete listing
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.professionalpt.com/office/e-4th-street/",,,,,,,,,,,,,,,
-"Soogil",889,"2020-09-13T01:41:00.000Z","646-838-5524","Restaurants",,,"108 E. 4th Street, New York, NY 10003",,,"WED - SAT
+"Piccola Strada",887,"2020-09-12T22:25:00.000Z","(212) 674-1557","Restaurants",40.726719,-73.990128,"77 E 4th St, New York, NY 10003","Yes",,"THU - SAT: til 11:00 PM
+MON: Closed
+BYOB
+","Italian",,,"
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"4:30 PM","https://www.instagram.com/piccolastrada_4thstreet/?hl=en","10:00 PM","Yes",,,,,,,,,,,
+"Professional PT",888,"2020-09-13T01:36:00.000Z","917-261-5201","Health",40.72572,-73.98891,"88 E. 4th Street, New York, NY 10003","Yes",,"[Request appointment](https://www.professionalpt.com/office/e-4th-street/)
+","Medical",,,"
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.professionalpt.com/office/e-4th-street/",,,,,,,,,,,,,,,
+"Soogil",889,"2020-09-13T01:41:00.000Z","646-838-5524","Restaurants",40.72551,-73.98838,"108 E. 4th Street, New York, NY 10003","Yes","Yes","WED - SAT
 SUN - TUE: Closed
-","Korean",,,"Open: pls complete listing
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"5:00 PM","https://www.instagram.com/soogilnyc/?hl=en","10:00 PM ","Yes",,,,,,,,,,,
-"Benemon",890,"2020-09-13T01:44:00.000Z",,"Restaurants",,,"108 E. 4th Street, New York, NY 10003",,,,"Japanese",,,"Open: pls complete listing
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.benemon.nyc/",,"https://www.instagram.com/benemonnyc/?hl=en",,"Yes",,,,,,,,,,,
+","Korean",,,"
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.soogil.com/","5:00 PM","https://www.instagram.com/soogilnyc/?hl=en","10:00 PM ","Yes",,,true,,,,,,,,
+"Benemon",890,"2020-09-13T01:44:00.000Z","212.614.3006","Restaurants",40.72551,-73.98838,"108 E. 4th Street, New York, NY 10003","Yes","Yes","MON: Closed
+","Japanese",,,"
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.benemon.nyc/","5:30 PM","https://www.instagram.com/benemonnyc/?hl=en","10:00 PM","Yes",,,true,,,,,,,,
 "Le Bouquet",891,"2020-09-13T01:50:00.000Z","212-268-7838","Retail",,,"116 E. 4th Street, New York, NY 10003",,,,"Florist",,,"Open: pls complete listing ALSO have food avail, need to explore!
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/lebouquetny/?hl=en",,,,,,,,,,,,,
 "GG's Nail Salon",892,"2020-09-13T01:59:00.000Z","(917) 409-1422","Shops & Services",,,"125 E. 4th Street, New York, NY 10003",,,,"Nail Salon",,,"Open: pls complete listing
@@ -2835,5 +2841,7 @@ SUN - TUE: Closed
 ",,"Open: pls complete listing
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.layershairnyc.com/",,,,,,,,,,,,,,,
 "Mancora Pisco Bar",899,"2020-09-16T00:41:00.000Z",,"Restaurants",,,"97 1st Avenue, New York, NY 10003",,,,"Peruvian",,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,"Yes",,,,,,,,,,,
-"Aoi Kitchen",900,"2020-09-16T00:45:00.000Z",,"Restaurants",,,,"Yes","Yes","
-","Japanese",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"5:00 PM","https://www.instagram.com/aoikitchenny/","10:00 P","Yes",,,true,,,,,,,,
+"Aoi Kitchen",900,"2020-09-16T00:45:00.000Z","646.454.0084","Restaurants",40.72678,-73.98763,"320 E 6th St, New York, NY 10003","Yes","Yes","FRI - SUN: 1:00 PM - 10:00 PM
+MON: Closed
+","Japanese,Yoshoku",,,,"aoikitchennyc@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://aoikitchen.com/","5:00 PM","https://www.instagram.com/aoikitchenny/","10:00 PM","Yes",,,true,,,,,,,,
+,901,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,,,
