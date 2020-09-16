@@ -1,5 +1,5 @@
 export const categoryGroups = [
-    'Grocery', 'Food & Beverage', 'Shops & Services'
+    'Grocery', 'Food & Beverage', 'Shops & Services', 'Culture'
 ]
 
 export const styles = [
@@ -30,11 +30,27 @@ export const styles = [
     },
     {
         'group': 'Shops & Services',
-        'categoryName': 'Laundromat',
+        'categoryName': 'Laundry',
         'subcategoryName': null,
         'fillColor': '#681a16',
         'strokeColor': '#000',
         'icon': 'laundromat.png'
+    },
+    {
+        'group': 'Shops & Services',
+        'categoryName': 'Laundry',
+        'subcategoryName': 'Laundromat',
+        'fillColor': '#681a16',
+        'strokeColor': '#000',
+        'icon': 'laundromat.png'
+    },
+    {
+        'group': 'Shops & Services',
+        'categoryName': 'Laundry',
+        'subcategoryName': 'Cleaners',
+        'fillColor': '#681a16',
+        'strokeColor': '#000',
+        'icon': 'cleaners.png'
     },
     {
         'group': 'Food & Beverage',
@@ -220,14 +236,6 @@ export const styles = [
         'fillColor': '#7cb342',
         'strokeColor': '#000',
         'icon': 'yoga.png'
-    },
-    {
-        'group': 'Shops & Services',
-        'categoryName': 'Laundromat',
-        'subcategoryName': 'Laundromat',
-        'fillColor': '#681a16',
-        'strokeColor': '#000',
-        'icon': 'laundromat.png'
     },
     {
         'group': 'Food & Beverage',
@@ -765,13 +773,12 @@ export const styles = [
         'strokeColor': '#000',
         'icon': 'phones.png'
     },
-    //blank
     {
-        group: '',
-        categoryName: '',
-        subcategoryName: '',
-        fillColor: '',
-        strokeColor: '',
-        icon: 'blank.png'
+        'group': 'Culture',
+        'categoryName': 'Culture',
+        'subcategoryName': null,
+        'fillColor': '#898989',
+        'strokeColor': '#ffffff',
+        'icon': 'ticket.png'
     }
 ]
