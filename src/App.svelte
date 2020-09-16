@@ -24,8 +24,8 @@
 </script>
 
 <main>
+    <Header/>
     <div class="dash">
-        <Header/>
         <div class="content">
             <div class="sidebar">
                 <Sidebar {items}/>
@@ -40,9 +40,9 @@
             <Bulletin/>
         {/if}
     </div>
-    <p class="is-italic has-text-grey-dark">Updated frequently and with ❤️️ by Perry Leung, <a
+    <p class="is-italic has-text-grey-dark">Updated frequently and with ❤ by Perry Leung, <a
             href="http://evccnyc.org/" target="_blank">EVCC</a>, <a href="https://evgrieve.com" target="_blank">EV
-        Grieve</a>, and Paul Gale.</p>
+        Grieve</a>, and Paul Gale.</p> <br>
 </main>
 <TopButton/>
 
@@ -57,7 +57,7 @@
     .dash {
         display: flex;
         flex-direction: column;
-        height: 96vh;
+        height: 100vh;
     }
 
     .dash > * {
