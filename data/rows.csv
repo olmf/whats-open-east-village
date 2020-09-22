@@ -549,7 +549,7 @@ SUN: 12:30 PM - 9:30 PM
 
 ","Mexican",,"EVCC","
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lapalapa.com","12:00 PM","https://www.instagram.com/la_palapa/","11:00 PM","Yes",,,true,"[Fundraiser for hospital meals!](https://www.gofundme.com/f/la-palapa-meals-for-hospitals)",,,,,,,
-"Ladybird",165,"2020-09-12T04:00:00.000Z","917-261-5524","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY ,10009","Yes","Yes","SAT: 2:00 PM - 11:00 PM
+"Ladybird",165,"2020-09-12T04:00:00.000Z","917-261-5524","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","Yes","Yes","SAT: 2:00 PM - 11:00 PM
 SUN: 2:00 PM - 10:00 PM
 ","Vegan",,"EVCC","hours on website
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.ladybirdny.com","5:00 PM","https://www.instagram.com/ladybird_nyc/","11:00 PM","Yes","http://www.derossiglobal.com/products/giftcertificate/buy",,,"[Funeral expenses for Victor Morales](https://www.gofundme.com/f/b454ju-funeral)",,,,,,,
@@ -679,9 +679,9 @@ FRI 7:30 AM - 10 PM
 SAT 8:00 AM-10:00 PM 
 SUN 8:00 AM - 9:00 PM
 ","Cafe",,"EVCC",,"hello@mudnyc.com","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","www.mudnyc.com","7:30 AM","https://www.instagram.com/p/B-X3hcfjLXU/","9:00 PM","Yes",,,,,,,,,,,
-"Native Bean",203,"2020-09-13T04:00:00.000Z","212-228-8110","Restaurants",40.723521,-73.985267,"36 Avenue A, New York, NY, 10009","Yes","Yes","Open and close times fluctuate, Delivery available through [Seamless](https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932).
-","Cafe",,"EVCC","via phone. EVGrieve says closing this week, Laura check back
-","native.bean@yahoo.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932","8:00 AM",,"2:00 PM",,,,true,,,,,,true,,
+"Native Bean",203,"2020-09-22T04:00:00.000Z","212-228-8110","Restaurants",40.723521,-73.985267,"36 Avenue A, New York, NY, 10009","No","No","Open and close times fluctuate, Delivery available through [Seamless](https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932).
+","Cafe",,"EVCC","PERMANENTLY CLOSED. Opened at 50 Avenue A in 2000, moved to 26 Avenue A in 2014.
+","native.bean@yahoo.com","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932","8:00 AM",,"2:00 PM",,,,true,,"https://evgrieve.com/2020/09/native-bean-wraps-up-20-years-on-avenue.html","2020-09-20",,"2014-12-01",,,
 "Neighborhood Deli",204,"2020-06-17T04:00:00.000Z","212-466-3354","Groceries",40.72594,-73.97796,"392 E. 10th Street, New York, NY 10009","Yes",,,"Deli ",,"EVCC","CALL for hours
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,
 "New Chinatown",205,"2020-03-18T04:00:00.000Z","(212) 420-8799","Restaurants",40.72051,-73.978611,"11 Avenue D, New York, NY 10009","Yes","Yes","MON: Closed
@@ -1111,7 +1111,7 @@ Dinner: 5:00 PM - 9:30 PM
 "Whiskers Holistic Pet Care",345,"2020-04-04T04:00:00.000Z","212-979-2532","Shops & Services",40.729441,-73.987553,"235 E. 9th Street, New York, NY 10003","Yes","Yes","Stocked and here for you. Shop online 1800whiskers.com. Open 24/7. Preorder for pickup. Stay safe.
 ","Pet Supplies & Grooming",,"PL","FB is being updated
 ","https://www.facebook.com/WhiskersHolisticPetcare/?tn-str=k*F","Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","1800whiskers.com","11:00 AM",,"6:00 PM",,,,,,,,,,,,
-"Whitman's ",346,"2020-09-12T04:00:00.000Z","917-261-2858","Restaurants",40.727833,-73.984426,"406 E. 9th Street, New York, NY 10009","Yes","Yes","MON & TUE: 5:00 PM - 9:00 PM
+"Whitman's ",346,"2020-09-22T04:00:00.000Z","917-261-2858","Restaurants",40.727833,-73.984426,"406 E. 9th Street, New York, NY 10009","Yes","Yes","MON & TUE: 5:00 PM - 9:00 PM
 WED & THU: 5:00 PM - 10:00 PM
 FRI: 2:00 PM - 10:00 PM
 SAT: noon - 10:00 PM
@@ -1388,7 +1388,7 @@ Hand-embroidered masks from Mexico!
 ","Books,Bar","[We're offering FREE book deliveries via bike messenger to all of Manhattan, parts of Brooklyn and Queens! In stock titles will be delivered same or next day by owner Nat 😁 🚴](https://www.instagram.com/p/B_Ps0blgIig/)
 ","EVCC","IG is being updated
 ","nat@bookclubbar.com or erin@bookclubbar.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://bookclubbar.com/","9:00 AM","https://www.instagram.com/bookclubbar/","9:00 PM","Yes","https://bookclubbar.com/?q=h.cart.gcfuncs","Yes",,,,,,,,,"receeGolA4n3kFv2I"
-"886",421,"2020-06-22T04:00:00.000Z","(646) 882-0231","Restaurants",40.72878,-73.9887,"26 St Marks Pl, New York, NY, 10003","Yes","Yes","[Order Delivery](https://www.seamless.com/menu/886-26-saint-marks-pl-new-york/1453999) Closed MON,TUES
+"886",421,"2020-06-22T04:00:00.000Z","(646) 882-0231","Restaurants",40.72878,-73.9887,"26 St Marks Pl, New York, NY 10003","Yes","Yes","[Order Delivery](https://www.seamless.com/menu/886-26-saint-marks-pl-new-york/1453999) Closed MON,TUES
 ","Taiwanese",,"EVCC","
 ","hello@eighteightsixnyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.eighteightsix.com/","12:00 PM","https://www.instagram.com/eighteightsix/?hl=en","8:00 PM",,,,,"https://www.eighteightsix.com/pages/bento-donations",,,,,,,
 "Ludlow Coffee Supply",422,"2020-06-24T04:00:00.000Z",,"Restaurants",40.7216825,-73.9873972,"176 Ludlow St, New York, NY,10002","Yes",,,"Cafe",,"EVCC","
@@ -1566,7 +1566,7 @@ IG is being updated
 "Reliable Laundry & Cleaners",470,"2020-09-16T04:00:00.000Z","(212) 598-0381","Laundry",40.719003,-73.984426,"174 Rivington St, New York, NY 10002","Yes",,"
 ","Cleaners",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"10:00 AM",,"6:00 PM",,,,,,,,,,,,
-"P.S. 64",471,"2020-06-22T04:00:00.000Z",,"Free Food",40.7238456,-73.9817633," 600 E 6th St, New York, NY 10009","Yes",,"No registration or identification required. \*\*No one will be turned away.\*\*
+"P.S. 64",471,"2020-06-22T04:00:00.000Z",,"Free Food",40.7238456,-73.9817633," 600 E 6th Street, New York, NY 10009","Yes",,"No registration or identification required. \*\*No one will be turned away.\*\*
 
 \*\*MONDAY-FRIDAY ONLY\*\* 
 
@@ -1575,8 +1575,8 @@ IG is being updated
 11:30 am- 1:30pm for adults. 
 
 All adults and children can pick up three meals at one time. \*\*Parents/guardians CAN pick up meals without their children present.\*\* Vegetarian and halal options available at all sites. Daily menu \[here]\(<https://www.schools.nyc.gov/school-life/food/menus/school-lunch-meals>)
-","Meals",,"EVCC",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,"7:30 AM",,"1:30 PM",,,,,,,,,,,,
-"P.S. 63 / the Star Academy",472,"2020-06-22T04:00:00.000Z",,"Free Food",40.7244069,-73.9862627,"121 E 3rd St,New York,NY,10009","Yes",,"No registration or identification required. \*\*No one will be turned away.\*\*
+","Meals",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"7:30 AM",,"1:30 PM",,,,,,,,,,,,
+"P.S. 63 / the Star Academy",472,"2020-06-22T04:00:00.000Z",,"Free Food",40.7244069,-73.9862627,"121 E 3rd Street,New York, NY 10009","Yes",,"No registration or identification required. \*\*No one will be turned away.\*\*
 
 \*\*MONDAY-FRIDAY ONLY\*\* 
 
@@ -1585,7 +1585,7 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 11:30 am- 1:30pm for adults. 
 
 All adults and children can pick up three meals at one time. \*\*Parents/guardians CAN pick up meals without their children present.\*\* Vegetarian and halal options available at all sites. Daily menu \[here]\(<https://www.schools.nyc.gov/school-life/food/menus/school-lunch-meals>)
-",,,"EVCC",,,"Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}",,"7:30 AM",,"1:30 PM",,,,,,,,,,,,
+",,,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"7:30 AM",,"1:30 PM",,,,,,,,,,,,
 "Caracas Arepa Bar",473,"2020-06-22T04:00:00.000Z","(212) 228-5062","Restaurants",40.7269655,-73.9854223,"91 E 7th St, New York, NY 10009","Yes","Yes","Order via their app or phone. Along with regular options, selling a variety of meal kits.
 ","Venezuelan",,"EVCC",,,"Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","http://www.caracasarepabar.com/","12:00 PM","https://www.instagram.com/caracasarepabar/","9:00 PM",,,,,,,,,,,,
 "Ave B Beer & Cigars",474,"2020-06-22T04:00:00.000Z","(212) 228-2807","Shops & Services",40.728519,-73.978929,"206 Avenue B, New York, NY 10009","Yes",,,"Smoke Shop",,"EVCC","via phone
@@ -2813,7 +2813,8 @@ This is correct name and number (Mango listings are old)
 ","Hair","MON - THU: 20% off all services!
 ",,"Website is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.layershairnyc.com/","11:00 AM",,"9:00 PM",,,,,,,,,,,,
-"Mancora Pisco Bar",899,"2020-09-16T00:41:00.000Z",,"Restaurants",40.726376,-73.98651,"97 1st Avenue, New York, NY 10003",,,,"Peruvian",,,,"97mancora@gmail.com","Unknown","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,,"Yes",,,,,,,,,,,
+"Mancora Pisco Bar",899,"2020-09-16T00:41:00.000Z",,"Restaurants",40.726376,-73.98651,"97 1st Avenue, New York, NY 10003",,,,"Peruvian",,,"Mancora Restaurant is closed. Laura check outdoor seating for bar?
+","97mancora@gmail.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,"Yes",,,,,,,,"2017-06-01",,,
 "Aoi Kitchen",900,"2020-09-16T00:45:00.000Z","646.454.0084","Restaurants",40.72678,-73.98763,"320 E. 6th St, New York, NY 10003","Yes","Yes","FRI - SUN: 1:00 PM - 10:00 PM
 MON: Closed
 ","Japanese,Yoshoku",,,"Website is being updated
@@ -2836,4 +2837,7 @@ MON: Closed
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,"https://evgrieve.com/2020/09/jules-bistro-will-not-be-reopening-on.html","2020-09-15",,"1993-01-01",,,
 "Spiegel",908,"2020-09-20T20:32:00.000Z",,"Restaurants",,,"26 1st Avenue, New York, NY 10009","No",,,,,,"PERMANENTLY CLOSED
 ",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,"https://evgrieve.com/2020/09/has-spiegel-closed.html","2020-09-15",,"2014-03-01",,,
-,909,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,,,
+"Saramsam",909,"2020-09-22T22:47:00.000Z","(833) 328-4588","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","Yes","Yes","SUN: noon - 10:00 PM
+","Filipino,Vegan",,,"Ravi's third concept in this space (after Fire & Water and Night Music)
+"," info@saramsam.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.saramsam.com/","5:00 PM ","https://www.instagram.com/saramsamnyc/","11:00 PM","Yes",,,,,,,,"2020-09-14",,,
+,910,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,,,
