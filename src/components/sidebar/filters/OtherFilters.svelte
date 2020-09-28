@@ -1,6 +1,7 @@
 <script>
     import CategoryFilters from './CategoryFilters.svelte'
     import OutdoorSeating from './OutdoorSeating.svelte'
+    import IndoorSeating from './IndoorSeating.svelte'
     import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
     import OwnedByFilters from './OwnedByFilters.svelte'
 
@@ -8,6 +9,7 @@
 
 <CategoryFilters/>
 <OutdoorSeating/>
+<IndoorSeating/>
 <PickupDeliveryFilter/>
 <div class="field">
     <label class="label">Additional Categories:</label>

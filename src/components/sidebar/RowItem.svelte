@@ -8,6 +8,7 @@
         selectedItem.select(item, $mapObject, item.coordinates)
     }
     $: outsideSeating = item['Outside Seating Offered'].toLowerCase().includes('yes')
+    $: indoorSeating = 'Indoor Seating Offered' in item && item['Indoor Seating Offered'].toLowerCase().includes('yes')
     $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
     $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
     $: shipping = item['Shipping Offered'].toLowerCase().includes('yes')
@@ -18,7 +19,10 @@
         <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
         <div class="icons">
             {#if outsideSeating}
-                <MaterialIcon icon="deck" alt="Outside Seating Offered"/>
+                <MaterialIcon icon="deck" alt="Outside Dining"/>
+            {/if}
+            {#if indoorSeating}
+                <MaterialIcon icon="foundation" alt="Indoor Dining"/>
             {/if}
             {#if pickup}
                 <MaterialIcon icon="local_mall" alt="Pickup Offered"/>

@@ -49,8 +49,17 @@
 
         {#if item['Outside Seating Offered'] && item['Outside Seating Offered'].toLowerCase().includes('yes')}
             <div class="category">
-                <strong>Outdoor Seating/ Service -</strong>
+                <strong>Outdoor Dining - </strong>
                 <p><span class="tag is-primary is-small">{item['Outside Seating Offered']}</span></p>
+            </div>
+        {/if}
+
+        {#if item['Indoor Seating Offered'] && item['Indoor Seating Offered'].toLowerCase().includes('yes')}
+            <div class="category">
+                <strong>Indoor Dining - </strong>
+                <p><span
+                        class="tag is-primary is-small">{item['Indoor Seating Offered'].replace(/^\w/, c => c.toUpperCase())}</span>
+                </p>
             </div>
         {/if}
 

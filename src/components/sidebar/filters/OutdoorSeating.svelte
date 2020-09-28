@@ -29,7 +29,7 @@
 
 <label class="checkbox">
     <MaterialIcon icon="deck" alt="Outside Seating Offered"/>
-    <input type="checkbox" bind:checked={showFilter}>Outdoor Seating/ Service
+    <input type="checkbox" bind:checked={showFilter}>Outdoor Dining
 </label>
 
 <style>
