@@ -2,7 +2,7 @@
     import MaterialIcon from '../../MaterialIcon.svelte'
     import {filters} from '../../../stores'
     let showFilter = false
-    $: filterLabel = `outdoor`
+    $: filterLabel = `indoor`
     $: updateFilter(showFilter)
     function updateFilter(showFilter) {
         if ($filters) {
