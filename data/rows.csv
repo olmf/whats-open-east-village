@@ -79,7 +79,7 @@ CLOSED SUN,MON,THURS,FRI
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}","https://www.artichokepizza.com","11:00 AM",,"11:00 PM",,,,,,,,,,,,,
 "Atlas Cafe",23,"2020-09-12T04:00:00.000Z","212-539-0966","Restaurants",40.72651,-73.989528,"73 2nd Avenue, New York, NY, 10003","No",,"Delivery, Takeout hrs: 10AM-10:45PM
 ","Cafe",,"EVCC","PERMANENTLY CLOSED September 2020. 
-",,"Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,"8:00 AM",,"12:00 PM",,,,,,,"2020-09-01","1999-01-01",,,,,
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"12:00 PM",,,,,,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html","2020-09-01","1999-01-01",,,,,
 "Atmi",24,"2020-09-02T04:00:00.000Z","212-228-5811","Shops & Services",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY 10003","Yes","Yes","	
 ","Wine",,"EVCC","			EVCC
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:00 AM",,"11:45 PM",,,,,,,,,,,,,
@@ -562,7 +562,7 @@ SUN: 2:00 PM - 10:00 PM
 "Lavanderia aka Bright Laundry Land",168,"2020-09-16T04:00:00.000Z","(212) 228-2423","Laundry",40.721258,-73.987491,"108 Stanton Street, New York, NY,10002","Yes","Yes","
 ","Laundromat",,"EVCC","Google updated by business
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"7:00 PM",,,,,,,,,,,,,
-"Le Fournil",169,"2020-07-10T04:00:00.000Z",,"Restaurants",40.72789749,-73.98841804,"115 2nd Avenue, New York City","Yes","Yes","SUN: 7 AM - 3 PM
+"Le Fournil",169,"2020-10-09T04:00:00.000Z",,"Restaurants",40.72789749,-73.98841804,"115 2nd Avenue, New York City","Yes","Yes","SUN: 7 AM - 3 PM
 MON: Closed
 ","Cafe",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lefournilnyc.com","8:00 AM","https://www.instagram.com/lefournilnyc/?hl=en","4:00 PM",,,,,,,,,,,,,
@@ -915,7 +915,7 @@ SUN: Closed
 "Spiritea",277,"2020-09-12T04:00:00.000Z","646-906-6859","Restaurants",40.72656,-73.988746,"300 E. 5th Street, New York, NY","No","No","			
 ","Tea Shop",,"PL","PERMANENTLY CLOSED.
 
-","contact@spiriteadrinks.com","Closed","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://spiriteadrinks.com/",,"https://www.instagram.com/spiriteadrinks/",,,,,true,,,"2020-09-30","2019-05-01",,,,,
+","contact@spiriteadrinks.com","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://spiriteadrinks.com/",,"https://www.instagram.com/spiriteadrinks/",,,,,true,,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html","2020-09-30","2019-05-01",,,,,
 "Spot Dessert Bar",278,"2020-09-12T04:00:00.000Z","212-677-5670","Dessert",40.72928133,-73.98898779,"13 St. Mark's Place, New York, NY","Yes","Yes","
 ","Dessert Bar","Use code SPOT10” for 10% Discount on all delivery orders!
 ","PG","IG is being updated
@@ -2836,8 +2836,9 @@ As of 9/30/20, Masks are mandatory, and table service only. Hours are subject to
 
 As of 9/30/20, Masks are mandatory, and table service only. Hours are subject to change.
 ","Bar",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"3:00 PM",,"11:00 PM","No",,,,,,,,,"Yes",,,
-"DIA",915,"2020-09-30T16:04:00.000Z","(917) 675-7664","Restaurants",,,"58 2nd Avene, New York, NY 10003","No",,,"Italian,Pizza",,,"PERMANENTLY CLOSED
-",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://dia-nyc.com",,,,,,,,,,"2020-05-01","2018-09-01",,,,,
+"DIA",915,"2020-09-30T16:04:00.000Z","(917) 675-7664","Restaurants",,,"58 2nd Avene, New York, NY 10003","No",,"
+","Italian,Pizza",,,"PERMANENTLY CLOSED
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://dia-nyc.com",,,,,,,,,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html","2020-05-01","2018-09-01",,,,,
 "Nostro",916,"2020-09-30T16:07:00.000Z",,"Restaurants",,,,"No",,,"Italian",,,"PERMANENTLY CLOSED
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,"2020-07-30","2019-10-30",,,,,
 "The Pizza Spot",917,"2020-09-30T16:11:00.000Z","(646) 370-6883","Restaurants",40.723012,-73.989732,"147 E. Houston Street, New York, NY 10002","Yes","Yes","
@@ -2854,14 +2855,14 @@ As of 9/30/20, Masks are mandatory, and table service only. Hours are subject to
 "Murphy’s Door Cafe",926,"2020-10-07T03:22:00.000Z","(646) 801-5606","Restaurants",40.7273011,-73.983118,"440 E. 9th Street, New York, NY 10009","Yes",,"SAT & SUN: 9:00 AM - 6:00 PM
 Orders can be placed [online](https://www.murphysdoorcafe.com/).
 ","Cafe",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","murphysdoorcafe.com","7:00 AM ","https://www.instagram.com/murphysdoorcafe/","7:00 PM","Yes",,,,,,,"2020-10-02",,,,,
-"LT Baron’s",927,"2020-10-09T06:09:00.000Z",,"Laundry",,,"528 E. 11th Street, New York, NY 10003","No",,,,,,"PERMANENTLY CLOSED. Several families have owned the business through the years, with a nice couple taking over early this year.
+"LT Baron’s",927,"2020-10-09T06:09:00.000Z",,"Laundry",,,"528 E. 11th Street, New York, NY 10003","No",,,"Cleaners",,,"PERMANENTLY CLOSED. Several families have owned the business through the years, with a nice couple taking over early this year.
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,"https://evgrieve.com/2020/10/lt-barons-dry-cleaners-laundry-shuts.html?m=1","2020-10-06",,,,,,
 "Phebe's",929,"2020-10-09T01:08:00.000Z","(212) 358-1902","Restaurants",40.726861,-73.991333,"361 Bowery New York, NY 10003","Yes","Yes",,"Bar,American",,,,"phebes@me.com","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","www.phebesnyc.com","12:00 PM",,"11:30 PM","Yes",,,,,,,,,,,,
 "Here Nor There",930,"2020-10-07T04:47:00.000Z",,"Retail",40.7289711,-73.986315,"315 E. 9th Street, New York, NY 10003","Yes","Yes","SAT: 11:00 PM - 8:00 PM
 Message on [Instagram](https://www.instagram.com/herenortherenyc/) for same day delivery!
 ","Fashion",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://herenortherenyc.com/","11:00 PM","https://www.instagram.com/herenortherenyc/","7:00 PM ",,,,true,,,,,,,,,
 "Tokyo Joe",931,"2020-10-09T02:50:00.000Z","(212) 473-0724","Retail",40.72952,-73.98482,"334 E. 11th Street, New York, NY 10009","Yes",,"FRI - SUN: noon - 8:00PM
-","Vintage",,,"Operating next-door while doing renovations Laura check and finish
+","Vintage",,,"Operating nextdoor while doing renovations Laura check and finish
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://eco-nsignmentboutique.online","1:00 PM","https://www.instagram.com/eco_nsignment_boutique/?hl=en","7:30 PM",,,,true,,,,,,,,,
 "Tsukimi",932,"2020-10-09T05:59:00.000Z",,"Restaurants",40.728981,-73.985497,"228 E. 10th Street, New York, NY 10003","Yes","Yes","WED - SAT: one seating at 6:30 PM
 Starting 11/11: seatings at 5:30 and 8:30 PM 
@@ -2880,9 +2881,15 @@ MON - SUN: Closed
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/tokio7ny/",,,,,true,,"https://evgrieve.com/2020/09/a-return-for-tokio7.html",,,,,,,
 "C & C Dry Cleaning ",938,"2020-10-10T00:23:00.000Z",,"Laundry",,," 178 E. 7th Street, New York, NY 10009","No",,,"Cleaners",,,"PERMANENTLY CLOSED	(at this location at least 10 years)
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,true,,"https://evgrieve.com/2020/10/c-c-dry-cleaning-closes-on-7th-street.html","2020-10-01",,,,,,
-"Modern Love Club",939,"2020-10-10T00:27:00.000Z","857.410.0088","Retail",40.728378,-73.984322,"156 1st Avenue, New York, NY 10009",,,,"Gallery",,,"Closing October 31 Laura check 
-","info@modernloveclub.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.modernloveclub.com/",,"https://www.instagram.com/modernloveclub/",,,,,true,,"https://evgrieve.com/2020/10/the-modern-love-club-giving-up-its-1st.html","2020-10-31","2016-10-01",,,,,
-"Wild Project",940,"2020-10-10T00:31:00.000Z","212-228-1195","Retail",,,"195 E. 3rd Street, New York, NY 10009","Yes",,"OCT 5 - OCT 11: [East Village Queer Film Festival 2020](https://watch.eventive.org/eastvillagequeerfilmfestival) Virtual Film Festival!
+"Modern Love Club",939,"2020-10-10T00:27:00.000Z","857.410.0088","Retail",40.728378,-73.984322,"156 1st Avenue, New York, NY 10009","Yes",,,"Gallery",,,"Closing October 31 Laura check 
+","info@modernloveclub.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.modernloveclub.com/",,"https://www.instagram.com/modernloveclub/",,,,,true,,"https://evgrieve.com/2020/10/the-modern-love-club-giving-up-its-1st.html","2020-10-31","2016-10-01",,,,,
+"Wild Project",940,"2020-10-10T00:31:00.000Z","212-228-1195","Retail",40.72304,-73.98329,"195 E. 3rd Street, New York, NY 10009","Yes",,"OCT 5 - OCT 11: [East Village Queer Film Festival 2020](https://watch.eventive.org/eastvillagequeerfilmfestival) Virtual Film Festival!
 Gallery is open! Check out their [YouTube Channel](https://www.youtube.com/channel/UC_p_hJP-1obOXxEnoH1FNqg?app=desktop) for virtual offerings!
-","Gallery",,,"Gallery and 
+","Gallery",,,"Theater is still closed 
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://thewildproject.com/",,"https://www.instagram.com/wildprojectnyc/",,,,"Yes",true,,,,,true,,,,
+"Pado",941,"2020-10-10T00:57:00.000Z","(646)476-6101","Restaurants",,,"199 2nd Avenue, New York, NY 10003","No","No",,"Japanese",,,"PERMANENTLY CLOSED. Landlord wouldn't work with them, looking for another space. 
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/padonyc/",,,,,true,,"https://evgrieve.com/2020/10/pado-is-closing-on-2nd-avenue.html","2020-09-30","2018-10-01",,,,,
+"Sun's Laundry",942,"2020-09-01T01:12:00.000Z",,"Laundry",,,"626 E. 14th Street, New York, NY 10009","No","No",,"Cleaners",,,"PERMANENTLY CLOSED. Did not reopen after pandemic.			
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,true,,"https://evgrieve.com/2020/08/suns-laundry-closes-after-more-than-60.html","2020-08-31","1959-01-01",,,,,
+"Public Access",943,"2020-10-10T01:26:00.000Z",,"Retail",40.66735,-73.69653,"8 St. Mark's Place, New York, NY 10003","Yes",,"THU - SUN [by appointment only](https://publicaccessnyc.as.me/schedule.php)
+","Gallery",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://publicaccessnyc.as.me/schedule.php","3:00 PM ","https://www.instagram.com/publicaccess.nyc/?hl=en","8:00 PM",,,,,,,,"2020-10-01",,,,,
