@@ -1908,7 +1908,7 @@ confirmed by phone call
 TUE - SUN: Closed from 3 PM - 4 PM 
 ","Thai",,"EVCC","time is on website 
 IG is being updated
-","terrathainyc@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.terrathainy.com/","12:00 PM ","https://www.instagram.com/terrathai/?hl=en","9:00 PM",,,,true,,,,,,,,,
+","terrathainyc@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.terrathainy.com/","12:00 PM ","https://www.instagram.com/terrathai/?hl=en","9:00 PM","Yes",,,true,,,,,,,,,
 "Tableside Cook Shop",578,"2020-08-11T04:00:00.000Z","(646) 852-6498","Restaurants",40.72665,-73.986412,"345 E 6th St, New York, NY 10003","Yes","Yes","FRI & SAT: 5:00 PM - 10:00 PM
 ","Italian",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.tablesidenyc.com","5:00 PM","https://www.instagram.com/tablesidenyc/?hl=en","9:30 PM","Yes",,,,,,,,,,,,
@@ -2479,9 +2479,9 @@ FRI: 11:00 AM - 2:00 AM
 SAT: 10:00 AM - 2:00 PM
 SUN: 10:00 AM - 11:00 PM
 ","Bar",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.yucabarnyc.com/","11:00 AM","https://www.instagram.com/yucabar/","11:00 AM","Yes",,,,,,,,,,,,
-"Hairy Lemon",791,"2020-10-09T18:45:00.000Z",,"Restaurants",40.72249,-73.98341,"28 Avenue B, New York, NY 10009",,,"Out of the penalty box				
-","Bar",,"EVCC","Out of the penalty box 9/25, have not seen open
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.hairylemonnyc.com/",,"https://www.instagram.com/hairylemonnyc/",,"Yes",,,,,,,,,,,,
+"Hairy Lemon",791,"2020-10-09T18:45:00.000Z",,"Restaurants",40.72249,-73.98341,"28 Avenue B, New York, NY 10009","Yes",,"			
+","Bar",,"EVCC","Out of the SLA penalty box 9/25
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.hairylemonnyc.com/",,"https://www.instagram.com/hairylemonnyc/",,"Yes",,,,,,,,,,,,
 "Petit Chou",793,"2020-10-08T21:22:00.000Z","917-475-1620","Dessert",40.7311545,-73.9831121,"229 1st Avenue, New York, NY 10003","Yes",,"SAT: 8:00 AM - 9:00 PM
 SUN: 9:00 AM - 9:00 PM
 ","Bakery",,"PG","IG is being updated
@@ -2921,9 +2921,12 @@ MON - SUN: Closed
 SUN: 1:00 PM - 10:00 PM
 ","Bar",,,"form request
 ","revisionlounge@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.revisionlounge.com/",,"https://www.instagram.com/revisionloungenyc/",,"Yes",,,,,,,,,"Yes",,,
-"Hair Kuwayama",950,"2020-10-12T17:55:00.000Z","(212)529-6977","Shops & Services",40.73033,-73.98274,"406 E. 13th Street, New York, NY 10009","Yes",,,"Hair",,,"Laura check hours
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/hairkuwayama/",,,,,true,,,,,,,,,
-"Ho Foods",951,"2020-10-12T18:00:00.000Z",,"Restaurants",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","Yes",,"Taiwanese",,,"Laura check hours
+"Hair Kuwayama",950,"2020-10-12T17:55:00.000Z","(212)529-6977","Shops & Services",40.73033,-73.98274,"406 E. 13th Street, New York, NY 10009","Yes",,"By appointment 
+","Hair",,,"Laura check hours
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://hairkuwayama.com/",,"https://www.instagram.com/hairkuwayama/",,,,,true,,,,,,,,,
+"Ho Foods",951,"2020-10-12T18:00:00.000Z",,"Restaurants",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","Yes","Breakfast SAT & SUN: 10:30 AM - 3:30 PM
+Dinner THU - SUN from 5:00 PM
+","Taiwanese",,,"
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://hofoods.square.site",,"https://www.instagram.com/hofoodsnyc/",,"Yes",,,true,,,,,,,,,
 "Firm Shoe Repair",952,"2020-10-12T18:11:00.000Z","(212) 533-8530","Shops & Services",40.73269,-73.99025,"116 4th Avenue, New York, NY 10003","Yes",,"SUN: 10:00 AM - 5:00 PM
 SAT: Closed
