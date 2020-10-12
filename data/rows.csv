@@ -2848,11 +2848,15 @@ As of 9/30/20, Masks are mandatory, and table service only. Hours are subject to
 "The Pizza Spot",917,"2020-09-30T16:11:00.000Z","(646) 370-6883","Restaurants",40.723012,-73.989732,"147 E. Houston Street, New York, NY 10002","Yes","Yes","
 
 ","Pizza",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.ilmattoneles.com/",,,,,,,,,,,,,,,,
-"Virginia's",918,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
-"Jackdaw",919,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
+"Virginia's",918,"2020-10-12T03:58:00.000Z","(212) 658-0182","Restaurants",40.726761,-73.97731,"647 E. 11TH ST, NEW YORK, NY, 10009","Yes","Yes","Open Tues-Sat
+Order through their [website](https://www.virginiasnyc.com/).
+","American","Visit us from 5:30-6:30pm for half-priced burgers!
+",,,"INFO@VIRGINIASNYC.COM","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.virginiasnyc.com/","5:30 PM","https://www.instagram.com/virginiasnyc/","10:00 PM","Yes",,,,,,,"2015-05-04",,"Yes",,,
+"Jackdaw",919,,,,,,,,,"
+",,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
 "The Copper Still",920,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
 "Mister Paradise",921,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
-"The Original Mee Noodle Shop & Grill",923,"2020-10-01T22:44:00.000Z","(212) 260-7838","Restaurants",40.7309723,-73.9830444,"223 1st Avenue, New York, NY 10003","Yes","Yes",,"Chinese,Nood",,,,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://theoriginalmeenoodleshopnyc.com","11:30AM",,"9:30PM","No",,,,,,,,,"No",,,
+"The Original Mee Noodle Shop & Grill",923,"2020-10-01T22:44:00.000Z","(212) 260-7838","Restaurants",40.7309723,-73.9830444,"223 1st Avenue, New York, NY 10003","Yes","Yes",,"Chinese,Nood",,,,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://theoriginalmeenoodleshopnyc.com","11:30 AM",,"9:30 PM","No",,,,,,,,,"No",,,
 "The Winslow Gin House and Eatery",924,"2020-10-03T16:02:00.000Z","(212) 777-7717","Restaurants",40.7327741,-73.9852297,"243 E. 14th Street, New York, NY 10003",,,,"Bar",,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Http://thewinslownyc.com",,,,,,,,,,,,,"Yes",,,
 "Sullivan Street Bakery",925,"2020-10-07T03:18:00.000Z",,"Restaurants",40.7276867,-73.9831177,"437 E. 9th Street, New York, NY 10009","Yes",,"Pop-up! Open Wednesday-Sunday only (as of 10/7/2020)
 ","Bakery",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM","http://instagram.com/sullivanstreetbakery","7:00 PM",,,,,,,,"2020-10-05",,,,,
