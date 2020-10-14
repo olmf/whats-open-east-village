@@ -1230,11 +1230,11 @@ Sunday only: 9:00 AM - 6:00 PM
 "Key Food",378,"2020-04-10T04:00:00.000Z","(212) 598-9184","Groceries",40.717908,-73.979813,"43 Columbia Street, New York, NY","Yes","Yes","Seniors only, Wednesdays, 8 AM-3 PM
 ",,,"PL","Senior Hours per Carlina Rivera's website
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"10:00 PM",,,,,,"https://council.nyc.gov/carlina-rivera/covid-19-updates/",,,,,,"8 AM-3 PM, Wednesdays",
-"St. Dympna's",379,"2020-08-17T04:00:00.000Z",,"Restaurants",40.726424,-73.983592,"117 Avenue A, New York, NY 10009","No","No","Liquor license suspended
+"St. Dympna's",379,"2020-08-17T04:00:00.000Z",,"Restaurants",40.726424,-73.983592,"117 Avenue A, New York, NY 10009","Yes",,"Liquor license suspended
 ","Bar",,"EVCC","Closed by SLA for infractions as of 8/16/20, check back re license
 
 
-",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"2:00 PM","https://www.instagram.com/stdymphnas/?hl=en","8:00 PM","Yes",,,,,,,,,,,,
+",,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,"4:00 PM","https://www.instagram.com/stdymphnas/?hl=en","11:00 PM","Yes",,,,,,,,,"Yes",,,
 "The Sock Man",380,"2020-04-13T04:00:00.000Z","212-529-0300 ","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY 10009","Yes",,"Socks (of course) & a great selection of shades! 
 ","Fashion",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.thesockman.com",,"https://www.instagram.com/thesockmannyc/",,,,"Yes",,,,,,,,,,
 "An Me",381,"2020-08-12T04:00:00.000Z","212-228-0500","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes",,"MON: Closed
@@ -2935,11 +2935,13 @@ Dinner THU - SUN from 5:00 PM
 "Firm Shoe Repair",952,"2020-10-12T18:11:00.000Z","(212) 533-8530","Shops & Services",40.73269,-73.99025,"116 4th Avenue, New York, NY 10003","Yes",,"SUN: 10:00 AM - 5:00 PM
 SAT: Closed
 ","Shoe Repair",,,,"FirmShoeRepair@Yahoo.com","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://sites.google.com/view/firmshoerepair","8:00 AM ",,"6:00 PM",,,,,,,,,,,,,
-"Duane Park",953,"2020-10-14T01:05:00.000Z","(212) 732-5555","Restaurants",40.724936,-73.992704,"308 Bowery, New York, NY 10012","Yes",,"Thurs - Saturday only
+"Duane Park",953,"2020-10-14T01:05:00.000Z","(212) 732-5555","Restaurants",40.724936,-73.992704,"308 Bowery, New York, NY 10012","Yes",,"Open THURS-SAT only
 ","American,Bar",,,,"reservations@duaneparknyc.com","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://duaneparknyc.com/index.html","6:00 PM","https://www.instagram.com/duaneparknyc/?hl=en","10:30 PM","Yes",,,true,,,,,,,,,
 "Center for Remembering & Sharing",954,,"(212) 677-8621","Health",40.733016,-73.989789,"123 4th Ave FL2, New York, NY  10003","Yes",,"Mon-Fri: approx 2:00 PM – 8:00 PM
 Also by appointment
 
 Our classes and cultural events are currently all online, but we are open on a limited basis for hourly space rentals for rehearsals, photo/video shoots, healing sessions, counseling, small meetings, etc. Email [rentals@crsny.org](mailto:rentals@crsny.org) for more info
 ",,,,,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://www.crsny.org/",,,,,,,,,,,,,,,,
-,955,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,,,,
+"Taberna 97",955,"2020-10-14T17:05:00.000Z","(212) 477-5600","Restaurants",40.727505,-73.984582,"97 St Marks Pl, New York, NY 10009","Yes",,"Open WED-SAT only
+
+","Portuguese,Tapas",,,,"reservations@taberna97.com","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.taberna97.com/","4:00 PM","https://www.instagram.com/taberna97/","10:45 PM","Yes",,,,,,,,,,,,
