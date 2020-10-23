@@ -522,7 +522,7 @@ Confirmed by phone
 "Kapri Cleaners",154,"2020-04-01T04:00:00.000Z","(212) 420-8853","Laundry",40.722073,-73.984836,"250 E. Houston Street, New York, NY 10009","Yes",,,"Cleaners",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "Katz's Deli",155,"2020-08-29T04:00:00.000Z","212-254-2246","Restaurants",40.722115,-73.987526,"205 East Houston Street, New York, NY 10002","Yes","Yes","Mon - Wed: 8:00am - 10:45 pm Thu: -2:45am                                                       Fri: 8:00am - Open all night! Sat: Open all day! Sunday: -10:45pm
 ","Jewish",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r",,"https://www.instagram.com/katzsdeli/?hl=en",,"Yes",,"Yes",,,,,,,,,,
-"Khiladi NYC",156,"2020-09-12T04:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","Yes","MON - THU: 11:00 AM -10:30 PM, with a break from 2:30 PM -5:30 PM.
+"Khiladi NYC",156,"2020-09-12T04:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","No","MON - THU: 11:00 AM -10:30 PM, with a break from 2:30 PM -5:30 PM.
 FRI: 11:00 AM - midnight, with a break from 2:30 PM - 5:30 PM.
 SAT: 11:30 AM- midnight
 SUN: 11:00 AM - 11:00 PM
@@ -2874,8 +2874,9 @@ As of 9/30/20, Masks are mandatory, and table service only. Hours are subject to
 Order through their [website](https://www.virginiasnyc.com/).
 ","American","Half-priced burgers 5:30-6:30 PM!
 ",,,"INFO@VIRGINIASNYC.COM","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.virginiasnyc.com/","5:30 PM","https://www.instagram.com/virginiasnyc/","10:00 PM","Yes",,,,,,,"2015-05-04",,"Yes",,,
-"Jackdaw",919,,,,,,,,,"
-",,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
+"Jackdaw",919,"2020-10-23T04:11:00.000Z",,"Restaurants",,,,"Yes","Yes","Brunch SAT - MON!
+11:00 AM - 4:00 PM
+","Bar",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/jackdawnyc/",,,,,,,,,,,"Yes",,,
 "The Copper Still",920,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
 "Mister Paradise",921,,,,,,,,,,,,,,,"Unknown","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,"Yes",,,
 "The Original Mee Noodle Shop & Grill",923,"2020-10-01T22:44:00.000Z","(212) 260-7838","Restaurants",40.7309723,-73.9830444,"223 1st Avenue, New York, NY 10003","Yes","Yes",,"Chinese,Nood",,,,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://theoriginalmeenoodleshopnyc.com","11:30 AM",,"9:30 PM","No",,,,,,,,,"No",,,
