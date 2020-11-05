@@ -552,8 +552,11 @@ SUN: 12:30 PM - 9:30 PM
 "Kook Korean Restaurant",162,"2020-06-25T04:00:00.000Z","(212) 254-0600","Restaurants",40.72678465,-73.98738473,"324 E. 6th Street, New York, NY, 10003","Yes","Yes","CLOSED MON
 ","Korean",,"EVCC","No info online - need to call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM",,"10:00 PM",,,,true,,,,,,,,,
-"Kotobuki",163,"2020-06-17T04:00:00.000Z","212-353-5088","Restaurants",40.73112,-73.989161,"56 3rd Avenue, New York, NY 10003","Yes","Yes","MON: Closed
-","Japanese",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.kotobukirestaurants.com","4:30 PM","https://www.instagram.com/dinekotobuki/?hl=en","9:00 PM","Yes",,,true,,,,,,,,,
+"Kotobuki",163,"2020-11-04T05:00:00.000Z","212-353-5088","Restaurants",40.73112,-73.989161,"56 3rd Avenue, New York, NY 10003","Yes","Yes","Lunch MON - FRI: noon - 2:30 PM
+Dinner FRI & SAT: til 11:00 PM 
+Dinner SUN: til 9:30 PM
+","Japanese",,"EVCC","Website hours are being updated.
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.kotobukirestaurants.com","5:30 PM","https://www.instagram.com/dinekotobuki/?hl=en","10:00 PM","Yes",,,true,,,,,,"Yes",,,
 "La Palapa",164,"2020-09-12T04:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Marks Place, New York, NY 10003","Yes","Yes","FRI & SAT: noon - midnight
 
 ","Mexican",,"EVCC","
@@ -858,7 +861,7 @@ If you would like to schedule a telehealth visit with a Ryan Health | NENA provi
 
 During the COVID-19 crisis, all copays and other patient payments, including for uninsured patients, will be waived for telehealth visits.
 ","Medical",,"EVCC",,,"Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","ryanhealth.org/locations/ryan-nena-community-health-center","9:00 AM",,"5:00 PM",,,"Yes",,,,,,,,,,
-"S'MAC",257,"2020-11-04T05:00:00.000Z","(212) 358-7912","Restaurants",40.730227,-73.983727,"197 1st Avenue, New York, NY 10003","Yes","Yes","Thanksgiving [Turkey Mac](https://www.eatsmac.com/menu/#saritas-recommendations)
+"S'MAC",257,"2020-11-04T05:00:00.000Z","(212) 358-7912","Restaurants",40.730227,-73.983727,"197 1st Avenue, New York, NY 10003","Yes","Yes","No Thanksgiving plans? Try [Turkey Mac](https://www.eatsmac.com/menu/#saritas-recommendations)!
 Also offering Frozen Mac + Cheese Kits <https://www.instagram.com/p/B-KT5hLpu1S>
 ","American",,"EVCC",,"eastvillage@eatsmac.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.eatsmac.com/","11:00 AM","https://www.instagram.com/eatsmac/","11:00 PM","Yes","https://www.toasttab.com/s-mac-east-village/giftcards",,true,"Forward gift card to catering@eatsmac.com, ask them to donate it and they'll apply it to the next order they deliver to a hospital",,,,,,,,
 "Saifee Hardware Inc.",258,"2020-09-12T04:00:00.000Z","212-979-6396","Shops & Services",40.726735,-73.985583,"114 1st Avenue, New York, NY,10009","Yes",,"SUN: 10 AM - 6 PM
@@ -871,13 +874,13 @@ SUN: noon - 6:00 PM
 ","info@sakayanyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.sakayanyc.com","12:00 PM","https://www.instagram.com/sakayanyc/","6:00 PM",,,,,,,,,,,,,
 "Sake Bar Satsko",260,"2020-06-28T04:00:00.000Z","(212) 614-0933","Restaurants",40.724446,-73.980261,"202 E 7th St, New York, NY 10009","Yes","Yes",,"Japanese",,"EVCC","IG is being updated, CALL for hours
 ","INFO@SATSKO.COM","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.satsko.com/about",,"https://www.instagram.com/sakebarsatsko/",,,"https://squareup.com/gift/RP824WEQ8WPTV/order",,true,"https://www.gofundme.com/f/support-the-staff-of-sake-bar-satsko?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,,,
-"Saltwater Coffee",261,"2020-08-11T04:00:00.000Z","917-881-2245","Restaurants",40.730309,-73.983965,"345 E. 12th Street, New York, NY","Yes","No","SAT & SUN: 8:00 AM - 7:00 PM
+"Saltwater Coffee",261,"2020-11-04T05:00:00.000Z","917-881-2245","Restaurants",40.730309,-73.983965,"345 E. 12th Street, New York, NY","Yes","No","SAT & SUN: 8:00 AM - 7:00 PM
 ORDER BEANS ONLINE: <https://www.saltwaternyc.com/>
 
 ","Cafe",,"EVCC","IG is being updated
 Confirmed by phone
 
-",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}","www.saltwaternyc.com","7:00 AM","https://www.instagram.com/saltwaternyc/","7:00 PM",,,"Yes",,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.saltwaternyc.com","7:00 AM","https://www.instagram.com/saltwaternyc/","7:00 PM","Yes",,"Yes",,,,,,,,,,
 "Sammy's Halal",262,"2020-03-31T04:00:00.000Z","917-965-2009","Restaurants",40.7269,-73.986177,"109 1st Avenue, New York, NY 10003","Yes","Yes","grubhub, ubereats
 ","Middle Eastern",,"EVCC",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","https://www.sammyshalal.com",,"https://www.instagram.com/sammyshalal/",,,,,,,,,,,,,,
 "Santa Barbara Deli",263,"2020-07-10T04:00:00.000Z","212-254-1732","Groceries",40.72824709,-73.97909015,"551 E 12th St A, New York, NY 10009","Yes","Yes","Delivery available on seamless, grubhub, doordash, postmates
@@ -994,8 +997,9 @@ FRI - SAT til 4:00 AM
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://tea-drunk.com","1:00 PM ","https://www.instagram.com/teadrunk/","7:00 PM",,,"Yes",true,,,,,,,,,
 "Terencia S. Q. Conejero, DDS",298,"2020-06-15T04:00:00.000Z","212-982-1129","Health",40.728761,-73.984796,"159 1st Avenue, New York, NY 10003","No","No",,"Dental",,"PL","
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,"No",,,,,,,,,,
-"Thai Direct",299,"2020-03-29T04:00:00.000Z","(347) 479-2606","Restaurants",40.72687995,-73.9831215,"131 Avenue A New York, NY 10009","Yes","Yes","Mon-Fri only. 30% off and free delivery. Contactless pickup. Meal kits coming soon. 20% off gift cards.
-","Thai",,"PG",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","https://www.thaidirectbowls.com/","1:00 PM","https://www.instagram.com/thaidirect","9:00 PM",,"https://giftup.app/place-order/329f3f17-5d43-41cc-828d-6e4567384a4b?platform=Hosted",,,,,,,,,,,
+"Thai Direct",299,"2020-11-04T05:00:00.000Z","(347) 479-2606","Restaurants",40.72687995,-73.9831215,"131 Avenue A New York, NY 10009","Yes","Yes","Closed from 4:00 PM - 5:00 PM daily.
+Order through the [website](https://www.thaidirectbowls.com/) for 20% off!
+","Thai,Gluten Free,Organic",,"PG",,"thaidirectbowls@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.thaidirectbowls.com/","12:00 PM","https://www.instagram.com/thaidirect","10:00 PM","Yes","https://giftup.app/place-order/329f3f17-5d43-41cc-828d-6e4567384a4b?platform=Hosted",,true,,,,,,,,,
 "Thai Terminal",300,"2020-09-02T04:00:00.000Z","212-614-0155","Restaurants",40.73026864,-73.98386891,"349 E. 12th Street, New York, NY 10009","Yes","Yes",,"Thai","
 ","EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://thaiterminalnyc.com","12:00 PM","https://www.instagram.com/thaiterminal/?hl=en","10:15 PM","Yes",,,true,,,,,,,,,
@@ -1023,7 +1027,10 @@ CLOSED MON
 "The Lazy Llama Coffee Bar",309,"2020-04-01T04:00:00.000Z","646-410-1938","Restaurants",40.723489,-73.988641,"72 E. 1st Street, New York, NY","Yes","Yes",,"Cafe",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM","https://www.instagram.com/thelazyllamacoffeebar/","4:00 PM",,,,,,,,,,,,,
 "The Roost",310,"2020-04-01T04:00:00.000Z","646-918-6700","Restaurants",40.729113,-73.97856,"222 Avenue B, New York, NY 10009","Yes","No","Bar + Café both open (craft + can beer, coffee, etc.)
 ","Cafe",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","newyork.theroostnyc.com","8:00 AM","https://www.instagram.com/theroostnyc/?hl=en","4:00 PM","Yes",,,,"https://www.gofundme.com/f/help-support-the-roost-staff-during-covid-19?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,,,,
-"The Smith",311,"2020-03-29T04:00:00.000Z","212) 420-9800","Restaurants",40.731002,-73.988393,"55 3rd Ave, New York, NY 10003","Yes","Yes",,"American",,"PG",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,,,,,,,,,,,,,,
+"The Smith",311,"2020-11-04T05:00:00.000Z","212) 420-9800","Restaurants",40.731002,-73.988393,"55 3rd Ave, New York, NY 10003","Yes","Yes","SAT & SUN: 9:30 - 10:00 PM
+[Thanksgiving feasts](https://shop.thesmithrestaurant.com/collections/thanksgiving-new-york-new-jersey-connecticut) for 2 - 8!
+","American",,"PG","IG is being updated
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:30 AM","https://www.instagram.com/thesmithrestaurant/","10:00 PM","Yes",,,,,,,,,,,,
 "The Source Unlimited Print & Copy Shop",312,"2020-09-12T04:00:00.000Z","212-473-7833","Shops & Services",40.728753,-73.985752,"331 E. 9th St. New York, NY, 10003",,,"open on etsy and for email orders only
 ","Stationery,Print & Copy",,"EVCC","PLS do not list open (as per owner's request)
 ","santo@sourceunltd.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.etsy.com/shop/sourceunltdprint",,"https://www.instagram.com/thesourceunltdprinting/",,,,,,,,,,,,,,
@@ -2020,8 +2027,9 @@ confirmed by phone call
 "International Bar",605,"2020-09-12T04:00:00.000Z","(212) 777-1643","Restaurants",40.7264195,-73.9858007,"102 1st Avenue, New York, NY 10009","Yes",,"Party subs from [Superiority Burger](https://www.instagram.com/p/CEFnT8uD72-/) Saturdays & Mondays (might get lucky Sundays and Tuesdays too)
 ","Bar",,"EVCC","time is on IG
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://internationalbarnyc.com","1:00 PM","https://www.instagram.com/internationalbarnyc/","9:00 PM","Yes",,,true,,,,,,,,,
-"Hearth",606,"2020-11-04T05:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes","Yes","[Pre-order Thanksgiving Dinner](https://restauranthearth.getbento.com/store/) priced per-person, packed family-style!
-FRI & SAT: til 9:30 PM
+"Hearth",606,"2020-11-04T05:00:00.000Z","(646) 602-1300","Restaurants",40.7300178,-73.9831701,"403 E 12th St, New York, NY 10009","Yes","Yes","FRI & SAT: til 9:30 PM
+Pre-order [Thanksgiving Dinner](https://restauranthearth.getbento.com/store/) priced per-person, packed family-style!
+
 ","Italian",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.restauranthearth.com/","12:00 PM","https://instagram.com/hearthrestaurant","9:00 PM","Yes",,,,,,,,,"Yes",,,
 "Luster Photo Lab NYC",607,"2020-09-12T04:00:00.000Z","(212) 979-1669","Shops & Services",40.7264975,-73.9833652,"121 Avenue A, New York, NY 10009","Yes",,"MON - FRI: 10:00 AM - 8:00 PM 
@@ -3084,3 +3092,8 @@ On the second floor, above Duals
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "? Salon",998,"2020-11-05T00:57:00.000Z",,"Shops & Services",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009",,,,"Hair",,,"observed hair salon in former Tree Bistro space Laura check back
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,"2020-10-01",,,,,
+"3rd and Bzaar",999,"2020-11-05T02:30:00.000Z",,"Retail",,,,,,"Affordable holiday pop-up shop featuring independent merchants, makers and artists! Open through December 24
+","Fashion,Gifts & Home",,,"Nov 27 - Dec 24
+",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/3rdandbzaar/",,,,,,,,,,,,,,
+"The Boilery ",1000,"2020-11-05T03:11:00.000Z",,"Restaurants",,,,"Yes","Yes",,"Seafood",,,,"info@boilerynyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,"Yes",,,,,,,,,,,,
+,1001,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,,,,
