@@ -1,8 +1,8 @@
 "Name","id","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Sub Categories","Special Offers","Contributor","Spreadsheet Update Notes","Email","Status","Last modified by","Website","Open Time","Instagram","Close Time","Outside Seating Offered","Giftcard","Shipping Offered","MWBE","Fundraiser","Source","Closure Date","Opening Date","LGBTQ","Indoor Seating Offered","Black Owned Business","Special Accommodation Hours","Update Requests"
-"10th St & Avenue C Liquor",1,"2020-09-02T04:00:00.000Z","212-995-8200","Shops & Services",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","Call ahead
+"10th St & Avenue C Liquor",1,"2020-11-06T05:00:00.000Z","212-995-8200","Shops & Services",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","Call ahead
 ","Wine","
 ","EVCC","They keep random hours in the best of times! put 'Call for hours' in the notes
-","No online presence","Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,,,,,,,,,,,,,,
+","No online presence","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "11B Express",2,"2020-09-02T04:00:00.000Z","(212) 388-9811","Restaurants",40.727482,-73.979724,"174 Avenue B, New York, NY 10009","Yes","Yes","Contactless pickup available!
 ","Pizza",,"EVCC","IG is being updated
 ","elevenbnyc@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.elevenbnyc.com/","12:00 PM","https://www.instagram.com/elevenbnyc/","12:00 AM","Yes",,,,,,,,,,,,
@@ -1841,11 +1841,11 @@ MON Closed
 
 ","Asian",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.amarawbar.com","5:00 PM","https://www.instagram.com/amarawbar/","12:00 PM","Yes","https://www.amarawbar.com",,true,,,,,,,,,
-"Kanoyama",551,"2020-09-02T04:00:00.000Z","(212) 777-5266","Restaurants",40.730619,-73.986551,"175 2nd Ave, New York, NY 10003","Yes","Yes","MON: Closed	
+"Kanoyama",551,"2020-11-06T05:00:00.000Z","(212) 777-5266","Restaurants",40.730619,-73.986551,"175 2nd Ave, New York, NY 10003","Yes","Yes","MON: Closed	
 
 ","Japanese",,"EVCC","IG is being updated
 Laura check hours
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.kanoyama.com/","4:30 PM","https://www.instagram.com/nyc_kanoyama/?hl=en","9:00 PM","Yes",,,true,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.kanoyama.com/","4:30 PM","https://www.instagram.com/nyc_kanoyama/?hl=en","9:00 PM","Yes",,,true,,,,,,"Yes",,,
 "China Town",552,"2020-08-17T04:00:00.000Z","(212) 529-9888","Restaurants",40.721935,-73.984324,"250 E Houston St, New York, NY 10002","Yes","Yes","MON: Closed
 ","Chinese",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.chinatownonhouston.com/","11:15 AM",,"11:00 PM",,,,true,,,,,,,,,
@@ -2426,7 +2426,7 @@ Highlights from the menu include meritha (assorted platters), loukaniko souvlaki
 ","Asian",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","https://momofukunoodlebar.com/","5:00 PM","https://www.instagram.com/momofukunoodlebar/?hl=en","9:00 PM",,,,true,,,,,,,,,
 "The Straight Edge",754,"2020-08-30T01:13:00.000Z","917-530-0761","Shops & Services",40.72154,-73.98283,"221 E. 2nd Street, New York, NY 10009","Yes",,"SUN: 12:00 PM - 8:00 PM
 ","Hair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:00 AM","https://www.instagram.com/straightedgenyc/","9:00 PM",,,,,,,,,,,,,
-"Sao Mai",755,"2020-08-24T01:13:00.000Z","(212) 358-8880","Restaurants",40.7304,-73.98364,"203 1st Avenue, New York, NY 10003","Yes",,,"Vietnamese",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM","https://www.instagram.com/saomai_nyc/","10:00 PM",,,,true,,,,,,,,,
+"Sao Mai",755,"2020-11-07T02:13:00.000Z","(212) 358-8880","Restaurants",40.7304,-73.98364,"203 1st Avenue, New York, NY 10003","Yes",,,"Vietnamese",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM","https://www.instagram.com/saomai_nyc/","10:00 PM","Yes",,,true,,,,,,"Yes",,,
 "Angel's Share",756,"2020-08-05T01:15:00.000Z","(212) 777-5415","Restaurants",40.7298,-73.98919,"8 Stuyvesant Street, New York, NY 10003","Yes",,,"Japanese",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.angelssharenyc.com/","3:00 PM","https://www.instagram.com/angelssharenyc/","8:00 PM",,,,true,,,,,,,,,
 "Elisa's Love Bites",757,"2020-08-20T01:17:00.000Z",,"Dessert",40.72754,-73.98302,"441 E. 9th Street, New York, NY 10009","Yes",,,"Bakery,Gluten Free",,"EVCC","IG is being updated opened AUG 6 
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://elisaslovebites.com/","11:00 AM","https://www.instagram.com/elisaslovebites/","7:00 PM",,,,true,,,,,,,,,
