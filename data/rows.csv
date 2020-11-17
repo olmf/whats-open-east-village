@@ -1086,7 +1086,7 @@ confirmed by phone
 "Two Brothers Pizza",324,"2020-03-31T04:00:00.000Z","212-777-0600","Restaurants",40.728655,-73.98849,"32 St. Marks Place, New York, NY 10003","Yes",,,"Pizza",,"EVCC",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","https://www.2brospizzanyc.com",,,,,,,,,,,,,,,,
 "Union Market",325,"2020-08-22T04:00:00.000Z","212-677-2441","Groceries",40.722397,-73.985834,"240 E. Houston Street, New York, NY 10009","Yes","No","Seniors Only: 8:00 AM	- 9:00 AM. Accepts SNAP/EBT.
 ","Specialty Market",,"PG","Website is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.unionmarket.com","8:00 AM",,"9:00 PM",,,,,,,,,,,true,"9AM-10AM every day",
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.unionmarket.com","8:00 AM",,"9:00 PM",,,,,,,,,,,,"9AM-10AM every day",
 "United Shipping & Packaging",326,"2020-04-01T04:00:00.000Z","212-475-2214","Shops & Services",40.729485,-73.986702,"200 E. 10th Street, New York, NY 10003","Yes",,,"Shipping",,"PG",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","www.uspnyc.com","12:00 PM",,"5:00 PM",,,,,,,,,,,,,
 "Unleashed Spa",327,"2020-11-04T05:00:00.000Z","212-533-9300","Shops & Services",40.728962,-73.978592,"218 Avenue B, New York, NY 10009","Yes",,"Full & **Self-Service** Dog Washing & Pet Grooming!
 ","Pet Supplies & Grooming",,"PL","IG is being updated
@@ -2216,7 +2216,7 @@ Lunch: 1:00 PM - 2:00 PM
 "Green Garden Buffet",668,"2020-08-02T16:00:00.000Z","(646) 575-1248","Restaurants",40.728516,-73.986156,"332 E 9th Street, New York, NY 10003","Yes","Yes","SUN: 1:00 PM - 8:00 PM
 MON: Closed
 ","French","10% student and senior citizen discount. Free delivery (minimum $15). 
-","PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"1:00 PM",,"9:00 PM",,,,true,,,,,,,true,,
+","PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"1:00 PM","https://www.instagram.com/green_garden_buffet_nyc/","9:00 PM","Yes",,,true,,,,,,,true,,
 "Ruffian",669,"2020-08-11T04:00:00.000Z",,"Restaurants",40.726459,-73.984252,"125 E 7th St, New York, NY 10009","Yes","Yes","WED - FRI: 4PM-11PM
 SAT & SUN: 12PM-11PM
 MON & TUE: Closed
@@ -2418,8 +2418,8 @@ SUN: Closed
 ","Florist",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,true,,,,,,,,,
 "Rivington Guitars",740,"2020-07-28T18:04:00.000Z","(212) 505-5313","Shops & Services",40.7269,-73.990288,"73 E. 4th Street, New York, NY 10003","Yes",,"MON / WED / FRI only
 ","Music",,"PG",,"Rivingtoninfo@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.RivingtonGuitars.com","10:00 AM","http://instagram.com/RivingtonGuitars","6:00 PM",,"www.RivingtonGuitars.com",,,,,,,,,,,
-"Awash",742,"2020-07-28T18:04:00.000Z","(212) 982-9589","Restaurants",40.726527,-73.986866,"338 E. 6th Street, New York, NY 10003","Yes","Yes","SAT & SUN: 3:00 PM – 9:00 PM
-","Ethiopian",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://awashny.com/","4:30 PM",,"9:00 PM",,,,,,"https://awashny.com/blog/campaigns/support-awash-ethiopian-restaurant/",,,,,,,
+"Awash",742,"2020-11-16T19:04:00.000Z","(212) 982-9589","Restaurants",40.726527,-73.986866,"338 E. 6th Street, New York, NY 10003","Yes","Yes","SAT & SUN: 3:00 PM – 9:00 PM
+","Ethiopian",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://awashny.com/","4:30 PM",,"9:00 PM",,,,true,,"https://awashny.com/blog/campaigns/support-awash-ethiopian-restaurant/",,,,,true,,
 "El Diablito Taqueria",743,"2020-07-28T18:04:00.000Z","(646) 692-9268","Restaurants",40.725072,-73.989177,"60 E. 3rd Street, New York, NY 10003","Yes","Yes","SAT & SUN 11:00 AM -11:30 PM
 ","Mexican",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://eldiablitotaqueria.com/","4:00 PM",,"11:30 PM",,,,,,,,,,,,,
 "iSouvlaki",745,"2020-07-29T18:41:00.000Z","(212) 401-5747","Restaurants",40.7322406,-73.988381,"139 E. 12th Street, New York, NY 10003","Yes","Yes","FRI & SAT: 4:00 PM -11:00 PM
@@ -2588,10 +2588,12 @@ Rare, new and unusual beer
 
 ","Bar",,"EVCC","IG is being updated	
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"4:00 PM ",,"10:30 PM","Yes",,,,,,,,,,,,
-"Baked Cravings",811,"2020-08-23T05:18:00.000Z","(917) 482-3887","Dessert",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","Yes","Yes","Peanut and nut free!!
+"Baked Cravings",811,"2020-11-16T06:18:00.000Z","(917) 482-3887","Dessert",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","Yes","Yes","SUN: 1:00 PM - 6:00 PM 
+Peanut and nut free!! 
+[Pre-order Thanksgiving treats ](https://www.bakedcravings.com/collections/thanksgiving-treats)by SUN NOV 22! No exceptions!
 
-","Bakery",,"EVCC","Opened 9/1
-",,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://www.bakedcravings.com","12:00 PM","https://www.instagram.com/bakedcravingsny/","8:00 PM",,,,true,,,,,,,true,,
+","Bakery",,"EVCC","IG is being updated
+"," support@bakedcravings.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.bakedcravings.com","1:00 PM","https://www.instagram.com/bakedcravingsny/","9:00 PM",,,,true,,,,,"2020-09-01",,true,,
 "Death & Co",812,"2020-08-23T05:19:00.000Z",,"Restaurants",40.72603,-73.98461,"433 E. 6th Street, New York, NY 10009","Yes",,"MON & TUE: Closed
 ","Bar",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.deathandcompany.com","5:00 PM ","https://www.instagram.com/deathandcompany/","11:00 PM","Yes",,,,,,,,,,,,
@@ -2742,8 +2744,8 @@ SUN: noon - 10:30 PM
 ","Hair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/pages/Marysia-Beauty-Salon/111430445586428",,,,,,,,,,,,,,,,
 "Brooklyn Dumpling Shop",860,"2020-09-07T06:41:00.000Z",,"Restaurants",40.727594,-73.985616,"131 1st Avenue, New York, NY 10003",,,,,,"EVCC","Opening Oct 2020, check back
 ",,"Unknown","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,"https://www.instagram.com/brooklyndumplingshop/",,,,,true,,,,,,,true,,
-"las' lap",861,"2020-09-07T06:49:00.000Z","(646) 484-6002","Restaurants",40.717606,-73.990245,"74 Orchard Street, New York, NY 10002","Yes",,"Rum bar: THU - SUN only
-","Bar",,"EVCC",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","https://www.laslapnewyork.com","2:00 PM","https://www.instagram.com/laslapnyc/","10:00 PM","Yes",,,true,,,,,,,true,,
+"las' lap",861,"2020-11-16T07:49:00.000Z","(646) 484-6002","Restaurants",40.717606,-73.990245,"74 Orchard Street, New York, NY 10002","Yes",,"THU - SUN only
+","Bar",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.laslapnewyork.com","2:00 PM","https://www.instagram.com/laslapnyc/","10:00 PM","Yes",,,true,,,,,,,true,,
 "4th Street Photo Gallery",862,"2020-09-07T21:36:00.000Z",,"Retail",,,,,,,"Gallery",,"EVCC",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "Kathe's Jewelry",863,"2020-09-08T01:59:00.000Z","212-475-2986","Retail",40.73105,-73.98274,"226 1st Avenue, New York, NY 10009","Yes",,"SUN: Closed
 
