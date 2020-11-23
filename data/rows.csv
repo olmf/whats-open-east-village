@@ -296,15 +296,15 @@ SUN: 12:00 PM - 9:00 PM
 "Dancin Taste Buds (inside Ben's Deli)",74,"2020-06-15T04:00:00.000Z",,"Restaurants",40.722596,-73.983281,"32 Avenue B, New York, NY 10009","No","No","
 ","Sandwich",,"EVCC","Taco counter has a new operator, Dancin Taste Buds was not invited back
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
-"Davey's Ice Cream",75,"2020-09-14T04:00:00.000Z","212-228-8032","Dessert",40.727953,-73.985337,"137 1st Avenue, New York, NY 10003","Yes","Yes","FRI - SUN: 3:00 PM - 11:00 PM
+"Davey's Ice Cream",75,"2020-11-23T05:00:00.000Z","212-228-8032","Dessert",40.727953,-73.985337,"137 1st Avenue, New York, NY 10003","Yes","Yes","FRI - SUN: 3:00 PM - 11:00 PM
 ","Ice Cream",,"EVCC","IG is being updated
-","info@daveysicecream.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.daveysicecream.com","3:00 PM","https://www.instagram.com/daveysicecream/","10:00 PM",,"https://www.daveysicecream.com/orderonline/giftcard","Yes",,,,,,,,,,
+","info@daveysicecream.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.daveysicecream.com","3:00 PM","https://www.instagram.com/daveysicecream/","10:00 PM",,"https://www.daveysicecream.com/orderonline/giftcard","Yes",,,,,,,,,,
 "Deli Delight",76,"2020-03-29T04:00:00.000Z","(605) 475-6968 - phone number doesn't work","Groceries",40.72067,-73.978502,"19 Avenue D, New York, NY 10009",,,,"Deli ",,"PL","Phone number not working, Laura check 
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
-"Desi Galli",77,"2020-08-19T04:00:00.000Z","212-475-3374","Restaurants",40.727385,-73.97978,"172 Avenue B, New York, NY 10009","Yes","Yes","
+"Desi Galli",77,"2020-11-23T05:00:00.000Z","212-475-3374","Restaurants",40.727385,-73.97978,"172 Avenue B, New York, NY 10009","Yes","Yes","
 ","Indian","
 ","EVCC","Phone call
-","contact@desigalli.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.desigalli.com","11:30 AM","https://www.instagram.com/desigalli/?hl=en","10:00 PM","Yes","https://squareup.com/gift/T4TMGNCY0T2CM/order",,true,,,,,,,,,
+","contact@desigalli.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.desigalli.com","12:00 PM","https://www.instagram.com/desigalli/?hl=en","10:00 PM","Yes","https://squareup.com/gift/T4TMGNCY0T2CM/order",,true,,,,,,,,,
 "Dim Sum Palace",78,"2020-08-17T04:00:00.000Z","646-476-8846","Restaurants",40.725937,-73.989927,"59 2nd Avenue, New York, NY 10003","Yes","Yes","10% OFF ON YOUR ONLINE ORDER | LIMITED TIME ONLY - COUPON CODE: SUM10
 ","Chinese",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.dimsumpalace.com","12:00","https://www.instagram.com/dimsumpalace/","10:30 PM","Yes",,,true,,,,,,,,,
@@ -402,7 +402,7 @@ MON & TUES: Closed 
 ","PL","IG is being updated
 ","esperantony@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://esperantony.com/",,"https://www.instagram.com/esperantony/?hl=en",,"Yes",,,,,,,,,,,,
 "Essa Deli",103,"2020-11-17T05:00:00.000Z",,"Groceries",42.38075,-76.87261,"68 Avenue C, New York, NY 10009","Yes",,"
-","Deli ",,"EVCC","Fatima check phone & hours
+","Deli ",,"EVCC"," Called multiple times No response 
 (212) 777-0877 -found on yelp
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,,,,,,,,,,,,,,,
 "Essex Card Shop",104,"2020-11-17T05:00:00.000Z","212-228-7740","Shops & Services",40.724014,-73.985269,"47 Avenue A, New York, NY 10009 ","Yes","Yes","**New location! **
@@ -413,16 +413,16 @@ Notary & shipping services available.
 ","Shipping,Notary",,"PG","Evgrieve Post
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"8:00 AM",,"8:00 PM",,,,,,,,,,,,,
 "F&M Slice Pizza",105,"2020-03-29T04:00:00.000Z","(347) 916-6922","Restaurants",40.725696,-73.977959,"153 Avenue C, New York, NY 10009",,,"		
-","Pizza",,"PL","Laura check, call number posted
-",,"Unknown","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,,,,,,,,,,,,,,,
+","Pizza",,"PL","Call for hours ~Simran
+",,"Unknown","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,,,,,,,,,,,,,,,,
 "Faith Pharmacy",106,"2020-06-25T04:00:00.000Z","212-387-8800","Health",40.724652,-73.976164,"743 E. 9th Street, New York, NY 10009","Yes",,"SAT: 10:00 AM - 3:00 PM
 SUN: Closed
-","Pharmacy",,"EVCC","Call for hours
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:30 AM",,"6:30 PM",,,,,,,,,,,,,
-"Fancy Juice",107,"2020-11-17T05:00:00.000Z","212-228-1256","Restaurants",40.72551,-73.98728,"69 1st Avenue, New York, NY 10003","Yes",,,"Juice Bar","10% OFF [online orders!](http://www.fancyjuice.nyc/)
+","Pharmacy",,"EVCC","Confirmed Hours 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"9:30 AM",,"6:30 PM",,,,,,,,,,,,,
+"Fancy Juice",107,"2020-11-23T05:00:00.000Z","212-228-1256","Restaurants",40.72551,-73.98728,"69 1st Avenue, New York, NY 10003","Yes",,,"Juice Bar","10% OFF [online orders!](http://www.fancyjuice.nyc/)
 ","EVCC","Phone call
 
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.fancyjuice.nyc","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.fancyjuice.nyc","10:00 AM",,"9:00 PM",,,,,,,,,,,,,
 "Fiaschetteria Pistoia",108,"2020-11-17T05:00:00.000Z","212-777-3355","Restaurants",40.726709,-73.977261,"647 E 11th Street, New York, NY 10009","Yes","Yes","EV location open every day 5:30 pm - 10:30 pm for outdoor dining or order by phone! You can also find us on Caviar. 
 ","Italian",,"EVCC","IG is being updated/Form response update received
 ","Fiaschetteriapistoia@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.fiaschetteriapistoia.com","5:30 PM","https://www.instagram.com/fiaschetteriapistoia/","10:30 PM","Yes",,,,,,"https://www.instagram.com/p/B_Noavpjsn0/",,,,,,
@@ -437,9 +437,9 @@ SUN: Closed
 ","Mexican",,"PL","PERMANENTLY CLOSED August 2020. Opened February 2012.
 
 ",,"Closed","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://fondarestaurant.com/","4:00 PM","https://www.instagram.com/fondanyc/","9:00 PM","No",,,,,,"https://evgrieve.com/2020/08/fonda-permanently-closes-on-avenue-b.html","2020-08-01","2012-02-01",,,,
-"Frango's Peri Peri ",112,"2020-11-18T05:00:00.000Z","(917) 675-7897","Restaurants",40.727797,-73.979449,"182 Avenue B, New York, NY 10009 ","Yes","Yes","Delivery from Grubhub, DoorDash, UberEats, Postmates
+"Frango's Peri Peri ",112,"2020-11-23T05:00:00.000Z","(917) 675-7897","Restaurants",40.727797,-73.979449,"182 Avenue B, New York, NY 10009 ","Yes","Yes","Delivery from Grubhub, DoorDash, UberEats, Postmates
 ","Brazilian","
-","EVCC","Phone call
+","EVCC","Confirmed Hours 
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://frangos-peri-peri.business.site/","12:00 PM","https://www.instagram.com/frangosnyc/","11:00 PM","Yes",,,true,,,,,,,,,
 "Frank",113,"2020-11-18T05:00:00.000Z","212-420-0202","Restaurants",40.726812,-73.988628,"88 2nd Avenue, New York, NY 10003","Yes","Yes",,"Italian",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"10:30 AM","https://www.instagram.com/frankrestaurant/","12:00 AM","Yes",,,,,"https://www.gofundme.com/f/1zx28fg2yo?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link-tip",,,,,,,
@@ -491,9 +491,9 @@ Mayanoki owner TJ Provenzano had taken over Grape & Grain in the eastern storefr
 "Guac",125,"2020-03-31T04:00:00.000Z",,"Restaurants",40.727593,-73.979104,"179 Avenue B, New York, NY 10009","No","No","
 ","Mexican",,"PL","PERMANENTLY CLOSED
 ",,"Closed","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,,,,,"No",,,,"https://www.yelp.com/biz/guac-and-jazzo-manhattan-2","2020-03-31","2016-09-01",,,,
-"H & W Hardware",126,"2020-08-20T04:00:00.000Z","212-477-2840","Retail",40.730724,-73.98272,"220 1st Avenue, New York, NY","Yes",,,"Hardware",,"EVCC","Fatimah- Call for hours
+"H & W Hardware",126,"2020-08-20T04:00:00.000Z","212-477-2840","Retail",40.730724,-73.98272,"220 1st Avenue, New York, NY","Yes",,,"Hardware",,"EVCC","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,,,,,,,,,,,,,,,
-"H Mart",127,"2020-09-12T04:00:00.000Z","646-596-7755","Groceries",40.730284,-73.988951,"35 3rd Avenue, New York City","Yes",,,"Specialty Market,Korean",,"PL","Fatimah- Call for hours
+"H Mart",127,"2020-09-12T04:00:00.000Z","646-596-7755","Groceries",40.730284,-73.988951,"35 3rd Avenue, New York City","Yes",,,"Specialty Market,Korean",,"PL","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://asianmart.com/",,"https://www.instagram.com/hmartatnyu/?hl=en",,,,,true,,,,,,,,,
 "H. Brickman & Son Hardware",128,"2020-11-18T05:00:00.000Z","212-674-3213","Retail",40.725039,-73.987557,"55 1st Avenue, New York, NY 10003","Yes",,"SAT: 8:00 AM - 8:00 PM
 SUN: 10:00 AM - 7:00 PM
@@ -516,7 +516,7 @@ MON: Closed
 MON-closed
 Breakfast of champions: <https://www.instagram.com/p/CBFHpScDCs4/>
 
-","Vietnamese",,"EVCC","Fatimah- Call & Find Hours
+","Vietnamese",,"EVCC","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://hanoisoupshop.com","12:00 PM","https://www.instagram.com/hanoisoup/?hl=en","9:00 PM",,,,,,,,,,,,,
 "Hawa Smoothies & Bubble Tea",133,"2020-03-31T04:00:00.000Z","917-640-9569","Restaurants",40.730665,-73.981598,"422 E. 14th Street, New York, NY",,,,"Bubble Tea",,"PL","Call for hours
 ",,"Unknown","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,"https://www.instagram.com/hawa14smoothies/",,,,,true,,,,,,,,,
