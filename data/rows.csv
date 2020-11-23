@@ -261,34 +261,38 @@ SUN: noon - 8:00 PM
 "Cooper Square Veterinary Hospital",65,"2020-11-23T05:00:00.000Z","212-777-2630","Shops & Services",40.727535,-73.990483,"211 E. 5th Street, New York, NY 10003","Yes",,"Closed temporarily  SAT - SUN
 ","Veterinary Services",,"EVCC","form response
 ","coopersquarevet@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.coopersquarevet.com","10:00 AM","https://www.instagram.com/coopersquarevet/","5:00 PM",,,"Yes",,,,,,,,,,
-"Cornerstone Cafe",66,"2020-06-24T04:00:00.000Z","212 228 1260","Restaurants",40.722031,-73.983149,"17 Avenue B, New York, NY 10009","Yes",,"only open SAT,SUN
+"Cornerstone Cafe",66,"2020-11-23T05:00:00.000Z","212 228 1260","Restaurants",40.722031,-73.983149,"17 Avenue B, New York, NY 10009","Yes","Yes","only open SAT,SUN
 
 ","Italian",,"EVCC","Left message on their facebook with survey link
-","cornerstonecafenyc@gmail.com","Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","https://www.cornerstonecafenyc.com/","7:00 AM","https://www.instagram.com/cornerstonecafenyc","10:00 PM",,,,,,,"https://www.grubhub.com/restaurant/cornerstone-cafe-17-avenue-b-new-york/345390?classicAffiliateId=%2Fr%2Fw%2F46524%2F&utm_source=www-cornerstonecafenyc-com.filesusr.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=345390",,,,,,
-"Cosmo's Launderama",67,"2020-09-16T04:00:00.000Z","(646) 602-2557","Laundry",40.72787,-73.98481,"142 1st Avenue, New York, NY 10009","Yes",,"THU: closed 
+","cornerstonecafenyc@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.cornerstonecafenyc.com/","7:00 AM","https://www.instagram.com/cornerstonecafenyc","10:00 PM","Yes",,,,,,"https://www.grubhub.com/restaurant/cornerstone-cafe-17-avenue-b-new-york/345390?classicAffiliateId=%2Fr%2Fw%2F46524%2F&utm_source=www-cornerstonecafenyc-com.filesusr.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=345390",,,,,,
+"Cosmo's Launderama",67,"2020-11-23T05:00:00.000Z","(646) 602-2557","Laundry",40.72787,-73.98481,"142 1st Avenue, New York, NY 10009","Yes",,"THU: closed 
 Last wash 5 PM		
-","Laundromat",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:00 AM",,"6:00 PM",,,,,,,,,,,,,
-"Craft and Carry",68,"2020-07-04T04:00:00.000Z","917-265-8078","Retail",40.72697165,-73.9841222,"116 St. Mark's Place, New York, NY 10009","Yes","Yes",,"Beer",,"EVCC","Website is being updated
-","craftandcarrynyc@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://craftandcarry.square.site/s/order","12:00 PM","https://www.instagram.com/craftandcarry/","8:00 PM",,"https://squareup.com/gift/E54TB3S2RWDRV/order",,,,,,,,,,,
-"Crown Fried Chicken",69,"2020-04-08T04:00:00.000Z","(212) 982-2850","Restaurants",40.724378,-73.97553,"117 Avenue D, New York, NY 10009","Yes","Yes",,"American",,"PL","Call for hours
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM",,"8:00 PM",,,,,,,,,,,,,
-"Curry Ya",70,"2020-11-04T05:00:00.000Z","(212) 995-2877","Restaurants",40.729178,-73.985907,"218 E. 10th St, New York, NY 10003","Yes","Yes","Now at Rai Rai Ken!
+","Laundromat",,"EVCC",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"9:00 AM",,"8:00 PM",,,,,,,,,,,,,
+"Craft and Carry",68,"2020-11-23T05:00:00.000Z","917-265-8078","Retail",40.72697165,-73.9841222,"116 St. Mark's Place, New York, NY 10009","Yes","Yes",,"Beer",,"EVCC","Website is being updated
+","craftandcarrynyc@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://craftandcarry.square.site/s/order","12:00 PM","https://www.instagram.com/craftandcarry/","10:00 PM",,"https://squareup.com/gift/E54TB3S2RWDRV/order",,,,,,,,,,,
+"Crown Fried Chicken",69,"2020-11-23T05:00:00.000Z","(212) 982-2850","Restaurants",40.724378,-73.97553,"117 Avenue D, New York, NY 10009","Yes","Yes",,"American",,"PL","Call for hours
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"10:00 AM",,"10:00 PM",,,,,,,,,,,,,
+"Curry Ya",70,"2020-11-23T05:00:00.000Z","(212) 995-2877","Restaurants",40.729178,-73.985907,"218 E. 10th St, New York, NY 10003","Yes","Yes","Now at Rai Rai Ken!
 TUE - THU & SUN: noon - 9:00 PM
 FRI & SAT: noon - midnight
 MON: Closed
 ","Japanese","
 ","EVCC","IG is being updated
-","delivery@tic-nyc.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://curryya.square.site/","12:00 PM","https://www.instagram.com/curry.ya/","9:00 PM","Yes",,,true,,"https://www.gofundme.com/f/ticjapaneserestaurants",,,,,,,
-"Cylar House Health Center",71,"2020-08-19T04:00:00.000Z","212-677-7999","Health",40.724565,-73.975994,"743 E. 9th Street, New York, NY 10009","Yes",,"COVID Testing THU: 10:00 AM - 3:00 PM
+","info@nycurry-ya.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://curryya.square.site/","12:00 PM","https://www.instagram.com/curry.ya/","9:00 PM","Yes","https://squareup.com/gift/54Q7ZTJ24QBYR/order",,true,,"https://www.gofundme.com/f/ticjapaneserestaurants",,,,,,,
+"Cylar House Health Center",71,"2020-11-23T05:00:00.000Z","212-677-7999","Health",40.724565,-73.975994,"743 E. 9th Street, New York, NY 10009","Yes",,"COVID Testing THU: 10:00 AM - 3:00 PM
+
+
 ","Medical",,"EVCC","Phone call
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","healthcare.housingworks.org/locations/location-3","10:00 AM","https://www.instagram.com/p/CBQsJtclr2B/","5:00 PM",,,,,,,,,,,,,
-"Dallas BBQ",72,"2020-08-19T04:00:00.000Z","212-777-5574","Restaurants",40.72862,-73.987355,"132 2nd Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: 12:00 PM - 11:00 PM
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","healthcare.housingworks.org/locations/location-3","10:00 AM",,"5:00 PM",,,,,,,,,,,,,
+"Dallas BBQ",72,"2020-11-23T05:00:00.000Z","212-777-5574","Restaurants",40.72862,-73.987355,"132 2nd Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: 12:00 PM - 11:00 PM
+ COMPLETE THANKSGIVING DINNER $18.99 PER PERSON 
 ","BBQ",,"EVCC","IG is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://dallasbbq.dineloyal.com/order/location","12;00 PM ","https://www.instagram.com/dallasbbq/","10:00 PM","Yes",,,,,,,,,,,,
-"Dan & John's Wings",73,"2020-08-19T04:00:00.000Z","888-977-9464 ","Restaurants",40.727824,-73.985394,"135 1st Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 4:00 PM - 11:00 PM
-SUN: 4:00 PM - 9:00 PM
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://dallasbbq.dineloyal.com/order/location","12:00 PM ","https://www.instagram.com/dallasbbq/","10:00 PM","Yes",,,,"Yes",,,,,,,,
+"Dan & John's Wings",73,"2020-11-23T05:00:00.000Z","888-977-9464 ","Restaurants",40.727824,-73.985394,"135 1st Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 4:00 PM - 11:00 PM
+SUN: 12:00 PM - 9:00 PM
+
 ","Wings",,"EVCC","Phone call
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://danandjohns.com","4:00 PM","https://www.instagram.com/danandjohns/","10:00 PM","Yes",,,,,"https://squareup.com/store/danandjohns/",,,,,,,
+","info@danandjohns.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://danandjohns.com","4:00 PM","https://www.instagram.com/danandjohns/","10:00 PM","Yes",,,,,"https://squareup.com/store/danandjohns/",,,,,,,
 "Dancin Taste Buds (inside Ben's Deli)",74,"2020-06-15T04:00:00.000Z",,"Restaurants",40.722596,-73.983281,"32 Avenue B, New York, NY 10009","No","No","
 ","Sandwich",,"EVCC","Taco counter has a new operator, Dancin Taste Buds was not invited back
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
@@ -481,7 +485,8 @@ confirmed by phone call
 ","Japanese",,"EVCC","PERMANENTLY CLOSED. 
 Mayanoki owner TJ Provenzano had taken over Grape & Grain in the eastern storefront in June 2018. Mayanoki pop-up closed August 22. Usumoya Tavern application on 11/16 CB 3 SLA agenda (transfer from Mayanoki).
 ","tj@grapeandgrainnyc.com","Closed","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.grapeandgrainnyc.com/","2:00 PM","https://www.instagram.com/grapeandgrainnyc/","10:00 PM","Yes","https://squareup.com/gift/T5853W8RTSRN9/order",,true,,,"https://evgrieve.com/2018/06/grape-and-grain-returns-under-new.html","2020-08-22","2005-09-01",,,,
-"Gruppo",124,"2020-11-18T05:00:00.000Z","212-995-2100","Restaurants",40.724773,-73.981695,"98 Avenue B, New York, NY 10009","Yes","Yes","No cash for now.
+"Gruppo",124,"2020-11-23T05:00:00.000Z","212-995-2100","Restaurants",40.724773,-73.981695,"98 Avenue B, New York, NY 10009","Yes","Yes","No cash for now. 
+
 ","Pizza",,"EVCC",,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.nycthincrust.com/location/gruppo-thin-crust/","4:00 PM","https://www.instagram.com/gruppothincrust/","9:00 PM","Yes",,,,,,,,,,,,
 "Guac",125,"2020-03-31T04:00:00.000Z",,"Restaurants",40.727593,-73.979104,"179 Avenue B, New York, NY 10009","No","No","
 ","Mexican",,"PL","PERMANENTLY CLOSED
