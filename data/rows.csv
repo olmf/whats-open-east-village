@@ -1,5 +1,5 @@
 "Name","id","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Sub Categories","Special Offers","Contributor","Spreadsheet Update Notes","Email","Status","Last modified by","Website","Open Time","Instagram","Close Time","Outside Seating Offered","Giftcard","Shipping Offered","MWBE","Indoor Seating Offered","Fundraiser","Source","Closure Date","Opening Date","LGBTQ","Black Owned Business","Special Accommodation Hours","Update Requests"
-"10th St & Avenue C Liquor",1,"2020-11-16T05:00:00.000Z","212-995-8200","Retail",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","
+"10th St & Avenue C Liquor",1,"2020-11-16T05:00:00.000Z","212-995-8200","Retail",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","Call for Hours 
 ","Wine","
 ","EVCC","They keep random hours in the best of times! put 'Call for hours' in the notes
 ","No online presence","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,,,,,,,
@@ -792,43 +792,46 @@ SUN 8:00 AM - 9:30 PM
 ","native.bean@yahoo.com","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932","8:00 AM",,"2:00 PM",,,,true,,,"https://evgrieve.com/2020/09/native-bean-wraps-up-20-years-on-avenue.html","2020-09-20","2014-12-01",,,,
 "Neighborhood Deli",204,"2020-06-17T04:00:00.000Z","212-466-3354","Groceries",40.72594,-73.97796,"392 E. 10th Street, New York, NY 10009","Yes",,,"Deli ",,"EVCC","CALL for hours
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
-"New Chinatown",205,"2020-03-18T04:00:00.000Z","(212) 420-8799","Restaurants",40.72051,-73.978611,"11 Avenue D, New York, NY 10009","Yes","Yes","MON: Closed
-","Chinese",,"PG","Call for hours
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:00 AM",,"9:00 PM",,,,true,,,,,,,,,
-"New Mizu Sushi",206,"2020-09-12T04:00:00.000Z","(646) 998-5453","Restaurants",40.728259,-73.985337,"350 E. 9th Street, New York, NY 10003","Yes","No","Pls call for hours.
-","Japanese",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://new-mizu-sushi.business.site/?m=true",,,,,,,true,,,,,,,,,
-"New Phoenix Laundromat",207,"2020-08-23T04:00:00.000Z","(212) 677-1690","Laundry",40.730279,-73.983689,"199 1st Avenue, New York, NY 10009","Yes",,"SAT & SUN: 9:00 AM - 7:00 PM 
-Last wash 5:30 PM
-","Laundromat",,"PG","
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"7:00 PM",,,,,,,,,,,,,
-"Nightmarket",208,"2020-09-12T04:00:00.000Z","(646) 755-9554","Restaurants",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","Yes","Yes","FRI & SAT: noon - 11:00 PM
-","Taiwanese",,"EVCC","website is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.thenightmarketnyc.com/","12:00 PM","https://www.instagram.com/thenightmarketnyc/","10:00 PM",,,,,,"https://www.gofundme.com/f/nightmarket-all-staff-relief-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,,,
-"Ninth Street Espresso",209,"2020-08-05T04:00:00.000Z","212-777-3508","Restaurants",40.72711,-73.980086,"341 E. 10th Street, New York, NY","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> Free shipping to NY, NJ, CT
-","Cafe",,"EVCC","IG is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card",,,,,,,,,,,
-"Ninth Street Espresso",210,"2020-08-05T04:00:00.000Z","(212) 358-9225","Restaurants",40.725063,-73.977821,"700 E. 9th St, New York, NY 10009","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> 
+"New Chinatown",205,"2020-11-25T05:00:00.000Z","(212) 420-8799","Restaurants",40.72051,-73.978611,"11 Avenue D, New York, NY 10009","Yes","Yes","MON: 11:00 AM - 11:00 PM
+","Chinese",,"PG","Hours Confirmed by Phone 
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"11:00 AM",,"10:00 PM",,,,true,,,,,,,,,
+"New Mizu Sushi",206,"2020-11-25T05:00:00.000Z","(646) 998-5453","Restaurants",40.728259,-73.985337,"350 E. 9th Street, New York, NY 10003","Yes","Yes","
+","Japanese",,"EVCC","Website Confirmed Hours
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://new-mizu-sushi.business.site/?m=true","12:00 PM",,"10:00 PM ",,,,true,,,,,,,,,
+"New Phoenix Laundromat",207,"2020-11-25T05:00:00.000Z","(212) 677-1690","Laundry",40.730279,-73.983689,"199 1st Avenue, New York, NY 10009","Yes",,"
+","Laundromat",,"PG","Website Confirmed Hours 
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://new-phoenix-laundromat.slue.io/","9:00 AM",,"7:00 PM",,,,,,,,,,,,,
+"Nightmarket",208,"2020-11-25T05:00:00.000Z","(646) 755-9554","Restaurants",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","Yes","Yes","FRI: Noon - 6:00 PM 
+SAT: Closed 
+SUN: 5:00 PM - 9:00 PM 
+","Taiwanese","[10% OFF](https://www.instagram.com/thenightmarketnyc/) YOUR ENTIRE ORDER WHEN YOU CHECK/ WRITE A REVIEW ON SOCIAL MEDIA 
+","EVCC","Website is being updated, Website Confirmed 
+","thenightmarketnyc@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.thenightmarketnyc.com/","12:00 PM","https://www.instagram.com/thenightmarketnyc/","10:00 PM","Yes",,,true,,"https://www.gofundme.com/f/nightmarket-all-staff-relief-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,,,
+"Ninth Street Espresso",209,"2020-11-25T05:00:00.000Z","212-777-3508","Restaurants",40.72711,-73.980086,"341 E. 10th Street, New York, NY 10009","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> Free shipping to NY, NJ, CT
+","Cafe",,"EVCC","IG is being updated, Hours Confirmed by Phone 
+","info@ninthstreetespresso.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card","Yes",,,,,,,,,,
+"Ninth Street Espresso",210,"2020-11-25T05:00:00.000Z","(212) 358-9225","Restaurants",40.725063,-73.977821,"700 E. 9th St, New York, NY 10009","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> 
 
 Free shipping in NY, NJ, CT.
-","Cafe",,"EVCC","IG is being updated
-",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card",,,,,,,,,,,
+","Cafe",,"EVCC","IG is being updated,Hours Confirmed by Phone 
+","info@ninthstreerespresso.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card","Yes",,,,,,,,,,
 "Nolita Pizza ",211,"2020-07-04T04:00:00.000Z","646-756-4141","Restaurants",40.728321,-73.987619,"128 2nd Ave, New York, NY 10003","No","No","EV location closed. Catch them at their other location on Kenmare Street. 
 ","Pizza",,"EVCC","PERMANENTLY CLOSED June 2020. Opened August 2019.
 
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://nolitapizzanyc.com","12:00 PM","https://www.instagram.com/nolitapizzanyc/","8:00 PM",,,,,,,"https://evgrieve.com/2020/06/nolita-pizza-leaves-2nd-avenue.html","2020-06-27","2019-08-01",,,,
-"Numero 28",212,"2020-09-12T04:00:00.000Z","212-777-1555","Restaurants",40.730414,-73.985964,"176 2nd Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: noon  - midnight 
+"Numero 28",212,"2020-11-25T05:00:00.000Z","212-777-1555","Restaurants",40.730414,-73.985964,"176 2nd Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: noon  - midnight 
 ","Pizza","USE CODE “N28ONLINE” 20% OFF ON ANY ONLINE ORDER
-","EVCC","Phone call 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.numero28.com/menu-and-locations/east-village-new-york/","12:00 PM","https://www.instagram.com/numero28/","11:00 PM","Yes",,,,," ",,,,,,,
-"NY Institute of Aromatic Studies",213,"2020-09-07T04:00:00.000Z","917-310-7845","Health",40.728969,-73.979534,"530 E. 13th Street, New York, NY 10009",,,"Check out online classes!
+","EVCC","Website Confirmed Hours
+","info@numero28.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.numero28.com/menu-and-locations/east-village-new-york/","12:00 PM","https://www.instagram.com/numero28/","11:00 PM","Yes",,,,," ",,,,,,,
+"NY Institute of Aromatic Studies",213,"2020-09-07T04:00:00.000Z","917-310-7845","Health",40.728969,-73.979534,"530 E. 13th Street, New York, NY 10009","Yes",,"Check out online classes!
 ","Natural & Alternative","Enjoy 20% off any course! Enter code: EMPOWER20
-","PL",,"INFO@AROMATICSTUDIES.COM","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","aromaticstudies.com",,"https://www.instagram.com/aromaticstudies/",,,,"Yes",true,,,,,,,,,
+","PL",,"INFO@AROMATICSTUDIES.COM","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://aromaticstudies.com/",,"https://www.instagram.com/aromaticstudies/",,,,"Yes",true,,,,,,,,,
 "NYC Deli Market Corp #1",214,"2020-07-29T04:00:00.000Z","(646) 767-9134","Groceries",40.724294,-73.975929,"129 Avenue D, New York, NY 10009","Yes",,,"Deli ",,"EVCC","
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}",,,,"8:00 PM",,,,,,,,,,,,,
-"New York City Pharmacy",215,"2020-09-12T04:00:00.000Z","212-253-8686","Health",40.730207,-73.983044,"206 1st Avenue, New York City, 10009","Yes",,"SAT: 11:00 AM - 7:00 PM
+"New York City Pharmacy",215,"2020-09-12T04:00:00.000Z","212-253-8686","Health",40.730207,-73.983044,"206 1st Avenue, New York, NY 10009","Yes",,"SAT: 11:00 AM - 7:00 PM
 SUN: Closed 
 ","Pharmacy",,"EVCC","website is being updated 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.nycprx.com","11:00 AM",,"9:00 PM",,,,,,,,,,,,,
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.nycprx.com","11:00 AM",,"9:00 PM",,,,,,,,,,,,,
 "OCD Chocolate Shop",216,"2020-08-10T04:00:00.000Z","212-777-6363","Dessert",40.726953,-73.990677,"63 E. 4th Street, New York, NY 10003","Yes",,"By appointment only 
 ","Candy & Chocolate",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","ocdchocolate.com","12:00 PM","https://www.instagram.com/ocdchocolate/","5:00 PM",,,"Yes",,,,,,,,,,
@@ -843,10 +846,10 @@ FRI - SUN 12:00 PM - 11:59 PM
 "Original Nicky's Vietnamese Sandwich Shop",220,"2020-08-11T04:00:00.000Z","(929) 488-7307","Restaurants",40.72967681,-73.9810771,"209 Avenue A, New York, NY 10009","Yes","Yes",,"Vietnamese",,"EVCC","Confirmed by phone
 
 ",,"Opened","{""id"":""usrTwHFguuPqHD2wI"",""email"":""snesfeder30@gmail.com"",""name"":""salvatore nesfeder""}",,"11:00 AM",,"11:00 PM",,,,true,,,,,,,,,
-"Otto's Shrunken Head",221,"2020-09-06T04:00:00.000Z","(212) 228-2240","Restaurants",40.729422,-73.978708,"538 E 14th St, New York, NY 10009","Yes","No","		
+"Otto's Shrunken Head",221,"2020-09-06T04:00:00.000Z","(212) 228-2240","Restaurants",40.729422,-73.978708,"538 E. 14th St, New York, NY 10009","Yes","No","		
 ","Bar","
 ","EVCC","IG is being updated
-","ottosinfo@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://ottosshrunkenhead.com/","4:00 PM","https://www.instagram.com/ottosnyc/","10:00 PM",,"https://ottosshrunkenheadnyc.bandcamp.com/album/pandemic-punch","No",,,"https://www.gofundme.com/url_shortener/u/xrugz3",,,,,,,
+","ottosinfo@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://ottosshrunkenhead.com/","4:00 PM","https://www.instagram.com/ottosnyc/","10:00 PM",,"https://ottosshrunkenheadnyc.bandcamp.com/album/pandemic-punch","No",,,"https://www.gofundme.com/url_shortener/u/xrugz3",,,,,,,
 "Paquitos",222,"2020-08-11T04:00:00.000Z","(212) 674-2071‬","Restaurants",40.72810826,-73.98518033,"143 1st Ave New York, New York,10003","Yes","Yes",,"Mexican",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://paquitosnyc.com","12:00 PM","https://instagram.com/paquitosnyc","10:00 PM",,,,,,,,,,,,,
 "Pardon My French",223,"2020-03-31T04:00:00.000Z","(212) 358-9683","Restaurants",40.724743,-73.981184,"103 Avenue B, New York, NY 10009","Yes","Yes",,"French",,"PL","IG is being updated
