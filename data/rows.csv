@@ -1,8 +1,8 @@
 "Name","id","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Sub Categories","Special Offers","Contributor","Spreadsheet Update Notes","Email","Status","Last modified by","Website","Open Time","Instagram","Close Time","Outside Seating Offered","Giftcard","Shipping Offered","MWBE","Indoor Seating Offered","Fundraiser","Source","Closure Date","Opening Date","LGBTQ","Black Owned Business","Special Accommodation Hours","Update Requests"
-"10th St & Avenue C Liquor",1,"2020-11-16T05:00:00.000Z","212-995-8200","Retail",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","Call for hours
+"10th St & Avenue C Liquor",1,"2020-11-16T05:00:00.000Z","212-995-8200","Retail",40.72583881,-73.97777047,"159 Avenue C, New York, NY 10009","Yes","Yes","
 ","Wine","
 ","EVCC","They keep random hours in the best of times! put 'Call for hours' in the notes
-","No online presence","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
+","No online presence","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,,,,,,,
 "11B Express",2,"2020-11-16T05:00:00.000Z","(212) 388-9811","Restaurants",40.727482,-73.979724,"174 Avenue B, New York, NY 10009","Yes","Yes","Contactless pickup available!
 ","Pizza",,"EVCC","IG is being updated
 ","elevenbnyc@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.elevenbnyc.com/","12:00 PM","https://www.instagram.com/elevenbnyc/","12:00 AM","Yes",,,,,,,,,,,,
@@ -392,8 +392,8 @@ SUN, 11AM - 2AM
 Beer + Growlers to go
 ","American",,"EVCC","PERMANENTLY CLOSED
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.elizaslocal.com/","2:30 PM","https://www.instagram.com/elizaslocal/?hl=en","2:00 AM",,"https://www.giftfly.com/shop/elizas-local",,,,,,"2020-09-23","2018-12-01",,,,
-"Elsewhere Espresso",98,"2020-06-22T04:00:00.000Z",,"Restaurants",40.726897,-73.986841,"335 E 6th St, New York, NY 10003","Yes","Yes","OPEN STARTING SATURDAY 4/25. Delivery via postmates may not be functioning.
-","Cafe",,"EVCC",,,"Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","https://postmates.com/merchant/elsewhere-espresso-new-york","7:00 AM","https://www.instagram.com/elsewhereespresso/?hl=en","7:00 PM",,,,,,,,,,,,,
+"Elsewhere Espresso",98,"2020-06-22T04:00:00.000Z",,"Restaurants",40.726897,-73.986841,"335 E. 6th St, New York, NY 10003","Yes","Yes","OPEN STARTING SATURDAY 4/25. Delivery via postmates may not be functioning.
+","Cafe",,"EVCC",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://postmates.com/merchant/elsewhere-espresso-new-york","7:00 AM","https://www.instagram.com/elsewhereespresso/?hl=en","7:00 PM",,,,,,,,,,,,,
 "Enchantments",99,"2020-11-23T05:00:00.000Z","212-228-4394","Health",40.72751,-73.98382,"424 E. 9th Street, New York, NY 10009","Yes",,"MON, WED, THU, FRI & SUN
 TUE & SAT: Closed
 ","Natural & Alternative",,"EVCC","Hours Confirmed by Phone, IG is being updated 
@@ -807,11 +807,11 @@ Last wash 5:30 PM
 "Ninth Street Espresso",209,"2020-08-05T04:00:00.000Z","212-777-3508","Restaurants",40.72711,-73.980086,"341 E. 10th Street, New York, NY","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> Free shipping to NY, NJ, CT
 ","Cafe",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card",,,,,,,,,,,
-"Ninth Street Espresso",210,"2020-08-05T04:00:00.000Z","(212) 358-9225","Restaurants",40.725063,-73.977821,"700 E 9th St, New York, NY 10009","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> 
+"Ninth Street Espresso",210,"2020-08-05T04:00:00.000Z","(212) 358-9225","Restaurants",40.725063,-73.977821,"700 E. 9th St, New York, NY 10009","Yes","Yes","Still roasting beans and shipping from <https://www.ninthstreetespresso.com/shop> 
 
 Free shipping in NY, NJ, CT.
 ","Cafe",,"EVCC","IG is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card",,,,,,,,,,,
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.ninthstreetespresso.com/shop","7:00 AM","https://www.instagram.com/ninthstreetespresso/","7:00 PM",,"https://www.ninthstreetespresso.com/product-page/gift-card",,,,,,,,,,,
 "Nolita Pizza ",211,"2020-07-04T04:00:00.000Z","646-756-4141","Restaurants",40.728321,-73.987619,"128 2nd Ave, New York, NY 10003","No","No","EV location closed. Catch them at their other location on Kenmare Street. 
 ","Pizza",,"EVCC","PERMANENTLY CLOSED June 2020. Opened August 2019.
 
