@@ -724,20 +724,20 @@ SUN: Closed
 ","Middle Eastern",,"EVCC","IG being updated
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://mamouns.com/locations/st-marks-place-ny","11:00 AM","https://www.instagram.com/mamounsfalafel/","11:00 PM","Yes",,,,,,,,,,,,
 "Marty's Wine & Liquor",185,"2020-11-24T05:00:00.000Z","212-228-3990","Retail",40.724571,-73.975713,"133 Avenue D, New York, NY 10009","Yes",,,"Wine",,"PL","Confirmed Hours by Phone
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"12:00 PM",,"12:00 AM",,,,,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM",,"12:00 AM",,,,,,,,,,,,,
 "Mary O's ",186,"2020-11-24T05:00:00.000Z","212-505-5610","Restaurants",40.7233141,-73.98530383,"32 Avenue A, New York, NY 10009","Yes",,,"Irish",,"EVCC","Confirmed Hours by Phone
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://maryos.nyc","5:00 PM",,"10:00 PM","Yes",,,true,"Yes",,,,,,,,
-"Mashbill Wines and Spirits",187,"2020-11-24T05:00:00.000Z","212-228-7510","Retail",40.721269,-73.980612,"24 Avenue C, New York, NY 10009","Yes",,"FRI: 12:00 PM - 9:00 AM
+"Mashbill Wines and Spirits",187,"2020-11-24T05:00:00.000Z","212-228-7510","Retail",40.721269,-73.980612,"24 Avenue C, New York, NY 10009","Yes",,"FRI: 12:00 PM - 9:00 PM
 SAT: 11:00 AM - 10:00 PM
 SUN: 11:00Am - 10:00 PM
 ","Wine",,"PL","Confirmed Hours by Phone
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"12:00 PM ",,"8:00 PM",,,,,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM ",,"8:00 PM",,,,,,,,,,,,,
 "Mayanoki",188,"2020-11-09T05:00:00.000Z",,"Restaurants",40.723965,-73.980829,"620 E 6th Street, New York, NY 10009",,,,"Japanese",,"PL","Mayanoki owner TJ Provenzano had taken over Grape & Grain in the eastern storefront in June 2018. Mayanoki pop-up closed August 22.  Usumoya Tavern application on 11/16 CB 3 SLA agenda (transfer from Mayanoki).
 ","info@mayanoki.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://mayanoki.com/",,"https://www.instagram.com/mayanoki/",,,,,,,,,,,,,,
-"Medilane Drugs",189,"2020-09-12T04:00:00.000Z","212-505-1788","Health",40.729158,-73.978012,"227 Avenue B, New York, NY 10009",,,,"Pharmacy",,"PL","\*\*\*Call Monday
-",,"Unknown","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,,,,,,,,,,,,,,,,
-"Michael Chang, DDS",190,"2020-06-25T04:00:00.000Z","212-677-2640","Health",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003",,,,"Dental",,"EVCC","\*\*\*Call monday or email dentist
-","drmchang@drmichaelchang.com","Unknown","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.drmichaelchang.com/",,,,,,,true,,,,,,,,,
+"Medilane Drugs",189,"2020-09-12T04:00:00.000Z","212-505-1788","Health",40.729158,-73.978012,"227 Avenue B, New York, NY 10009",,,,"Pharmacy",,"PL","\*\*\*Call Monday or Laura check
+",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
+"Michael Chang, DDS",190,"2020-06-25T04:00:00.000Z","212-677-2640","Health",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003",,,,"Dental",,"EVCC","\*\*\*Call monday or Laura email dentist
+","drmchang@drmichaelchang.com","Unknown","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.drmichaelchang.com/",,,,,,,true,,,,,,,,,
 "Michelle Cleaners",191,"2020-11-24T05:00:00.000Z","(212) 982-8021","Laundry",40.727149,-73.979412,"169 Avenue C, New York, NY 10009","Yes","Yes","SUN: Closed
 Drop-off service, dry cleaning and tailoring.
 ","Laundromat",,"EVCC","Confirmed Hours by Phone
@@ -754,22 +754,24 @@ SUN: Closed
 
 ","Chinese",,"EVCC","IG is being updated Confirmed Hours by Phone
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.mimichengs.com","1:00 PM","https://www.instagram.com/mimichengs/","9:00 PM","Yes",,,true,,"https://www.gofundme.com/f/dumplings-for-doctor",,,,,,,
-"Ramen Misoya",195,"2020-11-24T05:00:00.000Z","(212) 677-4825","Restaurants",40.72852,-73.988101,"129 2nd Avenue, New York, NY 10003","Yes","Yes","📞 2126774825 Call us for pickup.
+"Ramen Misoya",195,"2020-11-24T05:00:00.000Z","(212) 677-4825","Restaurants",40.72852,-73.988101,"129 2nd Avenue, New York, NY 10003","Yes","Yes","📞 2126774825 Call us for pickup!
 Delivery through caviar,doordash, ubereats & postmates
 SUN - 12:00 PM - 11:00 PM							
-","Japanese",,"EVCC","IG is being updated Confirmed Hours by Phone
-","contact@misoyanyc.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.misoyanyc.com/","12:00 PM","https://www.instagram.com/misoyanyc/","9:00 PM","Yes",,,true,,,,,,,,,
+","Japanese",,"EVCC","\*\*\*in Notes column, put SUN hours first (hours notes go above any other notes, fix format) 
+IG is being updated Confirmed Hours by Phone
+","contact@misoyanyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.misoyanyc.com/","12:00 PM","https://www.instagram.com/misoyanyc/","9:00 PM","Yes",,,true,,,,,,,,,
 "Mochii",196,"2020-09-12T04:00:00.000Z","212-473-3897","Dessert",40.726282,-73.984508,"116 E. 7th Street, New York, NY","Yes","Yes","FRI & SAT: 1:00 PM - 11:00 PM
 SUN: 1:00 PM - 10:00 PM
 
-","Ice Cream",,"EVCC","IG is being updated
+","Ice Cream",,"EVCC","\*\*\*Address needs zip code
+IG is being updated
 ","mimi@mochiinyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.mochiinyc.com","2:00 PM ","https://www.instagram.com/mochiinyc/","10:00 PM",,,,true,,"https://www.gofundme.com/f/mochii-fundraiser",,,,,,,
 "Möge Tee",197,"2020-03-31T04:00:00.000Z","917-675-7697","Restaurants",40.729067,-73.989896,"69 Cooper Square, New York, NY 10003","Yes","Yes",,"Bubble Tea","10% off next order by following and[ tagging us!](https://www.instagram.com/mogetee_eastvillage/)
-","PL","No info online - need to call regarding conflicting hours, no third online source
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,"https://www.instagram.com/mogetee_eastvillage/",,,,,true,,,,,,,,,
-"Mokyo",198,"2020-11-25T05:00:00.000Z","646-755-8088","Restaurants",40.72722,-73.983876,"109 St Marks Pl, New York, NY 10009","Yes","Yes","Takeout from Thursday Kitchen! 424 E. 9th Street
+","PL","\*\*\*need to call regarding conflicting hours found online
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/mogetee_eastvillage/",,,,,true,,,,,,,,,
+"Mokyo",198,"2020-11-25T05:00:00.000Z","646-755-8088","Restaurants",40.72722,-73.983876,"109 St. Marks Place, New York, NY 10009","Yes","Yes","Sister restaurant of Thursday Kitchen
 ","Asian",,"EVCC","IG is being updated
-","infomokyo@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.mokyony.com/","4:30 PM","https://www.instagram.com/mokyonyc/","9:00 PM",,,,true,"Yes",,,,,,,,
+","infomokyo@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.mokyony.com/","4:30 PM","https://www.instagram.com/mokyonyc/","9:00 PM","Yes",,,true,"Yes",,,,,,,,
 "Mother of Pearl",199,"2020-07-20T04:00:00.000Z","212-614-6818","Restaurants",40.725665,-73.984116,"95 Avenue A, New York, NY 10009","No","No","Closed: Amor Y Amago expanded into this space & now serves food.
 ","Vegan",,"EVCC","PERMANENTLY CLOSED July 2020. Opened July 2015. Amor Y Amargo expanded into this space & now serves food. 
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.motherofpearlnyc.com","3:00 PM","https://www.instagram.com/motherofpearlny/?hl=en","8:00 PM",,,,,,,,"2020-07-01","2015-07-01",,,,
@@ -778,17 +780,14 @@ SUN: 1:00 PM - 10:00 PM
 Order two pizzas, get a third for FREE ❤️ \*phone or @chownow orders only
 ","EVCC","IG is being updated
 ","Palombino@mac.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.motorinopizza.com","4:00 PM","https://www.instagram.com/motorinopizza/","10:00 PM","Yes",,,,,,,,,,,,
-"Mudpark",201,"2020-11-25T05:00:00.000Z","( 212) 529-8766 ","Restaurants",40.72297,-73.98804,"75 E. 1st Street, New York, NY 10003","Yes",,"yes...we are open! mud is an #essentialbusiness ~ our #mudmarket has fruits, vegetables, wine, beer, a small food menu, and mud coffee to go
-
-7am - noon weekdays
-9am -2pm weekends
+"Mudpark",201,"2020-06-25T04:00:00.000Z","( 212) 529-8766 ","Restaurants",40.72297,-73.98804,"75 E. 1st Street, New York, NY 10003","No",,"
 ","Cafe",,"EVCC","TEMPORARILY CLOSED
-","hello@mudnyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.mudnyc.com","7:30 AM","https://www.instagram.com/p/B-X3hcfjLXU/","7:00 PM",,,,,,,"https://www.instagram.com/p/B-nlDBWDCW6/",,,,,,
-"Mudspot Cafe",202,"2020-11-25T05:00:00.000Z","212-228-9074","Restaurants",40.729103,-73.986631,"307 E. 9th Street, New York, NY, 10003","Yes",,"Outdoor seating available.
-FRI & SAT: 7:30 AM - 10:30 PM 
-SUN 8:00 AM - 9:30 PM
-","Cafe",,"EVCC","TEMPORARILY CLOSED
-","hello@mudnyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.mudnyc.com","7:30 AM","https://www.instagram.com/p/B-X3hcfjLXU/","9:30 PM","Yes",,,,,,,,,,,,
+","hello@mudnyc.com","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.mudnyc.com/pages/mudpark","7:30 AM",,"7:00 PM",,,,,,,"https://www.instagram.com/p/B-nlDBWDCW6/",,,,,,
+"Mudspot Cafe",202,"2020-11-25T05:00:00.000Z","212-228-9074","Restaurants",40.729103,-73.986631,"307 E. 9th Street, New York, NY, 10003","Yes",,"FRI & SAT: 7:30 AM - 10:30 PM 
+SUN: 8:00 AM - 9:30 PM
+Our #mudmarket has fruits, vegetables, wine, beer, a small food menu, and mud coffee to go! 
+","Cafe",,"EVCC","\*\*Call and confirm hours, See Mudspot Tab on website,
+","hello@mudnyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.mudnyc.com/pages/mudspot","7:30 AM","https://www.instagram.com/mudcoffeenyc/","9:30 PM","Yes",,,,,,,,,,,,
 "Native Bean",203,"2020-09-22T04:00:00.000Z","212-228-8110","Restaurants",40.723521,-73.985267,"36 Avenue A, New York, NY, 10009","No","No","Open and close times fluctuate, Delivery available through [Seamless](https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932).
 ","Cafe",,"EVCC","PERMANENTLY CLOSED. Opened at 50 Avenue A in 2000, moved to 26 Avenue A in 2014.
 ","native.bean@yahoo.com","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.seamless.com/menu/native-bean-36b-avenue-a-new-york/301932","8:00 AM",,"2:00 PM",,,,true,,,"https://evgrieve.com/2020/09/native-bean-wraps-up-20-years-on-avenue.html","2020-09-20","2014-12-01",,,,
@@ -1158,14 +1157,14 @@ FRI: 3:00 - 5:00
 "Tokuyama Salon Café",316,"2020-11-25T05:00:00.000Z","212-388-1276","Restaurants",40.724049,-73.980154,"627 E 6th St, New York, NY 10009","No","Yes","MON: Closed
 ","Cafe",,"PG","Confirmed Hours by Phone 		
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://tokuyamasalon.com/eastvillage/","8:00 AM","https://www.instagram.com/tokuyamasalon_cafe/?hl=en","8:00 PM",,"https://forms.gle/14hk2Vgm4BfSSBCi7",,,,"https://www.gofundme.com/f/tokuyama-salon-fund-think-after-corona",,,,,,,
-"Tompkins Square Bagels",317,"2020-11-25T05:00:00.000Z","646-351-6520","Restaurants",40.72818262,-73.98219899,"165 Avenue A, New York, NY 10009","Yes","Yes","SAT - SUN: 7:00 AM - 5:00 PM
+"Tompkins Square Bagels (Avenue A)",317,"2020-11-25T05:00:00.000Z","646-351-6520","Restaurants",40.72818262,-73.98219899,"165 Avenue A, New York, NY 10009","Yes","Yes","SAT - SUN: 7:00 AM - 5:00 PM
 ","Cafe","Text TSQUARE to 33733 to start your order and get 10% off
-","EVCC","SAME AS 312 Confirmed Hours by website 	
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.tompkinssquarebagels.com","7:00 AM","https://www.instagram.com/tompkinssquarebagels/?hl=en","7:00 PM",,,,,,"https://www.gofundme.com/f/help-tompkins-team-keep-up-their-fight?utm_medium=email&utm_source=product&utm_campaign=p_email_m_pd-5332-donation-receipt-adyen&utm_content=internal",,,,,,,
-"Tompkins Square Bagels",318,"2020-11-25T05:00:00.000Z","917-472-7639","Restaurants",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003","Yes","Yes","SAT - SUN: 7:00 AM - 5:00 PM
+","EVCC","Confirmed Hours by website 	
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.tompkinssquarebagels.com","7:00 AM","https://www.instagram.com/tompkinssquarebagels/?hl=en","7:00 PM",,,,,,"https://www.gofundme.com/f/help-tompkins-team-keep-up-their-fight?utm_medium=email&utm_source=product&utm_campaign=p_email_m_pd-5332-donation-receipt-adyen&utm_content=internal",,,,,,,
+"Tompkins Square Bagels (2nd Avenue)",318,"2020-11-25T05:00:00.000Z","917-472-7639","Restaurants",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003","Yes","Yes","SAT - SUN: 7:00 AM - 5:00 PM
 ","Cafe","Text TSQUARE to 33733 to start your order and get 10% off
-","EVCC","SAME AS 311
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.tompkinssquarebagels.com","7:00 AM","https://www.instagram.com/tompkinssquarebagels/","7:00 PM",,,,,,"https://www.gofundme.com/f/help-tompkins-team-keep-up-their-fight?utm_medium=email&utm_source=product&utm_campaign=p_email_m_pd-5332-donation-receipt-adyen&utm_content=internal",,,,,,,
+","EVCC","confirmed hours by website
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.tompkinssquarebagels.com","7:00 AM","https://www.instagram.com/tompkinssquarebagels/","7:00 PM",,,,,,"https://www.gofundme.com/f/help-tompkins-team-keep-up-their-fight?utm_medium=email&utm_source=product&utm_campaign=p_email_m_pd-5332-donation-receipt-adyen&utm_content=internal",,,,,,,
 "Top Notch Security",319,"2020-11-25T05:00:00.000Z","646-781-7070","Shops & Services",40.72185,-73.98384,"12 Avenue B, New York, NY 10009",,"Yes","Store Opened MON- THU
 24/7 Emergency Service
 ","Locksmith",,"PL","website being updated
@@ -1263,7 +1262,7 @@ SUN: noon - 9:00 PM
 SUN: noon -  8:30PM
 ","Wine",,"EVCC","Confirmed Hours by Phone 	
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"9:30 AM ","https://www.instagram.com/winesonfirst/?hl=en","9:30PM",,,,,,,,,,,,,
-"Xe May Sandwich Shop",348,"2020-11-27T05:00:00.000Z","212-388-1688","Restaurants",40.727217,-73.984918,"96 St. Mark's Place, New York,10009","Yes","Yes","
+"Xe May Sandwich Shop",348,"2020-11-27T05:00:00.000Z","212-388-1688","Restaurants",40.727217,-73.984918,"96 St. Mark's Place, New York, NY 10009","Yes","Yes","
 ","Vietnamese",,"EVCC","Confirmed Hours by Phone 
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://xemaysandwich.com/","12:00 PM","https://www.instagram.com/xemaysandwich/","8:00 PM",,,,true,,,,,,,,,
 "Yang's Happy Wok",349,"2020-11-27T05:00:00.000Z","212-228-2555","Restaurants",40.726399,-73.977424,"175 Ave C, New York, NY 10009","Yes",,"SAT & SUN: 11:00 AM - 11:30 PM
@@ -1284,31 +1283,31 @@ SUN: noon -  8:30PM
 "East Village Vintage Collective",354,"2020-11-27T05:00:00.000Z","646-476-8036","Retail",40.728413,-73.979311,"545 E. 12th Street, New York, NY 10009","Yes","Yes","Open WED - SUN
 ","Vintage",,"EVCC","IG being updated, Confirmed Hours by Phone 
 ","evvintagecollective@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.eastvillagevintagecollective.com","1:00 PM","https://www.instagram.com/evvintagecollective/","6:00 PM",,"https://www.eastvillagevintagecollective.com/product-category/giftcert-2/","Yes",true,,,,,,,,,"recgE5IajjFUdDOoP"
-"Gringer and Sons Appliances",355,"2020-11-27T05:00:00.000Z","212-475-0600","Retail",40.723873,-73.988248,"29 1st Avenue, New York, NY 10003",,"Yes","SAT: 8:30 AM - 4:30 PM 
+"Gringer and Sons Appliances",355,"2020-11-27T05:00:00.000Z","212-475-0600","Retail",40.723873,-73.988248,"29 1st Avenue, New York, NY 10003","No","Yes","SAT: 8:30 AM - 4:30 PM 
 SUN: Closed 
 ","Appliances",,"EVCC","IG being updated, Confirmed Hours by Phone 
 ","Kminauro@gringerandsons.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.gringerandsons.com/","8:30 AM","https://www.instagram.com/gringerandsons/","5:30 PM",,,"Yes",,,,,,,,,,
-"AuH2O ",356,"2020-11-25T05:39:00.000Z","212-466-0844","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY,10003","No",,"Location closed, but continuing to offer [online shopping](https://www.auh2oshop.com/)!
+"AuH2O ",356,"2020-11-27T05:00:00.000Z","212-466-0844","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","No",,"Location closed, but continuing to offer [online shopping](https://www.auh2oshop.com/)!
 
 ","Jewelry,Fashion","$5 Fridays! Great finds for $5!
-","EVCC","ig being updated
-","auh2oshop@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.auh2oshop.com","1:00 PM","https://www.instagram.com/auh2oshop/","6:00 PM",,"DM @auh2oshop or email auh2oshop@gmail.com ","Yes",true,,,"https://www.instagram.com/p/CE7MFF7DMeO/","2020-10-01","2006-10-01",,,,
-"The Baroness Latex",357,"2020-11-25T05:00:00.000Z","212-529-5964","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,,"SUN & MON: Closed
-","Fashion",,"EVCC","updated hours, ig being updated
-","Baroness@Baroness.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.baroness.com","2:00 PM ","https://www.instagram.com/latexbaroness/","7:00 PM",,"https://store.baroness.com/giftcertificates.php","Yes",true,,,,,,,,,
+","EVCC","IG being updated, Invalid Number 
+","auh2oshop@gmail.com","Closed","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.auh2oshop.com","1:00 PM","https://www.instagram.com/auh2oshop/","6:00 PM",,"DM @auh2oshop or email auh2oshop@gmail.com ",,true,,,"https://www.instagram.com/p/CE7MFF7DMeO/","2020-10-01","2006-10-01",,,,
+"The Baroness Latex",357,"2020-11-27T05:00:00.000Z","212-529-5964","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,,"SUN & MON: Closed
+","Fashion",,"EVCC","IG being updated, Confirmed Hours by Phone 
+","Baroness@Baroness.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.baroness.com","2:00 PM ","https://www.instagram.com/latexbaroness/","7:00 PM",,"https://store.baroness.com/giftcertificates.php","Yes",true,,,,,,,,,
 "Maiden Lane",358,"2020-11-27T05:00:00.000Z","646-755-8911","Restaurants",40.726002,-73.980642,"162 Avenue B, New York, NY 10009","Yes","Yes","
-","American",,"EVCC","called for hours - no response 
-","gareth@themaidenlane.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.themaidenlane.com",,"https://instagram.com/themaidenlane?igshid=kh44ev7f64ra","11:00 PM","Yes",,,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,,,
+","American",,"EVCC","No response for Call
+","gareth@themaidenlane.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.themaidenlane.com",,"https://instagram.com/themaidenlane?igshid=kh44ev7f64ra","11:00 PM","Yes",,,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,,,
 "Fragrance Shop New York",359,"2020-11-27T05:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003","Yes",,"MON - THU: Retail Sales
 FRI:  ONLY by Appt for Custom Fragrance, 20% deposit required. 
-","Custom Perfume",,"EVCC","called for hours - no response, ig being updated
-","fsny92@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.fragranceshopnewyork.com","11:00 AM","https://www.instagram.com/fragranceshop_ny/","6:00 PM",,,"Yes",true,,,,,,,,,
+","Custom Perfume",,"EVCC","IG being updated, No response for Call
+","fsny92@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.fragranceshopnewyork.com","11:00 AM","https://www.instagram.com/fragranceshop_ny/","6:00 PM",,,"Yes",true,,,,,,,,,
 "Elliot Mann",360,"2020-11-27T05:00:00.000Z","212-260-9181","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","Yes",,"In-store: noon - 5:00 PM, online orders always!
 ","Fashion","
-","EVCC","ig being updated
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://elliotmann.com","12:00 PM","https://www.instagram.com/elliotmannnyc/","5:00 PM",,"https://elliotmann.com/collections/gift-cards","Yes",true,,,,,,,,,
-"7B Horseshoe Bar (Vazacs)",361,"2020-11-27T05:00:00.000Z","212-677-6742","Restaurants",40.725013,-73.981392,"108 Avenue B, New York, NY 10009","Yes",,,"Bar",,"EVCC","IG is being updated
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"12:00 PM","https://www.instagram.com/7bhorseshoebar/","8:00 PM","Yes",,,,"Yes",,,,,,,,
+","EVCC","IG being updated, Invalid number 212-260-0658 found on website also invalid 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://elliotmann.com","12:00 PM","https://www.instagram.com/elliotmannnyc/","5:00 PM",,"https://elliotmann.com/collections/gift-cards","Yes",true,,,,,,,,,
+"7B Horseshoe Bar (Vazacs)",361,"2020-11-27T05:00:00.000Z","212-677-6742","Restaurants",40.725013,-73.981392,"108 Avenue B, New York, NY 10009","Yes",,,"Bar",,"EVCC","IG is being updated, Confirmed hours by Phone
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"12:00 PM","https://www.instagram.com/7bhorseshoebar/","10:00 PM","Yes",,,,"Yes",,,,,,,,
 "The Pilates Nook",362,"2020-11-27T05:00:00.000Z",,"Health",40.729275,-73.981531,"441 E. 12th Street, New York, NY 10009","Yes",,"Private virtual or in studio sessions!
 ","Pilates",,"EVCC","ig being updated
 ","info@thepilatesnooknyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://thepilatesnooknyc.com/",,"https://www.instagram.com/thepilatesnooknyc/",,,,"Yes",true,,,,,,,,,
@@ -1342,12 +1341,12 @@ FRI:  ONLY by Appt for Custom Fragrance, 20% deposit required.
 "Quick Coin One Laundromat",373,"2020-11-27T05:00:00.000Z","(212) 982-1575","Laundry",40.729323,-73.984377,"175 1st Avenue, New York, NY 10003","Yes","Yes","Last wash 8:30 PM 			
 ","Laundromat",,"EVCC","confirmed hours by phone
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"7:00 AM",,"10:00 PM",,,,true,,,,,,,,,
-"Westside Market",374,"2020-11-27T05:00:00.000Z","(212) 253-8400","Groceries",40.731819,-73.988486,"84 Third Ave, New York, NY","Yes","Yes","Accepts SNAP/EBT. 
+"Westside Market",374,"2020-11-27T05:00:00.000Z","(212) 253-8400","Groceries",40.731819,-73.988486,"84 Third Ave, New York, NY 10003","Yes","Yes","Accepts SNAP/EBT. 
 Senior Hours: 6:00 AM - 8:00 AM. 
 10% discount for Seniors. 
 Delivery via <https://www.wmarketnyconline.com/>, Amazon, or via phone. Delivery within a 10-block radius for in-store shoppers.
 ","Supermarket",,"EVCC","Website is being updated
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://wmarketnyconline.com/products","24 hours","https://www.instagram.com/westsidemarketnyc/?hl=en",,,,,,,,,,,,,"6am-8am every day",
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://wmarketnyconline.com/products","24 hours","https://www.instagram.com/westsidemarketnyc/?hl=en",,,,,,,,,,,,,"6am-8am every day",
 "Random Accessories",375,"2020-11-27T05:00:00.000Z","212-358-0650","Retail",40.726714,-73.990126,"77 E. 4th Street,  New York, NY 10003","Yes","No","SAT & SUN: noon - 6:30 PM
 open everyday at noon
 ","Gifts & Home,Jewelry,Childrens","
@@ -1363,9 +1362,9 @@ Sunday only: 9:00 AM - 6:00 PM
 Sunday only: 9:00 AM - 6:00 PM
 ","Supermarket",,"PL","Website is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0417724","8:00 AM",,"9:00 PM",,,,,,,,,,,,"7am-8am every day",
-"Key Food",378,"2020-04-10T04:00:00.000Z","(212) 598-9184","Groceries",40.717908,-73.979813,"43 Columbia Street, New York, NY ","Yes","Yes","Seniors only, Wednesdays, 8 AM-3 PM
+"Key Food",378,"2020-04-10T04:00:00.000Z","(212) 598-9184","Groceries",40.717908,-73.979813,"43 Columbia Street, New York, NY 10002","Yes","Yes","Seniors only, Wednesdays, 8 AM-3 PM
 ",,,"PL","Senior Hours per Carlina Rivera's website
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"10:00 PM",,,,,,,"https://council.nyc.gov/carlina-rivera/covid-19-updates/",,,,,"8 AM-3 PM, Wednesdays",
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"8:00 AM",,"10:00 PM",,,,,,,"https://council.nyc.gov/carlina-rivera/covid-19-updates/",,,,,"8 AM-3 PM, Wednesdays",
 "St. Dympna's",379,"2020-11-27T05:00:00.000Z",,"Restaurants",40.726424,-73.983592,"117 Avenue A, New York, NY 10009","Yes",,"Liquor license suspended
 ","Bar",,"EVCC","Closed by SLA for infractions as of 8/16/20, check back re license
 ig being updated
@@ -1413,9 +1412,9 @@ MON: Closed
 "4th Street Copy Center",388,"2020-11-27T05:00:00.000Z","212-466-0871","Shops & Services",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003",,,"Open MON-FRI
 ","Print & Copy",,"EVCC","confirmed hours by call
 ",,"Unknown","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"10:00 AM ",,"5:00 PM",,,,,,,,,,,,,
-"NY Copy Print & Ship Center",389,"2020-11-27T05:00:00.000Z","212-673-5628","Shops & Services",40.728791,-73.98979,"13 E. 7th Street, New York, NY,10003","Yes",,"MON - FRI ONLY
+"NY Copy Print & Ship Center",389,"2020-11-27T05:00:00.000Z","212-673-5628","Shops & Services",40.728791,-73.98979,"13 E. 7th Street, New York, NY 10003","Yes",,"MON - FRI ONLY
 ","Print & Copy",,"EVCC","confirmed hours by call
-","nycopy@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.nycc.com","8:30 AM","https://www.instagram.com/eastvillagenycopy/?hl=en","6:00 PM",,,"Yes",,,,,,,,,,
+","nycopy@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.nycc.com","8:30 AM","https://www.instagram.com/eastvillagenycopy/?hl=en","6:00 PM",,,"Yes",,,,,,,,,,
 "4th Street Food Co-op",390,"2020-11-27T05:00:00.000Z","212-674-3623","Groceries",40.726619,-73.990834,"58 E. 4th Street, New York, NY 10003","Yes","Yes","MON / TUE / THU / FRI: noon - 6:00 PM
 WED: 4:00 PM to 7:00 PM
 SAT: 1:00 PM - 5:00 PM
@@ -1432,48 +1431,48 @@ survey response, EVCC checks twitter Mondays for weekly hours
 ","Yarn Shop","Basic Sweater Design Zoom Class! https://www.instagram.com/p/CErwMc0pnZK/
 ","EVCC","confirmed hours & ig being updated
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.downtownyarns.com","12:00 AM","https://www.instagram.com/downtownyarns/","7:00 PM",,,"Yes",true,,,,,,,,,
-"Walgreens",393,"2020-11-27T05:00:00.000Z","(212) 375-0734","Health",40.72979,-73.991805,"20 Astor Pl, New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
-","Pharmacy",,"PG","LAURA CHECK: repeated to 387, 390, 391
+"Walgreens (Astor Place)",393,"2020-11-27T05:00:00.000Z","(212) 375-0734","Health",40.72979,-73.991805,"20 Astor Place, New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
+","Pharmacy",,"PG","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.walgreens.com/locator/walgreens-20+astor+pl-new+york-ny-10003/id=9731","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
-"Walgreens",394,"2020-11-27T05:00:00.000Z","(212) 677-0214","Health",40.73371,-73.989677,"145 4th Ave, New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
-","Pharmacy",,"PG","walgreens website
+"Walgreens (4th Avenue)",394,"2020-11-27T05:00:00.000Z","(212) 677-0214","Health",40.73371,-73.989677,"145 4th Avenue, New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
+","Pharmacy",,"PG","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.walgreens.com/locator/walgreens-145+4th+ave-new+york-ny-10003/id=6159","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
-"Duane Reade",395,"2020-11-27T05:00:00.000Z","212-375-9000","Health",40.722159,-73.983419,"194 E. 2nd St, New York, NY 10009","Yes","Yes","\*\*Pharmacy Hours\*\*
+"Duane Reade (Avenue B)",395,"2020-11-27T05:00:00.000Z","212-375-9000","Health",40.722159,-73.983419,"194 E. 2nd Street, New York, NY 10009","Yes","Yes","\*\*Pharmacy Hours\*\*
 \- Mon-Fri: 9am-9pm
 \- Sat: 9am-8pm
 \- Sun: 10am-6pm
-","Pharmacy",,"PG","walgreens website
+","Pharmacy",,"PG","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.walgreens.com/locator/duane+reade-194+e+2nd+st-new+york-ny-10009/id=14354","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
-"Duane Reade",396,"2020-11-27T05:00:00.000Z","212-358-8206","Health",40.734496,-73.990217,"1 Union Square South New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
+"Duane Reade (Union Square)",396,"2020-11-27T05:00:00.000Z","212-358-8206","Health",40.734496,-73.990217,"1 Union Square South New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
 \- Mon-Fri: 9am-9pm
 \- Sat: 9am-6pm
 \- Sun: \*\*CLOSED\*\*
-","Pharmacy",,"PG","walgreens website
+","Pharmacy",,"PG","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.walgreens.com/locator/duane+reade-1+union+square+south-new+york-ny-10003/id=14468","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
-"Walgreens",397,"2020-11-27T05:00:00.000Z","212-529-7140","Health",40.733375,-73.986708,"125-133 3rd Ave New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
+"Walgreens (3rd Avenue)",397,"2020-11-27T05:00:00.000Z","212-529-7140","Health",40.733375,-73.986708,"125-133 3rd Avenue New York, NY 10003","Yes","Yes","\*\*Pharmacy Hours\*\*
 \- Mon-Fri: 9am-8pm
 \- Sat: 9am-6pm
 \- Sun: \*\*CLOSED\*\*
-","Pharmacy",,"PG","walgreens website
+","Pharmacy",,"PG","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
-"Walgreens",398,"2020-11-27T05:00:00.000Z","212-777-0740","Health",40.7333,-73.980778,"298 1st Ave New York, NY 10009","Yes","Yes","\*\*Pharmacy Hours\*\*
+"Walgreens (1st Avenue)",398,"2020-11-27T05:00:00.000Z","212-777-0740","Health",40.7333,-73.980778,"298 1st Avenue New York, NY 10009","Yes","Yes","\*\*Pharmacy Hours\*\*
 \- Mon-Fri: 9am-9pm
 \- Sat: 9am-6pm
 \- Sun: 10am-6pm
-","Pharmacy",,"PG","Laura Check: Repeated to 390
+","Pharmacy",,"PG","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","9:00 AM",,"9:00 PM",,,,,,,,,,,,,
-"Cloak & Dagger",399,"2020-09-12T04:00:00.000Z","212-673-0500","Retail",40.728542,-73.985988,"334 E. 9th Street, New York, NY 10003","Yes",,"SUN: 11:00 AM - 6:00 PM
+"Cloak & Dagger",399,"2020-11-27T05:00:00.000Z","212-673-0500","Retail",40.728542,-73.985988,"334 E. 9th Street, New York, NY 10003","Yes",,"SUN: 11:00 AM - 6:00 PM
 ","Fashion","SCORE 10% OFF WHEN YOU [SIGN OUR MAILING LIST!](https://cloakanddaggernyc.us3.list-manage.com/subscribe/post?u=232bccae8be17d89fd85ebc39&id=944eba5b62)
-","EVCC","IG is being updated, time on IG 
-","brookelynn@cloakanddaggernyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.cloakanddaggernyc.com","11:00 AM","https://www.instagram.com/cloakndaggernyc/","7:00 PM",,,"Yes",true,,,,,,,,,
-"Choice Cleaners 7",400,"2020-09-16T04:00:00.000Z","(212) 387-8986","Laundry",40.723074,-73.985494,"24 Avenue A, New York, NY 10009","Yes","Yes","SAT: 9:00 AM - 4:30 PM
+","EVCC","IG is being updated
+","brookelynn@cloakanddaggernyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.cloakanddaggernyc.com","11:00 AM","https://www.instagram.com/cloakndaggernyc/","7:00 PM",,,"Yes",true,,,,,,,,,
+"Choice Cleaners 7",400,"2020-11-27T05:00:00.000Z","(212) 387-8986","Laundry",40.723074,-73.985494,"24 Avenue A, New York, NY 10009","Yes","Yes","SAT: 9:00 AM - 4:30 PM
 SUN: Closed
 Offering wash and fold, dry clean, tailoring, alteration, shoe shine, shoe clean, and leather alterations. Delivery ""in East Village area.""
-","Cleaners",,"EVCC","Phone call
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:00 AM",,"5:30 PM",,,,true,,,,,,,,,
-"Baker's Pizza",401,"2020-09-12T04:00:00.000Z","212-777-7477","Restaurants",40.7294326,-73.9812956,"201 Avenue A, New York, NY 10009","Yes","Yes","
-","Pizza",,"EVCC","IG is out of date, EVCC confirmed open
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://bakerspizzanyc.com/contact","11:00 AM","https://www.instagram.com/bakerspizzanyc/","11:00 PM","Yes",,,,,,,,,,,,
+","Cleaners",,"EVCC","hours confirmed by hours
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"9:00 AM",,"5:30 PM",,,,true,,,,,,,,,
+"Baker's Pizza",401,"2020-11-27T05:00:00.000Z","212-777-7477","Restaurants",40.7294326,-73.9812956,"201 Avenue A, New York, NY 10009","Yes","Yes","
+","Pizza",,"EVCC","IG is being updated, EVCC confirmed open
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://bakerspizzanyc.com/contact","11:00 AM","https://www.instagram.com/bakerspizzanyc/","11:00 PM","Yes",,,,,,,,,,,,
 "La La Laundry",402,"2020-09-16T04:00:00.000Z","(212) 529-8887","Laundry",40.727683,-73.9795454,"180 Avenue B, New York, NY 10009","Yes","Yes","SUN: Closed
 ","Laundromat",,"EVCC","Phone call, Laura check if still drop-off only?
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"8:00 PM",,,,true,,,,,,,,,
