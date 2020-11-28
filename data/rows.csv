@@ -321,9 +321,10 @@ We allow customers into the store on a limited basis Sun-Wed 2pm-8pm, Thursday
 "Divya's Kitchen",80,"2020-11-24T05:00:00.000Z","212-477-4834","Restaurants",40.72382,-73.98849,"25 1st Avenue, New York, NY 10003 ","Yes","Yes","
 ","Cafe",,"EVCC","Hours Confirmed by Phone 
 ","info@divyaskitchen.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://divyaskitchen.com/delivery-extended/","12:00 PM","https://www.instagram.com/divyaskitchennyc/","10:00 PM","Yes",,"Yes",true,"Yes",,,,,,,,
-"Doggie Dearest",81,"2020-06-25T04:00:00.000Z","212-254-3204","Shops & Services",40.724239,-73.982403,"543 E. 5th Street, New York, NY 10009","No","No",,"Pet Supplies & Grooming",,"EVCC","Called No answer 11/24/20,  pls keep trying!
-Laura walked by, looks occupied 
-",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,true,,,,,,,,,
+"Doggie Dearest",81,"2020-11-27T05:00:00.000Z","212-254-3204","Shops & Services",40.724239,-73.982403,"543 E. 5th Street, New York, NY 10009","Yes",,"WED, THU, SAT only
+","Pet Supplies & Grooming",,"EVCC","\*\*\*Called No answer 11/24/20,  pls try again Wed or Thu
+Looks occupied now, Laura accepted hours from yelp
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:00 AM",,"5:00 PM",,,,true,,,,,,,,,
 "Dua Kafe",82,"2020-11-24T05:00:00.000Z","(212) 228-1696","Restaurants",40.729702,-73.979382,"520 E. 14th Street, New York, NY 10009","Yes","Yes","SAT & SUN: 11:00 AM - 11:00 PM
 MON: Closed
 ","Cafe,Albanian",,"EVCC","Hours Confirmed by Phone 
@@ -3211,9 +3212,9 @@ MON & TUE: Closed
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "? Salon",998,"2020-11-05T00:57:00.000Z",,"Shops & Services",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009",,,,"Hair",,,"observed hair salon in former Tree Bistro space Laura check back
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,"2020-10-01",,,,
-"3rd and Bzaar",999,"2020-11-13T02:30:00.000Z",,"Retail",40.72309,-73.9834,"191 E. 3rd Street, New York, NY 10009",,,"Affordable holiday pop-up shop featuring independent merchants, makers and artists! Open through December 24
+"3rd and Bzaar",999,"2020-11-28T02:30:00.000Z",,"Retail",40.72309,-73.9834,"191 E. 3rd Street, New York, NY 10009","Yes",,"Affordable holiday pop-up shop featuring independent merchants, makers and artists! Open through December 24
 ","Fashion,Gifts & Home",,,"Nov 27 - Dec 24
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/3rdandbzaar/",,,,,,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/3rdandbzaar/",,,,,true,,,,,,,,,
 "The Boilery ",1000,"2020-11-05T03:11:00.000Z","(646) 838-5556","Restaurants",40.73118,-73.98908,"58 3rd Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: noon - 11:30 PM
 ","Seafood",,,"Website has info on EV location (not on IG)
 ","info@boilerynyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.boilerynyc.com/east-village","12:00 PM","https://www.instagram.com/boilerynyc/?hl=en","10:30 PM","Yes",,,,,,,,,,,,
@@ -3237,11 +3238,14 @@ Offering virtual performance parties
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.artsonsite.org/",,"https://www.instagram.com/artsonsite/",,,,,,,"https://charity.gofundme.com/o/en/campaign/help-arts-on-site-continue-to-support-artists?fbclid=IwAR2KXe3BL-B8Ho59tBzlkx_OR3_yJKRkAQ_podwKa8L0K82PG1Y0vswJgJc",,,,,,,
 "Otto's Tacos",1009,"2020-11-10T02:36:00.000Z",,"Restaurants",,,"141 2nd Avenue, New York, NY 10003",,,,"Mexican",,,"PERMANENTLY CLOSED. Did not reopen after closing for COVID, For Rent signs went up November 2020.  
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/p/B966vzTgr4F/",,,,,,,,"https://evgrieve.com/2020/11/the-former-ottos-tacos-space-is-for.html","2020-03-19","2013-11-01",,,,
-"Peter Jarema Funeral Home",1011,"2020-11-12T07:08:00.000Z",,"Shops & Services",,,,,,,"Notary",,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
+"Peter Jarema Funeral Home",1011,"2020-11-27T07:08:00.000Z","(212) 674-2568","Shops & Services",40.72644,-73.98389,"129 E. 7th Street, New York, NY 10009","Yes",,"By appointment
+","Notary,Funeral Home",,,"Observed open
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.jaremafuneralhome.com/index.html",,,,,,,,,,,,,,,,
 "Bar Veloce",1012,"2020-11-12T07:37:00.000Z",,"Restaurants",,,,,,,"Mediterranean",,,"no signs of life since COVID
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "Tile Bar",1013,"2020-11-17T03:51:00.000Z","(212) 254-4317","Restaurants",40.727151,-73.9858603,"115 1st Avenue, New York, NY 10003","Yes",,,"Bar",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://facebook.com/pages/Tile-Bar/115914728464273",,,,"Yes",,,,"Yes",,,,,,,,
-"Ugly Kitchen",1014,"2020-11-17T03:56:00.000Z","212 729 7181","Restaurants",40.72679,-73.98636,"103 1st Avenue, New York, NY 10003","Yes","Yes",,"Filipino",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/ugly_kitchen/",,"Yes",,,,,"https://www.gofundme.com/f/3z7d5?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all",,"2020-08-16","2011-09-16",,,,
+"Ugly Kitchen",1014,"2020-11-17T03:56:00.000Z","212 729 7181","Restaurants",40.72679,-73.98636,"103 1st Avenue, New York, NY 10003","No","No",,"Filipino",,,"Temporarily Closed. Reopening for takeout and delivery in December, Laura check back.
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/ugly_kitchen/",,,,,,,"https://www.gofundme.com/f/3z7d5?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all",,"2020-08-16","2011-09-16",,,,
 "Fish Bar",1015,"2020-11-28T00:14:00.000Z",,"Restaurants",40.72721,-73.98938,"237 E. 5th Street, New York, NY 10003","Yes",,,"Bar",,,,"bestcats99@yahoo.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/therealfishbar/",,"Yes",,,,,,,,,,,,
 "Black Ant",1016,"2020-11-28T00:19:00.000Z","(212) 598-0300","Restaurants",40.72573,-73.98932,"60 2nd Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: 11:00 AM - 11:00 PM
 MON: Closed	
@@ -3249,5 +3253,7 @@ MON: Closed
 ","info@theblackantnyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.theblackantnyc.com/","4:00 PM ","https://www.instagram.com/theblackantnyc/","11:00 PM","Yes","https://www.theblackantnyc.com/gift-cards",,,,,,,,,,,
 "Free Food Fridge + Pantry (S’Mac)",1017,"2020-11-20T04:39:00.000Z",,"Free Food",40.7300869,-73.9835335,"197 1st Avenue, New York, NY 10003","Yes",,"24/7 food pantry on the north west corner of 12th st and 1st Ave, outside of S’Mac, maintained by East Village Neighbors.
 ",,,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,"https://www.gofundme.com/f/east-village-neighborhood-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_nacp+share-sheet&rcid=dcee904fda7f410e8aa69a7920270913",,,"2020-10-15",,,,
-"Ciao Pasta",1018,," 212-358-9683","Restaurants",40.72478,-73.98109,"103 Avenue B, New York, NY 10009","Yes","Yes",,"Italian",,,"Laura check 103 or 105 Ave B
+"Ciao Pasta",1018,"2020-11-28T00:57:00.000Z"," 212-358-9683","Restaurants",40.72478,-73.98109,"103 Avenue B, New York, NY 10009","Yes","Yes",,"Italian",,,"Laura check 103 or 105 Ave B
 ","Ciaopastanyc@gmail.com ","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.ciaopastanyc.com/","3:00 PM","https://www.instagram.com/ciaopastanyc/","10:00 PM","Yes",,,,,,,,,,,,
+"Your Desire in Food 2",1019,"2020-11-28T01:27:00.000Z","(646) 559-4551","Groceries",40.72305,-73.98235,"53 Avenue B, New York, NY 10009","Yes",,,"Deli ",,,"Website is being updated, observed new name on sign
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://yourdesireinfood2.business.site/?utm_source=gmb&utm_medium=referral","6:00 AM",,"10:00 PM",,,,,,,,,"2020-09-01",,,,
