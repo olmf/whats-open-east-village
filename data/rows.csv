@@ -2381,7 +2381,7 @@ SUN: 11:00 AM to 7:00 PM
 "Fox & Jane Salon",689,"2020-07-10T02:24:00.000Z","646-688-3643","Shops & Services",40.72831,-73.98272,"277 E. 10th Street, New York, NY 10009","Yes",,,"Hair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.foxandjanesalon.com","11:00 AM","https://www.instagram.com/foxandjane/","8:00 PM",,,,,,,,,,,,,
 "Headdress Hair Salon",690,"2020-11-13T03:24:00.000Z","2​12-97​9-2199","Shops & Services",40.72873,-73.9867,"312 E. 9th Street, New York, NY 10003","Yes",,,"Hair","20% off this week if you mention EVIMA holiday crawl!
 ","EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.headdresshairsalon.com","10:00 AM","https://www.instagram.com/headdress_hairsalon/","9:00 PM",,,,,,,,,,,,,
-"Suki",691,"2020-07-10T02:43:00.000Z",,"Restaurants",40.727134,-73.986081,"111 1st Avenue, New York, NY 10003","Yes","Yes","Your favorite Japanese curry in a new location
+"Suki",691,"2020-07-10T02:43:00.000Z",,"Restaurants",40.727134,-73.986081,"111 1st Avenue, New York, NY 10003","Yes","Yes","Your favorite Japanese curry in a new location!
 ","Japanese",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM","https://www.instagram.com/sukicurry/","10:00 PM",,,,true,,,,,,,,,
 "Jenna Perry Hair",692,"2020-09-11T02:24:00.000Z","646-719-1611","Shops & Services",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009","Yes",,"SAT: 10:00 AM  - 6:00 PM
 
@@ -2434,10 +2434,11 @@ Please call for appointment.
 
 Call to double check hours.
 ","Hair",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","http://www.ruby6.com/","12:00 PM","https://www.instagram.com/by_lisaharrington/","9:00 PM",,,,,,,,,,,,,
-"Salon Pigmentos",708,"2020-07-11T21:30:00.000Z","212-260-2888","Shops & Services",40.72838,-73.97854,"199 Avenue B, New York, NY 10009","Yes",,"SAT: 9:00 AM - 6:00 PM
+"Salon Pigmentos",708,"2020-11-27T22:30:00.000Z","212-260-2888","Shops & Services",40.72897,-73.97862,"218 Avenue B, New York, NY 10009","Yes",,"SAT: 9:00 AM - 6:00 PM
 SUN: 12:00 PM - 6:00 PM
 MON: Closed
-","Hair",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","http://www.salonpigmentos.com/","11:00 AM","https://www.instagram.com/pigmentsnyc/","7:00 PM",,,,,,,,,,,,,
+","Hair",,"EVCC","Recently moved from 199 Avenue B
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.salonpigmentos.com/","11:00 AM","https://www.instagram.com/pigmentsnyc/","7:00 PM",,,,,,,,,,,,,
 "LES Community Fridge",709,"2020-07-11T22:37:00.000Z",,"Free Food",40.715307,-73.983794,"466 Grand St, New York, NY 10002","Yes",,"Open 24/7. Fresh, free food available for those in need. Check the group's [Instagram](https://www.instagram.com/les_communityfridge/) for latest updates.
 ",,,"PG",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,"https://www.instagram.com/les_communityfridge/",,,,,,,,,,,,,,
 "Shampoo Avenue B",710,"2020-07-12T14:08:00.000Z","212-777-2031","Shops & Services",40.72199,-73.98374,"14 Avenue B, New York, NY 10009","Yes",,"SAT & SUN: 11:00 AM - 9:00 PM
@@ -3287,9 +3288,11 @@ Walk-ins welcome!
 "Johanny's Unisex",1025,"2020-11-28T02:55:00.000Z",,"Shops & Services",,,"167 Avenue C, New York, NY 10009","No",,,"Hair",,,"PERMANENTLY CLOSED fall 2020		
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,"2020-11-01",,,,,
 "Half Gallery",1026,"2020-11-28T03:25:00.000Z","212-420-5912","Retail",40.72351,-73.98268,"235 E. 4th Street, New York, NY 10009","Yes",,"SUN & MON: Closed
-","Gallery",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://halfgallery.com/","12:00 PM","https://www.instagram.com/halfgallery/?hl=en","6:00 PM",,,"Yes",,,,,,"2020-03-01",,,,
+","Gallery",,,"IG is being updated
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://halfgallery.com/","12:00 PM","https://www.instagram.com/halfgallery/?hl=en","6:00 PM",,,"Yes",,,,,,"2020-03-01",,,,
 "Graveyard",1027,"2020-11-28T03:37:00.000Z","347-879-3092","Shops & Services",40.72319,-73.98394,"179 E. 3rd Street, New York, NY 10009","Yes",,"By appointment only
-","Tattoo,Piercing",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/graveyardnyc/?hl=en",,,,,,,,,,,,,,
+","Tattoo,Piercing",,,"IG is being updated
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/graveyardnyc/?hl=en",,,,,,,,,,,,,,
 "Uminoie",1028,"2020-11-28T03:45:00.000Z","(646) 654-1122","Restaurants",40.72466,-73.98825,"86 E. 3rd Street, New York, NY 10003","Yes","Yes",,"Japanese",,,"Observed open, call for hours
 ","uminoienyc@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/Uminoie-155573207813232/","5:00 PM ",,"11:00 PM",,,,true,,,,,,,,,
 "Luthun",1029,"2020-11-28T04:00:00.000Z",,"Restaurants",40.72991,-73.9819,"432 E. 13th Street, New York, NY 10009","Yes",,"TUE: Private dining only
@@ -3298,7 +3301,11 @@ SUN & MON: Closed
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.luthun.com/","5:00 PM","https://www.instagram.com/luthunnyc/?hl=en","10:00 PM","Yes",,,,"Yes",,,,,,,,
 "Free Advice ",1030,"2020-11-28T04:08:00.000Z","929-278-3391","Shops & Services",40.72872,-73.97902,"548 E. 13th Street, New York, NY 10009","Yes",,,"Hair",,,"IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/freeadvicenyc/?hl=en",,,,,true,,,,,"2017-10-18",,true,,
-"Stand Up MRI",1031,,,"Health",40.72907,-73.98164,"191 Avenue A, New York, NY 10009","Yes",,"By appointment only
-","MRI",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.standupmriofmanhattan.com/downtown/index.php",,"https://www.instagram.com/standupmrinyc/?hl=en",,,,,,,,,,,,,,
-"Radiology Medical Arts",1032,,,"Health",40.72984,-73.97985,"500 E. 14th St, New York, NY 10009","Yes",,"By appointment only
-","MRI",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
+"Stand Up MRI",1031,"2020-11-28T04:22:00.000Z","(212) 674-8300","Health",40.72907,-73.98164,"191 Avenue A, New York, NY 10009","Yes",,"By appointment only
+","MRI",,,"Website is being updated
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.standupmriofmanhattan.com/downtown/index.php",,"https://www.instagram.com/standupmrinyc/?hl=en",,,,,,,,,,,,,,
+"Radiology Medical Arts",1032,"2020-11-28T04:22:00.000Z","(212) 481-3333","Health",40.72984,-73.97985,"500 E. 14th St, New York, NY 10009","Yes",,"By appointment only
+","MRI",,,"Website is being updated
+","info@14streetmedical.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.14streetmedical.com/office-location/radiology-medicalarts",,,,,,,,,,,,,,,,
+"Here Nor There",1033,,,,,,,,,,,,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
+"Katinka",1034,,,,,,,,,,,,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
