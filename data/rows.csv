@@ -35,11 +35,13 @@ SUN: Closed
 Open on select Saturdays. 
 ","Pharmacy",,"EVCC","Hours Confirmed by Phone 
 ","No email listed online","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.vitals.com/pharmacy/3zw45m/abacus-pharmacy-new-york","9:00 AM",,"7:00 PM",,,,,,,,,,,,,
-"ABC Animal Hospital",11,"2020-11-16T05:00:00.000Z","212-358-0785","Shops & Services",40.72929737,-73.98095182,"200 Avenue A, New York, NY 10009","Yes",,"SAT - SUN : closed
+"ABC Animal Hospital",11,"2020-11-27T05:00:00.000Z","212-358-0785","Shops & Services",40.72929737,-73.98095182,"200 Avenue A, New York, NY 10009","Yes",,"THU: 9:00 AM - 2:00 PM
+SAT: call ahead
+SUN: closed
 We have adjusted our hours and implemented plans to keep everybody as safe as possible. Please call us if your pets are not feeling well and stay in touch.
 ","Veterinary Services",,"EVCC","FB & IG are being updated
 confirmed by phone call 
-","doc@abcanimalhosp.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.abcanimalhosp.com","9:00 AM","https://www.instagram.com/abcanimalhosp/","5:00 PM",,,,,"Yes",,,,,,,,
+","doc@abcanimalhosp.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.abcanimalhosp.com","9:00 AM","https://www.instagram.com/abcanimalhosp/","5:00 PM",,,,,"Yes",,,,,,,,
 "Abraco Espresso",12,"2020-11-12T05:00:00.000Z","None","Restaurants",40.727348,-73.986156,"81 E. 7th Street, New York, NY 10003","Yes","Yes","Coffee, pastries, snacks, beer, wine & cocktails.
 SUN: 9:00 AM - 7:00 PM
 MON: Closed
@@ -650,7 +652,7 @@ Dinner SUN: til 9:30 PM
 "La Palapa",164,"2020-11-24T05:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Marks Place, New York, NY 10003","Yes","Yes","
 
 ","Mexican",,"EVCC","Confirmed Hours by Phone
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.lapalapa.com","10:00 AM","https://www.instagram.com/la_palapa/","10:00 PM","Yes",,,true,,"[Fundraiser for hospital meals!](https://www.gofundme.com/f/la-palapa-meals-for-hospitals)",,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lapalapa.com","10:00 AM","https://www.instagram.com/la_palapa/","10:00 PM","Yes",,,true,,"[Fundraiser for hospital meals!](https://www.gofundme.com/f/la-palapa-meals-for-hospitals)",,,"2000-11-24",,,,
 "Ladybird",165,"2020-11-24T05:00:00.000Z","(917) 261-5524","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","Yes","Yes","SAT: 2:00 PM - 11:00 PM
 SUN: 2:00 PM - 10:00 PM
 ","Vegan",,"EVCC","Confirmed hours by Phone 			
@@ -968,8 +970,9 @@ Carries N95 masks
 SUN: noon - 6:00 PM
 ","Sake",,"EVCC","hours as per sign on door
 ","info@sakayanyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.sakayanyc.com","12:00 PM","https://www.instagram.com/sakayanyc/","6:00 PM",,,,,,,,,,,,,
-"Sake Bar Satsko",260,"2020-06-28T04:00:00.000Z","(212) 614-0933","Restaurants",40.724446,-73.980261,"202 E 7th St, New York, NY 10009","Yes","Yes",,"Japanese",,"EVCC","IG is being updated, CALL for hours
-","INFO@SATSKO.COM","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.satsko.com/about",,"https://www.instagram.com/sakebarsatsko/",,,"https://squareup.com/gift/RP824WEQ8WPTV/order",,true,,"https://www.gofundme.com/f/support-the-staff-of-sake-bar-satsko?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,,
+"Sake Bar Satsko",260,"2020-11-27T05:00:00.000Z","(212) 614-0933","Restaurants",40.724446,-73.980261,"202 E 7th St, New York, NY 10009","Yes","Yes","SAT & SUN: 1:00 PM - 10:00 PM		
+","Japanese",,"EVCC","Website is being updated
+","INFO@SATSKO.COM","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.satsko.com/about","4:00 PM","https://www.instagram.com/sakebarsatsko/","10:00 PM",,"https://squareup.com/gift/RP824WEQ8WPTV/order",,true,,"https://www.gofundme.com/f/support-the-staff-of-sake-bar-satsko?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,,
 "Saltwater Coffee",261,"2020-11-04T05:00:00.000Z","917-881-2245","Restaurants",40.730309,-73.983965,"345 E. 12th Street, New York, NY","Yes","No","SAT & SUN: 8:00 AM - 7:00 PM
 ORDER BEANS ONLINE: <https://www.saltwaternyc.com/>
 
@@ -1032,9 +1035,10 @@ SUN: Closed
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.spotdessertbar.com/delivery-options","2:00 PM","https://www.instagram.com/spotdessertbar","10:45 PM",,"https://www.toasttab.com/spotdessertbar/giftcards",,true,,,,,,,,,
 "Spot Dessert Shoppe",279,"2020-03-30T04:00:00.000Z","212-673-6745","Dessert",40.729528,-73.989262,"5 St. Mark's Place, New York, NY 10003","No","No","This location is temporarily closed		
 ","Dessert Bar",,"PG",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.spotdessertbar.com/",,"https://www.instagram.com/spotdessertbar",,,,,true,,,"https://www.spotdessertbar.com/locations",,,,,,
-"Squish Marshmallows",280,"2020-09-02T04:00:00.000Z","(646) 896-1667","Dessert",40.72690536,-73.9839589,"120 St. Mark's Place, New York, NY,10009","No","No","Store closed, online orders available!	 
-","Candy & Chocolate",,"EVCC","Phone call
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://squishmarshmallows.com/collections","N/A","https://www.instagram.com/squishmarsh/","N/A",,"https://squishmarshmallows.com/collections/gift-cards","Yes",,,,,,,,,,
+"Squish Marshmallows",280,"2020-11-27T05:00:00.000Z","(646) 896-1667","Dessert",40.72690536,-73.9839589,"120 St. Mark's Place, New York, NY 10009","Yes","No","SAT: 2:00 PM - 7:00 PM
+SUN: 2:00 PM - 6:00 PM	 
+","Candy & Chocolate",,"EVCC","IG is being updated
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://squishmarshmallows.com/collections",,"https://www.instagram.com/squishmarsh/",,,"https://squishmarshmallows.com/collections/gift-cards","Yes",,,,,,,,,,
 "St. Mark's Veterinary Hospital",281,"2020-04-04T04:00:00.000Z","212-477-2688","Shops & Services",40.72825,-73.985514,"348 E. 9th Street, New York, NY 10003","Yes",,"See website for hours: <http://stmarksvet.com/covid-19.htm>
 ","Veterinary Services",,"PL","Website is being updated with hours
 ","info@stmarksvet.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.stmarksvet.com","Varies",,"Varies",,,,,,,,,,,,,
@@ -1285,7 +1289,7 @@ SUN: Closed
 ","Jewelry,Fashion","
 ","EVCC","\*\*\*Please do not turn entries red, always check with Laura (leave AS IS to review together) 
 IG being updated, still shipping
-PERMANENTLY CLOSED. Longstanding business located at 84 E. 7th Street, New York, NY 10003
+PERMANENTLY CLOSED. Longstanding business located at 84 E. 7th Street, New York, NY 10003 moving to Charlottesville, Virginia
 ","auh2oshop@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.auh2oshop.com","1:00 PM","https://www.instagram.com/auh2oshop/","6:00 PM",,"DM @auh2oshop or email auh2oshop@gmail.com ","Yes",true,,,"https://www.instagram.com/p/CE7MFF7DMeO/","2020-10-01","2006-10-01",,,,
 "The Baroness Latex",357,"2020-11-27T05:00:00.000Z","212-529-5964","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,,"SUN & MON: Closed
 ","Fashion",,"EVCC","IG being updated, Confirmed Hours by Phone 
@@ -1721,12 +1725,12 @@ All adults and children can pick up three meals at one time. \*\*Parents/guardia
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://orderdowntownbakerycocinamexicana.com/","9:30 AM",,"9:00 PM",,,,,,,,,,,,,
 "Lovemore And Do Salon",476,"2020-07-10T04:00:00.000Z","(212) 475-4040","Shops & Services",40.72749,-73.983679,"428 E. 9th Street, New York, NY 10009","Yes",,"Closed Mondays
 ","Hair",,"EVCC",,"lovemoreanddosalon@gmail.com","Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}","http://www.lovemoreanddo.com","1:00 PM","https://www.instagram.com/lovemoreanddosalon/","9:00 PM",,"[lovemoreanddosalon@gmail.com](mailto:lovemoreanddosalon@gmail.com","Yes",true,,,,,,,,,
-"Clove Hair Salon",477,"2020-09-12T04:00:00.000Z",,"Shops & Services",40.72486,-73.98163,"102 Avenue B
-NY NY 10009","Yes",,"New Aveda Salon at the EV Parlor location! 
+"Clove Hair Salon",477,"2020-09-12T04:00:00.000Z",,"Shops & Services",40.72486,-73.98163,"102 Avenue B, New York NY 10009","Yes",,"New Aveda Salon at the EV Parlor location! 
 WED & THU: noon - 9:00 PM
 FRI: 10:00 AM - 7:00 PM
 SAT & SUN: 9:00 AM - 6:00 PM
-","Hair",,"EVCC","IG is being updated. Parlor employee opened new Aveda salon in Parlor's EV location. 
+","Hair","25% OFF Aveda Essentials through 11/30!
+","EVCC","IG is being updated. Parlor employee opened new Aveda salon in Parlor's EV location. 
 ","clovehair@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.clovehairsalon.com/",,"https://www.instagram.com/clovehairsalon/?hl=en",,,,"Yes",true,,,,,,,,,
 "Sabor A Mexico",478,"2020-08-20T01:15:00.000Z","(212) 533-4002","Restaurants",40.728546,-73.984399,"160 1st Avenue, New York, NY 10009","Yes","Yes","FRI - SUN: noon - 10:00 PM (takeout til 11:00 PM)
 \*\*They prefer orders by phone (212-533-4002)\*\*, but are available on most major apps
@@ -1943,12 +1947,12 @@ SUN: 11:00 AM - 9:00 PM
 ","orders@michaelgeorgeflowers.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.michaelgeorgeflowers.com","9:00 AM","https://www.instagram.com/michaelgeorgeflowers/","3:00 PM",,,,,,,,,,,,,
 "EV Florist Corp",544,"2020-08-18T04:00:00.000Z","(212) 387-8305","Shops & Services",40.72852154,-73.9841952,"247 E 10th St, New York, NY 10009","Yes","Yes",,"Florist",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM","https://www.instagram.com/evflorist/?hl=en","10:00 PM",,,,true,,,,,,,,,
-"Popup Florist",545,"2020-10-19T04:00:00.000Z","(917) 472-7278","Shops & Services",40.72769,-73.98685,"63 E. 7th Street, New York, NY 10003","Yes","Yes","Open Studio SAT: noon - 6:00 PM!
+"Popup Florist",545,"2020-11-27T05:00:00.000Z","(917) 472-7278","Shops & Services",40.72769,-73.98685,"63 E. 7th Street, New York, NY 10003","Yes","Yes","Open Studio SAT: noon - 6:00 PM!
 In-store pickup BY APPT for online orders, delivering to NYC and the Hamptons, shipping nationwide. 
 
-","Florist",,"EVCC","Phone call 
+","Florist",,"EVCC","IG is being updated
 
-","heyyou@thepopupflorist.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://thepopupflorist.com",,"https://www.instagram.com/popupflorist/",,,,,true,,,,,,,," in store pick up",
+","heyyou@thepopupflorist.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://thepopupflorist.com",,"https://www.instagram.com/popupflorist/",,,,,true,,,,,,,,,
 "Mayamezcal",546,"2020-08-18T04:00:00.000Z","(212) 253-5888","Restaurants",40.727058,-73.988187,"304 E 6th St, New York, NY 10003","Yes","Yes","MON: closed
 ","Mexican",,"EVCC","Phone call
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.mayamezcal.com","4:00 PM","https://www.instagram.com/maya.mezcal/","10:00 PM","Yes",,,,,,,,,,,,
@@ -2292,9 +2296,8 @@ SUN: noon - 6:00 PM
 Limited capacity, to ensure a spot: <mailto:visit@printedmatter.org>
 
 ","Books",,"EVCC",,"johanna@printedmatter.org","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.printedmatter.org/",,"https://www.instagram.com/printedmatter_stmarks/",,,,"Yes",,,,,,,,,,
-"Dinosaur Hill",659,"2020-07-02T23:23:00.000Z","212-473-5850","Retail",40.72841,-73.98748,"306 E. 9th Street, New York, NY 10003","Yes",,"TUES - SUN
-MON: Closed
-","Toys","25% off all merchandise from books to marbles, East Village T-shirts to puppets! 
+"Dinosaur Hill",659,"2020-11-28T00:23:00.000Z","212-473-5850","Retail",40.72841,-73.98748,"306 E. 9th Street, New York, NY 10003","Yes",,"Last few days! 40% OFF almost everything!
+","Toys","40% OFF ""almost"" everything!
 ","EVCC","Closing end of November, owner is retiring, Veselka taking over space
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.dinosaurhill.com/home","12:00 PM","https://www.facebook.com/Dinosaur-Hill-Toy-Store-111465288917776/","5:00 PM",,,,true,,,"https://evgrieve.com/2020/10/owners-retirement-will-bring-end-to-ev.html",,,,,,
 "Pageant Print Shop",660,"2020-08-05T23:23:00.000Z","212-674-5296","Retail",40.72686,-73.99045,"69 E. 4th Street, New York, NY 10003","Yes",,"TUES - SUN
@@ -2601,13 +2604,13 @@ SUN & MON: Closed
 "Girls Prep Elementary LES",778,"2020-08-08T18:07:00.000Z",,"Free Food",40.719891,-73.977387,"442 E Houston St, New York, NY 10002","Yes",,"[Red Rabbit](https://www.instagram.com/myredrabbit/) is distributing fresh chilled meals for all during some weeks from this location. Usually Mon-Fri from 12:15pm-12:45PM, but check their [Instagram](https://www.instagram.com/myredrabbit/) to see if they're active this week, and direct message them for more details.
 ","Meals",,"PG",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,"3:00 PM","https://www.instagram.com/myredrabbit/","5:00 PM",,,,,,,,,,,,,
 "St. Joseph House/Catholic Worker",779,"2020-08-08T18:17:00.000Z"," 212-254-1640","Free Food",40.724142,-73.990101,"36 E. 1st Street, New York, NY 10003","Yes",,"Meals distributed from 9:30AM every day until they run out. Closed Saturdays.
-","Meals",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:30 AM",,,,,,,,,"phone",,,,,,
+","Meals",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:30 AM",,,,,,,,,,,,,,,
 "Lhasa",780,"2020-08-10T02:13:00.000Z",,"Restaurants",40.72934,-73.984247,"177 1st Avenue, New York, NY ,10003","Yes",,"FRI & SUN - 11:00PM
 New restaurant with cute outdoor space directly underneath the mural & right next to Venieros!
 
 ","Tibetan",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:00 AM",,"10:00 PM","Yes",,,true,,,,,,,,,
 "Maryhouse ",781,"2020-08-08T18:46:00.000Z","212-777-9617","Free Food",40.72539,-73.989186,"55 E. 3rd Street, New York, NY 10003","Yes",,"**WOMEN ONLY**. Bag of lunch served at the door on Tues-Fri from 12pm-2pm. Showers and clothes available as well.
-","Meals",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM",,"2:00 PM",,,,,,,"phone",,,,,,
+","Meals",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM",,"2:00 PM",,,,,,,,,,,,,
 "Interfaith Community Services",782,"2020-08-08T18:54:00.000Z","212-473-3558","Free Food",40.726081,-73.983501,"Corner of 7th and Avenue A","Yes",,"Mon, Wed, and Fri at 9:30AM
 ","Meals",,"PG",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","http://www.interfaithnyc.com",,,,,,,,,,,,,,,,
 "Perfection Cuts",786,"2020-08-11T23:08:00.000Z","(212) 777-7055","Shops & Services",40.72324,-73.97979,"77 Avenue C, New York, NY 10009","Yes",,"MON: Closed
@@ -2620,9 +2623,10 @@ SUN: 11:00 AM - 6:00 PM
 SAT: Closed
 SUN: 10:00 AM - 5:00 PM
 ","Shoe Repair",,"EVCC",,,"Opened","{""id"":""usrZaKyk2xpLBd2gb"",""email"":""stephlbenjamin@gmail.com"",""name"":""Stephanie Benjamin""}",,"8:30 AM",,"7:00 PM",,,,,,,,,,,,,
-"Mace Bar",789,"2020-08-12T00:09:00.000Z","(347) 866-7739","Restaurants",40.72903,-73.98083,"505 E. 12th St, New York, NY 10009","Yes",,"MON & TUES: Closed
+"Mace Bar",789,"2020-08-12T00:09:00.000Z","(347) 866-7739","Restaurants",40.72903,-73.98083,"505 E. 12th St, New York, NY 10009","No",,"MON & TUES: Closed
 
-","Bar",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.macenewyork.com/","4:00 PM","https://www.instagram.com/macebarnyc/","10:00 PM",,,,,,,,,,,,,
+","Bar",,"EVCC","PERMANENTLY CLOSED. Observed AKSR For Lease sign Nov 2020		
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.macenewyork.com/","4:00 PM","https://www.instagram.com/macebarnyc/","10:00 PM",,,,,,,"https://evgrieve.com/search?q=mace+",,,,,,
 "Yuca Bar",790,"2020-08-12T00:50:00.000Z"," (212) 982-9533","Restaurants",40.72627,-73.98376,"111 Avenue A, New York, NY 10009","Yes",,"THU: 11:00 AM - 12:00 AM
 FRI: 11:00 AM - 2:00 AM
 SAT: 10:00 AM - 2:00 PM
@@ -2830,7 +2834,8 @@ Shipping nationwide!
 
 ","Jewish",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://shop.russanddaughters.com","9:00 AM","https://www.instagram.com/russanddaughters/?hl=en","4:00 PM","Yes","giftcards@russanddaughters.com","Yes",,,"https://russanddaughters.goldbelly.com/russ-and-daughters-jake-gyllenhaal-t-shirt-collaboration-to-save-restaurants?ref=collection",,,,,,,
 "Ace of Cuts",852,"2020-09-07T04:49:00.000Z","(646) 707-3507","Shops & Services",40.724838,-73.983063,"518 E. 6th Street, New York, NY 10009","Yes",,,"Hair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/aceofcutsbarbershop/?hl=en",,,,,,,,,,,,,,
-"Friend of a Barber",853,"2020-09-07T04:55:00.000Z",,"Shops & Services",40.724838,-73.983063,"126 E. 4th Street, New York, NY 10003","Yes",,,"Hair",,"EVCC",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://friendofabarbernyc.com",,"https://www.instagram.com/friendofabarbernyc/?hl=en",,,,,,,,,,,,,,
+"Friend of a Barber",853,"2020-11-27T05:55:00.000Z",,"Shops & Services",40.724838,-73.983063,"126 E. 4th Street, New York, NY 10003","Yes",,,"Hair",,"EVCC","IG is being updated, call for hours
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://friendofabarbernyc.com",,"https://www.instagram.com/friendofabarbernyc/?hl=en",,,,,,,,,,,,,,
 "Himalayan Vision",854,"2020-09-07T05:09:00.000Z","212-254-1952","Retail",40.72849,-73.98815,"127 2nd Avenue, New York, NY 10003","Yes",,,"Fashion",,"EVCC","Hours as per sign on door
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"1:00 PM","https://www.instagram.com/himalayan_vision/?hl=en","8:00 PM",,,,,,,,,,,,,
 "Local 92",855,"2020-09-07T05:20:00.000Z","212-432-2232","Restaurants",40.72691,-73.9885,"92 Second Avenue, New York, NY 10003","Yes",,,"Bar",,"EVCC","IG is being updated
@@ -3188,8 +3193,9 @@ On the second floor, above Duals
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "The Braised Shop",986,"2020-10-30T00:53:00.000Z","(646) 863-3200","Restaurants",40.72901,-73.9847,"241 E. 10th Street, New York, NY 10003","Yes","Yes","FRI - SUN only 
 ","Taiwanese",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM","https://www.instagram.com/thebraisedshop/","9:00 PM",,,,true,,,,,"2018-08-11",,,,
-"The March Hare",987,"2020-10-30T01:22:00.000Z","646 422 7747","Retail",40.728859,-73.986076,"321 E. 9th Street. New York, NY 10003",,,,"Toys",,,"Opening soon: Karen McDermott carrying on the Dinosaur Hill legacy at a new shop on the block
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"10:00 AM","https://www.instagram.com/themarchharenyc/?hl=en","7:00 PM",,,,true,,,"https://evgrieve.com/2020/10/after-dinosaur-hill-march-hare-is-new.html",,,,,,
+"The March Hare",987,"2020-10-30T01:22:00.000Z","646 422 7747","Retail",40.728859,-73.986076,"321 E. 9th Street, New York, NY 10003","Yes",,"Carrying on the Dinosaur Hill legacy!
+","Toys",,,"Karen McDermott carrying on the Dinosaur Hill legacy at a new shop on the block
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"11:00 AM","https://www.instagram.com/themarchharenyc/?hl=en","6:00 PM",,,,true,,,"https://evgrieve.com/2020/10/after-dinosaur-hill-march-hare-is-new.html",,"2020-11-23",,,,
 "The Listening Body",988,"2020-10-30T23:15:00.000Z","(212) 254-3347","Health",40.73066,-73.98479,"325 E. 12th Street, New York, NY 10003","Yes",,"By appointment or weekly online classes
 ","Alexander Technique","Free COVID recovery class!! 4PM MON NOV 2
 ",,"IG is being updated
@@ -3240,8 +3246,8 @@ MON & TUE: Closed
 Offering virtual performance parties
 ",,,,"Not sure how the indoor performance series is in compliance with Covid regs? will appear at CB 3 Arts & Culture in December with info. 
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.artsonsite.org/",,"https://www.instagram.com/artsonsite/",,,,,,,"https://charity.gofundme.com/o/en/campaign/help-arts-on-site-continue-to-support-artists?fbclid=IwAR2KXe3BL-B8Ho59tBzlkx_OR3_yJKRkAQ_podwKa8L0K82PG1Y0vswJgJc",,,,,,,
-"Otto's Tacos",1009,"2020-11-10T02:36:00.000Z",,"Restaurants",,,"141 2nd Avenue, New York, NY 10003",,,,"Mexican",,,"PERMANENTLY CLOSED. Did not reopen after closing for COVID, For Rent signs went up November 2020.  
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/p/B966vzTgr4F/",,,,,,,,"https://evgrieve.com/2020/11/the-former-ottos-tacos-space-is-for.html","2020-03-19","2013-11-01",,,,
+"Otto's Tacos",1009,"2020-11-10T02:36:00.000Z",,"Restaurants",,,"141 2nd Avenue, New York, NY 10003","No",,,"Mexican",,,"PERMANENTLY CLOSED. Did not reopen after closing for COVID, For Rent signs went up November 2020.  
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/p/B966vzTgr4F/",,,,,,,,"https://evgrieve.com/2020/11/the-former-ottos-tacos-space-is-for.html","2020-03-19","2013-11-01",,,,
 "Peter Jarema Funeral Home",1011,"2020-11-27T07:08:00.000Z","(212) 674-2568","Shops & Services",40.72644,-73.98389,"129 E. 7th Street, New York, NY 10009","Yes",,"By appointment
 ","Notary,Funeral Home",,,"Observed open
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.jaremafuneralhome.com/index.html",,,,,,,,,,,,,,,,
@@ -3269,3 +3275,12 @@ SUN: 10:00 AM - 6:00 PM
 Walk-ins welcome!
 ","Hair",,,"IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.bens-barbers.com/","10:00 AM","https://www.instagram.com/bensbarbers/","8:00 PM",,,,,,,,,,,,,
+"Uluh",1022,"2020-11-28T02:28:00.000Z","(917) 261-5963","Restaurants",40.72935,-73.98667,"152 2nd Avenue, New York, NY 10003","Yes","Yes",,"Chinese",,,"IG is being updated	
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM","https://www.instagram.com/uluh.ny/","10:00 PM","Yes",,,true,,,,,,,,,
+"The Butterfly Club",1023,"2020-11-28T02:39:00.000Z","(347) 844-2487","Retail",40.7273,-73.98334,"436 E 9th Street, New York, NY 10009","Yes",,,"Fashion",,,"IG is being updated	
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/thebutterflyclub.co/?hl=en",,,,,true,,,,,"2020-07-04",,,,
+"Bonaparte's Consignment",1024,"2020-11-28T02:51:00.000Z",,"Retail",,,"624 E. 9th Street, New York, NY 10009","No",,,"Vintage",,,"PERMANENTLY CLOSED spring 2020		
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/bonapartesluxury/?hl=en",,,,,,,,,"2020-06-01","2018-06-03",,,,
+"Johanny's Unisex",1025,"2020-11-28T02:55:00.000Z",,"Shops & Services",,,"167 Avenue C, New York, NY 10009","No",,,"Hair",,,"PERMANENTLY CLOSED fall 2020		
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,"2020-11-01",,,,,
+,1026,,,,,,,,,,,,,,,"Unknown",,,,,,,,,,,,,,,,,,
