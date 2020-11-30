@@ -675,9 +675,9 @@ Phone call
 MON: Closed
 ","Cafe",,"EVCC","IG is being updated, Confirmed hours by phone 	
 ","lefournil96@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.lefournilnyc.com","8:30 AM","https://www.instagram.com/lefournilnyc/?hl=en","7:30 PM",,,,,,,,,,,,,
-"Le Petit Parisien",170,"2020-11-24T05:00:00.000Z","(917) 262-0406","Restaurants",40.728288,-73.989098,"32 E. 7th Street, New York, NY 10003","Yes","Yes","SAT & SUN: 9:00 AM - 6:00 PM
-","Cafe",,"EVCC","\*\*\*call to confirm hours (did not pick up call), website is being updated
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.lepetitparisienusa.com/","8:30 AM","https://www.instagram.com/lepetitparisiennyc/","6:30 PM",,,,,,,,,,,true,,
+"Le Petit Parisien",170,"2020-11-30T05:00:00.000Z","(917) 262-0406","Restaurants",40.728288,-73.989098,"32 E. 7th Street, New York, NY 10003","Yes","Yes","
+","Cafe",,"EVCC","Confirmed hours by phone, website is being updated
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://www.lepetitparisienusa.com/","8:30 AM","https://www.instagram.com/lepetitparisiennyc/","5:00 PM",,,,,,,,,,,true,,
 "Le Sia",171,"2020-07-29T04:00:00.000Z","646-370-6423","Restaurants",40.72893,-73.98977,"11 E 7th St, New York, NY 10003","No","No","EV location PERMANENTLY CLOSED. 	
 
 ","Chinese",,"EVCC","PERMANENTLY CLOSED July 2020. Opened January 2018. Home of Surma Books and Music for 98 years until 2016 when family sold to Icon Realty. 
@@ -734,8 +734,8 @@ SUN: 11:00Am - 10:00 PM
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"12:00 PM ",,"8:00 PM",,,,,,,,,,,,,
 "Mayanoki",188,"2020-11-09T05:00:00.000Z",,"Restaurants",40.723965,-73.980829,"620 E 6th Street, New York, NY 10009",,,,"Japanese",,"PL","Mayanoki owner TJ Provenzano had taken over Grape & Grain in the eastern storefront in June 2018. Mayanoki pop-up closed August 22.  Usumoya Tavern application on 11/16 CB 3 SLA agenda (transfer from Mayanoki).
 ","info@mayanoki.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://mayanoki.com/",,"https://www.instagram.com/mayanoki/",,,,,,,,,,,,,,
-"Medilane Drugs",189,"2020-09-12T04:00:00.000Z","212-505-1788","Health",40.729158,-73.978012,"227 Avenue B, New York, NY 10009",,,,"Pharmacy",,"PL","\*\*\*Call Monday or Laura check
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
+"Medilane Drugs",189,"2020-11-30T05:00:00.000Z","212-505-1788","Health",40.729158,-73.978012,"227 Avenue B, New York, NY 10009","Yes",,,"Pharmacy",,"PL","LAURA CHECK (turned from black to green), Called to confirm hours
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"10:00 AM",,"6:00 PM",,,,,,,,,,,,,
 "Michael Chang, DDS",190,"2020-06-25T04:00:00.000Z","212-677-2640","Health",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003",,,,"Dental",,"EVCC","\*\*\*Call monday or Laura email dentist
 ","drmchang@drmichaelchang.com","Unknown","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.drmichaelchang.com/",,,,,,,true,,,,,,,,,
 "Michelle Cleaners",191,"2020-11-24T05:00:00.000Z","(212) 982-8021","Laundry",40.727149,-73.979412,"169 Avenue C, New York, NY 10009","Yes","Yes","SUN: Closed
@@ -1288,57 +1288,64 @@ SUN: noon -  8:30PM
 SUN: Closed 
 ","Appliances",,"EVCC","IG being updated, Confirmed Hours by Phone 
 ","Kminauro@gringerandsons.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.gringerandsons.com/","8:30 AM","https://www.instagram.com/gringerandsons/","5:30 PM",,,"Yes",,,,,,,,,,
-"Auh2o",356,"2020-11-27T05:00:00.000Z","(212) 466-0844","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","No","No","Look for us at [3rd and Bzaar](https://www.instagram.com/3rdandbzaar/) through December 24!  EV shop is closed, but we're still offering [online shopping](https://www.auh2oshop.com/)!
+"Auh2o",356,"2020-11-30T05:00:00.000Z","(212) 466-0844","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","No","No","Look for us at [3rd and Bzaar](https://www.instagram.com/3rdandbzaar/) through December 24!  EV shop is closed, but we're still offering [online shopping](https://www.auh2oshop.com/)!
 
 ","Jewelry,Fashion","
-","EVCC","\*\*\*Please do not turn entries red, always check with Laura (leave AS IS to review together) 
-IG being updated, still shipping
+","EVCC"," IG being updated, still shipping
 PERMANENTLY CLOSED. Longstanding business located at 84 E. 7th Street, New York, NY 10003 moving to Charlottesville, Virginia
-","auh2oshop@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.auh2oshop.com","1:00 PM","https://www.instagram.com/auh2oshop/","6:00 PM",,"DM @auh2oshop or email auh2oshop@gmail.com ","Yes",true,,,"https://www.instagram.com/p/CE7MFF7DMeO/","2020-10-01","2006-10-01",,,,
-"The Baroness Latex",357,"2020-11-27T05:00:00.000Z","212-529-5964","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,,"SUN & MON: Closed
+","auh2oshop@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.auh2oshop.com","1:00 PM","https://www.instagram.com/auh2oshop/","6:00 PM",,"DM @auh2oshop or email auh2oshop@gmail.com ","Yes",true,,,"https://www.instagram.com/p/CE7MFF7DMeO/","2020-10-01","2006-10-01",,,,
+"The Baroness Latex",357,"2020-11-30T05:00:00.000Z","212-529-5964","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,,"SUN & MON: Closed
 ","Fashion",,"EVCC","Website doesn’t work, Confirmed Hours by Phone 
 ","Baroness@Baroness.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.baroness.com","2:00 PM ","https://www.instagram.com/latexbaroness/","7:00 PM",,"https://store.baroness.com/giftcertificates.php","Yes",true,,,,,,,,,
 "Maiden Lane",358,"2020-11-27T05:00:00.000Z","646-755-8911","Restaurants",40.726002,-73.980642,"162 Avenue B, New York, NY 10009","Yes","Yes","
 ","American",,"EVCC","No response for Call
 ","gareth@themaidenlane.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.themaidenlane.com",,"https://instagram.com/themaidenlane?igshid=kh44ev7f64ra","11:00 PM","Yes",,,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,,,
-"Fragrance Shop New York",359,"2020-11-27T05:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003","Yes",,"MON - THU: Retail Sales
+"Fragrance Shop New York",359,"2020-11-30T05:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003","Yes",,"MON - THU: Retail Sales
 FRI:  ONLY by Appt for Custom Fragrance, 20% deposit required. 
-","Custom Perfume",,"EVCC","IG being updated, No response for Call
+","Custom Perfume",,"EVCC","IG being updated, Confirmed Hours by Phone 
 ","fsny92@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.fragranceshopnewyork.com","11:00 AM","https://www.instagram.com/fragranceshop_ny/","6:00 PM",,,"Yes",true,,,,,,,,,
-"Elliot Mann",360,"2020-11-27T05:00:00.000Z","212-260-9181","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","Yes",,"In-store: noon - 5:00 PM, online orders always!
+"Elliot Mann",360,"2020-11-30T05:00:00.000Z","212-260-9181","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","Yes",,"In-store: noon - 5:00 PM, online orders always!
 ","Fashion","
 ","EVCC","IG being updated, Invalid number 212-260-0658 found on website also invalid 
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://elliotmann.com","12:00 PM","https://www.instagram.com/elliotmannnyc/","5:00 PM",,"https://elliotmann.com/collections/gift-cards","Yes",true,,,,,,,,,
+","info@elliotmann.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://elliotmann.com","12:00 PM","https://www.instagram.com/elliotmannnyc/","5:00 PM",,"https://elliotmann.com/collections/gift-cards","Yes",true,,,,,,,,,
 "7B Horseshoe Bar (Vazacs)",361,"2020-11-27T05:00:00.000Z","212-677-6742","Restaurants",40.725013,-73.981392,"108 Avenue B, New York, NY 10009","Yes",,,"Bar",,"EVCC","IG is being updated, Confirmed hours by Phone
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"12:00 PM","https://www.instagram.com/7bhorseshoebar/","10:00 PM","Yes",,,,"Yes",,,,,,,,
-"The Pilates Nook",362,"2020-11-27T05:00:00.000Z",,"Health",40.729275,-73.981531,"441 E. 12th Street, New York, NY 10009","Yes",,"Private virtual or in studio sessions!
-","Pilates",,"EVCC","ig being updated
-","info@thepilatesnooknyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://thepilatesnooknyc.com/",,"https://www.instagram.com/thepilatesnooknyc/",,,,"Yes",true,,,,,,,,,
-"CHKA Chinese Hawaiian Kenpo Academy",363,"2020-11-28T01:30:00.000Z","(646) 692-6155","Health",40.728146,-73.987782,"122 2nd Avenue, New York, NY 10003","Yes",,"Follow IG for free classes in Tompkins Square Park! Online classes always.
-	
+"The Pilates Nook",362,"2020-11-27T05:00:00.000Z","(347)-673-3401","Health",40.729275,-73.981531,"441 E. 12th Street, New York, NY 10009","Yes",,"Private virtual or in studio sessions!
+","Pilates",,"EVCC","IG being updated
+","info@thepilatesnooknyc.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://thepilatesnooknyc.com/",,"https://www.instagram.com/thepilatesnooknyc/",,,,"Yes",true,,,,,,,,,
+"CHKA Chinese Hawaiian Kenpo Academy",363,"2020-12-01T01:30:00.000Z","(646) 692-6155","Health",40.728146,-73.987782,"122 2nd Avenue, New York, NY 10003","Yes",,"Classes will be held at:
+638 E. 6th Street, New York, NY 10003
+All Classes will be held on Zoom!
+### 
+
 ","Martial Arts","[$19 online trial classes ](https://www.instagram.com/p/CClVCI-JMAV/)OR [$199 two months kenpo & kickboxing!](https://www.instagram.com/p/CClVCI-JMAV/)
 ","EVCC","IG is being updated
-","hello@chka.org","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.chka.org",,"https://www.instagram.com/chkanyc/",,,,"Yes",true,,,,,,,,,
+","hello@chka.org","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.chka.org","10:00 AM","https://www.instagram.com/chkanyc/","9:00 PM",,,"Yes",true,,,,,,,,,
 "Illumina East",364,"2020-11-09T05:00:00.000Z","(646) 851-0355","Health",40.724713,-73.981723,"96 Avenue B, New York, NY 10009",,,"The studio is closed. Check out online classes and daily offerings on Instagram! 
 ","Yoga",,"EVCC","\*\*\*PERMANENTLY CLOSED July 2020. Opened September 2018,
 
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://illuminaeast.com",,,,,,"Yes",,,,"https://evgrieve.com/2020/07/bad-karma-illumina-east-closes-on.html",,,,,,
-"Three Jewels",365,"2020-11-27T05:00:00.000Z","(646) 851-0355","Health",40.726324,-73.991123,"5 E 3rd Sreet, New York, NY 10003",,,"livestream and online classes
-","Yoga",,"EVCC",,,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.threejewels.org",,"https://www.instagram.com/threejewelsnyc/",,,,"Yes",,,"https://www.threejewels.org/the-emergency-jewel-fund",,,,,,,
-"Up and Up Laundromat",366,"2020-04-10T04:00:00.000Z","(212) 598-1800","Laundry",40.722738,-73.986242,"13 Avenue A, New York, NY 10009","No",,,"Laundromat",,"PG",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
-"Liox Cleaners & Laundry",367,"2020-11-27T05:00:00.000Z","(212) 203-6624","Laundry",40.719828,-73.990347,"123 Allen Street, New York, NY 10002","No","Yes","Storefront closed. Offering door-to-door dry cleaning and wash-and-fold service. Typically 3 day turnaround. Schedule pickup through WEBSITE ONLY or through info@lioxcleaners.com
-","Cleaners",,"PG","website being updated
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://lioxcleaners.com","8:00 AM",,"8:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
-"Ms. Bubble Laundromat",368,"2020-11-27T05:00:00.000Z","(212) 475-0110","Laundry",40.718647,-73.982988," 202 Rivington St, New York, NY 10002","Yes","Yes","
-","Laundromat",,"EVCC","confirmed hours by calling
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.missbubblelaundromat.com/202-rivington-st","8:00 AM",,"8:00 PM",,,,true,,,,,,,,,
-"Green Gate Cleaners",369,"2020-11-27T05:00:00.000Z","(212) 228-6422","Laundry",40.721878,-73.988564,"179 Orchard Street, New York, NY 10002","No",,"Closed indefinitely
-","Cleaners",,"PG","called for hours - number not in service
-",,"Closed","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,,,,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
-"The Laundry Room of Essex",370,"2020-04-10T04:00:00.000Z","(212) 475-0070","Laundry",40.719495,-73.986433,"121 Rivington Street, New York, NY 10002","Yes",,"Drop off only. Did not answer over phone, but listed on [BoweryBoogie Article](https://www.boweryboogie.com/2020/04/laundromats-open-on-the-lower-east-side/)
-","Laundromat",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:00 AM",,"5:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://illuminayoga.com",,"https://www.instagram.com/illumina-yoga/",,,,"Yes",,,,"https://evgrieve.com/2020/07/bad-karma-illumina-east-closes-on.html",,,,,,
+"Three Jewels",365,"2020-11-30T05:00:00.000Z","(646) 964-5736","Health",40.726324,-73.991123,"5 E 3rd Sreet, New York, NY 10003",,,"livestream and online classes
+","Yoga",,"EVCC","Update Phone Number, Confirmed Hours by Phone 	
+","info@threejewels.org","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.threejewels.org","10:00 AM","https://www.instagram.com/threejewelsnyc/","4:00 PM ",,,"Yes",,,"https://www.threejewels.org/the-emergency-jewel-fund",,,,,,,
+"Up and Up Laundromat",366,"2020-11-30T05:00:00.000Z","(212) 598-1800","Laundry",40.722738,-73.986242,"13 Avenue A, New York, NY 10009","Yes",,,"Laundromat",,"PG","Confirmed Hours by Phone 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"7:00 AM",,"7:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
+"Liox Cleaners & Laundry",367,"2020-11-30T05:00:00.000Z","(212) 203-6624","Laundry",40.719828,-73.990347,"123 Allen Street, New York, NY 10002","No","Yes","SUN: Closed
+","Cleaners",,"PG","website being updated, Confirmed Hours by Phone 		
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://lioxcleaners.com","8:00 AM",,"7:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
+"Ms. Bubble Laundromat",368,"2020-11-30T05:00:00.000Z","(212) 475-0110","Laundry",40.718647,-73.982988," 202 Rivington Street, New York, NY 10002","Yes","Yes","
+","Laundromat",,"EVCC","Confirmed Hours by Phone
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://www.missbubblelaundromat.com/202-rivington-st","8:00 AM",,"8:00 PM",,,,true,,,,,,,,,
+"Green Gate Cleaners",369,"2020-11-30T05:00:00.000Z","(917) 639-3505","Laundry",40.721878,-73.988564,"179 Orchard Street, New York, NY 10002","Yes",,"SAT: 9:00 AM - 5:00 PM
+SUN: Closed 
+","Cleaners",,"PG","Updated Number, Confirmed Hours by Phone 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"9:00 AM",,"6:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
+"The Laundry Room of Essex",370,"2020-11-30T05:00:00.000Z","(212) 475-0070","Laundry",40.719495,-73.986433,"121 Rivington Street, New York, NY 10002","Yes",,"Drop off only
+","Laundromat",,"PG","Confirmed Hours by Phone 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"8:00 AM",,"7:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
 "Tian Tian Laundromat",371,"2020-04-10T04:00:00.000Z","(212) 475-0868","Laundry",40.720302,-73.990106,"137 Allen Street, New York, NY 10002","No",,"Closed until 4/31
-","Laundromat",,"PG",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
+","Laundromat",,"PG","Non working number 
+",,"Closed","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"8:00 AM",,"9:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
 "1st Ave Laundry Center",372,"2020-09-16T04:00:00.000Z",,"Laundry",40.724099,-73.98808,"33 1st Avenue,  New York, NY 10003","Yes",,"Self-service only
 ","Laundromat",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"7:00 AM",,"10:00 PM",,,,,,,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]",,,,,,
 "Quick Coin One Laundromat",373,"2020-11-27T05:00:00.000Z","(212) 982-1575","Laundry",40.729323,-73.984377,"175 1st Avenue, New York, NY 10003","Yes","Yes","Last wash 8:30 PM 			
@@ -1355,11 +1362,11 @@ open everyday at noon
 ","Gifts & Home,Jewelry,Childrens","
 ","EVCC","
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://randomaccessoriesnyc.com","12:00 PM","https://www.instagram.com/randomaccessoriesny/","7:00 PM",,"https://randomaccessoriesnyc.com/collections/gift-certificate/Gift-card","Yes",true,,,,,,,,,
-"Whole Foods (Bowery)",376,"2020-04-10T04:00:00.000Z","(212) 420-1320","Groceries",40.72381,-73.992384,"95 E Houston St, New York, NY 10002","Yes","Yes","Senior Hours: 7am-8am every day
+"Whole Foods (Bowery)",376,"2020-04-10T04:00:00.000Z","(212) 420-1320","Groceries",40.72381,-73.992384,"95 E Houston Street, New York, NY 10002","Yes","Yes","Senior Hours: 7am-8am every day
 
 Sunday only: 9:00 AM - 6:00 PM
 ","Supermarket",,"PL","Website is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0417724","8:00 AM",,"7:00 PM",,,,,,,,,,,,"7am-8am every day",
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0417724","8:00 AM",,"7:00 PM",,,,,,,,,,,,"7am-8am every day",
 "Whole Foods (Union Square)",377,"2020-04-10T04:00:00.000Z","(212) 673-5388","Groceries",40.734793,-73.991359,"4 Union Sq East, New York, NY 10003","Yes","Yes","Senior Hours: 7am-8am every day
 
 Sunday only: 9:00 AM - 6:00 PM
@@ -2247,7 +2254,7 @@ Food Pantry M-F: 12:30 PM - 1:30 PM
 "Idlewild Coffee",632,"2020-08-06T15:12:00.000Z",,"Restaurants",40.72662,-73.98886,"300 E. 5th Street, New York, NY 10003","No",,"				
 ","Cafe",,"PG","PERMANENTLY CLOSED August 2020. Opened June 2020. 9th Pct barricaded block. 
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.idlewildcoffeeco.com","7:30 AM","https://www.instagram.com/idlewildcoffeeco/?hl=en","3:30 PM",,,,,,,"https://evgrieve.com/2020/08/new-5th-street-coffee-shop-closes-in.html","2020-07-31","2020-06-15",,,,
-"Juicy Lucy",633,"2020-08-19T04:00:00.000Z","(212) 777-5829","Restaurants",40.72349,-73.988675,"72 E 1st St, New York, NY 10003","Yes","Yes","**Closed Tuesdays + Wednesdays**
+"Juicy Lucy",633,"2020-08-19T04:00:00.000Z","(212) 777-5829","Restaurants",40.72349,-73.988675,"72 E 1st St, New York, NY 10003","Yes","Yes","Closed Tuesdays + Wednesdays
 ","Juice Bar",,"PG","IG is being updated
 ","juicylucy@gogosurfer.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"10:00 AM","https://www.instagram.com/juicylucyjuicebar/","6:00 PM",,,,true,,,,,,,,,
 "Bar Verde",634,"2020-08-20T01:27:00.000Z","(212) 777-6965","Restaurants",40.7260633,-73.9897589,"65 2nd Avenue, New York, NY 10003","Yes","Yes","THU - SUN: noon - 11:00 PM
