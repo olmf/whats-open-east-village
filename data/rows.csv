@@ -736,8 +736,8 @@ SUN: 11:00Am - 10:00 PM
 ","info@mayanoki.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://mayanoki.com/",,"https://www.instagram.com/mayanoki/",,,,,,,,,,,,,,
 "Medilane Drugs",189,"2020-11-30T05:00:00.000Z","212-505-1788","Health",40.729158,-73.978012,"227 Avenue B, New York, NY 10009","Yes",,,"Pharmacy",,"PL","LAURA CHECK (turned from black to green), Called to confirm hours
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"10:00 AM",,"6:00 PM",,,,,,,,,,,,,
-"Michael Chang, DDS",190,"2020-06-25T04:00:00.000Z","212-677-2640","Health",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003",,,,"Dental",,"EVCC","\*\*\*Number not in service, Laura email dentist
-","drmchang@drmichaelchang.com","Unknown","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.drmichaelchang.com/",,,,,,,true,,,,,,,,,
+"Michael Chang, DDS",190,"2020-06-25T04:00:00.000Z","(212) 460-8266","Health",40.730663,-73.985828,"184 2nd Avenue, New York, NY 10003",,,,"Dental",,"EVCC","\*\*\*Laura email dentist, Updated (212) 677-2640 (not in service) to (212) 460-8266 (from website) did not pick up
+","drmchang@drmichaelchang.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.drmichaelchang.com/",,,,,,,true,,,,,,,,,
 "Michelle Cleaners",191,"2020-11-24T05:00:00.000Z","(212) 982-8021","Laundry",40.727149,-73.979412,"169 Avenue C, New York, NY 10009","Yes","Yes","SUN: Closed
 Drop-off service, dry cleaning and tailoring.
 ","Laundromat",,"EVCC","Confirmed Hours by Phone
@@ -765,9 +765,9 @@ SUN: 1:00 PM - 10:00 PM
 ","Ice Cream",,"EVCC","IG is being updated
 ","mimi@mochiinyc.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","www.mochiinyc.com","2:00 PM ","https://www.instagram.com/mochiinyc/","10:00 PM",,,,true,,"https://www.gofundme.com/f/mochii-fundraiser",,,,,,,
 "Möge Tee",197,"2020-03-31T04:00:00.000Z","917-675-7697","Restaurants",40.729067,-73.989896,"69 Cooper Square, New York, NY 10003","Yes","Yes",,"Bubble Tea","10% off next order by following and[ tagging us!](https://www.instagram.com/mogetee_eastvillage/)
-","PL","\*\*\*did not pick up (called mon, tues, thurs), need to call for conflicting hours found online and add correct  number to AirTable
+","PL","\*\*\*Laura checdid not pick up (called mon, tues, thurs), need to call for conflicting hours found online and add correct  number to AirTable
  (929) 380 - 7777
-","lin@mogeteeusa.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://mogeteeusa.com/",,"https://www.instagram.com/mogetee_eastvillage/",,,,,true,,,,,,,,,
+","lin@mogeteeusa.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://mogeteeusa.com/",,"https://www.instagram.com/mogetee_eastvillage/",,,,,true,,,,,,,,,
 "Mokyo",198,"2020-11-25T05:00:00.000Z","646-755-8088","Restaurants",40.72722,-73.983876,"109 St. Marks Place, New York, NY 10009","Yes","Yes","Sister restaurant of Thursday Kitchen
 ","Asian",,"EVCC","IG is being updated
 ","infomokyo@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.mokyony.com/","4:30 PM","https://www.instagram.com/mokyonyc/","9:00 PM","Yes",,,true,"Yes",,,,,,,,
@@ -858,61 +858,63 @@ FRI - SUN 12:00 PM - 11:59 PM
 MON: closed 
 ","French",,"PL","IG is being updated, Hours confirmed by phone 
 ","info@pmf.nyc","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.pmfnyc.com/","6:00 PM","https://www.instagram.com/pmf_nyc/","11:00 PM",,,,,,"https://www.gofundme.com/f/qrasd-pardon-my-french?utm_source=customer&utm_medium=sms&utm_campaign=p_cf+share-flow-1&fbclid=IwAR2cwjDMfn27jM6EjX9uxKfWPIHR9B8ZMdUjuvse-hvmBusvilh1tUCUPCY",,,,,,,
-"Paul's Da Burger Joint",224,"2020-08-11T04:00:00.000Z","212-529-3033","Restaurants",40.728595,-73.988057,"131 2nd Avenue, New York, NY 10003","Yes","Yes","Available on Grubhub/Seamless + Doordash, but prefer order via [Paul's website](http://paulsburgersnyc.com)
-","American",,"EVCC","Phone call
-","info@paulsburgersnyc.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://paulsburgersnyc.com","11:00 AM","https://www.instagram.com/paulsdaburgerjoint/","10:30 PM","Yes","https://cardmall.quickgifts.com/gift-card/pauls-da-burger-joint?utm_source=helpmainstreet.com&utm_medium=referral&utm_campaign=Help%20Main%20Street&utm_term=Paul%27s%20Da%20Burger%20Joint",,,,,,,,,,,
-"Paws & Relax",225,"2020-09-12T04:00:00.000Z","212-979-7297","Shops & Services",40.729028,-73.978544,"220 Avenue B, New York, NY 10009",,,,"Pet Supplies & Grooming",,"PL","Sent survey to fill out
+"Paul's Da Burger Joint",224,"2020-12-02T05:00:00.000Z","212-529-3033","Restaurants",40.728595,-73.988057,"131 2nd Avenue, New York, NY 10003","Yes","Yes","Available on Grubhub/Seamless + Doordash, but prefer order via [Paul's website](http://paulsburgersnyc.com)
+","American","[Sign up ](http://paulsburgersnyc.com/)to keep posted on Paul's discounts & events 
+","EVCC","hours confirmed by phone temporary 
+","info@paulsburgersnyc.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://paulsburgersnyc.com","11:00 AM","https://www.instagram.com/paulsdaburgerjoint/","11:00 PM",,"https://cardmall.quickgifts.com/gift-card/pauls-da-burger-joint?utm_source=helpmainstreet.com&utm_medium=referral&utm_campaign=Help%20Main%20Street&utm_term=Paul%27s%20Da%20Burger%20Joint",,,"Yes",,,,,,,,
+"Paws & Relax",225,"2020-09-12T04:00:00.000Z","212-979-7297","Shops & Services",40.729028,-73.978544,"220 Avenue B, New York, NY 10009",,,,"Pet Supplies & Grooming",,"PL","\*\*\*Laura confirm closed
 ","info@pawsandrelaxnyc.com","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.pawsandrelaxnyc.com",,"https://www.instagram.com/pawsandrelaxnyc/",,,,,,,,,,,,,,
-"Perfect Dental Care",226,"2020-06-24T04:00:00.000Z","212-239-7027","Health",40.72604,-73.988556,"101 E. 4th Street, New York, NY 10003","Yes",,"SAT: 9:00 AM -5:00 PM
+"Perfect Dental Care",226,"2020-12-02T05:00:00.000Z","212-239-7027","Health",40.72604,-73.988556,"101 E. 4th Street, New York, NY 10003","Yes",,"SAT: 9:00 AM -5:00 PM
 CLOSED SUN
-","Dental",,"EVCC","
-","perfectdentalcareny@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.perfectdentalny.com/lower-east-side","9:00 AM","https://www.instagram.com/perfectdentalnyc/","6:00 PM",,,,,,,,,,,,,
-"Perk Espresso & Coffee Bar",227,"2020-08-24T04:00:00.000Z"," (646) 329-5843","Restaurants",40.72953,-73.978837,"534 E. 14th Street, New York, NY 10009","Yes",,"THU - SUN til 5:00 PM
-","Cafe",,"PL",,,"Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","http://perkkafe.com/","8:00 AM","https://www.instagram.com/perkkafenyc/","3:00 PM",,,,,"Yes",,,,,,,,
-"Petopia",228,"2020-08-11T04:00:00.000Z","212-353-2863","Shops & Services",40.72323207,-73.98580443,"29 Avenue A, New York City, NY,10009","Yes",,"
-","Pet Supplies & Grooming",,"EVCC","Phone call
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://petopia-pet-supply-store.business.site/","11:00 AM",,"8:00 PM",,,,,,,,,,,,,
-"Petopia",229,"2020-08-11T04:00:00.000Z","212-677-2400","Shops & Services",40.73042,-73.98178,"420 E. 14th Street, New York, NY,10009","Yes",,"
-","Pet Supplies & Grooming",,"EVCC","Phone call
-","petopia14thstreet@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://petopia-pet-supply-store.business.site/","11:00 AM",,"7:00 PM",,,,,,,,,,,,,
-"Physical Graffitea",230,"2020-08-11T04:00:00.000Z","212-477-7334","Restaurants",40.727217,-73.984918,"96 St. Mark's Place, New York, NY","Yes","Yes","Pick up or [order online](https://physicalgraffitea.com).
+","Dental",,"EVCC","Due to covid time varies & depends on patients as well Open TUE, WED, THU
+","perfectdentalcareny@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.perfectdentalny.com/lower-east-side","10:00 AM","https://www.instagram.com/perfectdentalnyc/","6:00 PM",,,,,,,,,,,,,
+"Perk Espresso & Coffee Bar",227,"2020-12-02T05:00:00.000Z"," (646) 329-5843","Restaurants",40.72953,-73.978837,"534 E. 14th Street, New York, NY 10009","Yes",," SAT & SUN: 8:00 AM - 5:00 PM 
+","Cafe",,"PL","called Hours confirmed 
+","perkkafr37@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://perkkafe.com/","7:00 AM","https://www.instagram.com/perkkafenyc/","5:00 PM",,,,,"Yes",,,,,,,,
+"Petopia",228,"2020-12-02T05:00:00.000Z","212-353-2863","Shops & Services",40.72323207,-73.98580443,"29 Avenue A, New York, NY,10009","Yes",,"
+","Pet Supplies & Grooming",,"EVCC","Hours confirmed by phone
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://petopia-pet-supply-store.business.site/","11:00 AM",,"8:00 PM",,,,,,,,,,,,,
+"Petopia",229,"2020-12-02T05:00:00.000Z","212-677-2400","Shops & Services",40.73042,-73.98178,"420 E. 14th Street, New York, NY,10009","Yes",,"
+","Pet Supplies & Grooming",,"EVCC","Hours confirmed by phone 
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://petopia-pet-supply-store.business.site/","11:00 AM",,"7:00 PM",,,,,,,,,,,,,
+"Physical Graffitea",230,"2020-12-02T05:00:00.000Z","212-477-7334","Restaurants",40.727217,-73.984918,"96 St. Mark's Place, New York, NY,10009","Yes","Yes","Pick up or [order online](https://physicalgraffitea.com).
 Email physicalgraffitea@gmail.com
 
-","Tea Shop",,"EVCC","Phone call
-","physicalgraffitea@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://physicalgraffitea.com","12:00 PM","https://www.instagram.com/physicalgraffitea/?hl=en","7:00 PM",,,"Yes",true,,,,,,,,,
-"Pink's",231,"2020-08-18T04:00:00.000Z","(646) 918-6231","Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY 10003","Yes","Yes","
+","Tea Shop",,"EVCC","Hours confirmed by phone 
+","physicalgraffitea@gmail.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://physicalgraffitea.com","12:00 PM","https://www.instagram.com/physicalgraffitea/?hl=en","7:00 PM",,"https://physicalgraffitea.com/giftcertificates.php","Yes",true,,,,,,,,,
+"Pink's",231,"2020-12-02T05:00:00.000Z","(646) 918-6231","Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY 10003","Yes","Yes","
 ","Bar",,"EVCC","Confirmed by phone
 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://pinks.nyc","2:00 PM","https://www.instagram.com/pinksnyc/","11:00 PM","Yes",,,,,,"http://pinks.nyc/#new-page-1",,,,,,
-"Plado Tasting Bar",232,"2020-03-31T04:00:00.000Z","646-850-5151","Restaurants",40.72228,-73.98393,"192 E. 2nd St, New York, NY 10009","Yes",,"Call to order 646-850-5151. [Menu ](https://www.pladonyc.com/taste)on website. Offering beer and wine specials as well.
+","info@pinks.nyc","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://pinks.nyc","2:00 PM","https://www.instagram.com/pinksnyc/","11:00 PM","Yes",,,,"Yes",,"http://pinks.nyc/#new-page-1",,,,,,
+"Plado Tasting Bar",232,"2020-03-31T04:00:00.000Z","646-850-5151","Restaurants",40.72228,-73.98393,"192 E. 2nd St, New York, NY,10009","Yes","Yes","Call to order 646-850-5151. [Menu ](https://www.pladonyc.com/taste)on website. Offering beer and wine specials as well.
 ","Tapas",,"PL","IG is being updated
 ","info@pladonyc.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.pladonyc.com/taste","3:00 PM","https://www.instagram.com/pladonyc/",,,"https://www.pladonyc.com/gift-shop",,,"Yes",,,,,,,,
-"Poco",233,"2020-09-07T04:00:00.000Z","(212) 228-4461","Restaurants",40.722424,-73.982899,"33 Avenue B, New York, NY 10009","Yes",,"TUE - THU
+"Poco",233,"2020-09-07T04:00:00.000Z","(212) 228-4461","Restaurants",40.722424,-73.982899,"33 Avenue B, New York, NY,10009","Yes",,"TUE - THU
 SAT & SUN: 11:00 AM - 11:00 PM
 MON: Closed	
 ","Tapas",,"PL","IG is being updated
-","INFO@POCONYC.COM","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","
+","INFO@POCONYC.COM","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","
 ","5:00 PM","https://www.instagram.com/poconyc/","10:00 PM","Yes",,,,,,,,,,,,
-"Poke N Roll",234,"2020-06-14T04:00:00.000Z","212-420-7653","Restaurants",40.727542,-73.983013,"441 E. 9th Street, New York, NY 10009","Yes","No",,"Japanese",,"EVCC","Call for hours
+"Poke N Roll",234,"2020-06-14T04:00:00.000Z","212-420-7653","Restaurants",40.727542,-73.983013,"441 E. 9th Street, New York, NY,10009","Yes","No",,"Japanese",,"EVCC","Call for hours
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.pokeandrollnyc.com",,"https://www.instagram.com/pokeandrollnyc/",,,,,true,,,,,,,,,
-"Porsena",235,"2020-08-01T04:00:00.000Z","(212) 228-4923","Restaurants",40.728709,-73.989417,"21 E. 7th Street, New York, NY 10003","No","No","PERMANENTLY CLOSED
+"Porsena",235,"2020-08-01T04:00:00.000Z","(212) 228-4923","Restaurants",40.728709,-73.989417,"21 E. 7th Street, New York, NY,10003","No","No","PERMANENTLY CLOSED
 ","Italian",,"EVCC","PERMANENTLY CLOSED August 2020. Opened 2010. Porsena Extra Bar opened 2012.
-",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"https://www.instagram.com/porsenanyc/",,,,,,,"https://www.gofundme.com/f/porsena-staff-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1","https://evgrieve.com/2020/08/porsena-has-closed-for-good-on-7th.html","2020-08-02","2010-08-01",,,,
+",,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"https://www.instagram.com/porsenanyc/",,,,,,,"https://www.gofundme.com/f/porsena-staff-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1","https://evgrieve.com/2020/08/porsena-has-closed-for-good-on-7th.html","2020-08-02","2010-08-01",,,,
 "Porto Rico Imported",236,"2020-06-22T04:00:00.000Z","212-533-1982","Groceries",40.72832284,-73.98735119,"40 St. Mark's Place. New York, NY,10003","Yes",,"SAT: 10 am - 5pm
 [Coffee to go: buy 5, get one free!](https://www.instagram.com/p/B_h0I_pDkLK/)
 ","Specialty Market",,"EVCC","IG is being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.portorico.com/store","9:00 AM","https://www.instagram.com/portoricoimportingco/?hl=en","5:00 PM",,,"Yes",,,,,,,,,,
-"Post",237,"2020-06-22T04:00:00.000Z","646-930-2724","Restaurants",40.722968,-73.982997,"42 Avenue B, New York, NY 10009","Yes","Yes","TUE - SUN
+"Post",237,"2020-06-22T04:00:00.000Z","646-930-2724","Restaurants",40.722968,-73.982997,"42 Avenue B, New York, NY,10009","Yes","Yes","TUE - SUN
 ","American",,"EVCC","
-","myki@post-nyc.com, bobby@post-nyc.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.post-nyc.com","10:00 AM","https://www.instagram.com/postnewyork/","9:00 PM",,,,true,,"https://www.gofundme.com/f/pfs7j-feeding-our-frontline?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,,
-"Prince Tea House",238,"2020-09-07T04:00:00.000Z"," 646-892-3160","Restaurants",40.729485,-73.986702,"204 E. 10th Street, New York, NY 10003","Yes",,"IG is being updated		
+","myki@post-nyc.com, bobby@post-nyc.com","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.post-nyc.com","10:00 AM","https://www.instagram.com/postnewyork/","9:00 PM",,,,true,,"https://www.gofundme.com/f/pfs7j-feeding-our-frontline?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,,
+"Prince Tea House",238,"2020-09-07T04:00:00.000Z"," 646-892-3160","Restaurants",40.729485,-73.986702,"204 E. 10th Street, New York, NY,10003","Yes",,"IG is being updated		
 ","Tea Shop",,"PL","IG is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.princeteahousenyc.com/contact-us/","12:00 PM","https://www.instagram.com/princeteahouse/","11:00 PM",,,,true,,,,,,,,,
-"Proto's Pizza",239,"2020-06-25T04:00:00.000Z","212-432-4044","Restaurants",40.725364,-73.989744,"50 2nd Avenue, New York, NY 10003","Yes","No","
-","Pizza",,"EVCC",,,"Opened","{""id"":""usrM79qTL3wqR6yB4"",""email"":""ambercassanova5@gmail.com"",""name"":""Amber Cassanova""}","https://www.protospizzamenu.com","3:00 PM","https://www.instagram.com/protospizza/","8:30 PM",,,,,,,"https://www.instagram.com/p/B-rfxYSlKoa/",,,,,,
-"Pylos",240,"2020-03-29T04:00:00.000Z","212 473-0220","Restaurants",40.726071,-73.984144,"128 E 7th St, New York, NY 10009","Yes","Yes","10% off all pickup orders
-","Greek",,"PG",,,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,"3:00 PM","https://www.instagram.com/pylos_nyc/?hl=en","10:00 PM",,,,,,,,,,,,,
-"Quality Plus Dry Cleaners",241,"2020-04-01T04:00:00.000Z","(212) 358-8838","Laundry",40.731141,-73.985441,"200 2nd Avenue, New York, NY 10003","Yes",,,"Laundromat",,"PG",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:30 AM",,"6:00 PM",,,,,,,,,,,,,
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.princeteahousenyc.com/contact-us/","12:00 PM","https://www.instagram.com/princeteahouse/","11:00 PM",,,,true,,,,,,,,,
+"Proto's Pizza",239,"2020-06-25T04:00:00.000Z","212-432-4044","Restaurants",40.725364,-73.989744,"50 2nd Avenue, New York, NY,10003","Yes","No","
+","Pizza",,"EVCC",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.protospizzamenu.com","3:00 PM","https://www.instagram.com/protospizza/","8:30 PM",,,,,,,"https://www.instagram.com/p/B-rfxYSlKoa/",,,,,,
+"Pylos",240,"2020-03-29T04:00:00.000Z","212 473-0220","Restaurants",40.726071,-73.984144,"128 E. 7th St, New York, NY,10009","Yes","Yes","10% off all pickup orders
+","Greek",,"PG",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"3:00 PM","https://www.instagram.com/pylos_nyc/?hl=en","10:00 PM",,,,,,,,,,,,,
+"Quality Plus Dry Cleaners",241,"2020-04-01T04:00:00.000Z","(212) 358-8838","Laundry",40.731141,-73.985441,"200 2nd Avenue, New York, NY,10003","Yes",,,"Laundromat",,"PG",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"8:30 AM",,"6:00 PM",,,,,,,,,,,,,
 "R & M Zeraced Multi Services",242,"2020-03-31T04:00:00.000Z","212-777-3447","Shops & Services",40.721375,-73.981075,"23 Avenue C, New York, NY 10009",,,,"Shipping",,"PL","Call for hours
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,
 "Raclette",243,"2020-09-12T04:00:00.000Z","917-300-8800","Restaurants",40.728922,-73.980641,"511 E. 12th Street, New York, NY 10009","Yes","Yes","SAT:  noon - 10:30 PM
@@ -1300,8 +1302,8 @@ PERMANENTLY CLOSED. Longstanding business located at 84 E. 7th Street, New York,
 ","Fashion",,"EVCC","Confirmed Hours by Phone 
 ","Baroness@Baroness.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","www.baroness.com","2:00 PM ","https://www.instagram.com/latexbaroness/","7:00 PM",,"https://store.baroness.com/giftcertificates.php","Yes",true,,,,,,,,,
 "Maiden Lane",358,"2020-11-27T05:00:00.000Z","646-755-8911","Restaurants",40.726002,-73.980642,"162 Avenue B, New York, NY 10009","Yes","Yes","SAT & SUN: 9:00 AM - 10:00 PM
-","American",,"EVCC","\*\*\*Call again, for opening hours during the weekdays
-","gareth@themaidenlane.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.themaidenlane.com",,"https://www.instagram.com/themaidenlane/","10:00 PM","Yes",,,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,,,
+","American",,"EVCC","Confirmed Hours in person
+","gareth@themaidenlane.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.themaidenlane.com","12:00 PM","https://www.instagram.com/themaidenlane/","10:00 PM","Yes",,,,,"https://www.gofundme.com/f/maiden-lane-staff-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,,,
 "Fragrance Shop New York",359,"2020-11-30T05:00:00.000Z","212-254-8950","Health",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003","Yes",,"MON - THU: Retail Sales
 FRI:  ONLY by Appt for Custom Fragrance, 20% deposit required. 
 ","Custom Perfume",,"EVCC","IG being updated, Confirmed Hours by Phone 
