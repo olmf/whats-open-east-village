@@ -1652,44 +1652,42 @@ pharmacy is closed sundays, Open 7 days a week, Order some items ahead and picku
 "Summit Bar",451,"2020-12-01T05:00:00.000Z","(347) 465-7911","Restaurants",40.725013,-73.978463,"133 Avenue C, New York, NY 10008","Yes",,"
 ","Bar",,"EVCC","Confirmed hours by Phone 
 ","Thesummitbar@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://the-summit-bar.square.site/s/order","4:00 PM","https://www.instagram.com/thesummitbar/","10:00 PM","Yes",,,,,,,,,,,,
-"Dian Kitchen",452,"2020-11-30T05:00:00.000Z","646-590-9898","Restaurants",40.72766,-73.983261,"435 E. 9th Street, New York, NY 10009","Yes","Yes","FRI & SAT: noon - 10:00 PM
+"Dian Kitchen",452,"2020-12-01T05:00:00.000Z","646-590-9898","Restaurants",40.72766,-73.983261,"435 E. 9th Street, New York, NY 10009","Yes","Yes","FRI & SAT: noon - 10:00 PM
 MON: Closed 
 ","Chinese",,"EVCC","IG is being updated, Confirmed hours by Phone
 ","dian.kitchen.nyc@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.diankitchen.com/","12:00 PM","https://www.instagram.com/dian_kitchen_nyc/","9:30 PM",,,,true,,,,,,,,,
-"Spaghetti Incident",453,"2020-11-30T05:00:00.000Z","646.896.1446","Restaurants",40.722312,-73.989951,"231 Eldridge Street New York, NY 10002","Yes","Yes","Open every day
-","Italian",,"EVCC","website being updated
-","info.spaghettiincident@gmail.com","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://spaghettiincidentnyc.com/","5:30 PM","https://www.instagram.com/spaghettiincidentnyc/","9:30 PM",,,,,,"https://www.gofundme.com/f/spaghetti-incident-employee-fund",,,,,,,
-"Village Farm Grocery ",454,"2020-11-30T05:00:00.000Z","(212) 533-4892","Groceries",40.72940357,-73.98728016,"146 2nd Avenue, New York, NY 10003","Yes","Yes","
+"Spaghetti Incident",453,"2020-12-01T05:00:00.000Z","646.896.1446","Restaurants",40.722312,-73.989951,"231 Eldridge Street, New York, NY 10002","Yes","Yes","
+","Italian",,"EVCC","Website being updated, Confirmed hours by Phone
+","info.spaghettiincident@gmail.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","http://spaghettiincidentnyc.com/","4:30 PM","https://www.instagram.com/spaghettiincidentnyc/","10:00 PM",,"https://www.giftly.com/gift-card/spaghetti-incident-new-york-2",,,,"https://www.gofundme.com/f/spaghetti-incident-employee-fund",,,,,,,
+"Village Farm Grocery ",454,"2020-12-01T05:00:00.000Z","(212) 475-7521","Groceries",40.72940357,-73.98728016,"146 2nd Avenue, New York, NY 10003","Yes","Yes","Open 24/7!
+","Deli ",,"EVCC","Non-working number ((212) 533-4892), Website is not working, Update number to (212) 475-7521
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,,,,,,"No",,,,,,,,,,
+"S.K. Deli Market",455,"2020-12-01T05:00:00.000Z","(212) 477-8181","Groceries",40.72671449,-73.98925711,"81 2nd Avenue, New York, NY 10003","Yes",,"
 ","Deli ",,"EVCC","Confirmed hours by phone
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://villagefarmgrocery.com/villagefarm/","8:00 AM",,"10:00 PM",,,"No",,,,,,,,,,
-"S.K. Deli Market",455,"2020-11-30T05:00:00.000Z","(212) 477-8181","Groceries",40.72671449,-73.98925711,"81 2nd Avenue, New York, NY 10003","Yes",,"
-","Deli ",,"EVCC","Confirmed hours by phone
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"12:00 AM",,"12:00 PM",,,,,,,,,,,,,
-"Village Gourmet Grocery",456,"2020-11-30T05:00:00.000Z","(212) 228-7951","Groceries",40.72727155,-73.98855756,"102 2nd Avenue, New York, NY 10003","Yes",,"
-","Deli ",,"EVCC","Confirmed hours by phone
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"8:00 AM",,"7:00 PM",,,,,,,,,,,,,
-"East Village Wine & Liquor",457,"2020-06-22T04:00:00.000Z","(212) 358-7700","Retail",40.718639,-73.985199,"80 Clinton Street, New York, NY 10003","Yes",,"THU - SAT: 11:00 AM - 11:30 PM
-","Wine",,"EVCC","
-","No online presence","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.delivery.com/cities/nyc/categories/wine-and-liquor-store/east-village-wine-and-liquors","11:00 AM",,"11:00 PM",,,,,,,,,,,,,
-"Astor Wine ",458,"2020-11-30T05:00:00.000Z","(212) 674-7500","Retail",40.727901,-73.992923,"399 Lafayette Street, New York, NY 10003",,"Yes","M-Sat: 9-7pm 
-Sundays: 12-6 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"6:00 AM",,"7:00 PM",,,,,,,,,,,,,
+"Village Gourmet Grocery",456,"2020-12-01T05:00:00.000Z","(212) 228-7951","Groceries",40.72727155,-73.98855756,"102 2nd Avenue, New York, NY 10003","Yes",,"
+","Deli ",,"EVCC","\*\*\*Call WED for hours 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"8:00 AM",,"7:00 PM",,,,,,,,,,,,,
+"East Village Wine & Liquor",457,"2020-12-01T05:00:00.000Z","(212) 358-7700","Retail",40.718639,-73.985199,"80 Clinton Street, New York, NY 10003","Yes",,"SUN: noon - 8:00 PM
+","Wine",,"EVCC","Confirmed hours by Phone 
+",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.delivery.com/cities/nyc/categories/wine-and-liquor-store/east-village-wine-and-liquors","11:00 AM",,"9:00 PM",,,,,,,,,,,,,
+"Astor Wine ",458,"2020-12-01T05:00:00.000Z","(212) 674-7500","Retail",40.727901,-73.992923,"399 Lafayette Street, New York, NY 10003",,"Yes","Sundays: 12-6 
 
-CORONAVIRUS (COVID-19) UPDATE
-WE ARE CURRENTLY DELIVERY ONLY
-Astor Wines & Spirits has temporarily transitioned to delivery services only because of NYC’s rapidly evolving COVID-19 public health crisis. We remain operational as an essential business.
 
-We are no longer accepting new pick-up orders. You are still able to come get your pick-up order if you placed it before 12pm ET on Sunday, 3/22.
+","Wine","[Today’s Sale: **15% OFF SAKE AND SHOCHU**](https://www.astorwines.com/tuesdaysale.aspx?r=711)
 
-We continue to monitor the situation and take action to provide the safest experience for our staff and customers.
-","Wine",,"EVCC","ig being updated
-","cs@astorwines.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.astorwines.com/","9:00 AM","https://www.instagram.com/astorwines/?hl=en","6:30 PM",,"https://www.astorwines.com/giftcards.aspx",,,,,,,,,,,
-"Bowery & Vine",459,"2020-09-22T04:00:00.000Z","(212) 941-7943","Retail",40.723581,-73.992564,"269 Bowery, New York, NY 10002","Yes","Yes","SUN: noon to 8:00 PM
-","Wine","receive a 10% discount for that signup!
-Enter Promo Code: signup10   
-One time and not combined with other discounts.
-For Store Pickup and Local Delivery orders only.
+15% off every Tuesday 
+
+","EVCC","IG being updated, Confirmed hours by Phone,\*\*\* Update Dec 2 for special offers
+","cs@astorwines.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.astorwines.com/","9:00 AM","https://www.instagram.com/astorwines/?hl=en","8:00 PM",,"https://www.astorwines.com/giftcards.aspx",,,,,,,,,,,
+"Bowery & Vine",459,"2020-09-22T04:00:00.000Z","(212) 941-7943","Retail",40.723581,-73.992564,"269 Bowery, New York, NY 10002","Yes","Yes","FRI & SAT: 11:00 AM - 10:00 PM  
+SUN: noon to 8:00 PM
+","Wine","**10% discount** on a **12** bottle case of **Still W**.
+**Whole case or Mixed case -- Can be used for Local Delivery.**
+Enter **Promo Code CASEDISCOUNT **(all uppercase - no spaces)
+
 ","EVCC","
-","info@boweryandvine.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.boweryandvine.com/","11:00 AM","https://www.instagram.com/BoweryandVine/","8:00 PM",,,,,,,,,,,,,
+","info@boweryandvine.com","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.boweryandvine.com/","11:00 AM","https://www.instagram.com/BoweryandVine/","9:00 PM",,,,,,,,,,,,,
 "Common Ground Compost",460,"2020-11-30T05:00:00.000Z","(347) 395-6377","Shops & Services",40.726203,-73.976459,"415 E. 11th Street, New York, NY 10009",,,"We are offering a paid residential compost pickup service. We can pick up compost weekly, bi-weekly, monthly, from Manhattan residents anywhere south of 87th street. 
 We cannot re-open the free compost drop off that was stationed outside 415 E 11th St at this time. 
 ","Composting",,"EVCC","IG being updated
