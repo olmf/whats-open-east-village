@@ -1702,8 +1702,8 @@ MON: Closed
 ","Deli ",,"EVCC","Confirmed hours by phone
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"6:00 AM",,"7:00 PM",,,,,,,,,,,,,
 "Village Gourmet Grocery",456,"2020-12-02T05:00:00.000Z","N/A","Groceries",40.72727155,-73.98855756,"102 2nd Avenue, New York, NY 10003","Yes",,"
-","Deli ",,"EVCC","\*\*\*Non - working number (212) 228-7951)
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"8:00 AM",,"7:00 PM",,,,,,,,,,,,,
+","Deli ",,"EVCC","\*\*\*Non-working number (212) 228-7951
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM",,"7:00 PM",,,,,,,,,,,,,
 "East Village Wine & Liquor",457,"2020-12-01T05:00:00.000Z","(212) 358-7700","Retail",40.718639,-73.985199,"80 Clinton Street, New York, NY 10003","Yes",,"SUN: noon - 8:00 PM
 ","Wine",,"EVCC","Confirmed hours by Phone 
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.delivery.com/cities/nyc/categories/wine-and-liquor-store/east-village-wine-and-liquors","11:00 AM",,"9:00 PM",,,,,,,,,,,,,
@@ -1826,9 +1826,9 @@ SUN - 9:30 AM - 10:00 PM
 ","Argentinian","
 ","EVCC","Confirmed Hours by Phone 
 ","INFO@BUENOSAIRESNYC.COM","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.buenosairesnyc.com","12:00 PM","https://www.instagram.com/buenosairesnyc/?hl=en","10:00 PM","Yes",,"Yes",,,,,,,,,,
-"14th Street Produce Vendor",486,"2020-08-04T04:00:00.000Z","N/A ","Groceries",40.731625,-73.982592,"14 Street 1st Avenue, New York, NY 10009","Yes",,"[via Town & Village article](https://town-village.com/2020/04/22/popular-fruit-cart-reopens-as-council-members-call-for-covid-relief/). Possibly open 24hrs. If not, then very late.
-",,,"EVCC","\*\*\*Is the town village website reliable?
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,,,,,,,,,,,,,,,,
+"14th Street Produce Vendor",486,"2020-12-04T05:00:00.000Z","N/A ","Groceries",40.731625,-73.982592,"14 Street 1st Avenue, New York, NY 10009","Yes",,"Open 24 / 7 or very late!
+",,,"EVCC","\*\*\*Is the town village website reliable? good question: Laura can confirm it's accurate but the article belongs in source, not notes (I moved it
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,"https://town-village.com/2020/04/22/popular-fruit-cart-reopens-as-council-members-call-for-covid-relief/",,,,,,
 "Joe & Pat’s NYC",487,"2020-12-03T05:00:00.000Z","212 677-4992 ","Restaurants",40.72893,-73.984109,"168 1st Avenue, New York, NY 10009","Yes","Yes","FRI - SUN: 11:00 AM - 10:00 PM
 
 \*\*Pickup orders are best placed over the phone 212-677-4992 and delivery order best placed via [Caviar](https://www.trycaviar.com/m/joe--pats-8988?_branch_match_id=466599274438854584)\*\*. Seamless has been sometimes problematic for them.
@@ -2879,8 +2879,8 @@ MON: Closed
 ","info@tsukimi.nyc","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.tsukimi.nyc","5:00 PM ","https://www.instagram.com/tsukiminyc/","8:30 PM",,"https://www.tsukimi.nyc/gift-cards",,true,,,,,,,,,
 "Ace Bar",847,"2020-09-07T04:26:00.000Z","(212) 979-8476","Restaurants",40.742575,-73.92106,"531 E. 5th Street, New York, NY 10009","Yes",,,"Bar",,"EVCC","IG is being updated
 ","acebar531@gmail.com","Opened","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","https://acebar.com/","3:00 PM","https://www.instagram.com/acebarny/","11:00 PM","Yes",,,,"Yes",,,,,,,,
-"Loverboy",848,"2020-09-07T04:49:00.000Z","212-539-1900","Restaurants",40.72491,-73.97861,"127 Avenue C, New York, NY 10009","Yes",,,"Bar",,"EVCC","IG is being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.loverboynyc.com","6:00 PM","https://www.instagram.com/loverboynyc/?hl=en",,"Yes",,,,,,,,,,,,
+"Loverboy",848,"2020-09-07T04:49:00.000Z","212-539-1900","Restaurants",40.72491,-73.97861,"127 Avenue C, New York, NY 10009","No",,,"Bar",,"EVCC","PERMANENTLY CLOSED.
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.loverboynyc.com","6:00 PM","https://www.instagram.com/loverboynyc/?hl=en",,"Yes",,,,,,,"2020-11-30","2017-06-01",,,,
 "Klimat Lounge",849,"2020-09-07T04:35:00.000Z","(917) 214-0589","Restaurants",40.72746,-73.9863,"77 E. 7th Street, New York, NY 10003","Yes",,"	
 ","Bar",,"EVCC",,"klimatlounge@gmail.com","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.klimatnyc.com/","4:00 PM","https://z-p42.www.instagram.com/klimatloungeartgallery/","12:00 AM","Yes",,,,,,,,,,,,
 "The Boiler Room ",850,"2020-09-07T20:54:00.000Z","(212) 529-2100","Restaurants",40.726,-73.98921,"86 E. 4th Street, New York, NY 10003","Yes",,,"Bar",,"EVCC","FB is being updated	
