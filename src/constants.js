@@ -1,12 +1,12 @@
 export const categoryGroups = [
-    'Grocery', 'Food & Beverage', 'Shops & Services', 'Culture'
+    'Grocery', 'Food & Beverage', 'Services', 'Arts & Culture'
 ]
 
 export const styles = [
     //style for defaults
     {
         'group': 'Food & Beverage',
-        'categoryName': 'Dessert',
+        'categoryName': 'Cafes and Desserts',
         'subcategoryName': null,
         'fillColor': '#9c27b0',
         'strokeColor': '#000',
@@ -21,7 +21,7 @@ export const styles = [
         'icon': 'supermarket.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Health',
         'subcategoryName': null,
         'fillColor': '#7cb342',
@@ -29,7 +29,7 @@ export const styles = [
         'icon': 'leaf.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Laundry',
         'subcategoryName': null,
         'fillColor': '#681a16',
@@ -37,7 +37,7 @@ export const styles = [
         'icon': 'laundromat.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Laundry',
         'subcategoryName': 'Laundromat',
         'fillColor': '#681a16',
@@ -45,7 +45,7 @@ export const styles = [
         'icon': 'laundromat.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Laundry',
         'subcategoryName': 'Cleaners',
         'fillColor': '#681a16',
@@ -61,7 +61,7 @@ export const styles = [
         'icon': 'food.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Retail',
         'subcategoryName': null,
         'fillColor': '#fff35f',
@@ -69,8 +69,8 @@ export const styles = [
         'icon': 'retail.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': null,
         'fillColor': '#f2983f',
         'strokeColor': '#000',
@@ -87,7 +87,7 @@ export const styles = [
     //styles for rows with subcategories
     {
         'group': 'Food & Beverage',
-        'categoryName': 'Dessert',
+        'categoryName': 'Cafes and Desserts',
         'subcategoryName': 'Bakery',
         'fillColor': '#9c27b0',
         'strokeColor': '#000',
@@ -95,7 +95,7 @@ export const styles = [
     },
     {
         'group': 'Food & Beverage',
-        'categoryName': 'Dessert',
+        'categoryName': 'Cafes and Desserts',
         'subcategoryName': 'Candy & Chocolate',
         'fillColor': '#9c27b0',
         'strokeColor': '#000',
@@ -103,15 +103,15 @@ export const styles = [
     },
     {
         'group': 'Food & Beverage',
-        'categoryName': 'Dessert',
-        'subcategoryName': 'Dessert Bar',
+        'categoryName': 'Cafes and Desserts',
+        'subcategoryName': 'Desserts Bar',
         'fillColor': '#9c27b0',
         'strokeColor': '#000',
         'icon': 'patisserie.png'
     },
     {
         'group': 'Food & Beverage',
-        'categoryName': 'Dessert',
+        'categoryName': 'Cafes and Desserts',
         'subcategoryName': 'Ice Cream',
         'fillColor': '#9c27b0',
         'strokeColor': '#000',
@@ -566,7 +566,7 @@ export const styles = [
         'icon': 'food.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Retail',
         'subcategoryName': 'Books',
         'fillColor': '#fff35f',
@@ -574,7 +574,7 @@ export const styles = [
         'icon': 'book.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Retail',
         'subcategoryName': 'Childrens',
         'fillColor': '#fff35f',
@@ -582,7 +582,7 @@ export const styles = [
         'icon': 'kids.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Retail',
         'subcategoryName': 'Fashion',
         'fillColor': '#fff35f',
@@ -590,7 +590,7 @@ export const styles = [
         'icon': 'clothing.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Retail',
         'subcategoryName': 'Gifts',
         'fillColor': '#fff35f',
@@ -598,7 +598,7 @@ export const styles = [
         'icon': 'gifts.png'
     },
     {
-        'group': 'Shops & Services',
+        'group': 'Services',
         'categoryName': 'Retail',
         'subcategoryName': 'Vintage',
         'fillColor': '#fff35f',
@@ -606,176 +606,176 @@ export const styles = [
         'icon': 'clothing.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Appliances',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'coldstorage.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Beer Shop',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'beershop.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Bicycle Shop',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'bicycle_shop.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Composting',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'compost.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Dollar Store',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'dollar.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Copies',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'printer.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Furnishing & Building Materials',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'tools.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Hardware',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'tools.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Locksmith',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'lock.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Pet Supplies And Grooming',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'pets.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Sake Shop',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'sake.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Shipping',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'truck.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Stationery',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'pens.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Veterinary Services',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'vet.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Wine Shop',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'wine.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Yarn Shop',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'textiles.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Hair',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'hair.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Florist',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'flowers.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Dive Shop',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'snorkeling.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Sewing Machine Repair',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'tailor.png'
     },
     {
-        'group': 'Shops & Services',
-        'categoryName': 'Shops & Services',
+        'group': 'Services',
+        'categoryName': 'Services',
         'subcategoryName': 'Computer & Phone Repair',
         'fillColor': '#f2983f',
         'strokeColor': '#000',
         'icon': 'phones.png'
     },
     {
-        'group': 'Culture',
-        'categoryName': 'Culture',
+        'group': 'Arts & Culture',
+        'categoryName': 'Arts & Culture',
         'subcategoryName': null,
         'fillColor': '#898989',
         'strokeColor': '#ffffff',
