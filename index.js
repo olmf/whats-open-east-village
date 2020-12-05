@@ -66,7 +66,7 @@ async function getRows(base, table, ignoreFields = []){
             }
         })
         return nRow
-    }).sort((a, b) => a.id - b.id)
+    }).sort((a, b) => a.id < b.id ? 1 : -1)
 
     const json2csvParser = new Parser()
     return json2csvParser.parse(rows);
