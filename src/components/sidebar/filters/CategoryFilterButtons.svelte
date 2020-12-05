@@ -62,7 +62,7 @@
     }
 
     .filter-container button {
-        padding: 1.2rem 1.25rem;
+        padding: 1.2em 1.3em;
         margin-right: 1rem;
         margin-bottom: 0.2rem;
     }

@@ -1,5 +1,4 @@
 <script>
-    import SlimSelect from './SlimSelect.svelte'
     import CategoryFilterButtons from './CategoryFilterButtons.svelte'
     import CategoryFilterButtonsSlide from './CategoryFilterButtonsSlide.svelte'
     import {rows, filters} from '../../../stores'
@@ -100,10 +99,6 @@
         }
     }
 
-    $: {
-        console.log(categoryOptions, subCategoryOptions)
-    }
-
 </script>
 
 {#if categoryOptions && 'data' in categoryOptions}
@@ -113,8 +108,6 @@
 
 {#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
     <CategoryFilterButtonsSlide bind:value={selectedSubCategories} options={subCategoryOptions} text="Sub Categories"/>
-<!--    <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true}-->
-<!--                text="Sub Categories"/>-->
 {/if}
 
 
