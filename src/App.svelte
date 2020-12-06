@@ -106,14 +106,15 @@
         }
 
         .sidebar {
-            height: 800px;
+            height: 1100px;
             margin-right: 0px;
             margin-bottom: 1rem;
         }
 
         .map {
-            height: 500px;
+            height: 350px;
         }
+
     }
 
     :global(.is-1, .is-2, .is-3, .is-4, .is-5, .is-6, .is-7) {
