@@ -24,5 +24,6 @@
         position: fixed;
         bottom: 5px;
         right: 10px;
+        color: purple;
     }
 </style>

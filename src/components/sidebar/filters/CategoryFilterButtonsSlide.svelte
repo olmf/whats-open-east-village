@@ -29,7 +29,7 @@
     </div>
     <div class="filter-container">
         {#each categoryOptions as item}
-            <button class="button is-small {value.includes(item.value) ? 'is-info' : ''}"
+            <button class="button is-small sub-cat-button {value.includes(item.value) ? 'is-info' : ''}"
                     on:click={toggleCategoryItem(item)}>{item.text}</button>
         {/each}
     </div>

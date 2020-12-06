@@ -18,41 +18,51 @@
 <header>
     {#if innerWidth > 768}
         <div class="header-bar">
-            <h3 class="title is-3" id="title">What's Open In The East Village Area During COVID-19?</h3>
-            <div class="buttons has-text-right">
-                <TranslationMenu className="is-small"/>
-                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
-                    <MaterialIcon icon="info"></MaterialIcon>
-                </button>
+            <img class="pigeon-image float-right" src="/images/pigeon.png"/><h1 class="page-heading">What's Open? East Village</h1>
+            <h3 class="title is-3" id="title">A driectory of open business during the COVID-19 pandemcic</h3>
+            <div style="min-height:210px;">
+                <img class="buildings float-right" src="/images/buildings.png"/>
+                <p class="float-left map-text">This map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village and need our support now more than ever.</p>
             </div>
         </div>
         {#if opened}
             <div id="subtitle">
-                <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
-                    area during COVID-19.</strong></p>
-                <div class="buttons">
-                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
-                    <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
+                <div class="subtitle-container">
+                    <!--<div class="buttons">
+                        <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+                        <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
+                    </div>-->
+                    <div class="buttons has-text-right">
+                        <strong>Translate:&nbsp;</strong> <TranslationMenu className="is-small"/>
+                       <!--<button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
+                        <MaterialIcon icon="info"></MaterialIcon>
+                    </button>-->
+                    </div>
                 </div>
             </div>
         {/if}
     {:else}
         <div class="header-bar">
-            <h3 class="title is-5">What's Open In The East Village Area During COVID-19?</h3>
-            <div class="buttons has-text-right">
-                <TranslationMenu className="is-small"/>
-                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
-                    <MaterialIcon icon="info"></MaterialIcon>
-                </button>
+            <img class="pigeon-image float-right" src="/images/pigeon.png"/><h1 class="page-heading">What's Open? East Village</h1>
+            <h3 class="title is-3" id="title">A driectory of open business during the COVID-19 pandemcic</h3>
+            <div>
+            <img class="buildings float-right" src="/images/buildings.png"/>
+            <p class="float-left map-text">This map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village and need our support now more than ever.</p>
             </div>
         </div>
         {#if opened}
             <div id="subtitle">
-                <p class="is-6 subtitle"><strong>A directory of essential businesses that are open in the East Village
-                    area during COVID-19.</strong></p>
-                <div class="buttons are-small">
-                    <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
-                    <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
+                <div class="subtitle-container">
+                    <!--<div class="buttons are-small">
+                        <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+                        <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
+                    </div>-->
+                    <div class="buttons has-text-right">
+                        <strong>Translate:&nbsp;</strong> <TranslationMenu className="is-small"/>
+                       <!--<button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
+                        <MaterialIcon icon="info"></MaterialIcon>
+                    </button>-->
+                    </div>                    
                 </div>
             </div>
         {/if}
@@ -67,7 +77,7 @@
         flex-wrap: wrap;
         justify-content: space-between;
     }
-
+ff
     .title {
         margin-bottom: 10px !important;
     }

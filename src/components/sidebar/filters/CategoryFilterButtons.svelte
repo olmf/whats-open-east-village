@@ -18,7 +18,9 @@
 
     function getBorderColor(item, value) {
         return `
+            margin: 2px;
             border-bottom: 5px solid ${value.includes(item.value) ? getCustomColor(item.color, true) : getCustomColor(item.color, false)};
+            background: ${value.includes(item.value) ? getCustomColor(item.color, true) : getCustomColor(item.color, false)};
         `
     }
 
