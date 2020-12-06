@@ -28,6 +28,9 @@
     </div>
     <div class="content">
         <h4 class="is-5 subtitle is-marginless notranslate" translate="no">{item.Name}</h4>
+        <p style="margin-top:0.25em;">{#if item['Open Time']}<strong>Open:</strong> {item['Open Time']}{/if} {#if item['Close Time']} <strong>Close:</strong> {item['Close Time']}{/if}
+        </p>
+        
         <p class="address">
             <span class="notranslate" translate="no">{item.Address}</span>
             <a href="http://maps.google.com/?q={item.Address}" target="_blank">
@@ -86,13 +89,13 @@
 
         <MarkdownField title="Special Offers" content={item['Special Offers']}/>
 
-        {#if item['Open Time']}
+        <!--{#if item['Open Time']}
             <p><strong>Open Time:</strong> {item['Open Time']}</p>
         {/if}
 
         {#if item['Close Time']}
             <p><strong>Close Time:</strong> {item['Close Time']}</p>
-        {/if}
+        {/if}-->
 
         <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
         <MarkdownField title="Notes" content={item.Notes}/>

@@ -35,6 +35,10 @@
             </div>
         </div>
     </div>
+    <div class="buttons">
+        <a href="https://airtable.com/shrhEzCyopsgeOcRf" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+        <a href="mailto:whatsopenev@gmail.com" target="_blank" class="button is-info">Submit Feedback</a>
+    </div>
     <div class="bulletin">
         {#if bulletin !== 'hide'}
             <Bulletin/>
