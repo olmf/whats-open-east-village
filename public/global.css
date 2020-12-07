@@ -18,9 +18,9 @@ h1.page-heading {font-family: tex_gyre_pagellaregular;
 	vertical-align: middle;
 	}
 
-.pigeon-image {width: 150px; margin-left: auto;}
+.pigeon-image {width: 150px; height: 142px; margin-left: auto;}
 .pigeon-image-mobile {width: 150px;}
-.buildings {width: 350px; margin:1rem 0;}
+.buildings {width: 350px; height: 201.719px; margin:1rem 0;}
 #subtitle {background-color: #FFF;}
 .map-text {font-size:1.25rem;}
 
