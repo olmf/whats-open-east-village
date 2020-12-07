@@ -20,7 +20,7 @@
         <div class="header-bar">
             <h1 class="page-heading">What's Open? East Village</h1>
             <img class="pigeon-image" src="/images/pigeon.png"/>
-            <h3 class="title is-3" id="title">A directory of open business during the COVID-19 pandemic</h3>
+            <h3 class="title is-3" id="title">A directory of open businesses during the COVID-19 pandemic</h3>
             <div style="min-height:210px;">
                 <img class="buildings float-right" src="/images/buildings.png"/>
                 <p class="map-text">This map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village and need our support now more than ever.</p>
@@ -46,7 +46,7 @@
         <div class="header-bar">
             <img class="pigeon-image-mobile" src="/images/pigeon.png"/>
             <h1 class="page-heading">What's Open? East Village</h1>
-            <h3 class="title is-3" id="title">A directory of open business during the COVID-19 pandemic</h3>
+            <h3 class="title is-3" id="title">A directory of open businesses during the COVID-19 pandemic</h3>
             <div>
             <img class="buildings" src="/images/buildings.png"/>
             <p class="map-text">This map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village and need our support now more than ever.</p>
