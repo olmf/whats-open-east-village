@@ -1,6 +1,6 @@
 "id","Status","Name","Phone","Website","Category","Latitude","Longitude","Address","Sub Categories","Instagram","Last modified by","Pickup Offered","Delivery Offered","Last Updated","Open Time","Close Time","Spreadsheet Update Notes","MWBE","Shipping Offered","Special Offers","Notes","Email","Opening Date","Source","Black Owned Business","Outside Seating Offered","Closure Date","Fundraiser","Giftcard","LGBTQ","Contributor","Special Accommodation Hours","Update Requests"
 1070,"Unknown",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1069,"Unknown","Bull McBull McCabes","(212) 982-9895","http://bullmccabes.com","Restaurants",40.729118152351475,-73.98832945904645,"29 St Marks Pl, New York, NY 10003","Bar","https://www.instagram.com/bullmccabesnyc/","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,,,,,,,,
+1069,"Unknown","Bull McCabes","(212) 982-9895","http://bullmccabes.com","Restaurants",40.729118152351475,-73.98832945904645,"29 St Marks Pl, New York, NY 10003","Bar","https://www.instagram.com/bullmccabesnyc/","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,,,,,,,,
 1068,"Unknown","Cooper's Craft & Kitchen","(646) 606-2384",,"Restaurants",40.72703266283124,-73.98900925719833,"87 2nd Ave, New York, NY 10003","Bar","https://www.instagram.com/coopersnyc/","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}",,,,,,,,,,,,,,,,,,,,,,
 1067,"Closed","Sláinte Bar and Lounge","(212) 253-7030",,"Restaurants",40.724865057028225,-73.99276505904656,"304 Bowery, New York, NY 10012","Bar",,"{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","No","No",,,,,,,,,,,,,,,,,,,,
 1066,"Closed","The Penny Farthing","(212) 387-7300",,"Restaurants",40.73242139899317,-73.9875375725399,"103 3rd Ave, New York, NY 10003","Bar",,"{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","No","No",,,,,,,,,,,,,,,,,,,,
@@ -1503,34 +1503,38 @@ TUE - SUN: Closed from 3 PM - 4 PM
 IG is being updated 
 ",true,,,"MON: Closed
 ","cafehimalayany@gmail.com",,,,"Yes",,,,,"EVCC",,
-575,"Opened","Papaya Dog","(646) 654-7010",,"Restaurants",40.7315882,-73.9826645,"239 1st Avenue, New York, NY 10003","American",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,"2020-08-11T04:00:00.000Z","8:00 AM","5:00 AM","Phone call
+575,"Opened","Papaya Dog","(646) 654-7010",,"Restaurants",40.7315882,-73.9826645,"239 1st Avenue, New York, NY 10003","American",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-08-11T04:00:00.000Z","8:00 AM","5:00 AM","Phone call
 ",,,,,,,,,,,,,,"EVCC",,
-574,"Opened","Village Creperie","(917) 675-6366",,"Cafes and Desserts",40.7286069,-73.9858057,"445 E 9th St, New York, NY 10009","Cafe,Sandwich,Juice Bar,Ice Cream,Bakery","https://www.instagram.com/villagecreperie/","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,"2020-08-12T04:00:00.000Z","7:00 AM","11:00 PM","Phone call
+574,"Opened","Village Creperie","(917) 675-6366",,"Cafes and Desserts",40.7286069,-73.9858057,"445 E. 9th Street , New York, NY 10009","Cafe,Sandwich,Juice Bar,Ice Cream,Bakery","https://www.instagram.com/villagecreperie/","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-12-16T05:00:00.000Z","7:00 AM","10:00 PM","Hours confirmed on phone 
 ",,,,"[Menu](https://1.bp.blogspot.com/-lZ95Q0k9VM0/XsBVAJM1viI/AAAAAAADThs/obN9N--gufYnZcCJYgrbf81G43zHjEmmwCLcBGAsYHQ/s1600/unnamed-4.jpg)
-",,,,,"Yes",,,,,"EVCC",,
-573,"Opened","Beron Beron","(212) 477-1005","https://www.yelp.com/biz/beron-beron-new-york","Restaurants",40.728794,-73.984177,"164 1st Avenue, New York, NY 10009","Japanese","https://www.instagram.com/beronberon.nyc/","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,"2020-08-05T04:00:00.000Z","2:00 PM","10:30 PM","Phone call
+","villagecreperie@hotmail.com",,,,"Yes",,,,,"EVCC",,
+573,"Opened","Beron Beron","(212) 477-1005","https://www.yelp.com/biz/beron-beron-new-york","Restaurants",40.728794,-73.984177,"164 1st Avenue, New York, NY 10009","Japanese","https://www.instagram.com/beronberon.nyc/","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-12-16T05:00:00.000Z","3:00 PM","10:00 PM","Hours confirmed by phone
 IG is old, website can't be reached
 
 ",true,,,"MON: Closed
-",,,,,"Yes",,,,,"EVCC",,
-572,"Opened","Augurs Well Bar","(718) 249-7645","https://www.augurswellbar.com/","Restaurants",40.727033,-73.983684,"115 St Marks Pl, New York, NY 10009","Bar","https://www.instagram.com/augurswellnyc/?hl=en","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,"2020-08-19T04:00:00.000Z",,"11:00 PM","Laura check hours
-",,,,"Free delivery, $50 minimum. [DM](https://www.instagram.com/augurswellnyc/?hl=en) for menu and details.
-",,,,,"Yes",,,,,"EVCC",,
+",,,,,,,,,,"EVCC",,
+572,"Opened","Augurs Well Bar",,"https://www.augurswellbar.com/","Restaurants",40.727033,-73.983684,"115 St. Mark's Place, New York, NY 10009","Bar","https://www.instagram.com/augurswellnyc/?hl=en","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes",,"2020-08-19T04:00:00.000Z",,"11:00 PM","Laura check hours 
+",,,"[Join us at Happy Hour for $2 off all drafts](https://www.augurswellbar.com/happenings/) , well liquor and house wine!
+","Free delivery, $50 minimum. [DM](https://www.instagram.com/augurswellnyc/?hl=en) for menu and details.
+","gregorynardello@aol.com",,,,"Yes",,,,,"EVCC",,
 571,"Closed","Black & White Bar","(212) 253-0246",,"Restaurants",40.730855,-73.989873,"86 E 10th St, New York, NY 10003","Bar","https://www.instagram.com/blackandwhitebarnyc/","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","No",,"2020-11-02T05:00:00.000Z","4:00 PM","10:00 PM","PERMANENTLY CLOSED October 2020.
 ",,,,,,"2000-10-17","https://evgrieve.com/search?q=black+%26+white",,"Yes","2020-10-31",,,,"EVCC",,
-570,"Opened","Sushi by M","(347) 688-8101","https://direct.chownow.com/order/21784/locations/31570","Restaurants",40.726689,-73.990235,"75 E 4th St, New York, NY 10003","Japanese,Omakase","https://www.instagram.com/sushi_by_m/?hl=en","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes","2020-08-11T04:00:00.000Z","12:00 PM","11:00 PM","Phone call
+570,"Opened","Sushi by M","(347) 688-8101","http://www.sushibym.com/","Restaurants",40.726689,-73.990235,"75 E. 4th St, New York, NY 10003","Japanese,Omakase","https://www.instagram.com/sushi_by_m/?hl=en","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes",,"2020-12-16T05:00:00.000Z","12:00 PM","3:00 PM","Hours confirmed by text 
 ",true,,"
-",,,,,,,,,,,"EVCC",,
-569,"Opened","MáLà Project","(212) 353-8880","https://direct.chownow.com/order/8440/locations/11376","Restaurants",40.727134,-73.985361,"122 1st Avenue, New York, NY 10009","Chinese","https://www.instagram.com/malaproject/","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes","2020-08-10T04:00:00.000Z","12:00 PM","9:00 PM","Phone call
-",true,,,"[Order ahead!](http://direct.chownow.com/order/8440/locations)
-",,,,,,,,,,"EVCC",,
-568,"Closed","Ruffian x Black Emperor Bar",,,"Restaurants",40.731372,-73.986022,"197 2nd Ave, New York,NY,10009","Bar","https://www.instagram.com/ruffiandoesdivebar","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","No","No","2020-08-11T04:00:00.000Z","2:00 PM","8:00 PM","\*\*\*PERMANENTLY? Temporarily closed due to SLA and maybe own volition. Laura check back Black Emperor IG
+","SAT & SUN: 5:00 PM - 10:00 PM
+","sushibym@gmail.com",,,,,,,,,"EVCC",,
+569,"Unknown","MáLà Project","(212) 353-8880","https://www.malaproject.nyc/","Restaurants",40.727134,-73.985361,"122 1st Avenue, New York, NY 10009","Chinese","https://www.instagram.com/malaproject/","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"2020-12-16T05:00:00.000Z","12:00 PM","9:00 PM","Hours confirmed by phone, Currently closed due to  no indoor dining 
+",true,,,"SAT & SUN: 11:00 AM - 9:00 PM
+[Order ahead!](http://direct.chownow.com/order/8440/locations)
+
+","chloe@malaproject.nyc",,,,,,,"https://www.toasttab.com/Mala-Project/giftcards",,"EVCC",,
+568,"Closed","Ruffian x Black Emperor Bar",,,"Restaurants",40.731372,-73.986022,"197 2nd Avenue, New York,NY 10009","Bar","https://www.instagram.com/ruffiandoesdivebar","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","No","No","2020-08-11T04:00:00.000Z","2:00 PM","8:00 PM","\*\*\*PERMANENTLY? Temporarily closed due to SLA and maybe own volition. Laura check back Black Emperor IG
 ",true,,,"THU - SUN only
 ",,,"https://www.instagram.com/blackemperorbar/",,"Yes",,,,,"EVCC",,
-567,"Opened","Factory Tamal","(347)659-7098","https://www.factorytamal.com/","Restaurants",40.726889,-73.990761,"63 E. 4th Street New York, NY 10003","Mexican","https://www.instagram.com/factory_tamal/","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-10-14T04:00:00.000Z","10:00 AM","7:30 PM","
+567,"Opened","Factory Tamal","(347)659-7098","https://www.factorytamal.com/","Restaurants",40.726889,-73.990761,"63 E. 4th Street, New York, NY 10003","Mexican","https://www.instagram.com/factory_tamal/","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-12-16T05:00:00.000Z","10:00 AM","7:30 PM","Hours confirmed by phone 
 ",true,,,"Back after a short break!
 Our film, [FOOD OF LOVE / Tamale Man](https://www.instagram.com/p/CDbx0R-j3W7/), has been selected to be a part of the 2020 Food Film Festival! It’s the first part of a series featuring professional and home cooks who explore the role of love as an ingredient. 
-","factorytamal@gmail.com",,,,"Yes",,"https://www.gofundme.com/f/help-the-tamal-art-stay-in-business?sharetype=teams&member=3944286&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=99d5f92940234749847337f9c27762ef",,,"EVCC",,
+","factorytamal@gmail.com",,,,"Yes",,"https://www.gofundme.com/f/help-the-tamal-art-stay-in-business?sharetype=teams&member=3944286&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=99d5f92940234749847337f9c27762ef","https://squareup.com/gift/3X658GP7RDWNP/order",,"EVCC",,
 566,"Opened","Wash Rite Laundromat","212-598-1800",,"Laundry",40.72542,-73.98818,"112 E. 4th Street, New York, NY 10003","Laundromat",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes",,"2020-09-16T04:00:00.000Z","7:00 AM","9:00 PM","hours as per sign on door(old note) call back nate 12/16/20
 
 ",,,,"			
@@ -3021,9 +3025,10 @@ Dinner SUN: til 9:30 PM
 ",,"Yes","[Sign up](https://www.konacoffee.nyc/) for news, coffee tips & discount codes!
 ","Free shipping on coffee bean purchases via [website](https://www.konacoffee.nyc/)
 ","info@konacoffee.nyc",,,,,,,"http://konacoffee.nyc/gift-card",,"EVCC",,
-160,"Opened","Kolkata Chai Co.","(646) 892-3023","https://linktr.ee/kolkatachaico","Cafes and Desserts",40.722854,-73.983091,"199 E. 3rd Street, New York, NY 10009","Cafe","https://www.instagram.com/kolkatachaico/","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Yes","2020-11-24T05:00:00.000Z","10:00 AM","7:00 PM","IG is being updated
-",true,"Yes",,"SAT: 11:00 AM - 7:00 PM
-SUN: 11:00 AM- 6:00 PM 
+160,"Opened","Kolkata Chai Co.","(646) 892-3023","https://linktr.ee/kolkatachaico","Cafes and Desserts",40.722854,-73.983091,"199 E. 3rd Street, New York, NY 10009","Cafe","https://www.instagram.com/kolkatachaico/","{""id"":""usrNZKkhpQJhDmJua"",""email"":""jpaulgale@gmail.com"",""name"":""Paul Gale""}","Yes","Yes","2020-11-24T05:00:00.000Z","10:00 AM","7:00 PM","IG is being updated
+",true,"Yes",,"TUES - FRI: 10:00 AM - 6:00 PM
+SAT: 11:00 AM - 7:00 PM
+SUN: 10:00 AM- 6:00 PM 
 
 Click [here](https://kolkatachai.co/shop) for their online store, and get some chai shipped to your door!
 ",,,,,"Yes",,,"https://squareup.com/gift/PMYKXZNDB271S/order",,"EVCC",,
