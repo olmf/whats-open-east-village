@@ -218,8 +218,8 @@ Offering virtual performance parties
 "The Boilery ",1000,"2020-11-05T03:11:00.000Z","https://www.boilerynyc.com/east-village","Restaurants",40.73118,-73.98908,"58 3rd Avenue, New York, NY 10003","Yes","12:00 PM","Seafood","https://www.instagram.com/boilerynyc/?hl=en","10:30 PM","Website has info on EV location (not on IG)
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(646) 838-5556","FRI & SAT: noon - 11:30 PM
 ","Yes","info@boilerynyc.com",,"Yes",,,,,,,,,
-"3rd and Bzaar",999,"2020-11-28T02:30:00.000Z",,"Retail",40.72309,-73.9834,"191 E. 3rd Street, New York, NY 10009","Yes",,"Fashion,Gifts & Home","https://www.instagram.com/3rdandbzaar/",,"Nov 27 - Dec 24
-",true,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"Affordable holiday pop-up shop featuring independent merchants, makers and artists! Open through December 24
+"3rd and Bzaar",999,"2020-12-27T02:30:00.000Z",,"Retail",40.72309,-73.9834,"191 E. 3rd Street, New York, NY 10009","No",,"Fashion,Gifts & Home","https://www.instagram.com/3rdandbzaar/",,"Pop-up is temporarily closed, check back.
+",true,"2020-12-24","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"Affordable holiday pop-up shop featuring independent merchants, makers and artists! Open through December 24
 ",,,,,,,,,,,,,
 "? Salon",998,"2020-11-05T00:57:00.000Z",,"Services",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009",,,"Hair",,,"observed hair salon in former Tree Bistro space Laura check back
 ",,"2020-10-01","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,
@@ -802,8 +802,8 @@ SUN: 11:00 AM - 5:00 PM
 ",true,"2020-09-01","Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"(917) 482-3887","SUN: 1:00 PM - 6:00 PM 
 Now offering [Gift Cards](https://www.bakedcravings.com/collections/gifts-and-holiday-ideas/products/gift-card) on our website!
 ",," support@bakedcravings.com",,"Yes",,,true,,"https://www.bakedcravings.com/collections/gifts-and-holiday-ideas/products/gift-card",,"EVCC",,
-"Proletariot",810,"2020-12-22T06:02:00.000Z","https://www.proletariatny.com","Restaurants",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","Yes","4:00 PM ","Bar","https://www.instagram.com/proletariatny/?hl=en","10:00 PM","Temporarily closing 12/24, IG is being updated
-",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(833) 328-4588","Hibernating after service TUE & WED 12/22-23. Bring your own growler! 
+"Proletariot",810,"2020-12-22T06:02:00.000Z","https://www.proletariatny.com","Restaurants",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","No","4:00 PM ","Bar","https://www.instagram.com/proletariatny/?hl=en","10:00 PM","Temporarily closed, IG is being updated
+",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(833) 328-4588","
 
 ","Yes","INFO@PROLETARIATNY.COM ",,,,,,,,,"EVCC",,
 "I Love Panzerotti",809,"2020-12-21T05:53:00.000Z","https://www.ilovepanzerotti.com","Restaurants",40.66567,-73.69134,"130 St. Mark's Place, New York, NY 10009","Yes","6:00 PM","Italian","https://www.instagram.com/ilovepanzerotti/","10:00 PM","Confirmed Hours by Phone 	
@@ -1330,8 +1330,8 @@ Website offline for maintenance localclothingnyc.com
 ",,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"212-600-9279","SAT: 10:00 AM - 6:00 PM
 SUN 11:00 AM - 6:00 PM
 ",,,,,,,,,,,"EVCC",,
-"Makari Antiques & Fine Art",663,"2020-12-08T00:23:00.000Z","http://www.themakari.com/","Retail",40.73222,-73.98775,"97 3rd Avenue, New York NY 10003","Yes","12:00 PM","Gifts & Home",,"5:30 PM","confirmed hours by phone
-",true,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"(212) 995-5888","Open MON - SUN through December 24!
+"Makari Antiques & Fine Art",663,"2020-12-25T00:23:00.000Z","http://www.themakari.com/","Retail",40.73222,-73.98775,"97 3rd Avenue, New York NY 10003","Yes","12:00 PM","Gifts & Home",,"5:30 PM","\*\*\*update Jan 4, confirmed hours by phone
+",true,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(212) 995-5888","Closed Dec. 28 - Jan. 4
 ",,"info@themakari.com",,,,,,,,,"EVCC",,
 "Cafiero Select",662,"2020-12-08T00:23:00.000Z","www.cafieroselect.com","Retail",40.72517,-73.99044,"36 E. 2nd Street, New York, NY 10003","Yes","11:00 AM","Gifts & Home","https://www.instagram.com/p/CBvfvtYpH2y/","6:00 PM","confirmed hours by phone
 ",,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",," (212) 414-8821","Open MON - FRI with some irregular hours on weekends: call ahead!
@@ -1703,9 +1703,8 @@ Check [Facebook](https://www.facebook.com/CaravanofDreams) for updates!
 "Cafe Mogador",554,"2020-12-14T05:00:00.000Z","http://www.cafemogador.com/","Restaurants",40.727447,-73.984428,"101 St. Marks' Place, New York, NY 10009","Yes","10:15 AM","Mediterranean","https://www.instagram.com/cafemogadornyc/","9:15 PM","Hours confirmed by phone 
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(212) 677-2226","
 ","Yes","cafemogador101@gmail.com",,"Yes",,,,"https://www.gofundme.com/f/cafe-mogador-east-village-employee-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,"EVCC",,
-"Mighty Quinn's Barbeque",553,"2020-12-14T05:00:00.000Z","https://www.mightyquinnsbbq.com/","Restaurants",40.727606,-73.98866,"103 2nd Avenue, New York, NY 10003","Yes","12:00 PM","BBQ","https://www.instagram.com/mightyquinnsbbq/","9:30 PM","Hours confirmed by phone
-",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"(212) 677-3733","Holidays meals are now available for pickup on Dec 23rd and 24th
-Ships Nationwide
+"Mighty Quinn's Barbeque",553,"2020-12-25T05:00:00.000Z","https://www.mightyquinnsbbq.com/","Restaurants",40.727606,-73.98866,"103 2nd Avenue, New York, NY 10003","Yes","12:00 PM","BBQ","https://www.instagram.com/mightyquinnsbbq/","9:30 PM","Hours confirmed by phone
+",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(212) 677-3733","Shipping Nationwide!
 ","Yes","info@mightyquinnsbbq.com","Yes","Yes",,,,,"https://shop.mightyquinnsbbq.com/collections/frontpage/products/mighty-quinn-s-gift-card",,"EVCC",,
 "China Town",552,"2020-12-14T05:00:00.000Z","https://www.chinatownonhouston.com/","Restaurants",40.721935,-73.984324,"250 E. Houston Street, New York, NY 10002","Yes","11:00 AM","Chinese",,"11:00 PM","Hours confirmed by phone 
 ",true,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"(212) 529-9888","MON: Closed
@@ -2446,9 +2445,9 @@ FRI: ONLY by Appt for Custom Fragrance, 20% deposit required.
 "The Baroness Latex",357,"2020-11-30T05:00:00.000Z","www.baroness.com","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,"2:00 PM ","Fashion","https://www.instagram.com/latexbaroness/","7:00 PM","Confirmed Hours by Phone 
 ",true,,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"212-529-5964","SUN & MON: Closed
 ",,"Baroness@Baroness.com","Yes",,,,,,"https://store.baroness.com/giftcertificates.php",,"EVCC",,
-"Auh2o",356,"2020-11-30T05:00:00.000Z","www.auh2oshop.com","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","No","1:00 PM","Jewelry,Fashion","https://www.instagram.com/auh2oshop/","6:00 PM"," IG being updated, still shipping
+"Auh2o",356,"2020-12-26T05:00:00.000Z","www.auh2oshop.com","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","No",,"Jewelry,Fashion","https://www.instagram.com/auh2oshop/",," IG being updated, still shipping
 PERMANENTLY CLOSED. Longstanding business located at 84 E. 7th Street, New York, NY 10003 moving to Charlottesville, Virginia
-",true,"2006-10-01","Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","2020-10-01","(212) 466-0844","Look for us at [3rd and Bzaar](https://www.instagram.com/3rdandbzaar/) through December 24!  EV shop is closed, but we're still offering [online shopping](https://www.auh2oshop.com/)!
+",true,"2006-10-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2020-10-01","(212) 466-0844","Our EV shop is closed, but we still offer [online shopping](https://www.auh2oshop.com/)!
 
 ",,"auh2oshop@gmail.com","Yes","No","
 ","https://www.instagram.com/p/CE7MFF7DMeO/",,,"DM @auh2oshop or email auh2oshop@gmail.com ",,"EVCC",,
@@ -2675,7 +2674,7 @@ Order through the [website](https://www.thaidirectbowls.com/) for 20% off!
 "Tabetomo",291,"2020-12-07T05:00:00.000Z","https://www.tabetomonyc.com","Restaurants",40.72681257,-73.98317073,"131 Avenue A, New York, NY 10009","Yes","12:00 PM","Japanese","https://www.instagram.com/tabetomonyc/?hl=en","9:15 PM"," Confirmed by phone 
 ",true,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"(646) 850-6414","
 ","Yes","hello@tabetomonyc.com",,"Yes",,,,"https://www.feedyourhospital.org/partnerships/tabetomo",,,"EVCC",,
-"Sweet Generation",290,"2020-12-24T05:00:00.000Z","www.sweetgeneration.org","Cafes and Desserts",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","No","8:00 AM","Bakery","https://www.instagram.com/swtgeneration/","7:00 PM","PERMANENTLY CLOSED. reroute to brooklyn store
+"Sweet Generation",290,"2020-12-28T05:00:00.000Z","www.sweetgeneration.org","Cafes and Desserts",40.727349,-73.98519,"130 1st Avenue, New York, NY 10009","No","8:00 AM","Bakery","https://www.instagram.com/swtgeneration/","7:00 PM","EV location is PERMANENTLY CLOSED. 
 ",true,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"646-964-5777","SAT & SUN: 9:00 AM - 7:00 PM
 ",,"info@sweetgeneration.org",,,,,,,,,"EVCC",,
 "Supper",289,"2020-12-07T05:00:00.000Z","https://www.supperrestaurant.com","Restaurants",40.722962,-73.985208,"156 E. 2nd Street, New York, NY 10009","Yes","4:00 PM","Italian","https://www.instagram.com/suppernyc/","10:00 PM","IG is being updated, Confirmed via phone
