@@ -16,7 +16,7 @@
 "Via Della Pace",1090,"2021-01-05T02:28:00.000Z","Restaurants",,,"48 E 7th St, New York, NY 10003","No","Italian","https://www.instagram.com/viadellapace/","PERMANENTLY CLOSED after 2nd fire in less than one year. Moving to 87 E. 4th Street? 
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,"2020-02-10",,,"https://www.viadellapacenyc.com/",,,,,,,,,,,,
 "Cafe Tucano",1089,"2020-12-31T18:52:00.000Z","Restaurants",,,,,"Bar",,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,,,,
-"Niagara",1088,"2020-12-31T18:26:00.000Z","Restaurants",40.72589,-73.98347,"112 Avenue A, New York, NY, 10009","Yes","Bar","https://www.instagram.com/niagaranyc/","Pls do NOT like IG posts, IG & website are being updated
+"Niagara",1088,"2021-01-11T18:26:00.000Z","Restaurants",40.72589,-73.98347,"112 Avenue A, New York, NY, 10009","Yes","Bar","https://www.instagram.com/niagaranyc/","Pls do NOT like IG posts, IG & website are being updated
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(212) 420-9517","SAT & SUN: 11:00 AM - 10:00 PM
 ","3:00 PM","10:00 PM",,,"Yes","https://www.niagaranyc.com",,,,,,,,,,,,
 "Tompkins Square Bar",1087,"2020-12-31T18:26:00.000Z","Restaurants",40.72579,-73.98355,"110 Avenue A, New York, NY, 10009","Yes","Bar","https://www.instagram.com/tsb_nyc/","\*\*\*Call to confirm hours: IG is being updated, website has different hours
@@ -403,7 +403,7 @@ MON: Closed
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 473-4955","Call for appointments:
 (917) 689-5242 
 ","1:00 PM","7:00 PM",,true,,,,,,,,,,,,,,
-"Yo Sushi",958,"2020-12-22T19:08:00.000Z","Restaurants",40.724245,-73.988295,"84 E. 2nd Street, New York, NY 10003","Yes","Japanese",,"\*\*\*Hours confirmed by phone
+"Yo Sushi",958,"2020-12-22T19:08:00.000Z","Restaurants",40.724245,-73.988295,"84 E. 2nd Street, New York, NY 10003","Yes","Japanese",,"Hours confirmed by phone
 ","2020-10-08","Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 254-3200","Pickup Hours: 4:00 PM - 1:00 AM
 Delivery Hours: 4:00 PM - 11:59 PM
 ","4:00 PM","1:00 AM ",,true,,"https://yosushitogo.com/","Yes",,,,,,,,true,,,
@@ -470,10 +470,10 @@ Just opened! new coffee shop in the former Ciao for Now space
 ","1959-01-01","Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,,"2020-08-31",true,,,"No",,,,"https://evgrieve.com/2020/08/suns-laundry-closes-after-more-than-60.html",,,,,,,
 "Pado",941,"2020-10-10T00:57:00.000Z","Restaurants",40.73143,-73.985976,"199 2nd Avenue, New York, NY 10003","No","Japanese","https://www.instagram.com/padonyc/","PERMANENTLY CLOSED. Landlord wouldn't work with them, looking for another space. 
 ","2018-10-01","Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","(646)476-6101",,,,"2020-09-30",true,,,"No",,,,"https://evgrieve.com/2020/10/pado-is-closing-on-2nd-avenue.html",,,,,,,
-"Wild Project",940,"2020-12-23T01:31:00.000Z","Arts & Culture",40.72304,-73.98329,"195 E. 3rd Street, New York, NY 10009","Yes","Gallery","https://www.instagram.com/wildprojectnyc/","Theater is closed but streaming performances, gallery is open.
+"Wild Project",940,"2021-01-12T01:31:00.000Z","Arts & Culture",40.72304,-73.98329,"195 E. 3rd Street, New York, NY 10009","Yes","Gallery","https://www.instagram.com/wildprojectnyc/","Theater is closed but streaming performances, gallery is open.
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","212-228-1195","
 ",,,,true,,"http://thewildproject.com/",,"Yes","info@thewildproject.org",,,,"https://charity.gofundme.com/donate/charity/wildprojectproductionsincwildproject",,true,,,
-"Modern Love Club",939,"2020-12-23T01:27:00.000Z","Arts & Culture",40.728378,-73.984322,"156 1st Avenue, New York, NY 10009","No","Gallery","https://www.instagram.com/modernloveclub/","PERMANENTLY CLOSED October 2020, dating service operating online. Hope to find another EV club house when it makes sense.
+"Modern Love Club",939,"2021-01-12T01:27:00.000Z","Arts & Culture",40.728378,-73.984322,"156 1st Avenue, New York, NY 10009","No","Gallery","https://www.instagram.com/modernloveclub/","PERMANENTLY CLOSED October 2020, dating service operating online. Hope to find another EV club house when it makes sense.
 ","2016-10-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","857.410.0088","Matchmaking service is operating online!
 The club house gallery is closed. 
 
@@ -485,8 +485,8 @@ The club house gallery is closed.
 "Town & Country Flowers",935,"2021-01-05T08:41:00.000Z","Services",40.72895,-73.97875,"549 E. 13th Street, New York, NY 10009","Yes","Florist","https://www.instagram.com/onehourflowers/?hl=en","Hours confirmed by phone 
 ",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","212-529-1179","SUN: Closed 
 ","9:00 AM","6:00 PM",,true,,"http://1hourflowers.com","Yes","Yes",,,,,,,,,,
-"Atelier Sucre",934,"2021-01-05T22:06:00.000Z","Cafes and Desserts",40.726484,-73.984972,"104 E. 7th Street, New York, NY 10009","Yes","Bakery","https://www.instagram.com/ateliersucre_ny/?hl=en","\*\*\*Call to confirm hours, Called no answer via nate 
-",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(646) 450-5406","
+"Atelier Sucre",934,"2021-01-05T22:06:00.000Z","Cafes and Desserts",40.726484,-73.984972,"104 E. 7th Street, New York, NY 10009","Yes","Bakery","https://www.instagram.com/ateliersucre_ny/?hl=en","Studio Kitchen, by appointment only.
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(646) 450-5406","Check out [our Instagram](https://www.instagram.com/ateliersucre_ny/?hl=en) for this weekend's classes! By appointment only!
 ",,,,,,"https://www.ateliersucreny.com/new-york-workshops","Yes",,"info@ateliersucreny.com",,,,,,,,,
 "Today's Cut",933,"2021-01-07T07:38:00.000Z","Services",40.72614,-73.98364,"133 E. 7th Street, New York, NY 10009","Yes","Hair",,"Hours confirmed by Phone 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","212-777-3469","
@@ -497,14 +497,14 @@ Starting 11/11: seatings at 5:30 and 8:30 PM
 Pre-orders on select a la carte items.
 MON - SUN: Closed
 ","5:30 PM","9:00 PM",,true,,"https://www.exploretock.com/tsukimi/","Yes",,"info@tsukimi.nyc",,,,,,,,,
-"Tokyo Joe Eco-nsignment Boutique",931,"2021-01-06T03:50:00.000Z","Retail",40.72952,-73.98482,"334 E. 11th Street, New York, NY 10009","Yes","Vintage","https://www.instagram.com/eco_nsignment_boutique/?hl=en","Called to confirm hours
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","(212) 473-0724","FRI - SUN: noon - 8:00PM
+"Tokyo Joe Eco-nsignment Boutique",931,"2021-01-12T03:50:00.000Z","Retail",40.72952,-73.98482,"334 E. 11th Street, New York, NY 10009","Yes","Vintage","https://www.instagram.com/eco_nsignment_boutique/?hl=en","Called to confirm hours
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(212) 473-0724","FRI - SUN: noon - 8:00PM
 Newly renovated!
-","1:00 PM","7:30 PM",,true,,"https://eco-nsignmentboutique.online",,,,,,,,,,,,
-"Here Nor There",930,"2021-01-05T05:47:00.000Z","Retail",40.7289711,-73.986315,"315 E. 9th Street, New York, NY 10003","Yes","Fashion","https://www.instagram.com/herenortherenyc/","Called to confirm hours
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"SAT: 11:00 PM - 8:00 PM
+","1:00 PM","7:30 PM",,true,,"https://eco-nsignmentboutique.online",,,"eco.nsignment.boutique@gmail.com",,,,,,,,,
+"Here Nor There",930,"2021-01-11T05:47:00.000Z","Retail",40.7289711,-73.986315,"315 E. 9th Street, New York, NY 10003","Yes","Fashion","https://www.instagram.com/herenortherenyc/","Called to confirm hours
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"SAT: 11:00 PM - 8:00 PM
 Message on [Instagram](https://www.instagram.com/herenortherenyc/) for same day delivery!
-","11:00 PM","7:00 PM ",,true,,"https://herenortherenyc.com/","Yes",,,,,,,,,,,
+","11:00 PM","7:00 PM ",,true,,"https://herenortherenyc.com/","Yes",,"hello@herenortherenyc.comort\",,,,,,,,,
 "Phebe's",929,"2020-12-03T02:08:00.000Z","Restaurants",40.726861,-73.991333,"361 Bowery New York, NY 10003","No","Bar,American",,"Temporarily Closed 
 ","1968-01-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(212) 358-1902","
 ","12:00 PM","11:30 PM",,,"Yes","www.phebesnyc.com",,,"phebes@me.com",,"https://evgrieve.com/2020/12/phebes-has-decided-to-close-for-now.html",,,,,,,
@@ -522,8 +522,8 @@ Orders can be placed [online](https://www.murphysdoorcafe.com/).
 ","4:00 PM ","10:00 PM",,,"Yes","https://thewinslownyc.com","Yes",,"info@thewinslownyc.com",,,,,,,,,
 "The Original Mee Noodle Shop & Grill",923,"2021-01-07T23:44:00.000Z","Restaurants",40.7309723,-73.9830444,"223 1st Avenue, New York, NY 10003","Yes","Chinese",,"Hours confirmed by Phone 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 260-7838",,"11:30 AM","9:30 PM",,,"No",,"Yes",,,,,,,,,,,
-"Mister Paradise",921,"2020-10-23T05:09:00.000Z","Restaurants",40.72683,-73.98633,"105 1st Avenue, New York, NY 10003","Yes","American","https://www.instagram.com/misterparadisenyc/","\*\*\*Laura walk by
-",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","N/A",,"4:00 PM",,,true,"Yes","https://www.misterparadisenyc.com","Yes",,"hello@misterparadisenyc.com. ",,,,,,,,,
+"Mister Paradise",921,"2021-01-11T06:09:00.000Z","Restaurants",40.72683,-73.98633,"105 1st Avenue, New York, NY 10003","Yes","American","https://www.instagram.com/misterparadisenyc/","IG is Current 
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","N/A",,"4:00 PM","10:00 PM",,true,"Yes","https://www.misterparadisenyc.com","Yes",,"hello@misterparadisenyc.com. ",,,,,,,,,
 "The Copper Still",920,"2020-12-16T05:44:00.000Z","Restaurants",40.72963,-73.98736,"151 2nd Avenue, New York, NY 10003","No","Bar","https://www.instagram.com/thecopperstill_nyc/","Temporarily closed						
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"FRI & SAT: noon - midnight
 ","4:00 PM","10:00 PM",,,"Yes","http://www.thecopperstillnyc.com","No",,,,,,,,,,,
