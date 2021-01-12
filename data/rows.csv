@@ -3762,16 +3762,16 @@ SUN: closed
 "Atomic Wings",25,"2020-11-18T05:00:00.000Z","Restaurants",40.729415,-73.983584,"184 1st Avenue, New York, NY 10009","Yes","Wings","https://www.instagram.com/atomicwings/","IG is being updated
 confirmed hours by phone call 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 774-9464",,"11:00 AM","11:00 PM",,,,"https://www.atomicwings.com/locations","Yes",,"info@atomicwings.com",,,,,,,"EVCC",,
-"Atmi",24,"2020-11-18T05:00:00.000Z","Retail",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY 10003","Yes","Wine","https://www.instagram.com/atmiliquor/","			EVCC
+"Atmi",24,"2020-11-18T05:00:00.000Z","Retail",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY 10003","Yes","Wine","https://www.instagram.com/atmiliquor/","	information on hours  was not provided called 1/12	EVCC
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","212-228-5811","	
 ","11:00 AM","12:00 AM",,,,,"Yes",,,,,,,,,"EVCC",,
 "Atlas Cafe",23,"2020-09-12T04:00:00.000Z","Cafes and Desserts",40.72651,-73.989528,"73 2nd Avenue, New York, NY 10003","No","Cafe",,"PERMANENTLY CLOSED September 2020 
 ","1999-01-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","212-539-0966","Delivery, Takeout hrs: 10AM-10:45PM
 ","8:00 AM","11:00 PM","2020-09-01",,,,,,,,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html",,,,,"EVCC",,
-"Artichoke",22,"2020-11-18T05:00:00.000Z","Restaurants",40.73209569,-73.98390824,"321 E. 14th Street, New York, NY 10003","Yes","Pizza",,"Website is being updated, omit IG (it's for all locations, not EV) 
+"Artichoke",22,"2021-01-12T05:00:00.000Z","Restaurants",40.73209569,-73.98390824,"321 E. 14th Street, New York, NY 10003","Yes","Pizza",," Hours confirmed by phone Website is being updated, omit IG (it's for all locations, not EV) 
 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(212) 228-2004","Pickup is available directly through our website. 		
-","11:00 AM","11:00 PM",,,,"https://www.artichokepizza.com","Yes",,,,,,,,,"EVCC",,
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 228-2004","Pickup is available directly through our website. 		
+","11:00 AM","4:00 PM",,,,"https://www.artichokepizza.com","Yes",,,,,,,,,"EVCC",,
 "Arjun Mehta, DMD",21,"2020-11-18T05:00:00.000Z","Health",40.720624,-73.978509,"17 Avenue D, New York, NY 10009","Yes","Dental","https://www.instagram.com/dr.arjunmehta/?hl=en","Hours Confirmed By Website 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","212-674-1588","TUE & WED: 11:00 AM - 7:00 PM
 SAT: 11:00 AM - 4:00 PM
@@ -3782,13 +3782,14 @@ CLOSED: SUN, MON, THURS, FRI
 MON & TUE: Closed
 ","3:00 PM ","9:00 PM",,,,"https://www.amoryamargony.com","Yes",,"info@amoryamargo.com","
 ","https://evgrieve.com/2020/12/ravi-derossi-temporarily-closing-his.html",,"Enamel Pins!",,,"EVCC",,
-"Ahimsa Garden",19,"2020-11-18T05:00:00.000Z","Restaurants",40.728505,-73.983187,"265 E. 10th Street, New York, NY 10009","Yes","Middle Eastern","https://www.instagram.com/ahimsagarden/?hl=en","IG is being updated
+"Ahimsa Garden",19,"2021-01-12T05:00:00.000Z","Restaurants",40.728505,-73.983187,"265 E. 10th Street, New York, NY 10009","Yes","Middle Eastern","https://www.instagram.com/ahimsagarden/?hl=en","IG is being updated, Hours confirmed by phone 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 228-2022","FRI & SAT: 11:00 AM - 10:00 PM
-","11:00 AM","10:00 PM",,,"Yes","https://ahimsagarden.com","Yes",,"ahimsagarden@gmail.com",,,,,"https://squareup.com/gift/5TJQFZH016DZD/order",,"EVCC",,
-"Alphabet Scoop",18,"2020-11-18T05:00:00.000Z","Cafes and Desserts",40.727884,-73.979868,"543 E. 11th Street, New York, NY 10009","Yes","Ice Cream","https://www.instagram.com/alphabetscoopny/","IG and Website are being updated
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(212) 982-1422","WED - SUN Only Delivery from UberEats, DoorDash, ezCater
-","2:00 PM","10:00 PM",,,,"https://www.alphabetscoopny.com/covid19","Yes",,"scoop@fathersheartnyc.org, robvedral@fathersheartnyc.org",,,,"https://chuffed.org/project/alphabetscoop",,,"EVCC",,
-"Alphabet City Wine Co.",17,"2020-11-16T05:00:00.000Z","Retail",40.72381563,-73.97885955,"100 Avenue C, New York, NY 10009","Yes","Wine","https://www.instagram.com/abcwineco/","IG is being updated
+","11:00 AM","10:00 PM",,,"Yes","https://ahimsagarden.com","Yes",,"ahimsagarden@gmail.com","[Save on all pick up orders.](https://www.ahimsausa.com/)
+",,,,"https://squareup.com/gift/5TJQFZH016DZD/order",,"EVCC",,
+"Alphabet Scoop",18,"2021-01-12T05:00:00.000Z","Cafes and Desserts",40.727884,-73.979868,"543 E. 11th Street, New York, NY 10009","Yes","Ice Cream","https://www.instagram.com/alphabetscoopny/","IG and Website are being updated
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 982-1422","WED - SUN Only Delivery from UberEats, DoorDash, ezCater
+","2:00 PM","9:00 PM",,,,"https://www.alphabetscoopny.com/covid19","Yes",,"scoop@fathersheartnyc.org, robvedral@fathersheartnyc.org",,,,"https://chuffed.org/project/alphabetscoop",,,"EVCC",,
+"Alphabet City Wine Co.",17,"2021-01-12T05:00:00.000Z","Retail",40.72381563,-73.97885955,"100 Avenue C, New York, NY 10009","Yes","Wine","https://www.instagram.com/abcwineco/","IG is being updated
 Confirmed by phone
 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","212-505-9463","[Order ahead](https://www.abcwinecompany.com/s/shop) for Pick Up or Delivery!
@@ -3802,7 +3803,7 @@ Confirmed by phone
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(646) 422-7103","FRI - SUN: 12:00 PM - 2:00 AM
 LGBTQ Friendly 
 ","12:00 PM","12:00 AM",,,"Yes","www.abcbeerco.com","Yes","Yes","abcbeerco@gmail.com",,,,,"https://squareup.com/gift/SZ73TNJVQN9NB/order",,"EVCC",,
-"Alice Dry Cleaners",15,"2020-11-16T05:00:00.000Z","Laundry",40.72622,-73.988959,"74 2nd Avenue, New York, NY 10003","Yes","Cleaners",,"Hours Confirmed by Phone 
+"Alice Dry Cleaners",15,"2021-01-12T05:00:00.000Z","Laundry",40.72622,-73.988959,"74 2nd Avenue, New York, NY 10003","Yes","Cleaners",,"Hours Confirmed by Phone 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","(212) 673-7434","Dry cleaning and laundry, no self-service
 Sunday Closed
 SAT - 8:00 AM 5:00 PM
