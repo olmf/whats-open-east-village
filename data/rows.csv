@@ -1,4 +1,5 @@
 "id","Status","Last modified by","Name","Last Updated","Phone","Website","Category","Latitude","Longitude","Address","Pickup Offered","Sub Categories","Instagram","Delivery Offered","Spreadsheet Update Notes","MWBE","Outside Seating Offered","Email","Notes","Shipping Offered","Opening Date","Source","Open Time","Close Time","Special Offers","Closure Date","Giftcard","Black Owned Business","Fundraiser","LGBTQ","Contributor","Special Accommodation Hours","Update Requests"
+1133,"Unknown",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1132,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1131,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Little Poland","2021-02-09T00:05:00.000Z","(212) 777-9728","http://www.littlepolandnyc.com/","Restaurants",40.73117,-73.98554,"200 2nd Avenue, New York, NY 10003","No","Diner","https://www.instagram.com/littlepoland_nyc/",,,,,,,,,,,,,,,,,,,,
 1130,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Plantmade","2021-02-09T00:05:00.000Z",,,"Restaurants",,,,,"Vegan",,,,,,,,,,,,,,,,,,,,,
@@ -457,9 +458,9 @@ Click [here](https://locations.theupsstore.com/ny/new-york/108-1st-ave) for last
 968,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Los Tacos NYC","2021-01-04T17:51:00.000Z","(646) 370-5211","https://lostacosnyc.business.site/?utm_source=gmb&utm_medium=referral","Restaurants",40.726612,-73.984363,"117 E. 7th Street, New York, NY 10009","Yes","Mexican","https://www.instagram.com/lostacosnyc","Yes","Hours confirmed on website 
 ",,,"info@lostaconyc.com",,,"2020-10-23",,"11:00 AM","10:00 AM",,,,,,,,,
 967,"Unknown","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Ding-A-Ling Cocktail Lounge","2021-01-05T01:57:00.000Z",,,"Restaurants",40.724319,-73.978508,"116 Avenue C, New York, NY 10009",,"Bar","https://www.instagram.com/dingalingcocktaillounge/",,"Waiting for 50% occupancy guideline (from the team behind Kind Regards), Laura check back
-",,,,,,,,,,,,,,,,,,
+",,,"mikey@dingalingnyc.com",,,,,,,,,,,,,,,
 966,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Anine","2021-01-05T01:45:00.000Z","(917) 865-9474",,"Services",40.7275,-73.98293,"443 E. 9th Street, New York, NY 10009","Yes","Eyelash Spa","https://www.instagram.com/anine_ev/",,"IG is being updated
-",true,,,"By appointment only 		
+",true,,"lashfarm14@gmail.com","By appointment only 		
 ",,,,,,,,,,,,,,
 965,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","TBG Space","2020-10-22T21:30:00.000Z","917-407-7386","http://www.theresabyrnes.com/","Arts & Culture",40.72584,-73.97951,"616 E. 9th Street, New York, NY 10009",,"Gallery","https://www.instagram.com/theresabyrnes/",,"PERMANENTLY CLOSED after over 10 years at this location.
 ",true,,,"TBG Space is closed. Teresa Byrnes is artist-in-residence at [Grace Exhibition Space](https://www.grace-exhibition-space.com/) through May 2021!
@@ -469,9 +470,9 @@ Click [here](https://locations.theupsstore.com/ny/new-york/108-1st-ave) for last
 
 
 ",,,,,,,,"https://beetlehousenyc.com/",,,,,,
-963,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Tree Bistro","2020-10-19T06:52:00.000Z",,,"Restaurants",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009","No","American","https://www.instagram.com/treebistro/?hl=en",,"PERMANENTLY CLOSED. Did not reopen after fire & pandemic, hair salon observed October 2020.
-",,,,,,,,,,,"2019-12-31",,,,,,,
-962,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Temakase","2020-12-22T07:41:00.000Z","(917) 681-8206","https://temakaseny.com","Restaurants",40.72976,-73.98724,"157 2nd Avenue, New York, NY 10003","Yes","Japanese","https://www.instagram.com/temakase/","Yes","IG & website are being updated
+963,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Tree Bistro","2020-10-19T06:52:00.000Z",,,"Restaurants",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009","No","American","https://www.instagram.com/treebistro/?hl=en",,"PERMANENTLY CLOSED. Did not reopen after fire & pandemic, hair salon observed October 2020.
+",,,"info@treebistro.com",,,,,,,,"2019-12-31",,,,,,,
+962,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Temakase","2021-02-09T07:41:00.000Z","(917) 681-8206","https://temakaseny.com","Restaurants",40.72976,-73.98724,"157 2nd Avenue, New York, NY 10003","Yes","Japanese","https://www.instagram.com/temakase/","Yes","IG & website are being updated
 Hours confirmed. take out only
 ",true,,"temakasedigital@gmail.com","Open for take out from 12:00 PM - 10:00 PM
 ",,,,"5:00 PM","11:00 PM",,,,,,,,,
@@ -530,10 +531,10 @@ Last appointment 7:00 PM
 SUN: 1:00 PM - 10:00 PM
 open only for private events 
 ",,,,,,,,,,,,,,
-948,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","&+ Hair Lounge","2020-12-23T03:32:00.000Z","(212) 966-2066","http://hair-lounge-nyc.edan.io/","Services",40.7296,-73.98869,"214 E. 9th Street, New York, NY 10003","Yes","Hair","https://www.instagram.com/hairloungenyc/?hl=en",,"moved from 335 to 214 E. 9th , Hours confirmed by phone 
+948,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","&+ Hair Lounge","2021-02-10T03:32:00.000Z","(212) 966-2066","http://hair-lounge-nyc.edan.io/","Services",40.7296,-73.98869,"214 E. 9th Street, New York, NY 10003","Yes","Hair","https://www.instagram.com/hairloungenyc/?hl=en",,"moved from 335 to 214 E. 9th , Hours confirmed by phone 
 ",,,,"Planning appointments recommended 
 ",,,,"11:00 AM","8:00 PM",,,,,,,,,
-947,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Taqueria St. Marks","2020-12-22T03:08:00.000Z","(646) 964-5614","https://www.facebook.com/taqueria.stmarksplace","Restaurants",40.72784607356,-73.98559401719932,"79 St. Mark's Place, New York, NY 10003","No","Mexican","https://www.instagram.com/taqueria.stmarksplace/?hl=en",,"Temporarily closed as per IG hours as per sign on door				
+947,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Taqueria St. Marks","2021-02-10T03:08:00.000Z","(646) 964-5614","https://www.facebook.com/taqueria.stmarksplace","Restaurants",40.72784607356,-73.98559401719932,"79 St. Mark's Place, New York, NY 10003","No","Mexican","https://www.instagram.com/taqueria.stmarksplace/?hl=en",,"Temporarily closed as per IG hours as per sign on door				
 ",,"Yes",,"SAT & SUN: noon - 10:00 PM	
 ",,,,"4:00 PM ","10:00 PM",,,,,,,,,
 946,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Sanpoutei ","2021-02-09T03:01:00.000Z","646) 964-4357","http://www.sanpoutei.com/","Restaurants",40.726922,-73.988564,"92 2nd Avenue, New York, NY 10003","No","Japanese",,,"PERMANENTLY CLOSED. Location listed for rent 10/10/20, website down 2/8/21
@@ -542,9 +543,9 @@ open only for private events
 945,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","All the King's Horses ATKH Cafe","2021-01-19T02:50:00.000Z",,,"Cafes and Desserts",40.7288,-73.98008,"521 E. 12th Street, New York, NY 10009","Yes","Cafe","https://www.instagram.com/atkhcafe/","Yes","IG is being updated, check hours Feb. 1
 ",,,,"
 ",,"2020-10-21","https://www.instagram.com/p/CJi3XEGjm0U/","8:00 AM","3:00 PM",,,,,,,,,
-944,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Kyuramen","2021-02-09T02:42:00.000Z","(646) 692-4120","https://www.kyuramen.com/locations","Restaurants",40.73282,-73.98681,"210 E. 14th Street, New York, NY 10003","Yes","Taiwanese","https://www.instagram.com/kyuramen.usq/","Yes","IG is current
+944,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Kyuramen","2021-02-09T02:42:00.000Z","(646) 692-4120","https://www.kyuramen.com/locations","Restaurants",40.73282,-73.98681,"210 E. 14th Street, New York, NY 10003","Yes","Taiwanese","https://www.instagram.com/kyuramen.usq/","Yes","IG is current
 International CHAIN: only 5 US stores.		
-",true,,,,,"2021-02-01",,"11:00 AM","11:00 PM","
+",true,,"kyuramen.usq@gmail.com",,,"2021-02-01",,"11:00 AM","11:00 PM","
 
 
 ",,,,,,,,
@@ -553,8 +554,8 @@ International CHAIN: only 5 US stores.
 ",,"2020-10-01",,"3:00 PM ","8:00 PM",,,,,,,,,
 942,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","Sun's Laundry","2020-09-01T01:12:00.000Z",,,"Laundry",40.728686,-73.976978,"626 E. 14th Street, New York, NY 10009","No","Cleaners",,"No","PERMANENTLY CLOSED. Did not reopen after pandemic.			
 ",true,,,,,"1959-01-01","https://evgrieve.com/2020/08/suns-laundry-closes-after-more-than-60.html",,,,"2020-08-31",,,,,,,
-941,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","Pado","2020-10-10T00:57:00.000Z","(646)476-6101",,"Restaurants",40.73143,-73.985976,"199 2nd Avenue, New York, NY 10003","No","Japanese","https://www.instagram.com/padonyc/","No","PERMANENTLY CLOSED. Landlord wouldn't work with them, looking for another space. 
-",true,,,,,"2018-10-01","https://evgrieve.com/2020/10/pado-is-closing-on-2nd-avenue.html",,,,"2020-09-30",,,,,,,
+941,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Pado","2020-10-10T00:57:00.000Z","(646)476-6101",,"Restaurants",40.73143,-73.985976,"199 2nd Avenue, New York, NY 10003","No","Japanese","https://www.instagram.com/padonyc/","No","PERMANENTLY CLOSED. Landlord wouldn't work with them, looking for another space. 
+",true,,"padonyc@gmail.com",,,"2018-10-01","https://evgrieve.com/2020/10/pado-is-closing-on-2nd-avenue.html",,,,"2020-09-30",,,,,,,
 940,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Wild Project","2021-01-12T01:31:00.000Z","212-228-1195","http://thewildproject.com/","Arts & Culture",40.72304,-73.98329,"195 E. 3rd Street, New York, NY 10009","Yes","Gallery","https://www.instagram.com/wildprojectnyc/",,"Theater is closed but streaming performances, gallery is open.
 ",true,,"info@thewildproject.org","
 ","Yes",,,,,,,,,"https://charity.gofundme.com/donate/charity/wildprojectproductionsincwildproject",true,,,
@@ -565,8 +566,8 @@ The club house gallery is closed.
 ","Yes","2016-10-01","https://evgrieve.com/2020/10/the-modern-love-club-giving-up-its-1st.html",,,,"2020-10-25",,,,,,,
 938,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","C & C Dry Cleaning ","2020-10-10T00:23:00.000Z",,,"Laundry",40.725086,-73.981673," 178 E. 7th Street, New York, NY 10009","No","Cleaners",,,"PERMANENTLY CLOSED	(at this location at least 10 years). C & B Cafe is expanding into this space Dec. 2020
 ",true,,,,,,"https://evgrieve.com/2020/10/c-c-dry-cleaning-closes-on-7th-street.html",,,,"2020-10-01",,,,,,,
-937,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Tokio7","2020-12-23T01:16:00.000Z","212-353-8443 ","https://tokio7ny.com/","Retail",40.72737,-73.98607,"83 E. 7th Street, New York, NY 10003",,"Vintage","https://www.instagram.com/tokio7ny/",,"Shop is only open for consignment appointments, online opened 1/19/21
-",true,,,"Online only! Consignment appointments starting soon!
+937,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Tokio7","2020-12-23T01:16:00.000Z","212-353-8443 ","https://tokio7ny.com/","Retail",40.72737,-73.98607,"83 E. 7th Street, New York, NY 10003",,"Vintage","https://www.instagram.com/tokio7ny/",,"Shop is only open for consignment appointments, online opened 1/19/21
+",true,,"tokio7@tokio7ny.com","Online only! Consignment appointments starting soon!
 ","Yes",,"https://evgrieve.com/2020/09/a-return-for-tokio7.html",,,,,,,,,,,
 935,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","Town & Country Flowers","2021-01-05T08:41:00.000Z","212-529-1179","http://1hourflowers.com","Services",40.72895,-73.97875,"549 E. 13th Street, New York, NY 10009","Yes","Florist","https://www.instagram.com/onehourflowers/?hl=en","Yes","Hours confirmed by phone 
 ",true,,,"SUN: Closed 
@@ -611,7 +612,7 @@ Orders can be placed [online](https://www.murphysdoorcafe.com/).
 921,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Mister Paradise","2021-01-11T06:09:00.000Z","N/A","https://www.misterparadisenyc.com","Restaurants",40.72683,-73.98633,"105 1st Avenue, New York, NY 10003","Yes","American","https://www.instagram.com/misterparadisenyc/","Yes","IG is Current 
 ",true,"Yes","hello@misterparadisenyc.com. ",,,,,"4:00 PM","10:00 PM",,,,,,,,,
 920,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","The Copper Still","2021-02-08T05:44:00.000Z",,"http://www.thecopperstillnyc.com","Restaurants",40.72963,-73.98736,"151 2nd Avenue, New York, NY 10003","No","Bar","https://www.instagram.com/thecopperstill_nyc/","No","Temporarily closed						
-",,"Yes",,"FRI & SAT: noon - midnight
+",,"Yes","thecopperstillnyc@gmail.com","FRI & SAT: noon - midnight
 ",,,,"4:00 PM","10:00 PM",,,,,,,,,
 919,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Jackdaw","2021-01-07T05:11:00.000Z","(212) 507-9333","https://www.jackdawnyc.com","Restaurants",40.7319,-73.98564,"213 2nd Avenue, New York, NY 10003","Yes","Bar","https://www.instagram.com/jackdawnyc/","Yes","IG is Current 
 ",,"Yes","info@jackdaw.com","SAT & SUN: 11:00 AM - 10:00 PM
@@ -627,8 +628,8 @@ Order through their [website](https://www.virginiasnyc.com/).
 ",,,,"
 
 ",,,,"11:00 AM ","9:00 PM",,,,,,,,,
-916,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","Nostro","2020-09-30T16:07:00.000Z",,,"Restaurants",40.72657,-73.989479,"75 2nd Avenue, New York, NY 10003","No","Italian","https://www.instagram.com/nostro_ev/?hl=en",,"PERMANENTLY CLOSED
-",,,,,,"2019-10-30",,,,,"2020-07-30",,,,,,,
+916,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Nostro","2020-09-30T16:07:00.000Z",,,"Restaurants",40.72657,-73.989479,"75 2nd Avenue, New York, NY 10003","No","Italian","https://www.instagram.com/nostro_ev/?hl=en",,"PERMANENTLY CLOSED
+",,,"info@bistro731nyc.com",,,"2019-10-30",,,,,"2020-07-30",,,,,,,
 915,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","DIA","2020-09-30T16:04:00.000Z","(917) 675-7664","http://dia-nyc.com","Restaurants",40.725665,-73.989413,"58 2nd Avenue, New York, NY 10003","No","Italian,Pizza",,,"PERMANENTLY CLOSED
 ",,,,"
 ",,"2018-09-01","https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html",,,,"2020-05-01",,,,,,,
