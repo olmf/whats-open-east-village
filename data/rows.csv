@@ -3283,9 +3283,9 @@ SUN: Closed
 
 ","2017-03-01","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"EV location closed.			
 ","https://www.instagram.com/littletongnyc/",,"https://www.gofundme.com/f/little-tong-family-fund",,,,true,,,,"2020-04-30",,,"EVCC",,
-173,"Opened","Lil' Frankie's",,"2021-01-20T05:00:00.000Z","212 420-4900","Restaurants",40.723604,-73.988501,"19 1st Avenue, New York, NY 10003","Yes","11:00 AM","Italian","10:00 PM","Confirmed Hours by Phone 
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.lilfrankies.com/","
-","https://www.instagram.com/lilfrankies/?hl=en","Yes",,,"Yes",,,,,,,,,"EVCC",,
+173,"Opened","Lil' Frankie's",,"2021-02-17T05:00:00.000Z","212 420-4900","Restaurants",40.723604,-73.988501,"19 1st Avenue, New York, NY 10003","Yes","11:00 AM","Italian","10:00 PM","Confirmed Hours by Phone 
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lilfrankies.com/","
+","https://www.instagram.com/lilfrankies/?hl=en","Yes",,,"Yes",,,,"Yes",,,,,"EVCC",,
 172,"Closed","Lower East Side Coffee Shop","https://evgrieve.com/2021/02/the-marshal-seizes-lower-east-side.html","2021-02-05T05:00:00.000Z","212-260-5842","Restaurants",40.730343,-73.980756,"442 E. 14th Street, New York, NY 10009","No","6:00 AM","American,Diner","8:00 PM","Marshall's notice 2/5/21	 		
 ","2008-01-01","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.lowereastsidecoffeenyc.com/","
 ",,"Yes",,,,,,,,,"2021-02-05",,,"EVCC",,
@@ -3294,11 +3294,12 @@ SUN: Closed
 ","2018-01-01","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://nyclesia.com/","EV location PERMANENTLY CLOSED. 	
 
 ","https://www.instagram.com/lesia_nyc/",,,,"No",,true,,,,"2020-07-01",,,"EVCC",,
-170,"Opened","Le Petit Parisien",,"2021-01-20T05:00:00.000Z","(917) 262-0406","Cafes and Desserts",40.728288,-73.989098,"32 E. 7th Street, New York, NY 10003","Yes","8:30 AM","Cafe,Bakery","6:30 PM","Confirmed hours by phone, website is being updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.lepetitparisienusa.com/","SAT & SUN: 9:00 AM - 6:00 PM
-","https://www.instagram.com/lepetitparisiennyc/",,,,"Yes",,,,,,,,true,"EVCC",,
-169,"Opened","Le Fournil",,"2021-01-20T05:00:00.000Z",,"Cafes and Desserts",40.72789749,-73.98841804,"115 2nd Avenue, New York, NY 10003","Yes","8:30 AM","Bakery,Cafe,Specialty Market","7:30 PM","IG is being updated, Confirmed hours by phone 	
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lefournilnyc.com","SUN: 8:30 AM - 6:00 PM
+170,"Opened","Le Petit Parisien",,"2021-02-17T05:00:00.000Z","(917) 262-0406","Cafes and Desserts",40.728288,-73.989098,"32 E. 7th Street, New York, NY 10003","Yes","8:30 AM","Cafe,Bakery","6:30 PM","Confirmed hours by phone, IG is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lepetitparisienusa.com/","SAT & SUN: 9:00 AM - 6:00 PM
+","https://www.instagram.com/lepetitparisiennyc/",,,,"Yes","hello32@lepetitparisienusa.com",,,,,,,true,"EVCC",,
+169,"Opened","Le Fournil",,"2021-02-17T05:00:00.000Z",,"Cafes and Desserts",40.72789749,-73.98841804,"115 2nd Avenue, New York, NY 10003","Yes","8:30 AM","Bakery,Cafe,Specialty Market","7:30 PM","IG is current, Confirmed hours by phone 	
+\*\*\*website expired message 2/17/21 https://www.lefournilnyc.com/
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"SUN: 8:30 AM - 6:00 PM
 MON: Closed
 Check out our French Market!
 ","https://www.instagram.com/lefournilnyc/?hl=en",,,,"Yes","lefournil96@gmail.com",,,,,,,,"EVCC",,
@@ -3318,81 +3319,81 @@ SUN: Closed
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.ladybirdny.com","SAT: 2:00 PM - 11:00 PM
 SUN: 2:00 PM - 10:00 PM
 ","https://www.instagram.com/ladybird_nyc/","Yes",,,,,,,"Yes",,,"http://www.derossiglobal.com/products/giftcertificate/buy",,"EVCC",,
-164,"Opened","La Palapa",,"2021-02-01T05:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Mark's Place, New York, NY 10003","Yes","12:00 PM","Mexican","10:00 PM","Confirmed Hours by Phone
-","2000-11-24","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.lapalapa.com","
+164,"Opened","La Palapa",,"2021-02-17T05:00:00.000Z","212-777-2537","Restaurants",40.727956,-73.985607,"77 St. Mark's Place, New York, NY 10003","Yes","12:00 PM","Mexican","10:00 PM","Confirmed Hours by Phone
+","2000-11-24","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.lapalapa.com","
 
-","https://www.instagram.com/la_palapa/","Yes",,,"Yes",,true,,,,,,,"EVCC",,
-163,"Opened","Kotobuki",,"2021-01-20T05:00:00.000Z","212-353-5088","Restaurants",40.73112,-73.989161,"56 3rd Avenue, New York, NY 10003","Yes","5:30 PM","Japanese","10:00 PM","Website hours are being updated.
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.kotobukirestaurants.com","Lunch MON - FRI: noon - 2:30 PM
+","https://www.instagram.com/la_palapa/","Yes",,,"Yes",,true,,"Yes",,,,,"EVCC",,
+163,"Opened","Kotobuki",,"2021-01-20T05:00:00.000Z","212-353-5088","Restaurants",40.73112,-73.989161,"56 3rd Avenue, New York, NY 10003","Yes","5:30 PM","Japanese","10:00 PM","\*\*\* hasn't posted since Christmas, Website hours are being updated
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.kotobukirestaurants.com","Lunch MON - FRI: noon - 2:30 PM
 Dinner FRI & SAT: til 11:00 PM 
 Dinner SUN: til 9:30 PM
 ","https://www.instagram.com/dinekotobuki/?hl=en","Yes",,,"Yes",,true,,,,,,,"EVCC",,
-162,"Opened","Kook Korean Restaurant",,"2021-01-20T05:00:00.000Z","(212) 254-0600","Restaurants",40.72678465,-73.98738473,"324 E. 6th Street, New York, NY 10003","Yes","3:00 PM","Korean","10:00 PM","Website & Instagram Updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.kookbbq.ca/","SAT - SUN: 11:30 AM - 10:00 PM
-MON: Closed
-","https://www.instagram.com/kookbbq/",,,,"Yes",,true,,,,,,,"EVCC",,
-161,"Opened","Kona Coffee and Company",,"2021-01-20T05:00:00.000Z",,"Cafes and Desserts",40.725867,-73.989869,"57 Second Ave, New York, NY 10003","Yes","7:00 AM","Cafe","6:00 PM","Website & Instagram Updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.konacoffee.nyc/","SAT - SUN: 8:00 AM - 6:00 PM
+162,"Opened","Kook Korean Restaurant",,"2021-02-17T05:00:00.000Z","(212) 254-0600","Restaurants",40.72678465,-73.98738473,"324 E. 6th Street, New York, NY 10003","Yes","12:00 PM","Korean","10:00 PM","Website is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://restaurantkook.com/","FRI & SAT: noon - 10:45 PM
+
+",,,,,"Yes",,true,,,,,,,"EVCC",,
+161,"Opened","Kona Coffee and Company",,"2021-02-17T05:00:00.000Z",,"Cafes and Desserts",40.725867,-73.989869,"57 Second Ave, New York, NY 10003","Yes","7:00 AM","Cafe","6:00 PM","Website and instagram are current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.konacoffee.nyc/","SAT - SUN: 8:00 AM - 6:00 PM
 Free shipping on coffee bean purchases via [website](https://www.konacoffee.nyc/)
 ","https://www.instagram.com/konacoffeeco/",,,,,"info@konacoffee.nyc",,"Yes",,"[Sign up](https://www.konacoffee.nyc/) for news, coffee tips & discount codes!
 ",,"http://konacoffee.nyc/gift-card",,"EVCC",,
-160,"Opened","Kolkata Chai Co.",,"2021-01-20T05:00:00.000Z","(646) 892-3023","Cafes and Desserts",40.722854,-73.983091,"199 E. 3rd Street, New York, NY 10009","Yes","10:00 AM","Cafe","6:00 PM","IG is being updated, form response
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://linktr.ee/kolkatachaico","SAT: 11:00 AM - 6:00 PM
+160,"Opened","Kolkata Chai Co.",,"2021-02-17T05:00:00.000Z","(646) 892-3023","Cafes and Desserts",40.722854,-73.983091,"199 E. 3rd Street, New York, NY 10009","Yes","10:00 AM","Cafe","6:00 PM","IG is current, form response
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://linktr.ee/kolkatachaico","SAT: 11:00 AM - 6:00 PM
 MON: Closed
 
 Click [here](https://kolkatachai.co/shop) for their online store, and get some chai shipped to your door!
 ","https://www.instagram.com/kolkatachaico/","Yes",,,"Yes",,true,"Yes",,,,"https://squareup.com/gift/PMYKXZNDB271S/order",,"EVCC",,
-159,"Opened","Koko Wings",,"2021-01-20T05:00:00.000Z","646-892-3152 ⠀","Restaurants",40.729678,-73.983447,"192 1st Avenue, New York, NY 10009","Yes","12:00 PM","Korean","10:00 PM","Website & Instagram updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.kokowingsnyc.com","FRI & SAT: noon - 10:30 PM 
+159,"Opened","Koko Wings",,"2021-02-17T05:00:00.000Z","646-892-3152 ⠀","Restaurants",40.729678,-73.983447,"192 1st Avenue, New York, NY 10009","Yes","12:00 PM","Korean","10:00 PM","Website & Instagram are current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.kokowingsnyc.com","FRI & SAT: noon - 10:30 PM 
 SUN: 12:30 PM - 9:30 PM
-","https://www.instagram.com/kokowings/",,,,"Yes",,true,,,"[Subscribe](https://www.kokowingsnyc.com/) receive special offers via email!
+","https://www.instagram.com/kokowings/","Yes",,,"Yes",,true,,"Yes","[Subscribe](https://www.kokowingsnyc.com/) receive special offers via email!
 ",,,,"EVCC",,
-158,"Opened","Kitchen Sink",,"2021-01-20T23:47:00.000Z","(212) 420-8050","Restaurants",40.726812,-73.988628,"88 2nd Avenue, New York, NY 10003","Yes","10:00 AM","Greek,Diner","10:00 PM","Website & Instagram updated
+158,"Opened","Kitchen Sink",,"2021-02-17T23:47:00.000Z","(212) 420-8050","Restaurants",40.726812,-73.988628,"88 2nd Avenue, New York, NY 10003","Yes","10:00 AM","Greek,Diner","10:00 PM","Website & Instagram are current
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://thekitchensinknyc.com","
 ","https://www.instagram.com/the_kitchen_sink_nyc/","Yes",,,"Yes",,,,,,,,,"EVCC",,
-157,"Opened","Kimomi Pet",,"2021-01-20T05:00:00.000Z","646-286-4303","Services",40.728836,-73.988895,"22 St. Mark's Place, New York, NY 10003","Yes","10:00 AM","Pet Supplies & Grooming","8:00 PM","IG is being updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"Grooming by appointment only
+157,"Opened","Kimomi Pet",,"2021-01-20T05:00:00.000Z","646-286-4303","Services",40.728836,-73.988895,"22 St. Mark's Place, New York, NY 10003","Yes","10:00 AM","Pet Supplies & Grooming","8:00 PM","IG is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Grooming by appointment only
 ","https://www.instagram.com/kimomipet/",,,,,,true,,,,,,,"PL",,
-156,"Opened","Khiladi NYC",,"2021-01-20T05:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","11:00 AM","Indian","10:30 PM","Hours taken from website 
+156,"Opened","Khiladi NYC",,"2021-02-17T05:00:00.000Z","646-791-0351","Restaurants",40.727482,-73.979191,"175 Avenue B, New York, NY 10009","Yes","11:00 AM","Indian","10:30 PM","Hours taken from website 
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://khiladinyc.com","MON - THU: 11:00 AM - 02:30 PM & 5:30 PM - 10:30 PM
 FRI:	11:00 AM - 02:30 PM & 5:30 PM - midnight
 SAT:	11:30 AM - midnight
 SUN: 11:00 AM - 11:00 PM
-","https://www.instagram.com/khiladiny/","Yes",,,"Yes","hello@khiladinyc.com",true,,,"
+","https://www.instagram.com/khiladiny/","Yes",,,"Yes","hello@khiladinyc.com",true,,"Yes","
 ",,"https://squareup.com/gift/MX8T6S1JJ6D5F/order",,"EVCC",,
-155,"Opened","Katz's Deli",,"2021-01-20T05:00:00.000Z","212-254-2246","Restaurants",40.722115,-73.987526,"205 E. Houston Street, New York, NY 10002","Yes","8:00 AM","Jewish","10:45 PM","hours taken from website (see below map)
+155,"Opened","Katz's Deli",,"2021-02-17T05:00:00.000Z","212-254-2246","Restaurants",40.722115,-73.987526,"205 E. Houston Street, New York, NY 10002","Yes","8:00 AM","Jewish","10:45 PM","hours taken from website (see below map)
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r","SAT & SUN: 8:00 AM - 11:00 PM
-","https://www.instagram.com/katzsdeli/?hl=en","Yes",,,"Yes","press@katzsdelicatessen.com",,"Yes",,,,,,"EVCC",,
+","https://www.instagram.com/katzsdeli/?hl=en","Yes",,,"Yes","press@katzsdelicatessen.com",,"Yes","Yes",,,,,"EVCC",,
 154,"Opened","Kapri Cleaners",,"2021-01-20T05:00:00.000Z","(212) 420-8853","Laundry",40.722073,-73.984836,"250 E. Houston Street, New York, NY 10009","Yes","8:00 AM","Cleaners,Tailor","6:00 PM","no instagram or website, confirmed hours by calling 
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"
 ",,,,,,,,,,,,,,"PG",,
-152,"Opened","Kafana",,"2021-01-20T05:00:00.000Z","212-353-8000","Restaurants",40.72432,-73.97851,"116 Avenue C, New York, NY 10009","Yes","5:00 PM","Serbian","10:00 PM","IG is being updated
-Confirmed by phone
+152,"Opened","Kafana",,"2021-02-17T05:00:00.000Z","212-353-8000","Restaurants",40.72432,-73.97851,"116 Avenue C, New York, NY 10009","Yes","5:00 PM","Serbian","10:00 PM","IG is current, Confirmed hours by phone
 
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.kafananyc.com","SAT & SUN: noon - 10:00 PM 
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.kafananyc.com","SAT & SUN: noon - 10:00 PM 
 
-","https://www.instagram.com/kafananyc/","Yes","https://www.gofundme.com/f/kafana-fundraiser?utm_medium=email&utm_source=product&utm_campaign=p_email+4904-welcome-wp-v5",,"Yes",,,,,,,,,"EVCC",,
+","https://www.instagram.com/kafananyc/","Yes","https://www.gofundme.com/f/kafana-fundraiser?utm_medium=email&utm_source=product&utm_campaign=p_email+4904-welcome-wp-v5",,"Yes",,,,"Yes",,,,,"EVCC",,
 151,"Opened","K & W Best Dry Cleaner & Laundry",,"2021-01-20T05:00:00.000Z","(646) 918-7135","Laundry",40.730972,-73.987242,"229 E. 11th Street, New York, NY 10003","Yes","8:30 AM","Cleaners","6:00 PM","no instagram or website
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,,,,,,"PG",,
-149,"Opened","Juicy Lucy",,"2021-01-20T05:00:00.000Z","212-777-5829","Cafes and Desserts",40.72526739,-73.984294,"85 Avenue A, New York, NY 10009","Yes","9:00 AM","Juice Bar,Cafe","5:00 PM","Confirmed hours by Phone
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://juicylucyjuice.square.site/","TUE - WED: Closed 
+149,"Opened","Juicy Lucy",,"2021-02-17T05:00:00.000Z","212-777-5829","Cafes and Desserts",40.72526739,-73.984294,"85 Avenue A, New York, NY 10009","Yes","9:00 AM","Juice Bar,Cafe","5:00 PM","Confirmed hours by Phone
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://juicylucyjuice.square.site/","TUE - WED: Closed 
 ","https://www.instagram.com/juicylucyjuicebar/",,,true,"Yes","juicylucy@gogosurfer.com",true,,,,,,,"EVCC",,
-148,"Opened","Juice Vitality",,"2021-01-20T05:00:00.000Z","(212) 477-0071","Cafes and Desserts",40.729678,-73.983447,"192 1st Avenue, New York, NY 10009","Yes","8:00 AM","Juice Bar","7:30  PM","Confirmed Hours by Phone
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"SAT: 9:00 AM - 7:30 PM
+148,"Opened","Juice Vitality",,"2021-02-17T05:00:00.000Z","(212) 477-0071","Cafes and Desserts",40.729678,-73.983447,"192 1st Avenue, New York, NY 10009","Yes","8:00 AM","Juice Bar","7:30  PM","Confirmed Hours by Phone
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"SAT: 9:00 AM - 7:30 PM
 SUN: 9:30 AM - 7:30PM
 ","https://www.instagram.com/juicevitality/",,,,"Yes",,true,,,,,,,"EVCC",,
 147,"Opened","Johnny Air Mart",,"2021-01-18T05:00:00.000Z","(212) 387-7080","Groceries",40.7298779,-73.98054239,"214 Avenue A, New York, NY 10009","Yes","10:00 AM","Specialty Market,Filipino,Shipping","6:00 PM","Confirmed by Phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,true,"Yes",,,,,,"EVCC",,
-146,"Opened","John's of 12th Street",,"2021-01-18T05:00:00.000Z","(212) 475-9531","Restaurants",40.730621,-73.985532,"302 E. 12th St, New York, NY 10003","Yes","4:00 PM","Italian","10:00 PM","Ig is being updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.johnsof12thstreet.com/#menus","
-","https://www.instagram.com/johnsof12thstreet/?hl=en",,,,"Yes","rrundbaken@gmail.com",,,,,,,,"PG",,
-145,"Opened","Jiang Diner",,"2021-01-18T05:00:00.000Z","646-484-5999","Restaurants",40.726732,-73.988307,"309 E. 5th Street, New York, NY 10009","Yes","5:00 PM","Chinese","10:00 PM","Confirmed Hours by phone
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.jiangdiner.com","MON: Closed
+146,"Opened","John's of 12th Street",,"2021-02-17T05:00:00.000Z","(212) 475-9531","Restaurants",40.730621,-73.985532,"302 E. 12th St, New York, NY 10003","Yes","4:00 PM","Italian","10:00 PM","Ig is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.johnsof12thstreet.com/#menus","
+","https://www.instagram.com/johnsof12thstreet/?hl=en",,,,"Yes","rrundbaken@gmail.com",,,"Yes",,,,,"PG",,
+145,"Opened","Jiang Diner",,"2021-02-17T05:00:00.000Z","646-484-5999","Restaurants",40.726732,-73.988307,"309 E. 5th Street, New York, NY 10009","Yes","5:00 PM","Chinese","11:00 PM","Confirmed Hours by phone
+",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.jiangdiner.com","SUN: 5:00 PM - 10:00 PM
+MON: Closed
 ","https://www.instagram.com/jiangdiner/","Yes",,,"Yes",,true,,,,,,,"EVCC",,
-144,"Opened","Jennifer Cafe",,"2021-01-18T05:00:00.000Z","(908) 768-9269","Restaurants",40.72542,-73.987315,"133 E. 4th Street, New York, NY 10003","Yes","7:00 AM","Latin,Cuban,Mexican,Cafe","11:30 PM","Confirmed Hours by phone 
+144,"Opened","Jennifer Cafe",,"2021-02-17T05:00:00.000Z","(908) 768-9269","Restaurants",40.72542,-73.987315,"133 E. 4th Street, New York, NY 10003","Yes","7:00 AM","Latin,Cuban,Mexican,Cafe","11:30 PM","Confirmed Hours by phone 
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"SUN: Closed
 ","https://www.instagram.com/jenniferscafe_/?hl=en",,,,,"jenniferscafe32@gmail.com",,,,,,,,"EVCC",,
-143,"Opened","Jell & Chill",,"2021-01-18T05:00:00.000Z","(646) 370-5229","Cafes and Desserts",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","1:00 PM","Dessert Bar","8:00 PM","Confirmed Hours by phone
+143,"Opened","Jell & Chill",,"2021-02-17T05:00:00.000Z","(646) 370-5229","Cafes and Desserts",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","1:00 PM","Dessert Bar","8:00 PM","Confirmed Hours by phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.jellchill.com/","FRI - SUN only	
 Partners with Postmate, UberEats, Grubhub & Hungry Panda!
 ","https://www.instagram.com/jellandchill/","Yes",,,"Yes",,true,,,"
@@ -3400,17 +3401,17 @@ Partners with Postmate, UberEats, Grubhub & Hungry Panda!
 142,"Opened","J J Cleaners & Laundromat",,"2021-01-18T05:00:00.000Z","(212) 475-9081","Laundry",40.72621,-73.98719,"339 E. 5th Street, New York, NY 10003","Yes","8:30 AM","Laundromat","7:30 PM","Confirmed Hours by phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"
 ",,,,,,,,,,,,,,"PG",,
-141,"Opened","Il Posto Accanto",,"2021-01-19T03:17:00.000Z","(212) 228-3562","Restaurants",40.722472,-73.983954,"190 E. 2nd St, New York, NY 10009","Yes","12:00 PM","Italian","10:00 PM","Confirmed hours by phone
+141,"Opened","Il Posto Accanto",,"2021-02-18T03:17:00.000Z","(212) 228-3562","Restaurants",40.722472,-73.983954,"190 E. 2nd St, New York, NY 10009","Yes","12:00 PM","Italian","10:00 PM","Confirmed hours by phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.ilpostoaccantonyc.com/","Last Order at 8:30 PM
 ","https://www.instagram.com/ilpostoaccanto/","Yes",,,"Yes",,,,,,,"https://www.ilpostoaccantonyc.com/",,"EVCC",,
-140,"Opened","Iggy's Pizza",,"2021-01-18T05:00:00.000Z","(212) 353-3331","Restaurants",40.729249,-73.98435,"173 First Avenue, New York, NY 10003","Yes","11:00 AM","Pizza","11:30 PM","Confirmed Hours by Phone
+140,"Opened","Iggy's Pizza",,"2021-02-17T05:00:00.000Z","(212) 353-3331","Restaurants",40.729249,-73.98435,"173 First Avenue, New York, NY 10003","Yes","11:00 AM","Pizza","11:30 PM","Confirmed Hours by Phone
 
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.iggyspizzeriamenu.com/","SAT: 11:00 AM - 1:00 AM
 Delivery hrs: 11AM-10:30PM
 ","https://www.instagram.com/iggys_pizzeria/?hl=en",,,,"Yes",,,,,"**[SAVE 5% - Place your order online!](https://slicelife.com/restaurants/ny/new-york/10003/iggy-s-pizzeria/menu?utm_campaign=direct_websites&ajs_aid=78c1a3c8-4d49-468a-997a-39da622a91a0&client_id=78c1a3c8-4d49-468a-997a-39da622a91a0)**
 
 ",,,,"EVCC",,
-139,"Opened","Hunan Slurp",,"2021-01-18T05:00:00.000Z","(646) 585-9585","Restaurants",40.726736,-73.985706,"112 1st Avenue, New York, NY 10009","Yes","6:00 AM","Chinese","9:00 PM","confimed hours by phone
+139,"Opened","Hunan Slurp",,"2021-02-17T05:00:00.000Z","(646) 585-9585","Restaurants",40.726736,-73.985706,"112 1st Avenue, New York, NY 10009","Yes","6:00 AM","Chinese","9:00 PM","confimed hours by phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://hunanslurp.com","
 ","https://www.instagram.com/hunanslurp/",,,,"Yes",,true,,,,,,,"EVCC",,
 138,"Opened","House of Orthodontia",,"2021-01-18T05:00:00.000Z","212-392-4789","Health",40.728141,-73.978678,"601 E. 12th Street, New York, NY 10009","Yes","1:00 PM","Dental","6:00 PM","Confirmed Hours by phone
@@ -3419,42 +3420,42 @@ SAT: 9:00 AM - 3:00 PM
 TUE, THU, FRI, SUN: Closed
 ",,,,,,,,,,,,,,"EVCC",,
 137,"Opened","Horus Cafe on B",,"2021-01-18T05:00:00.000Z","(212) 777-9199","Restaurants",40.724483,-73.981321,"93 Avenue B, New York, NY 10009","Yes","12:00 PM","Hookah Bar","10:00 PM","Confirmed Hours by phone
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.instagram.com/horuscafeonb/",,"https://www.instagram.com/horuscafeonb/","Yes",,,,,,,,,,,,"EVCC",,
-136,"Opened","Honest Chops",,"2021-01-18T05:00:00.000Z","212-388-0762","Groceries",40.72884742,-73.9861682,"319 E. 9th Street, New York, NY 10003","Yes","11:00 AM","Specialty Market,Butcher","6:00 PM","Website has been updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://honestchops.com","WED - SUN only
+",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.horuscafe.com/",,"https://www.instagram.com/horuscafeonb/","Yes",,,,,,,,,,,,"EVCC",,
+136,"Opened","Honest Chops",,"2021-01-18T05:00:00.000Z","212-388-0762","Groceries",40.72884742,-73.9861682,"319 E. 9th Street, New York, NY 10003","Yes","11:00 AM","Specialty Market,Butcher","6:00 PM","Website is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://honestchops.com","WED - SUN only
 
 ","https://www.instagram.com/honestchops/",,,,,,,"Yes",,,,,,"EVCC",,
 135,"Opened","Holyland Market",,"2021-01-18T05:00:00.000Z","212-477-4440","Groceries",40.72686749,-73.98385315,"122 St. Mark's Place, New York, NY 10009","Yes","10:00 AM","Specialty Market,Kosher","12:00 AM","Confirmed hours by Phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.mercato.com/shop/holy-land-market","SAT: Closed
 ",,,,,"Yes",,,,,,,,,"EVCC",,
-134,"Opened","High Vibe",,"2021-01-18T05:00:00.000Z","888-554-6645","Health",40.72375667,-73.98583154,"138 E. 3rd Street, New York, NY 10009","Yes","11:00 AM","Natural & Alternative,Cosmetics & Grooming ","7:00 PM","website has been updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.highvibe.com","Great personal service & online orders!
+134,"Opened","High Vibe",,"2021-01-18T05:00:00.000Z","888-554-6645","Health",40.72375667,-73.98583154,"138 E. 3rd Street, New York, NY 10009","Yes","11:00 AM","Natural & Alternative,Cosmetics & Grooming ","7:00 PM","website is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.highvibe.com","Great personal service & online orders!
 
 ","https://www.instagram.com/highvibenyc/",,,,"Yes","orders@highvibe.com",,,,,,,,"EVCC",,
 133,"Opened","Hawa Smoothies & Bubble Tea",,"2021-01-18T05:00:00.000Z","917-640-9569","Cafes and Desserts",40.730665,-73.981598,"422 E. 14th Street, New York, NY 10009","Yes","7:00 AM","Bubble Tea","6:00 PM ","Confirmed hours by Phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"SUN: Closed		
 SAT: 9:00 AM - 6:00 PM
 ","https://www.instagram.com/hawa14smoothies/",,,,,,true,,,,,,,"PL",,
-132,"Opened","Hanoi Soup Shop",,"2021-01-18T05:00:00.000Z","212-995-5010","Restaurants",40.727026,-73.983516,"119 St. Mark's Place, New York, NY 10009","Yes","12:00 PM","Vietnamese","9:00 PM","Confirmed hours by Phone
+132,"Opened","Hanoi Soup Shop",,"2021-02-17T05:00:00.000Z","212-995-5010","Restaurants",40.727026,-73.983516,"119 St. Mark's Place, New York, NY 10009","Yes","12:00 PM","Vietnamese","9:00 PM","Confirmed hours by Phone
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://hanoisoupshop.com","SUN: 12:00 AM - 8:00 PM
 MON: Closed
 
 ","https://www.instagram.com/hanoisoup/?hl=en","Yes",,,"Yes",,,,,,,,,"EVCC",,
-131,"Opened","Han Dynasty",,"2021-01-18T05:00:00.000Z","(212) 390-8685","Restaurants",40.73214559,-73.98824948,"90 3rd Avenue, New York, NY 10003","Yes","1:00 PM","Chinese","10:00 PM","
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://handynasty.net/east-village/","FRI & SAT: 1:00 PM - 10:00 PM
+131,"Opened","Han Dynasty",,"2021-02-17T05:00:00.000Z","(212) 390-8685","Restaurants",40.73214559,-73.98824948,"90 3rd Avenue, New York, NY 10003","Yes","1:00 PM","Chinese","10:00 PM","
+",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://handynasty.net/east-village/","FRI & SAT: 1:00 PM - 11:00 PM
 ","https://www.instagram.com/handynastynyc/","Yes",,,"Yes",,true,,,"
 ",,,,"EVCC",,
-130,"Opened","Kimura","https://www.instagram.com/p/B-QNOUPB4Oa/","2021-01-18T05:00:00.000Z","(212) 598-1188","Restaurants",40.729053,-73.988199,"31 St Marks Pl, New York, NY 10003","Yes","12:00 AM","Japanese","10:00 PM","Formerly called Hakata Zen, confirmed by Phone, 
-IG Being Updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.ubereats.com/new-york/food-delivery/hakata-zen/QnQhD57fRYio5yCJ1bUhMg","
-","https://www.instagram.com/kimura_nyc/?hl=en","Yes",,,"Yes",,true,,,,,,,"EVCC",,
-129,"Opened","Haile Bistro",,"2021-01-18T05:00:00.000Z","212 673 8949","Restaurants",40.727797,-73.979449,"182 Avenue B, New York, NY 10009","Yes","5:00 PM","Ethiopian","10:00 PM","Confirmed Hours by Phones 
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://hailecuisine.com","Kitchen closes at 9:30 PM
+130,"Opened","Kimura","https://www.instagram.com/p/B-QNOUPB4Oa/","2021-02-17T05:00:00.000Z","(212) 598-1188","Restaurants",40.729053,-73.988199,"31 St Marks Pl, New York, NY 10003","Yes","12:00 AM","Japanese","10:00 PM","Formerly called Hakata Zen, confirmed by Phone, 
+IG is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.kimuranyc.com/","
+","https://www.instagram.com/kimura_nyc/?hl=en","Yes",,,"Yes","Kimura.press@gmail.com",true,,,,,,,"EVCC",,
+129,"Opened","Haile Bistro",,"2021-02-17T05:00:00.000Z","212 673 8949","Restaurants",40.727797,-73.979449,"182 Avenue B, New York, NY 10009","Yes","5:00 PM","Ethiopian","10:00 PM","Confirmed Hours by Phone
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://hailecuisine.com","Kitchen closes at 9:30 PM
 FRI & SAT: 5:00 PM - 11:00 PM 
 MON: Closed
 ","https://www.instagram.com/hailebistro/","Yes",,,"Yes",,true,,,,,,true,"EVCC",,
-128,"Opened","H. Brickman & Son Hardware",,"2021-01-18T05:00:00.000Z","212-674-3213","Retail",40.725039,-73.987557,"55 1st Avenue, New York, NY 10003","Yes","8:00 AM","Hardware","9:00 PM","IG is being updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://hbrickman.com/","SAT: 8:00 AM - 8:00 PM
+128,"Opened","H. Brickman & Son Hardware",,"2021-01-18T05:00:00.000Z","212-674-3213","Retail",40.725039,-73.987557,"55 1st Avenue, New York, NY 10003","Yes","8:00 AM","Hardware","9:00 PM","IG is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://hbrickman.com/","SAT: 8:00 AM - 8:00 PM
 SUN: 10:00 AM - 7:00 PM
 
 ","https://www.instagram.com/brickman_ace/",,,,,,,,,"20% OFF [first purchase!](https://hbrickman.com/)
@@ -3468,10 +3469,10 @@ SUN: 10:00 AM - 7:00 PM
 ","2016-09-01","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,"
 ",,,,,"No",,,"No",,"
 ","2020-03-31",,,"PL",,
-124,"Opened","Gruppo",,"2021-01-18T05:00:00.000Z","212-995-2100","Restaurants",40.724773,-73.981695,"98 Avenue B, New York, NY 10009","Yes","4:00 PM","Pizza","9:00 PM","Website being updated
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.nycthincrust.com/location/gruppo-thin-crust/","SAT: noon - 9:30 PM
+124,"Opened","Gruppo",,"2021-02-17T05:00:00.000Z","212-995-2100","Restaurants",40.724773,-73.981695,"98 Avenue B, New York, NY 10009","Yes","4:00 PM","Pizza","9:00 PM","Website is current
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.nycthincrust.com/location/gruppo-thin-crust/","SAT: noon - 9:30 PM
 SUN: noon - 9:00 PM
-","https://www.instagram.com/gruppothincrust/",,,,"Yes",,,,"Yes","No fee delivery from our [website](https://www.nycthincrust.com/location/gruppo-thin-crust/)! 
+","https://www.instagram.com/gruppothincrust/",,,,"Yes",,,,,"No fee delivery from our [website](https://www.nycthincrust.com/location/gruppo-thin-crust/)! 
 ",,,,"EVCC",,
 123,"Closed","Grape & Grain","https://evgrieve.com/2018/06/grape-and-grain-returns-under-new.html","2020-08-22T04:00:00.000Z","(646) 490-4029","Restaurants",40.723965,-73.980829,"620 E. 6th Street, New York, NY 10009","No","2:00 PM","Japanese","10:00 PM","PERMANENTLY CLOSED. 
 Mayanoki owner TJ Provenzano had taken over Grape & Grain in the eastern storefront in June 2018. Mayanoki pop-up closed August 22. Usumoya Tavern application on 11/16 CB 3 SLA agenda (transfer from Mayanoki).
@@ -3479,20 +3480,18 @@ Mayanoki owner TJ Provenzano had taken over Grape & Grain in the eastern storefr
 
 
 ","https://www.instagram.com/grapeandgrainnyc/","Yes",,,"No","tj@grapeandgrainnyc.com",true,,,,"2020-08-22","https://squareup.com/gift/T5853W8RTSRN9/order",,"EVCC",,
-122,"Opened","Good Beer",,"2021-01-18T05:00:00.000Z","(212) 677-4836","Retail",40.72762386,-73.9838149,"422 E. 9th Street, New York, NY 10009","Yes","5:00 PM","Beer","10:00 PM","Twitter is being updated
-confirmed by phone call
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.gomikoreanwinebar.com/","MON & TUE: Closed 
+122,"Opened","Good Beer",,"2021-02-17T05:00:00.000Z","(212) 677-4836","Retail",40.72762386,-73.9838149,"422 E. 9th Street, New York, NY 10009","Yes","5:00 PM","Beer","10:00 PM","IG & FB are current, confirmed hours by phone
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/goodbeernyc/","MON & TUE: Closed 
 SAT & SUN: 1:00 PM -10:00 PM
-","https://www.instagram.com/goodbeernyc/?hl=en",,,,,"contact@gomikoreanwinebar.com ",,,,,,,,"EVCC",,
-121,"Opened","Gomi Korean Wine Bar",,"2021-01-18T05:00:00.000Z","(646) 707-0707","Restaurants",40.728834,-73.981245,"186 Avenue A, New York, NY 10009","Yes","5:00 PM","Korean","10:00 PM","
+","https://www.instagram.com/goodbeernyc/?hl=en",,,,,,,,,,,,,"EVCC",,
+121,"Unknown","Gomi Korean Wine Bar",,"2021-02-17T05:00:00.000Z","(646) 707-0707","Restaurants",40.728834,-73.981245,"186 Avenue A, New York, NY 10009",,"5:00 PM","Korean","10:00 PM","Closed to the public, delivering to hospitals through 2/19/21
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.gomikoreanwinebar.com","SAT & SUN: 1:00 PM - 10:00 PM
 MON & TUE: Closed
-","https://www.instagram.com/gomiwinebar/","Yes","https://www.instagram.com/p/B-DgqRBFJ1h/",,"Yes",,true,,,"50% off wine with pickup orders!
+","https://www.instagram.com/gomiwinebar/","Yes","https://www.instagram.com/p/B-DgqRBFJ1h/",,,"contact@gomikoreanwinebar.com ",true,,,"50% off wine with pickup orders!
 ",,,,"EVCC",,
-120,"Opened","Gnocco",,"2021-01-18T05:00:00.000Z","(212) 677-1913","Restaurants",40.727188,-73.980236,"337 E. 10th Street, New York, NY 10009","Yes","11:00 AM","Italian","11:00 PM","IG is being updated
-confirmed by phone call
+120,"Opened","Gnocco",,"2021-02-17T05:00:00.000Z","(212) 677-1913","Restaurants",40.727188,-73.980236,"337 E. 10th Street, New York, NY 10009","Yes","11:00 AM","Italian","11:00 PM","IG is current, confirmed by phone call
 
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.gnocco.com/#order-online","Your place to work and have a snack 11:00 PM - 6:00 PM: wifi and printer available!
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.gnocco.com/#order-online","Your place to work and have a snack 11:00 PM - 6:00 PM: wifi and printer available!
 ","https://www.instagram.com/gnoccony/","Yes","https://www.gofundme.com/f/qb2zm-support-gnocco-restaurant?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,,"Yes","[Order directly from our website and get 20% Off! -  Promo Code GNOCCO20](http://www.gnocco.com/delivery)
 ",,"http://www.gnocco.com/store/gnocco-gift-card",,"EVCC",,
 119,"Opened","Gentle Wash Laundromat",,"2021-01-18T05:00:00.000Z","(212) 673-6886","Laundry",40.7256846,-73.98399238,"97 Avenue A, New York, NY 10009","Yes","7:00 AM","Laundromat","8:30 PM","Confirmed Hours by Phone 
@@ -3526,16 +3525,16 @@ PICKUP & DELIVERY text 646-504-9798
 ","2012-02-01","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://fondarestaurant.com/","EV location closed.
 
 ","https://www.instagram.com/fondanyc/","No",,,"No",,,,,,"2020-08-01",,,"PL",,
-110,"Opened","Flower Power Herbs & Roots Inc.",,"2021-01-18T05:00:00.000Z","(212) 982-6664","Health",40.727833,-73.984426,"406 E. 9th Street, New York, NY 10009","Yes","12:00 PM","Natural & Alternative","7:00 PM","IG is being updated	
+110,"Opened","Flower Power Herbs & Roots Inc.",,"2021-01-18T05:00:00.000Z","(212) 982-6664","Health",40.727833,-73.984426,"406 E. 9th Street, New York, NY 10009","Yes","12:00 PM","Natural & Alternative","7:00 PM","IG is current
 
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.flowerpower.net/","
 ","https://www.instagram.com/flowerpower_nyc/",,,,"Yes",,true,"Yes",,,,,,"EVCC",,
 109,"Opened","1st Ave Laundry Center",,"2021-01-18T05:00:00.000Z",,"Laundry",40.724151,-73.988153,"33 1st Avenue, New York, NY 10003","Yes","7:00AM","Laundromat","8:00PM","Hours as per note on door
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Last Wash: 6:00PM
 ",,,,,,,true,,,,,,,"PG",,
-108,"Opened","Fiaschetteria Pistoia","https://www.instagram.com/p/B_Noavpjsn0/","2021-02-17T05:00:00.000Z","(212) 777-3355","Restaurants",40.726709,-73.977261,"647 E 11th Street, New York, NY 10009","Yes","5:30 PM","Italian","10:30 PM","IG is being updated
+108,"Opened","Fiaschetteria Pistoia","https://www.instagram.com/p/B_Noavpjsn0/","2021-02-17T05:00:00.000Z","(212) 777-3355","Restaurants",40.726709,-73.977261,"647 E 11th Street, New York, NY 10009","Yes","5:30 PM","Italian","10:30 PM","IG is current,
 Form response update received
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","www.fiaschetteriapistoia.com","Order by phone! You can also find us on Caviar. 
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.fiaschetteriapistoia.com","Order by phone! You can also find us on Caviar. 
 ","https://www.instagram.com/fiaschetteriapistoia/","Yes",,,"Yes","Fiaschetteriapistoia@gmail.com",,,"Yes",,,,,"EVCC",,
 107,"Opened","Fancy Juice",,"2021-02-17T05:00:00.000Z","212-228-1256","Cafes and Desserts",40.72551,-73.98728,"69 1st Avenue, New York, NY 10003","Yes","10:00 AM","Juice Bar","9:00 PM","Confirmed Hours by Phone
 
