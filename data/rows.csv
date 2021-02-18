@@ -1638,7 +1638,7 @@ Pickup & Delivery [menu](https://papillesrestaurant.com/togo-delivery)
 ",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://thehardswallownyc.com","
 ","https://www.instagram.com/thehardswallownyc/",,,,,"info@thehardswallownyc.com",true,,,,,,true,"EVCC",,
 621,"Opened","Au Za'atar",,"2021-02-01T05:00:00.000Z","212-254-5660","Restaurants",40.728885,-73.981166,"188 Avenue A, New York, NY 10009","Yes","11:00 AM","Middle Eastern","10:00 PM","IG is current
-",,"{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://auzaatar.com","Brunch every day!
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://auzaatar.com","Brunch every day!
 ","https://www.instagram.com/auzaatar/","Yes",,,"Yes","info@auzaatar.com",true,,,,,,,"EVCC",,
 620,"Opened","Organic Grill",,"2021-02-03T05:00:00.000Z","(212) 477-7177","Restaurants",40.72739,-73.9858,"123 1st Avenue, New York, NY 10003","Yes","1:00 PM","Vegan","7:30 PM","IG is current, try (917) 604-6661 if no answer at 212
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.theorganicgrill.com","THU - SUN ONLY 
@@ -3831,9 +3831,11 @@ SUN: 12:00 PM - 8:00 PM
 Nate come back to this one 
 ","2017-08-01","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.beckysbitesnyc.com","Catering and Pre-orders available at Butter Lane Cupcakes!
 ","https://www.instagram.com/beckysdips/",,,,,"info@beckysbitesnyc.com",true,,,,"2020-02-01",,,"EVCC",,
-32,"Opened","Barnyard",,"2021-02-15T05:00:00.000Z","(212) 674-2276","Groceries",40.727297,-73.979883,"168 Avenue B, New York, NY 10009","Yes","10:00 AM","Specialty Market,Cheese Shop,Sandwich","8:00 PM","Don't worry about old IG, they're open!
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.barnyardcheese.com","SUN: Closed
-","https://www.instagram.com/barnyardcheese/","Yes",,,"Yes","info@barnyardcheese.com",true,"Yes",,"Free Delivery when possible, please call 
+32,"Opened","Barnyard",,"2021-02-15T05:00:00.000Z","(212) 674-2276","Groceries",40.727297,-73.979883,"168 Avenue B, New York, NY 10009","No","10:00 AM","Specialty Market,Cheese Shop,Sandwich","8:00 PM","\*\*\*Temporarily closed 2/17 
+Don't worry about old IG, they're open!
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.barnyardcheese.com","Temporarily Closed
+SUN: Closed
+","https://www.instagram.com/barnyardcheese/","Yes",,,"No","info@barnyardcheese.com",true,"Yes",,"Free Delivery when possible, please call 
 ",,,,"EVCC",,
 31,"Opened","Banh Mi Zon",,"2021-02-15T05:00:00.000Z","646-524-6384","Restaurants",40.725731,-73.984274,"443 E. 6th Street, New York, NY 10009","Yes","11:30 PM","Vietnamese","10:00 PM","IG is current, hours confirmed by phone 
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://banhmizon.com",,"https://www.instagram.com/banhmizon/",,,,"Yes","banhmizon@gmail.com",true,,,"Discounted[ online orders](https://banhmizon.com/) with code BMZ10
@@ -3846,7 +3848,7 @@ Now accepting credit cards and Apple/Google Pay.
 29,"Opened","B Cup","https://www.instagram.com/p/CCqJoLED4f7/","2021-02-15T05:00:00.000Z","212-228-4808","Cafes and Desserts",40.729706,-73.980355,"212 Avenue B, New York, NY 10009","Yes","7:30 AM","Cafe","5:30 PM","IG is current
 
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.bcupcafe.com","
-","https://www.instagram.com/bcupcafe/?hl=en","Yes",,,"Yes","bcupcafe@gmail.com",,,,,,,,"EVCC",,
+","https://www.instagram.com/bcupcafe/?hl=en","Yes",,,"Yes","bcupcafe@gmail.com",,,"Yes",,,,,"EVCC",,
 28,"Opened","Avenue C Pharmacy",,"2021-01-18T05:00:00.000Z","212-228-0764","Health",40.726528,-73.976532,"178 Avenue C, New York, NY 10009","Yes","9:30 AM","Pharmacy","7:00 PM","Hours Confirmed by Phone 
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/Avenue-C-Pharmacy-Surgical-162723810422700/","SUN: closed
 Notary services available
@@ -3858,11 +3860,11 @@ PHONE for pickup orders  (delivery from Caviar)
 ","https://www.instagram.com/avantgardennyc/","Yes","https://www.gofundme.com/f/feed-the-east-village",,,"info@avantgardennyc.com",,,"Yes","
 ",,,,"EVCC",,
 26,"Opened","Avalon Chemists",,"2021-01-18T05:00:00.000Z","212-260-3131","Health",40.72400237,-73.99126186,"7 2nd Avenue, New York, NY 10003","Yes","9:00 AM","Pharmacy","7:00 PM","Hours Confirmed by Phone 
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.avalonchemists.com","SAT: 10:00 AM - 6:00 PM. Local delivery includes Union Square area.
+",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.avalonchemists.com","SAT: 10:00 AM - 6:00 PM
 SUN: closed 
 
 ",,,,,"Yes","info@avalonchemists.com",,,,,,,,"EVCC",,
-25,"Opened","Atomic Wings",,"2021-02-15T05:00:00.000Z","(212) 774-9464","Restaurants",40.729415,-73.983584,"184 1st Avenue, New York, NY 10009","Yes","11:00 AM","Wings","11:30 PM","IG is current, confirmed hours by phone
+25,"Opened","Atomic Wings",,"2021-02-18T05:00:00.000Z","(212) 774-9464","Restaurants",40.729415,-73.983584,"184 1st Avenue, New York, NY 10009","Yes","11:00 AM","Wings","11:30 PM","IG is current, confirmed hours by phone
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.atomicwings.com/locations","SAT: 11:00 AM - midnight
 ","https://www.instagram.com/atomicwings/",,,,"Yes","info@atomicwings.com",,,,,,,,"EVCC",,
 24,"Opened","Atmi",,"2021-02-15T05:00:00.000Z","212-228-5811","Retail",40.72995736,-73.98638936,"166 2nd Avenue, New York, NY 10003","Yes","11:00 AM","Wine","11:00 PM","confirmed by Laura
