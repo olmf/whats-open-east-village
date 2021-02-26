@@ -29,8 +29,8 @@ SUN: 10:00 AM - 10:00 PM
 SAT & SUN: Closed
 ","Theater","https://www.instagram.com/theatre_80_st_marks/?hl=en","IG profile is current, Merica ask if ok to publish office hours
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://theatre80.wordpress.com/","1:00 PM","5:00 PM",,,,,,,,"https://www.gofundme.com/f/theatre80",,,,,,,,,
-1132,"Closed","Queen Vic","2021-02-13T22:51:00.000Z","(917) 262-0512","Restaurants",,,"68 2nd Avenue, New York, NY 10003","No",,"Bar","https://www.instagram.com/queen_vic_nyc/?hl=en","Temporarily Closed (since March 2020)
-","{""id"":""usrt9Ms4NiSf2E6PE"",""email"":""iris8516@gmail.com"",""name"":""Lindsey Loughman""}",,,,,,"2010-09-01",,,,,,true,,,,,,,,
+1132,"Closed","Queen Vic","2021-02-25T22:51:00.000Z","(917) 262-0512","Restaurants",,,"68 2nd Avenue, New York, NY 10003","No",,"Bar","https://www.instagram.com/queen_vic_nyc/?hl=en","Temporarily Closed (since March 2020)
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"2010-09-01",,,,,,true,,,,,,,,
 1131,"Closed","Little Poland","2021-02-09T00:05:00.000Z","(212) 777-9728","Restaurants",40.73117,-73.98554,"200 2nd Avenue, New York, NY 10003","No",,"Diner","https://www.instagram.com/littlepoland_nyc/",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.littlepolandnyc.com/",,,,,,,,,,,,,,,,,,,
 1130,"Unknown","Plantmade","2021-02-09T00:05:00.000Z",,"Restaurants",,,,,,"Vegan",,,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,,,,
 1129,"Opened","Momofuku Ko Extra Place","2021-02-08T22:27:00.000Z",,"Restaurants",40.72463,-73.99154,"8 Extra Place, New York, NY 10003","Yes",,"Japanese","https://www.instagram.com/ko_ep/","Website is current	
@@ -70,8 +70,8 @@ MON - TUE: Closed
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.chirofitnyc.com/",,,"info@villagechirofit.com",,,,,true,,,,,,,,,,,
 1116,"Opened","Areta Podhorodecki, MD","2021-01-31T02:14:00.000Z","212-529-5966","Health",40.66701,-73.69532,"44 St. Mark's Place, New York, NY 10003","Yes",,"Medical,Physical Therapy",,"Website is current
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.northwell.edu/find-care/find-a-doctor/sports-medicine/dr-areta-daria-podhorodecki-md-11381185",,,,,,,,true,,,,,,,,,,,
-1115,"Closed","Whiskey Town","2021-01-31T01:10:00.000Z","(212) 505-7344","Restaurants",40.7258,-73.99028,"29 E. 3rd Street, New York, NY 10003","No",,"Bar","https://www.instagram.com/whiskeytownbar/?hl=en","Temporarily closed as of Dec 12, 2020 \*\*\*Dina says they haven't been open since March???
-","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://whiskeytownbar.com/",,,"julian@whiskeyworldwide.com",,,,,,"https://www.instagram.com/p/CIoAa41F0fv/",,,,,,,,,,
+1115,"Closed","Whiskey Town","2021-02-26T01:10:00.000Z","(212) 505-7344","Restaurants",40.7258,-73.99028,"29 E. 3rd Street, New York, NY 10003","No",,"Bar","https://www.instagram.com/whiskeytownbar/?hl=en","Temporarily closed (only open a few times since March shutdown)
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://whiskeytownbar.com/",,,"julian@whiskeyworldwide.com",,,,,,"https://www.instagram.com/p/CIoAa41F0fv/",,,,,,,,,,
 1114,"Opened","Medan Pasar","2021-01-26T02:21:00.000Z","646-756-4022","Restaurants",40.7265,-73.98508,"102 E. 7th Street, New York, NY 10009","Yes",,"Malaysian","https://www.instagram.com/medanpasarnyc/","newly open (2 January reviews), call for hours 
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://medanpasar.com/","12:00 PM",,,"Yes","2020-12-26",,"Yes",true,,,,,,,,,,,
 1113,"Opened","Szechuan Mountain House","2021-01-26T01:56:00.000Z","(917) 388-3866","Restaurants",40.7292,-73.98865,"23 St. Mark's Place, New York, NY 10003","Yes",,"Chinese","https://www.instagram.com/szechuanmountainhouse/","IG is being updated, call for hours
@@ -148,7 +148,7 @@ SUN: noon - 9:00 PM
 1084,"Opened","Cafe Forgot","2021-01-12T02:35:00.000Z",,"Retail",40.72409,-73.98011,"627 E. 6th Street, New York, NY 10009",,"Online and by appointment only! EV pop-up closed.
 ","Fashion","https://www.instagram.com/cafe_forgot/","PERMANENTLY CLOSED, still shipping online & by appointment, looking for another EV location. 
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://cafeforgot.com/",,,"info@cafeforgot.com",,,,,true,,,,"Yes",,,,,,,
-1083,"Closed","The Ainsworth","2021-02-14T02:22:00.000Z",,"Restaurants",40.731314889018996,-73.98893012884041,"64 3rd Avenue, New York, NY 10003","No","
+1083,"Closed","The Ainsworth","2021-02-26T02:22:00.000Z",,"Restaurants",40.731314889018996,-73.98893012884041,"64 3rd Avenue, New York, NY 10003","No","
 ","Bar","https://www.instagram.com/ainswortheastvillage/","Temporarily closed? Boarding up 12/28.					 
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.theainsworth.com/",,,"tara@paigeconceptsny.com","Yes",,,,,,,,,,,,,,,
 1082,"Opened","Lovewild Design","2020-12-22T05:10:00.000Z","(718) 782-1402","Retail",40.72498,-73.97798,"136 Avenue C, New York, NY 10009","Yes",,"Gifts & Home","https://www.instagram.com/lovewilddesign/","IG is current
@@ -191,7 +191,7 @@ SUN: Closed
 Free pickup and delivery!
 ","Cleaners",,"Hours confirmed by phone 
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"9:00 AM","6:00 PM",,,,,"Yes",true,,,,,,,,,,,
-1069,"Unknown","Bull McCabes","2021-01-12T01:29:00.000Z","(212) 982-9895","Restaurants",40.729118152351475,-73.98832945904645,"29 St. Mark's Place, New York, NY 10003",,,"Bar","https://www.instagram.com/bullmccabesnyc/","\*\*\*Temporarily closed as of 12/16, check back			
+1069,"Unknown","Bull McCabes","2021-02-26T01:29:00.000Z","(212) 982-9895","Restaurants",40.729118152351475,-73.98832945904645,"29 St. Mark's Place, New York, NY 10003",,,"Bar","https://www.instagram.com/bullmccabesnyc/","\*\*\*Temporarily closed as of 12/16, check back			
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://bullmccabes.com",,,"bull@bullmccabes.com",,,,,,,,,,,,,,,,
 1068,"Opened","Cooper's Craft & Kitchen","2021-01-12T01:29:00.000Z","(646) 606-2384","Restaurants",40.72703266283124,-73.98900925719833,"87 2nd Avenue, New York, NY 10003","Yes",,"Bar","https://www.instagram.com/coopersnyc/","IG is current, call for hours
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://coopersnyc.com/coopers-east-village-menu/",,,"info@coopersnyc.com","Yes",,"Yes",,,,,,,,,,,,,
@@ -358,8 +358,9 @@ MON: Closed
 1014,"Opened","Ugly Kitchen","2021-02-14T03:56:00.000Z","212 729 7181","Restaurants",40.72679,-73.98636,"103 1st Avenue, New York, NY 10003",,"DM on Instagram or Call for deliveries
 ","Filipino","https://www.instagram.com/ugly_kitchen/","Temporarily Closed (landlord issues) \*\*\*pick up at 143 Orchard Street
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"aris@manilabowl.com",,"2011-09-16",,"Yes",true,"https://ny.eater.com/2020/12/4/22150498/ugly-kitchen-landlord-lockout-nyc-restaurant-closure","https://www.gofundme.com/f/3z7d5?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all",,,,"2020-08-16",,,,,
-1013,"Unknown","Tile Bar","2021-02-14T03:51:00.000Z","(212) 254-4317","Restaurants",40.727151,-73.9858603,"115 1st Avenue, New York, NY 10003",,,"Bar",,"Temporarily closed FB last updated 12/16/20		
-","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://facebook.com/pages/Tile-Bar/115914728464273",,,,"Yes",,,,,,,,,,,,,,,
+1013,"Opened","Tile Bar","2021-02-26T03:51:00.000Z","(212) 254-4317","Restaurants",40.727151,-73.9858603,"115 1st Avenue, New York, NY 10003","Yes",,"Bar",,"FB is current
+Reopened 2/17/21		
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://facebook.com/pages/Tile-Bar/115914728464273",,,,"Yes",,"Yes",,,,,,,,,,,,,
 1012,"Unknown","Bar Veloce","2021-01-04T07:37:00.000Z",,"Restaurants",40.7306897894,-73.9864323,"175 2nd Ave, New York, NY 10003",,,"Mediterranean",,"no signs of life since COVID
 ","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,,,,,,,,,,,,,,,,,
 1011,"Opened","Peter Jarema Funeral Home","2021-01-06T07:08:00.000Z","(212) 674-2568","Services",40.72644,-73.98389,"129 E. 7th Street, New York, NY 10009","Yes","By appointment
@@ -439,7 +440,7 @@ Reopened November 2020 in the space vacated November 2019.
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"12:00 PM","9:00 PM",,,"2018-08-11",,"Yes",true,,,,,,,,,,,
 985,"Opened","International Haircutters","2020-10-30T00:46:00.000Z","212-529-1457","Services",40.73174,-73.98427,"320 E. 14th Street, New York, NY 10003","Yes",,"Hair",,"no online presence, call for hours the lady said there not interested in providing information on the hours 
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,"Yes",,,,,,,,,,,,,,,
-984,"Closed","Doc Holliday's ","2021-02-14T01:40:00.000Z","(212) 979-0312","Restaurants",40.728095,-73.985307,"141 1st Avenue, New York, NY 10009","No","Temporarily closed
+984,"Closed","Doc Holliday's ","2021-02-26T01:40:00.000Z","(212) 979-0312","Restaurants",40.728095,-73.985307,"141 1st Avenue, New York, NY 10009","No","Temporarily closed
 ","Bar","https://www.instagram.com/dochollidaysnyc/","IG is current, only spotty openings since COVID shutdown
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.etsy.com/shop/joannahollidays/",,,,"Yes",,,,true,,,,,,,,,,,
 983,"Opened","E7 Deli & Cafe","2021-01-05T01:35:00.000Z","(646) 438-9811","Groceries",40.726972,-73.985426,"118 1st Avenue, New York, NY 10009","Yes","Open 24/7!
@@ -450,7 +451,7 @@ SUN: Closed
 ","CBD","https://www.instagram.com/comebackdaily/","IG is being updated, Hours confirmed by phone
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://linktr.ee/comebackdaily","12:00 PM ","6:00 PM","comebackdaily@gmail.com",,"2019-05-17",,,true,,,,"Yes","Check Instagram for latest deals every Monday
 ",,,,,,
-981,"Closed","Sigiri","2021-02-14T00:25:00.000Z","212.614.9333","Restaurants",43.054415,-74.337505,"91 First Avenue, New York, NY 10003","No","Temporarily Closed until further notice due to gas issue in building.
+981,"Closed","Sigiri","2021-02-26T00:25:00.000Z","212.614.9333","Restaurants",43.054415,-74.337505,"91 First Avenue, New York, NY 10003","No","Temporarily Closed until further notice due to gas issue in building.
 On the second floor, above Duals
 ","Sri Lankan,Indian","https://www.instagram.com/sigiri_nyc/","11/3 IG post says closed until further notice due to gas issue in building, Laura check back
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://sigiriny.com/manhattan/","11:30 AM","9:00 PM","sigirisrilanka@gmail.com",,,,"No",true,"https://www.instagram.com/p/CHGquyNh9tF/",,,,,,,,,,
@@ -688,10 +689,11 @@ Reopened Feb. 11
 910,"Opened","Ed. Varie","2021-01-08T00:27:00.000Z","N/A","Arts & Culture",40.72485,-73.98104,"184 E. 7th Street, New York, NY 10009","Yes","MON & TUE: Closed	
 ","Gallery","https://www.instagram.com/edvarie/","IG is current
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.edvarie.com/","12:00 PM","6:00 PM","info@edvarie.com",,,,,true,,"https://fundraising.fracturedatlas.org/ed-varie",,,,,,,,,
-909,"Closed","Saramsam","2021-02-15T23:47:00.000Z","(833) 328-4588","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","No","SUN: noon - 10:00 PM
-","Filipino,Vegan","https://www.instagram.com/saramsamnyc/","Temporarily closed. Opened for Valentine's weekend pop-up as per website.
+909,"Unknown","Saramsam","2021-02-25T23:47:00.000Z","(833) 328-4588","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009",,"SUN: noon - 10:00 PM
+MON & TUE: Closed
+","Filipino,Vegan","https://www.instagram.com/saramsamnyc/","Temporarily closed opening soon as per IG
 Ravi's third concept in this space (after Fire & Water and Night Music)
-","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.saramsam.com/","5:00 PM ","10:00 PM"," info@saramsam.com","Yes","2020-09-14","Yes",,,,,,,,,,,,,
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.saramsam.com/","5:00 PM ","11:00 PM"," info@saramsam.com","Yes","2020-09-14","Yes",,,,,,,,,,,,,
 908,"Closed","Spiegel","2020-09-20T20:32:00.000Z","N/A","Restaurants",40.723694,-73.987807,"26 1st Avenue, New York, NY 10009","No",,"Kosher",,"PERMANENTLY CLOSED
 ","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,,,,,"2014-03-01",,,,"https://evgrieve.com/2020/09/has-spiegel-closed.html",,,,,"2020-09-15",,,,,
 907,"Closed","Jules Bistro","2020-09-18T23:50:00.000Z","N/A","Restaurants",40.72817,-73.986072,"65 St. Mark's Place, New York, NY 10003","No",,"French",,"PERMANENTLY CLOSED
@@ -853,8 +855,12 @@ MON & TUE: Closed
 ","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","http://www.malaimarke.com","12:00 PM","10:00 PM ","info@malaimarke.com","Yes",,,"Yes",,,,,,"[Order now!](https://eat.9fold.me/index.html#/179) 10% on all online order
 
 ",,,,"EVCC",,
-855,"Unknown","Local 92","2021-02-13T06:20:00.000Z","N/A","Restaurants",40.72691,-73.9885,"92 Second Avenue, New York, NY 10003",,,"Bar","https://www.instagram.com/local92nyc/?hl=en","\*\*\*Temporarily closed? last IG post Dec 11, Non-working number  (212) 432-2232
-","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.local92nyc.com",,,"local92nyc@gmail.com","Yes",,,,,,"https://www.gofundme.com/f/help-local92",,,,,,,"EVCC",,
+855,"Opened","Local 92","2021-02-25T06:20:00.000Z","N/A","Restaurants",40.72691,-73.9885,"92 Second Avenue, New York, NY 10003","Yes","SAT: 11:00 AM - 11:00 PM
+SUN: 11:00 AM - 10:00 PM
+Mon: Closed
+","Bar","https://www.instagram.com/local92nyc/?hl=en","Last IG post Dec 11, Resy says booking, hours as per website
+Non-working number  (212) 432-2232
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.local92nyc.com","4:00PM","11:00 PM","local92nyc@gmail.com","Yes",,"Yes","Yes",,,"https://www.gofundme.com/f/help-local92",,,,,,,"EVCC",,
 854,"Opened","Himalayan Vision","2021-01-05T06:09:00.000Z","212-254-1952","Retail",40.72849,-73.98815,"127 2nd Avenue, New York, NY 10003","Yes",,"Fashion","https://www.instagram.com/himalayan_vision/?hl=en"," Confirmed Hours by Phone
 ","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,"1:00 PM","8:00 PM",,,,,,,,,,,,,,,"EVCC",,
 853,"Opened","Friend of a Barber","2021-01-05T05:55:00.000Z","N/A","Services",40.724838,-73.983063,"126 E. 4th Street, New York, NY 10003","Yes","SUN: 11:00 AM - 6:00 PM
@@ -886,11 +892,11 @@ Shipping nationwide!
 ","Seafood","https://www.instagram.com/upstatenyc/","Check back IG for posts (Owner said will be posting soon), Confirmed hours by Phone
 
 ","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.upstatenyc.com","5:00 PM","9:30 PM","upstate1ave@gmail.com","Yes",,,"Yes",,,,,,,,,,"EVCC",,
-844,"Opened","Huertas","2021-02-13T06:38:00.000Z","(212) 228-4490","Restaurants",40.72688,-73.9863,"107 1st Avenue, New York, NY 10003","No","SAT: 4:00 PM - 10:00 PM
+844,"Opened","Huertas","2021-02-25T06:38:00.000Z","(212) 228-4490","Restaurants",40.72688,-73.9863,"107 1st Avenue, New York, NY 10003","No","SAT: 4:00 PM - 10:00 PM
 SUN: 4:00 PM - 9:00 PM
 MON & TUE: Closed	
 
-","Mexican","https://www.instagram.com/huertasnyc/","Temporarily closed, IG is being updated	
+","Mexican","https://www.instagram.com/huertasnyc/","Temporarily closed, IG is current, Reopening 3/1/21	
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.huertasnyc.com","5:00 PM","10:00 PM","yum@table22.com","Yes",,,,,,,,"Yes","Check out our online [cooking classes](https://www.huertasnyc.com/virtual-cooking-class/)!
 ",,,,"EVCC",,
 843,"Opened","Amigo by Nai","2021-02-14T02:24:00.000Z","(212) 933-4487","Restaurants",40.7246948,-73.9908769,"29 2nd Avenue, New York, NY 10003","Yes","FRI - SUN: noon - 10:00 PM
@@ -961,9 +967,9 @@ Not able to accept returns & exchanges at this time.
 828,"Opened","Waxing Center EV","2021-01-04T22:20:00.000Z","(212) 729-8740","Services",40.730509,-73.983486,"209 1st Ave, New York, NY 10003","Yes","SUN: 10:00 AM - 7:00 PM
 ","Waxing",,"Confirmed Hours by Phone 	
 ","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.waxingcenterev.com/index.html","10:00 AM","8:00 PM","waxingcenterev@gmail.com ",,,,,,,,,,,,,,,,
-827,"Opened","A-1 Record Shop","2021-02-08T16:20:00.000Z","(212) 473-2870","Retail",40.7258209,-73.9844384,"439 E. 6th Street, New York, NY 10009","Yes","[Online orders](https://www.discogs.com/seller/A1RecordShop/profile?page=2) ONLY, instore pickup by appointment
+827,"Opened","A-1 Record Shop","2021-02-08T16:20:00.000Z","(212) 473-2870","Retail",40.7258209,-73.9844384,"439 E. 6th Street, New York, NY 10009","Yes","[Online orders](https://www.discogs.com/seller/A1RecordShop/profile?page=2) ONLY, DM for instore pickup
 ","Records","https://www.instagram.com/a1recordshop/","\*\*\*Store is Temporarily closed, still shipping, IG is being updated
-","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.discogs.com/seller/A1RecordShop/profile?page=2",,,"a1recordstore@gmail.com",,,,,,,,,"Yes",,,,,"EVCC",,
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.discogs.com/seller/A1RecordShop/profile?page=2",,,"a1recordstore@gmail.com",,,,,,,,,"Yes",,,,,"EVCC",,
 826,"Opened","Lost City Oyster House","2021-01-04T17:07:00.000Z","(347) 455-0228","Restaurants",40.726306,-73.9776055,"171 Avenue C, New York, NY 10009","Yes","Opened August 2020. Formerly The Lost Lady. No takeout, just outdoor seating.
 ","Bar,Seafood","https://www.instagram.com/lostcityoysterhouse/","Confirmed Hours by Phone, New Website
 ","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.lostcityoysterhouse.com","4:00 PM","10:30 PM",,"Yes",,,,,,,,,,,,,"PG",,
@@ -1019,9 +1025,9 @@ SUN: 11:00 AM - 5:00 PM
 Now offering [Gift Cards](https://www.bakedcravings.com/collections/gifts-and-holiday-ideas/products/gift-card) on our website!
 ","Bakery,Nut Free","https://www.instagram.com/bakedcravingsny/","Confirmed hours by phone, IG is being updated
 ","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.bakedcravings.com","1:00 PM","9:00 PM"," support@bakedcravings.com",,"2020-09-01",,"Yes",true,,,,,,,"https://www.bakedcravings.com/collections/gifts-and-holiday-ideas/products/gift-card",true,"EVCC",,
-810,"Closed","Proletariot","2021-02-15T06:02:00.000Z","(833) 328-4588","Restaurants",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","No","
+810,"Closed","Proletariot","2021-02-25T06:02:00.000Z","(833) 328-4588","Restaurants",40.72708,-73.98469,"102 St. Mark's Place, New York, NY 10009","No","
 
-","Bar","https://www.instagram.com/proletariatny/?hl=en","Temporarily closed Dec 24, IG is being updated
+","Bar","https://www.instagram.com/proletariatny/?hl=en","Temporarily closed Dec 24 as per IG
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.proletariatny.com","4:00 PM ","10:00 PM","INFO@PROLETARIATNY.COM ","Yes",,,,,,,,,,,,,"EVCC",,
 809,"Opened","I Love Panzerotti","2021-01-04T05:53:00.000Z","(646) 821-1004","Restaurants",40.72674918973,-73.98356904377748,"130 St. Mark's Place, New York, NY 10009","Yes","FRI & SAT Only
 ","Italian","https://www.instagram.com/ilovepanzerotti/","Confirmed Hours by Phone 	
@@ -1062,7 +1068,7 @@ IG is usually best source but it's 9wks old
 800,"Closed","Meyhane ","2021-01-28T02:45:00.000Z","(212) 533-4875","Restaurants",40.73016,-73.98644,"166 2nd Avenue, New York, NY 10003","No","FRI & SAT: noon - 10:00 PM
 SUN: noon - 10:00 PM
  
-","Middle Eastern","https://www.instagram.com/meyhane__mediterranean_nyc/","\*\*\*Temporarily closed as per Laura (check back)
+","Middle Eastern","https://www.instagram.com/meyhane__mediterranean_nyc/","\*\*\*Temporarily closed Laura saw renovations before paper went up, check back
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.meyhanekitchen.com/","12:00 PM","10:00 PM","meyhanenyc@gmail.com","Yes",,,,,,,,,,,,,"EVCC",,
 799,"Closed","Astor Place Greenmarket Farmers Market","2020-12-17T17:28:00.000Z","N/A ","Groceries",40.730049,-73.991032,"Lafayette Street & E. 8th Street, New York, NY 10003","No","TUE ONLY** **
 ",,"https://www.instagram.com/grownyc_manhattan/","Temporarily closed for season: 
@@ -1588,10 +1594,10 @@ Call for updates!
 ","Jamaican,Bar,Juice Bar","https://www.instagram.com/misslilys/","Confirmed this week's hours by phone 
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.misslilys.com","5:00 PM","10:00 PM","info@misslilys.com","Yes",,,"Yes",,,,,,"Order directly from [site ](https://www.misslilys.com/)for 15% OFF first order!
 ",,,,"PG",,
-651,"Closed","Tarallucci e Vino","2021-02-13T20:09:00.000Z","(212) 388-1190","Restaurants",40.729003,-73.984558,"163 1st Avenue, New York, NY 10003","No","WED-SUN: 11:00 AM - 11:00 PM
+651,"Closed","Tarallucci e Vino","2021-02-25T20:09:00.000Z","(212) 388-1190","Restaurants",40.729003,-73.984558,"163 1st Avenue, New York, NY 10003","No","WED-SUN: 11:00 AM - 11:00 PM
 
 ","Italian,Cafe","https://www.instagram.com/taralluccinyc/","Temporarily closed as of Dec. 14 as per sign in window.
-","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.taralluccievino.net","4:00 PM","10:00 PM","events@taralluccievino.net","Yes",,,,,,,,,,,,,"PG",,
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.taralluccievino.net","4:00 PM","10:00 PM","events@taralluccievino.net","Yes",,,,,,,,,,,,,"PG",,
 650,"Opened","Anwar Grocery","2021-02-03T20:04:00.000Z",,"Groceries",40.72498,-73.98154,"106 Avenue B, New York, NY 10009","Yes",,"Deli ",,"Laura confirmed
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,,"PG",,
 649,"Opened","Hibachi Express Dumplings","2021-02-03T19:59:00.000Z","(917) 261-7701","Restaurants",40.729779,-73.978864,"536 E. 14th Street, New York, NY 10009","Yes","	
@@ -1675,15 +1681,16 @@ SUN: 10:00 AM - 10:30 PM
 MON: Closed
 No takeout, just outdoor seating.
 ","American","https://www.instagram.com/thewildsonnyc/?hl=en","IG is current
-","{""id"":""usrt9Ms4NiSf2E6PE"",""email"":""iris8516@gmail.com"",""name"":""Lindsey Loughman""}","http://thewildsonnyc.com","12:00 PM","10:30 PM","info@thewildsonnyc.com","Yes (Heated)",,,"Yes",,,,,,,,,,"EVCC",,
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://thewildsonnyc.com","12:00 PM","10:30 PM","info@thewildsonnyc.com","Yes (Heated)",,"Yes","Yes",,,,,,,,,,"EVCC",,
 616,"Closed","Oda House","2020-08-04T04:00:00.000Z","212 353 3838","Restaurants",40.72757,-73.98526,"76 Avenue B, New York, NY 10009","No","EV location closed as of 8/04/20.
 ","Georgian","https://www.instagram.com/odahouseny/","PERMANENTLY CLOSED. August 2020. Opened May 2013.
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://odahouse.com","8:30 PM ","11:30 PM","instagramues@odahouse.com",,"2013-05-01",,,,"https://evgrieve.com/2020/08/oda-house-closes-east-village-location.html",,,,,"2020-08-04",,,"PG",,
-615,"Closed","Good Night Sonny","2021-02-13T05:00:00.000Z","(646) 692-3254","Restaurants",40.72757,-73.98526,"134 1st Avenue, New York, NY 10009","No","SAT - SUN: 1:00 PM - 10:00 PM
+615,"Opened","Good Night Sonny","2021-02-25T05:00:00.000Z","(646) 692-3254","Restaurants",40.72757,-73.98526,"134 1st Avenue, New York, NY 10009","Yes","SAT - SUN: 2:00 PM - 11:00 PM
 MON: Closed
-No takeout, just outdoor seating.
-","Bar","https://www.instagram.com/goodnightsonnynyc/","Temporarily closed  for winter as per website
-","{""id"":""usrt9Ms4NiSf2E6PE"",""email"":""iris8516@gmail.com"",""name"":""Lindsey Loughman""}","https://www.goodnightsonnynyc.com","4:00 PM","10:00 PM","info@goodnightsonnynyc.com","Yes",,"Yes",,,"https://www.goodnightsonnynyc.com/",,,,,,,,"EVCC",,
+
+","Bar","https://www.instagram.com/goodnightsonnynyc/","IG is current,
+Reopened 2/23/21
+","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.goodnightsonnynyc.com","4:00 PM","11:00 PM","info@goodnightsonnynyc.com","Yes",,"Yes",,,"https://www.goodnightsonnynyc.com/",,,,,,,,"EVCC",,
 614,"Opened","Soothr","2021-02-01T05:00:00.000Z","212-844-9789","Restaurants",40.73225,-73.98738,"204 E. 13th Street, New York, NY 10003","Yes","
 ","Thai","https://www.instagram.com/soothr_nyc/","IG is current
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.soothrnyc.com/","12:00 PM","10:00 PM","info@soothrnyc.com","Yes",,,"Yes",true,,,,,,,,,"EVCC",,
@@ -1886,8 +1893,8 @@ THURS - SUN:  noon – 11:00 PM
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.matthewkenneycuisine.com/double-zero","12:00 PM","10:00 PM","00andco@matthewkenneycuisine.com","Yes",,,"Yes",,,,true,,,,"https://squareup.com/gift/BG1XWZ1RX18YG/order",,"EVCC",,
 564,"Opened","Brick Lane Curry House","2021-02-01T05:00:00.000Z","212-979-2900","Restaurants",40.72662,-73.98939,"79 2nd Avenue, New York, NY 10003","Yes",,"Indian","https://www.instagram.com/bricklanecurry/?hl=en","Hours confirmed by phone
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.bricklanecurryhouse.com/downtown/","12:00 PM","10:00 PM","bricklanedowntown@gmail.com","Yes",,,"Yes",,,,,,,,,,"EVCC",,
-563,"Closed","Calexico","2021-02-13T05:00:00.000Z","(646) 590-1466","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY 10003","No","EV location is temporarily closed.			
-","Mexican","https://www.instagram.com/calexiconyc/?hl=en","EV location is temporarily closed as per website, Laura check back
+563,"Closed","Calexico","2021-02-25T05:00:00.000Z","(646) 590-1466","Restaurants",40.727381,-73.988985,"99 2nd Avenue, New York, NY 10003","No","EV location is temporarily closed.			
+","Mexican","https://www.instagram.com/calexiconyc/?hl=en","EV location is Temporarily closed as per website		
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.calexico.com","12:00 PM","9:00 PM","eastvillage@calexico.com","Yes",,,"No",,"https://www.calexico.com/location/east-village/",,,,"50% OFF your next online order with code TACOTIME 
 ",,,,"EVCC",,
 562,"Opened","16 Handles","2021-02-03T05:00:00.000Z","(212) 260-4414","Cafes and Desserts",40.72961,-73.98719,"153 2nd Avenue, New York, NY 10003","Yes","SAT & SUN: 12:00 PM - 11:00 PM
@@ -3082,7 +3089,7 @@ SUN: noon - 10:00 PM
 238,"Opened","Prince Tea House","2021-01-21T05:00:00.000Z"," 646-892-3160","Cafes and Desserts",40.729485,-73.986702,"204 E. 10th Street, New York, NY 10003","Yes","
 ","Tea Shop","https://www.instagram.com/princeteahouse/","IG is being updated, Hours confirmed over phone 
 ","{""id"":""usrt9Ms4NiSf2E6PE"",""email"":""iris8516@gmail.com"",""name"":""Lindsey Loughman""}","http://princeteahouseorders.com/","12:00 PM","10:00 PM","info@princeteahouse.com","Yes (Heated)",,,"Yes",true,,,,,,,,,"PL",,
-237,"Unknown","Post","2021-02-13T05:00:00.000Z","646-930-2724","Restaurants",40.72256,-73.98217,"217 E. 3rd Street, New York, NY 10009",,"
+237,"Unknown","Post","2021-02-25T05:00:00.000Z","646-930-2724","Restaurants",40.72256,-73.98217,"217 E. 3rd Street, New York, NY 10009",,"
 ","American","https://www.instagram.com/postnewyork/","\*\*\*Temporarily closed, moved from 42 Avenue B
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://www.post-nyc.com","10:00 AM","10:00 PM","info@post-nyc.com","Yes",,,,true,"https://evgrieve.com/2021/01/post-unveils-signage-at-new-3rd-street.html",,,,,,,,"EVCC",,
 236,"Opened","Porto Rico Imported","2021-01-21T05:00:00.000Z","212-533-1982","Groceries",40.72832284,-73.98735119,"40 St. Mark's Place. New York, NY 10003","Yes","SAT: 10:00 PM - 5:00 PM
@@ -3106,7 +3113,7 @@ SAT & SUN: 12:00 PM - 10:00 PM
  to order 646-850-5151. [Menu ](https://www.pladonyc.com/taste)on website. Offering beer and wine specials as well.
 ","Tapas","https://www.instagram.com/pladonyc/","IG is being updated, Hours confirmed by phone
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.pladonyc.com/taste","4:00 PM","10:00 PM","info@pladonyc.com",,,,"Yes",,,,,,,,"https://www.pladonyc.com/gift-shop",,"PL",,
-231,"Closed","Pink's","2021-02-13T05:00:00.000Z","(646) 918-6231","Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY 10003","No","
+231,"Closed","Pink's","2021-02-25T05:00:00.000Z","(646) 918-6231","Restaurants",40.728761,-73.984796,"242 E. 10th Street, New York, NY 10003","No","
 ","Bar","https://www.instagram.com/pinksnyc/","Temporarily closed for a few weeks as per IG 1/1/21
 
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","http://pinks.nyc","2:00 PM","11:00 PM","info@pinks.nyc","Yes",,,"No",,"https://www.instagram.com/p/CJhJrMcFulI/",,,,,,,,"EVCC",,
@@ -3148,10 +3155,10 @@ MON: closed
 220,"Opened","Original Nicky's Vietnamese Sandwich Shop","2021-01-21T05:00:00.000Z","(929) 488-7307","Restaurants",40.72967681,-73.9810771,"209 Avenue A, New York, NY 10009","Yes",,"Vietnamese","https://www.instagram.com/originalnickys/?hl=en","Confirmed by phone
 
 ","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.originalnickys.com/","11:00 AM","10:30 PM",,,,,"Yes",true,,,,,,,,,"EVCC",,
-219,"Closed","Odessa","2020-07-04T04:00:00.000Z","212-253-1482","Restaurants",40.726503,-73.983567,"119 Avenue A, New York, NY 10009","No","Temporarily Closed ""for renovations""
+219,"Closed","Odessa","2021-02-25T05:00:00.000Z","212-253-1482","Restaurants",40.726503,-73.983567,"119 Avenue A, New York, NY 10009","No","Temporarily Closed ""for renovations""
 MON - THU 8:00 AM - 2:45 AM
 FRI - SUN 12:00 PM - 11:59 PM 
-","Ukrainian,Diner",,"Laura check back, renovation rumors
+","Ukrainian,Diner",,"Temporarily closed 7/4/20, renovation rumors
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"8:00 AM","3:30 PM",,,"2020-07-19",,"No",,"https://evgrieve.com/2020/07/odessa-is-closed-for-now-but-will-it.html",,,,,,,,"EVCC",,
 218,"Closed","OddFellows","2020-08-24T04:00:00.000Z","917-475-1812","Cafes and Desserts",40.726747,-73.990214,"75 E. 4th Street, New York, NY 10003","No","EV location closed
 ","Ice Cream","https://www.instagram.com/oddfellowsnyc/","PERMANENTLY CLOSED August 2020. Opened May 2014.
@@ -3212,7 +3219,7 @@ Our #mudmarket has fruits, vegetables, wine, beer, a small food menu, and mud co
 ","Cafe","https://www.instagram.com/mudcoffeenyc/","confirmed hours by phone
 ","{""id"":""usrt9Ms4NiSf2E6PE"",""email"":""iris8516@gmail.com"",""name"":""Lindsey Loughman""}","https://www.mudnyc.com/pages/mudspot","7:30 AM","9:30 PM","hello@mudnyc.com","Yes (Heated)",,,,,,,,,,,,,"EVCC",,
 201,"Closed","Mudpark","2021-02-13T05:00:00.000Z","(212) 529-8766","Cafes and Desserts",40.72297,-73.98804,"75 E. 1st Street, New York, NY 10003","No","
-","Cafe",,"TEMPORARILY Closed Laura check back
+","Cafe",,"Temporarily Closed Laura check back
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.mudnyc.com/pages/mudpark","7:30 AM","7:00 PM","hello@mudnyc.com",,,,,,"https://www.instagram.com/p/B-nlDBWDCW6/",,,,,,,,"EVCC",,
 200,"Opened","Motorino","2021-02-17T05:00:00.000Z","212-477-2644","Restaurants",40.730349,-73.983837,"349 E. 12th Street, New York, NY 10003","Yes","
 ","Pizza","https://www.instagram.com/motorinopizza/","IG is current
@@ -3855,7 +3862,7 @@ SUN: 12:00 PM - 8:00 PM
 (914) 420-1037 (personal phone?)
 Nate come back to this one 
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.beckysbitesnyc.com",,,"info@beckysbitesnyc.com",,"2017-08-01",,,true,"https://www.beckysbitesnyc.com/",,,,,"2020-02-01",,,"EVCC",,
-32,"Closed","Barnyard","2021-02-19T05:00:00.000Z","(212) 674-2276","Groceries",40.727297,-73.979883,"168 Avenue B, New York, NY 10009","No","Temporarily Closed
+32,"Closed","Barnyard","2021-02-25T05:00:00.000Z","(212) 674-2276","Groceries",40.727297,-73.979883,"168 Avenue B, New York, NY 10009","No","Temporarily Closed
 SUN: Closed
 ","Specialty Market,Cheese Shop,Sandwich","https://www.instagram.com/barnyardcheese/","\*\*\*Temporarily closed 2/17/21
 Don't worry about old IG, they're open!
@@ -3877,11 +3884,12 @@ Now accepting credit cards and Apple/Google Pay.
 Notary services available
 ","Pharmacy",,"Hours Confirmed by Phone 
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.facebook.com/Avenue-C-Pharmacy-Surgical-162723810422700/","9:30 AM","7:00 PM",,,,,"Yes",,,,,,,,,,"EVCC",,
-27,"Opened","Avant Garden","2021-02-13T05:00:00.000Z","(646) 922-7948","Restaurants",40.726123,-73.983976,"130 E. 7th Street, New York, NY 10009","Yes","Spring has sprung! indoor dining by reservation, outdoor by chance.
+27,"Opened","Avant Garden","2021-02-25T05:00:00.000Z","(646) 922-7948","Restaurants",40.726123,-73.983976,"130 E. 7th Street, New York, NY 10009","Yes","Spring has sprung! indoor dining by reservation, outdoor by chance.
 SAT & SUN: 2:00 PM - 9:00 PM
 PHONE for pickup orders, delivery from Caviar
 
-","Vegan","https://www.instagram.com/avantgardennyc/","Temporarily closed. Opened for Valentine's weekend pop-up as per website.
+","Vegan","https://www.instagram.com/avantgardennyc/","IG is current
+Reopened 2/25/21
 ","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.avantgardennyc.com/","5:00 PM","10:00 PM","info@avantgardennyc.com","Yes (Heated)",,"Yes","Yes",,,"https://www.gofundme.com/f/feed-the-east-village",,,"
 ",,,,"EVCC",,
 26,"Opened","Avalon Chemists","2021-01-18T05:00:00.000Z","212-260-3131","Health",40.72400237,-73.99126186,"7 2nd Avenue, New York, NY 10003","Yes","SAT: 10:00 AM - 6:00 PM
