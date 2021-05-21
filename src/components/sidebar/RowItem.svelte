@@ -15,7 +15,7 @@
 </script>
 
 <div class="item">
-    <a class="link" role="listitem" href="#" on:click={() => selectItem(item)}>
+    <a class="link" role="listitem" on:click={() => selectItem(item)}>
         <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
         <div class="icons">
             {#if outsideSeating}
