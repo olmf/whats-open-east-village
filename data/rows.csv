@@ -1697,11 +1697,11 @@ By appointment only.
 "Barbiere",716,"2021-02-04T15:08:00.000Z","http://barbierenyc.com/","Services",40.72685,-73.98945,"246 E. 5th Street, New York, NY 10003","Yes","SUN: 12:00 PM - 7:00 PM
 ","11:00 AM","Hair","https://www.instagram.com/barbierenyc/","8:00 PM","Confirmed Hours by Phone
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,"EVCC","barbiere.nyc@gmail.com",,"646-649-2640",,,,,,,,,,
-"B & H Barber Shop",715,"2021-02-04T15:08:00.000Z","www.bhbarbershop.com","Services",40.72413,-73.98399,"199 E. 4th Street, New York, NY 10009","Yes","FRI: 8:00 AM - 4:00 PM
+"B&H Barber Shop",715,"2021-07-05T14:08:00.000Z","www.bhbarbershop.com","Services",40.72413,-73.98399,"199 E. 4th Street, New York, NY 10009","Yes","FRI: 8:00 AM - 4:00 PM
 SAT: Closed
 SUN: 10:00 AM - 7:00 PM
 ","9:00 AM","Hair","https://www.instagram.com/bh_barbershop/?hl=en","8:00 PM","Confirmed Hours by Phone
-",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,"EVCC","BandHBarbershop@gmail.com",,"646-896-1090",,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"EVCC","BandHBarbershop@gmail.com",,"646-896-1090",,,,,,,,,,
 "Dolores Beauty Salon",714,"2021-02-04T15:08:00.000Z",,"Services",40.72538,-73.98726,"133 E. 4th Street, New York, NY 10003","Yes","
 ","9:00 AM","Hair","https://www.instagram.com/doloresbeauty_salon/","5:00 PM","Confirmed Hours by Phone
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,"EVCC",,,"212-460-9432",,,,,,,,,,
@@ -1870,9 +1870,10 @@ SAT: 10:30 AM - 6:00 PM
 "Bibi Wine Bar",673,"2021-02-13T20:19:00.000Z","www.bibiwinebar.com","Restaurants",40.723826,-73.983552,"211 E. 4th Street, New York, NY 10009","Yes","SAT & SUN: 4:00 PM - 11:00 PM
 ","5:30 PM","Bar","https://www.instagram.com/bibiwinebar/","11:00 PM","Reopened 2/12/21	
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"https://www.instagram.com/p/CJmZ__QBYyP/","Yes","PG","bonny@bibiwinebar.com",,"(212) 673-2424",true,,,,,,,,,
-"Cure Thrift Shop",672,"2021-05-07T19:19:00.000Z","http://www.curethriftshop.com/","Retail",40.732634,-73.989311,"111 E. 12th Street, New York, NY 10003","Yes","
-","12:00 PM","Vintage","https://www.instagram.com/curethrift/","9:00 PM","Check IG: moving to 91 3rd Ave soon
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"PG","info@curethriftshop.com",,"(212) 505-7467",true,"
+"Cure Thrift Shop",672,"2021-07-05T19:19:00.000Z","http://www.curethriftshop.com/","Retail",40.732634,-73.989311,"111 E. 12th Street, New York, NY 10003","Yes","Last day at this location: TUE 7/6!
+Everything 90% OFF or $1!
+","12:00 PM","Vintage","https://www.instagram.com/curethrift/","9:00 PM","Check IG: 7/6 is last day at this location; moving to 91 3rd Ave soon
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"PG","info@curethriftshop.com","2021-07-06","(212) 505-7467",true,"
 ",,"Yes",,"Yes",,"curethriftshop.com",,
 "Bernd Goeckler Antiques",671,"2021-02-04T20:15:00.000Z","http://www.bgoecklerantiques.com/","Retail",40.732439,-73.993252,"30 E. 10th Street, New York, NY 10003",,"MON, WED & FRI Only
 ","10:00 AM","Gifts & Home","https://instagram.com/bernd_goeckler","5:00 PM","confirmed hours by phone, Nate confirmed hours 
@@ -2746,12 +2747,12 @@ Reopened 4/2/21
 ","11:00 PM","Jewelry","https://www.instagram.com/ayakanishi/","6:00 PM","Confirmed hours by Phone
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,"EVCC","ayaka.nishi@gmail.com",,"347-813-1237",true,"
 ",,,,"Yes",,"https://www.ayakanishi.com/products/gift-card",,
-"P.S. 19 Asher Levy",423,"2021-01-26T05:00:00.000Z","https://www.opt-osfns.org/schoolfoodny/meals/default.aspx#Result","Free Food",40.730042,-73.984532,"185 1st Avenue, New York, NY 10003","Yes","MON - FRI Only
+"P.S. 19 Asher Levy",423,"2021-07-05T04:00:00.000Z","https://www.opt-osfns.org/schoolfoodny/meals/default.aspx#Result","Free Food",40.730042,-73.984532,"185 1st Avenue, New York, NY 10003","No","MON - FRI Only
 Pickup Community Meals
 \*\*No registration or ID required\*\*
 Daily menu [[here]](https://www.schools.nyc.gov/school-life/food/menus/school-lunch-meals)
-","3:00 PM","Meals",,"5:00PM"," Confirmed by DOE website
-",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-greenwich-village-and-soho/",,"EVCC","jchasin@schools.nyc.gov",,"212-533-5340",,,,,,,,,,
+","3:00 PM","Meals",,"5:00PM","Location closed for food distribution as per sign on door
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-greenwich-village-and-soho/",,"EVCC","jchasin@schools.nyc.gov",,"212-533-5340",,,,,,,,,,
 "Ludlow Coffee Supply",422,"2021-01-26T05:00:00.000Z","http://www.ludlowcoffeesupply.com/","Cafes and Desserts",40.7216825,-73.9873972,"176 Ludlow Street, New York, NY 10002","Yes",,"7:00 AM","Cafe","https://instagram.com/ludlowcoffeesupply","7:00 PM","Updated hours 
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,"EVCC","info.ludlowcoffeesupply@gmail.com",,"N/A",,,,,,,,,,
 "886",421,"2021-02-26T05:00:00.000Z","https://www.eighteightsix.com/","Restaurants",40.72878,-73.9887,"26 St. Mark's Place, New York, NY 10003","Yes","SAT & SUN: noon - 10:00 PM
