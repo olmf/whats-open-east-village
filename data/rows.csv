@@ -4301,14 +4301,21 @@ SUN: Closed
 Open on select Saturdays. 
 ","9:00 AM","Pharmacy",,"7:00 PM","Hours Confirmed by Phone 
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,"EVCC",,,"212-477-6400",,,,"Yes",,,,,,
-"A-Art Locksmiths",9,"2021-01-12T05:00:00.000Z","http://a-artlocksmithsnyc.com","Services",40.730963,-73.986394,"187 2nd Avenue, New York, NY 10003",,"SUN: Closed
-","9:00 AM","Locksmith",,"6:00 PM","Hours Confirmed by Phone 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"PL",,,"212-674-7650",,,,"Yes",,,,,,
-"A&C Kitchen",8,"2021-07-07T22:00:00.000Z",,"Restaurants",40.72497,-73.977849,"136 Avenue C, New York, NY 10009","Yes","FRI & SAT: 11:00 AM - 11:00 PM
+"A-Art Locksmiths",9,"2021-01-12T05:00:00.000Z","http://a-artlocksmithsnyc.com","Services",40.730963,-73.986394,"187 2nd Avenue, New York, NY 10003",,"SAT: 9:00 AM - 5:00 PM
+SUN: Closed
+","9:00 AM","Locksmith",,"6:00 PM","Website is current
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"PL",,,"212-674-7650",,"
+
+
+",,"Yes",,,,,,
+"A&C Kitchen",8,"2021-07-07T22:00:00.000Z",,"Restaurants",40.72497,-73.977849,"136 Avenue C, New York, NY 10009","Yes","24 Hour Emergency Service!
+FRI & SAT: 11:00 AM - 11:00 PM
 SUN: noon - 10:00 PM
 "," 11:00 AM","Chinese",," 10:30 PM","Hours Confirmed by Phone, 
-Reopened June 2021	
-","1990-01-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"EVCC",,,"(212) 677-8112",true,,,"Yes",,,,,,
+Reopened June 2021,
+Website is current
+
+","1990-01-01","Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,,"EVCC",,,"(212) 677-8112",true,,,"Yes",,,,,,
 "BD Star 99¢ Pizza",7,"2021-07-07T04:00:00.000Z","https://www.bdstarpizza.com","Restaurants",40.72542,-73.98418,"91 Avenue A, New York, NY 10009","Yes","
 ","  10:00 AM","Pizza",,"12:00 AM","Google listing updated by Business
 ",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,,"EVCC",,,"(212) 505-1200",,"5% OFF in [Slice app](https://slicelife.com/restaurants/ny/new-york/10009/bd-star-pizza/menu?ajs_aid=ea891db2-52b1-4e3f-9727-8be62f64d393&utm_campaign=direct_websites)
