@@ -3587,17 +3587,18 @@ SUN: 5:00 PM - 9:00 PM
 ",,"7:30 AM","Cafe",,"7:00 PM",,,"EVCC","Temporarily Closed Laura check back
 ","hello@mudnyc.com",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",40.72297,-73.98804,"https://www.instagram.com/p/B-nlDBWDCW6/","No",,,,,,,,,
 "Motorino",200,"2021-07-14T04:00:00.000Z","(212) 777-2644","https://www.motorinony.com/location/east-village/","Restaurants","349 E. 12th Street, New York, NY 10003","call for delivery!
-",,"4:00 PM","Pizza","https://www.instagram.com/motorinopizza/","10:30 PM",,"Order two pizzas, get a third for FREE ❤️ 
-","EVCC","Website is current
+",,"4:00 PM","Pizza","https://www.instagram.com/motorinopizza/","10:30 PM",,"
+","EVCC","Website and IG are current, Hours confirmed by website
 ","Palombino@mac.com",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.730349,-73.983837,,"Yes","Yes",,"Yes","Yes",,"Yes",,,
 "Mother of Pearl",199,"2020-07-20T04:00:00.000Z","212-614-6818","http://www.motherofpearlnyc.com","Restaurants","95 Avenue A, New York, NY 10009","Closed: Amor Y Amago expanded into this space & now serves food.
 ",,"3:00 PM","Vegan","https://www.instagram.com/motherofpearlny/?hl=en","8:00 PM",,,"EVCC","PERMANENTLY CLOSED July 2020. Opened July 2015. Amor Y Amargo expanded into this space & now serves food. 
 ",,,"2020-07-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",40.725665,-73.984116,,"No",,"2015-07-01",,"No",,,,,
 "Mokyo",198,"2021-07-14T04:00:00.000Z","646-755-8088","https://www.mokyony.com/","Restaurants","109 St. Mark's Place, New York, NY 10009","FRI - SUN: 5:00 PM - 11:00 PM
-",,"6:00 PM","Asian","https://www.instagram.com/mokyonyc/","11:00 PM",,,"EVCC","IG and website are current
+Last seating is 30 mins before closing time
+",,"6:00 PM","Asian","https://www.instagram.com/mokyonyc/","11:00 PM",,,"EVCC","Website and IG are current, Hours confirmed by website
 ","infomokyo@gmail.com",true,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.72722,-73.983876,,"Yes","Yes",,"Yes (Heated)","Yes",,"Yes",,,
 "Möge Tee",197,"2021-07-14T04:00:00.000Z","(929) 350-2833","https://mogeteeusa.com/","Cafes and Desserts","69 Cooper Square, New York, NY 10003",,,"12:30 PM","Bubble Tea","https://www.instagram.com/mogetee_eastvillage/","10:30 PM",,"10% off next order by following and[ tagging us!](https://www.instagram.com/mogetee_eastvillage/)
-","PL","Website is current 
+","PL","The website is current, IG is not current, Hours confirmed by phone
 ","lin@mogeteeusa.com",true,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.729067,-73.989896,,"Yes",,,,"Yes",,,,,
 "Mochii",196,"2021-07-14T04:00:00.000Z","212-473-3897","https://www.mochiinyc.com/aboutus","Cafes and Desserts","116 E. 7th Street, 10009, New York, NY","FRI & SAT: 1:00 PM - 11:00 PM
 SUN: 1:00 PM - 10:00 PM
@@ -3610,8 +3611,8 @@ SUN: 1:00 PM - 10:00 PM
 ","contact@misoyanyc.com",true,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.72852,-73.988101,,"Yes",,,"Yes (Heated)","Yes",,,,,
 "Mimi Cheng's ",194,"2021-07-14T04:00:00.000Z","(646) 360-2376","https://www.mimichengs.com","Restaurants","179 2nd Avenue, New York, NY 10003","
 
-","https://www.mimichengs.com/gift-cards","12:00 PM","Chinese","https://www.instagram.com/mimichengs/","8:30 PM","https://www.gofundme.com/f/dumplings-for-doctor",,"EVCC","IG and website are current, Confirmed Hours by Phone
-",,true,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.730698,-73.98656,,"Yes","Yes",,"Yes","Yes",,,,,
+","https://www.mimichengs.com/gift-cards","12:00 PM","Chinese","https://www.instagram.com/mimichengs/","8:30 PM","https://www.gofundme.com/f/dumplings-for-doctor",,"EVCC","Hours confirmed by the website, IG and website are current
+","info@mimichengs.com",true,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.730698,-73.98656,,"Yes","Yes",,"Yes","Yes",,,,,
 "Mikey Likes It",193,"2021-07-14T04:00:00.000Z","212-673-0199","www.mikeylikesiticecream.com","Cafes and Desserts","199 Avenue A, New York, NY 10009","Now shipping [pint packs](https://thebite.life/collections/mikey-likes-it) nationwide!
 ","https://mikeylikesiticecream.com/products/gift-card","2:00 PM","Ice Cream","https://www.instagram.com/mikeylikesiticecream/?hl=en","10:00 PM","https://mikeylikesiticecream.com/products/help-us-during-covid-19",,"EVCC","IG is current, Confirmed Hours by Phone
 
@@ -3624,9 +3625,11 @@ SUN: Closed
 Drop-off service, dry cleaning and tailoring.
 ",,"8:00 AM","Cleaners",,"7:00 PM",,,"EVCC","Confirmed Hours by Phone
 ",,,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.727149,-73.979412,,"Yes",,,,"Yes",,,,,
-"Michael Chang, DDS",190,"2021-07-14T04:00:00.000Z","(212) 460-8266","https://www.zocdoc.com/dentist/michael-chang-dds-112960?LocIdent=lo_h8fXLe3Bt0C9dh2VrZ6EPx&utm_source=reservewithgoogle&utm_medium=seosynd","Health","184 2nd Avenue, New York, NY 10003","By appointment only
-",,"11:00 AM","Dental",,"3:00 PM",,,"EVCC","Hours confirmed by appointment link available 
-","drmchang@drmichaelchang.com",true,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.730663,-73.985828,,"Yes",,,,,true,,,,
+"Michael Chang, DDS",190,"2021-07-14T04:00:00.000Z","(212) 460-8266","https://www.zocdoc.com/dentist/michael-chang-dds-112960?LocIdent=lo_h8fXLe3Bt0C9dh2VrZ6EPx&utm_source=reservewithgoogle&utm_medium=seosynd","Health","184 2nd Avenue, New York, NY 10003","Appointment only,**[ link to schedule appointments](https://www.zocdoc.com/dentist/michael-chang-dds-112960?LocIdent=lo_h8fXLe3Bt0C9dh2VrZ6EPx&utm_source=reservewithgoogle&utm_medium=seosynd)**
+
+
+",,,"Dental","https://www.instagram.com/zocdoc/",,,,"EVCC","Hours confirmed by appointment link
+","drmchang@drmichaelchang.com",true,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",40.730663,-73.985828,,"Yes",,,,,true,,,,
 "Medilane Drugs",189,"2021-07-14T04:00:00.000Z","212-505-1788",,"Health","227 Avenue B, New York, NY 10009","SAT: 10:30 AM - 5:30 PM
 SUN: closed
 ",,"10:00 AM","Pharmacy",,"6:00 PM",,,"PL","Hours confirmed by phone
