@@ -3348,8 +3348,8 @@ SUN: closed
 WED & FRI: 12:00 PM - 5:00 PM
 TUES, SAT & SUN: Closed
 
-",,"Dental",,,"\*\*\*\*Hours confirmed by website
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",40.727761,-73.986176,,,,"EVCC","smpdentalpc@gmail.com.",,,,,,,,,,,
+",,"Dental",,,"Hours confirmed by website ( jerin called but voicemail said they do not pick up call )
+",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.727761,-73.986176,,,,"EVCC","smpdentalpc@gmail.com.",,,,,,,,,,,
 "SMØR",269,"2021-07-16T04:00:00.000Z","646-478-8391","https://www.smornyc.com/","Restaurants","441 E. 12th Street, New York, NY 10009","Yes","MON & TUE: Closed
 
 ","10:00 AM","Nordic","https://www.instagram.com/smornyc/","8:00 PM","IG and website are not current, Hours confirmed by phone
@@ -3357,13 +3357,13 @@ TUES, SAT & SUN: Closed
 "Silky Kitchen",268,"2021-07-16T04:00:00.000Z","(646) 850-0635","https://silkykitchen.com","Restaurants","137 E. 13th Street, New York, NY 10003","Yes","		
 ","11:00 AM","Chinese","https://www.instagram.com/silkykitchennyc/","8:30 PM"," Hours confirmed by phone
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.733074,-73.988215,,,,"EVCC","hello@silkykitchen.com",true,,"https://www.instagram.com/p/B97l7uuF50L/","Yes",,"Yes",,,,,
-"Sew Good Cleaners",267,"2021-01-21T05:00:00.000Z","(212) 777-8441",,"Laundry","337 E. 9th Street, New York, NY 10003","Yes","SAT: 9:00 AM - 6:00 PM
+"Sew Good Cleaners",267,"2021-01-21T05:00:00.000Z","(212) 777-8441",,"Laundry","337 E. 9th Street, New York, NY 10003","Yes","SAT: 8:30 AM - 6:00 PM
 SUN: 12:00 PM - 4:00 PM
-","8:30 AM","Cleaners",,"6:00 PM","\*\*\*\* call back later, confirmed by phone 
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",40.728649,-73.985519,,,,"PG",,,,,,,,,,,,
+","8:30 AM","Cleaners",,"6:00 PM","Hours confirmed by phone 
+",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.728649,-73.985519,,,,"PG",,,,,,,,,,,,
 "Setsugekka",266,"2021-02-13T05:00:00.000Z","646-895-9586","www.setsugekkany.com","Cafes and Desserts","74 E. 7th Street, New York, NY 10003",,"Our teahouse in East Village is temporarily closed until further notice due to response to COVID-19. Matcha tea powder is still available at our online shop. Please stay safe and healthy!
-",,"Tea Shop","https://www.instagram.com/setsugekkany_matcha/?hl=en",,"\*\*\*\*Teashop is closed since Covid, online shop closed til late July
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",40.727226,-73.986548,"https://www.setsugekkany.com/online-shop/gift-cards/",,,"EVCC","info@setsugekkany.com",true,,,,,,,,,,
+",,"Tea Shop","https://www.instagram.com/setsugekkany_matcha/?hl=en",,"Teashop is closed since Covid, online shop closed til late July ( jerin called and phone just rings)
+",,"Unknown","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.727226,-73.986548,"https://www.setsugekkany.com/online-shop/gift-cards/",,,"EVCC","info@setsugekkany.com",true,,,,,,,,,,
 "School for the Dogs",265,"2021-07-16T04:00:00.000Z","212-353-3647","www.schoolforthedogs.com","Services","92 E. 7th Street, New York, NY 10009","Yes","Make an appointment!
 ","12:00 PM","Pet Supplies & Grooming,Dog Training","https://www.instagram.com/schoolforthedogs/","4:00 PM","IG and website are current
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.726669,-73.985448,,,"
@@ -4114,16 +4114,16 @@ COVID Testing THU: 10:00 AM - 3:00 PM
 "Curry Ya",70,"2021-07-12T20:00:00.000Z","(212) 995-2877","https://curryya.square.site/","Restaurants","218 E. 10th St, New York, NY 10003","Yes","FRI & SAT: noon -  10:00 PM
 MON: Closed
 Now at Rai Rai Ken!
-","12:00 PM","Japanese","https://www.instagram.com/curry.ya/","9:00 PM","\*\*\*\*IG is current, Hours Confirmed By Phone. 
+","12:00 PM","Japanese","https://www.instagram.com/curry.ya/","9:00 PM","IG is current, Hours Confirmed By Phone. 
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.729178,-73.985907,"https://squareup.com/gift/54Q7ZTJ24QBYR/order","https://www.gofundme.com/f/ticjapaneserestaurants","
 ","EVCC","info@nycurry-ya.com",true,,,"Yes","Yes","Yes",,,,,
-"Crown Fried Chicken",69,"2021-01-13T05:00:00.000Z","(212) 982-2850",,"Restaurants","117 Avenue D, New York, NY 10009","Yes",,"10:00 AM","American",,"10:00 PM","\*\*\*\*Hours Confirmed by Phone 
+"Crown Fried Chicken",69,"2021-01-13T05:00:00.000Z","(212) 982-2850",,"Restaurants","117 Avenue D, New York, NY 10009","Yes",,"11:00 AM","American",,"11:00 PM","Hours Confirmed by Phone 
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.724378,-73.97553,,,,"PL",,,,,,,"Yes",,,,,
 "Craft and Carry",68,"2021-07-12T04:00:00.000Z","917-265-8078","https://www.carryyourcraft.com/","Retail","116 St. Mark's Place, New York, NY 10009","Yes",,"12:00 PM","Beer","https://www.instagram.com/craftandcarry/","11:00 PM","IG is current, website is current, Hours confirmed by phone
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.72697165,-73.9841222,"https://squareup.com/gift/E54TB3S2RWDRV/order",,,"EVCC","craftandcarrynyc@gmail.com",,,,"Yes","Yes","Yes",,,,,
 "Cosmo's Launderama",67,"2021-01-13T05:00:00.000Z","(646) 602-2557",,"Laundry","142 1st Avenue, New York, NY 10009","Yes","THU: Closed 
 	
-","9:00 AM","Laundromat",,"8:00 PM","\*\*\*\*Hours Confirmed by Phone 
+","8:00 AM","Laundromat",,"8:30 PM","Hours Confirmed by Phone 
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.72787,-73.98481,,,,"EVCC",,,,,,,,,,,,
 "Cornerstone Cafe",66,"2021-07-12T19:30:00.000Z","212 228 1260","https://www.cornerstonecafenyc.com/","Restaurants","17 Avenue B, New York, NY 10009","Yes","TUE: Closed
 	
@@ -4179,7 +4179,7 @@ MON - WED : Closed
 ","11:00 AM","Puerto Rican","https://www.instagram.com/casaadelarestaurant/?hl=en","8:00 PM","Hours Confirmed by voicemail,  Web is current
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",40.722601,-73.979627,,,,"EVCC","casaadelarestaurant@gmail.com",true,,,"Yes","Yes","Yes",,,,,
 "Cafe Social 68",53,"2021-07-09T04:00:00.000Z","(917) 409-6837","https://www.cafesocial68.com/","Cafes and Desserts","68 Avenue A, New York, NY 10009","Yes","SAT & SUN: 8:00 AM - 7:00 PM
-","7:00 AM ","Cafe","https://www.instagram.com/cafesocial68/","7:00 PM ","IG is current, website is current
+","7:00 AM ","Cafe","https://www.instagram.com/cafesocial68/","7:00 PM ","IG and website are current, Hours confirmed by the website
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",40.724622,-73.984389,,,,"EVCC",,,,,,"Yes",,,,,,
 "Cafe Mocha",52,"2020-12-12T05:00:00.000Z","212-253-1046","www.cafemochanyc.com","Cafes and Desserts","116 2nd Avenue, New York, NY 10003 ","No",,,"Cafe","https://www.instagram.com/cafemochaeast/",,"PERMANENTLY CLOSED. Building was demolished after December 2020 fire (had been Temporarily closed since Feb 2020 fire). 
 
