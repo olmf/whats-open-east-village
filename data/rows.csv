@@ -1,4 +1,4 @@
-"Name","id","Source","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Open Time","Sub Categories","Close Time","Contributor","Spreadsheet Update Notes","Opening Date","Status","Last modified by","Website","Instagram","Email","MWBE","Indoor Seating Offered","Closure Date","Giftcard","Fundraiser","Special Offers","Outside Seating Offered","LGBTQ","Shipping Offered","Black Owned Business","Special Accommodation Hours","Update Requests"
+"Name","id","Source","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Open Time","Sub Categories","Close Time","Contributor","Spreadsheet Update Notes","Opening Date","Status","Last modified by","Website","Instagram","Email","MWBE","Indoor Seating Offered","Closure Date","Giftcard","Fundraiser","Special Offers","Outside Seating Offered","LGBTQ","Shipping Offered","Black Owned Business","Update Requests","Special Accommodation Hours"
 "Marufuku Ramen",1302,"https://evgrieve.com/2021/07/openings-gia-trattoria-on-bowery.html","2021-07-22T05:20:00.000Z","212-432-2232","Restaurants",40.72691,-73.9885,"92 2nd Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: 5:00 PM - 11:00 PM
 ","5:00 PM","Japanese","10:00 PM","EVCC","\*\*\*\*\* this location not yet listed on main IG & Website
 ","2021-07-19","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,
@@ -1363,9 +1363,9 @@ Not able to accept returns & exchanges at this time.
 ","12:00 PM","Records","8:00 PM","EVCC","IG is being updated,
 reopened 5/22/21
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.discogs.com/seller/A1RecordShop/profile?page=2","https://www.instagram.com/a1recordshop/","a1recordstore@gmail.com",,,,,,,,,"Yes",,,
-"Lost City Oyster House",826,,"2021-01-04T17:07:00.000Z","(347) 455-0228","Restaurants",40.726306,-73.9776055,"171 Avenue C, New York, NY 10009","Yes",,"Opened August 2020. Formerly The Lost Lady. No takeout, just outdoor seating.
+"Lost City Oyster House",826,,"2021-01-04T17:07:00.000Z","(347) 455-0228","Restaurants",40.726306,-73.9776055,"171 Avenue C, New York, NY 10009",,,"Opened August 2020. Formerly The Lost Lady. No takeout, just outdoor seating.
 ","4:00 PM","Bar,Seafood","10:30 PM","PG","Confirmed Hours by Phone, New Website
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.lostcityoysterhouse.com","https://www.instagram.com/lostcityoysterhouse/",,,,,,,,"Yes",,,,,
+",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","https://www.lostcityoysterhouse.com","https://www.instagram.com/lostcityoysterhouse/",,,,,,,,,,,,,
 "Famous Cutz",825,,"2021-06-25T17:38:00.000Z","(646) 596-8467","Services",40.72838,-73.98432,"156 1st Avenue, New York, NY 10009","Yes",,"SUN: 10:00 AM - 7:00 PM
 ","10:00 AM","Hair","8:00 PM","EVCC","IG & website are current,
 Opened new location12/2020, closed 305 E. 9th Street spring 2021.
@@ -1400,13 +1400,10 @@ MON & TUE: Closed
 "Giano's ",817,,"2021-01-04T20:11:00.000Z","212-673-7200","Restaurants",40.72616,-73.98422,"126 E. 7th Street, New York, NY 10009","Yes","Yes","MON: Closed
 ","5:00 PM","Italian","10:00 PM","EVCC","Confirmed hours by phone, Website is being updated	
 ",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.gianonyc.com","https://www.instagram.com/gianonyc/","info@gianonyc.com",,,,"https://www.gianonyc.com/gift-card",,,"Yes",,,,,
-"Sally Beauty Supply",816,,"2021-01-04T19:26:00.000Z","(332) 217-0003","Retail",40.7296,-73.97919,"528 E. 14th Street, New York, NY 10009","Yes",,"MON & TUE: 9:00 AM - 6:00 PM
-WED - FRI: 10:00 AM - 7:00 PM
-SAT: 10:00 AM - 6:00 PM
-SUN: 11:00 AM - 5:00 PM
+"Sally Beauty Supply",816,,"2021-07-23T18:26:00.000Z","(332) 217-0003","Retail",40.7296,-73.97919,"528 E. 14th Street, New York, NY 10009","Yes",,"SUN: 11:00 AM - 5:00 PM
 
-",,"Cosmetics & Grooming ",,"EVCC","Confirmed hours by phone
-",,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}","https://www.sallybeauty.com","https://www.instagram.com/sallybeauty/",,,,,"https://www.sallybeauty.com/gift-cards/",,,,,"Yes",,"MON & TUE: 9:00 AM - 10:00 AM",
+","10:00 AM","Cosmetics & Grooming ","6:00 PM","EVCC","Confirmed hours by phone
+",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","https://www.sallybeauty.com","https://www.instagram.com/sallybeauty/",,,,,"https://www.sallybeauty.com/gift-cards/",,,,,"Yes",,,
 "Veeray da Dhaba",815,"https://www.instagram.com/p/CN8UDdmlcDS/","2021-07-22T05:53:00.000Z","(212) 777-1420","Restaurants",40.73076,-73.98265,"222 1st Avenue, New York, NY 10009","Yes","Yes",,"12:00 PM","Punjabi,Indian","9:00 PM","EVCC","Confirmed hours and seating by phone
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.veeraydadhaba.com/","https://www.instagram.com/veeray_da_dhaba/?hl=en","info@veeraydadhaba.com",true,"Yes",,,,,,,,,,
 "Love Thy Beast",814,"https://www.lovethybeast.com/pages/contact","2021-07-22T05:44:00.000Z","(646) 876-1005","Services",40.72662,-73.988861,"300 E. 5th Street, New York, NY 10003","Yes",,"MON & TUE: Closed
@@ -1465,7 +1462,7 @@ By appointment only
 ",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","http://jukebarnyc.com/","https://www.instagram.com/jukebarnyc/?hl=en","JUKEBARNYC@GMAIL.COM",,"Yes",,,,,"Yes (Heated)",,,,,
 "VILLAINESS",801,,"2021-07-23T00:10:00.000Z","N/A ","Retail",40.72765,-73.979073,"181 Avenue B, New York, NY 10009","Yes",,"SUN & MON: Closed
 ","2:00 PM","Vintage,Fashion","8:00 PM","EVCC","IG & website is current
-",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,"https://www.instagram.com/villainessnyc/?hl=en","villainessnyc@gmail.com",true,,,,,,,,,true,,"recQyRCsupX7SO3tF"
+",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,"https://www.instagram.com/villainessnyc/?hl=en","villainessnyc@gmail.com",true,,,,,,,,,true,"recQyRCsupX7SO3tF",
 "Meyhane (Luna)",800,,"2021-07-23T01:45:00.000Z","(212) 533-4875","Restaurants",40.73016,-73.98644,"166 2nd Avenue, New York, NY 10003","No",,"FRI & SAT: noon - 10:00 PM
 SUN: noon - 10:00 PM
  
@@ -1699,7 +1696,7 @@ SUN: 12:00 AM - 5:00 PM
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://loveonly.nyc","https://www.instagram.com/love_only_nyc/","loveonlynewyorkcity@gmail.com",true,,,,,,,,,,,
 "D.L. Cerney",731,,"2021-07-20T19:18:00.000Z","212-673-7033","Retail",40.72859,-73.98637,"324 E. 9th Street, New York, NY 10003","Yes",,"
 ","12:00 PM","Fashion","7:00 PM","EVCC","Confirmed Hours by Phone 
-",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","http://dlcerney.com/","https://www.instagram.com/dlcerney/","dlcerney@verizon.net",true,,,,,,,,,," ",
+",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","http://dlcerney.com/","https://www.instagram.com/dlcerney/","dlcerney@verizon.net",true,,,,,,,,,,," "
 "City Fun",730,,"2021-07-20T19:18:00.000Z","646-360-4147","Retail",40.7245,-73.98779,"45 1st Avenue, New York, NY 10003","Yes",,"SUN: noon - 7:00 PM
 ","12:00 PM","Fashion,Records","8:00 PM","EVCC","Confirmed Hours by Phone 
 ",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","https://city-fun.business.site/","https://www.instagram.com/cityfunshop/","cityfunshop@gmail.com",,,,,,,,,,,,
@@ -2370,7 +2367,7 @@ TUE: Closed
 [Order directly](http://caravanofdreams.net/order-online/) for FREE delivery!
 Check [Facebook](https://www.facebook.com/CaravanofDreams) for updates!
 ","1:00 PM","Vegan,Cafe,Juice Bar","10:00 PM","EVCC","Hours confirmed by phone 
-",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://caravanofdreams.net/","https://www.instagram.com/caravanofdreamsny/","caravanofdreams@gmail.com",,,,,,,"Yes",,,,,"recxZRnoi2axwwa2W"
+",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://caravanofdreams.net/","https://www.instagram.com/caravanofdreamsny/","caravanofdreams@gmail.com",,,,,,,"Yes",,,,"recxZRnoi2axwwa2W",
 "Sahara East",556,,"2021-02-03T05:00:00.000Z","212-353-9000","Restaurants",40.72945,-73.98363,"184 1st Avenue, New York, NY 10009","Yes","Yes","
 ","12:00 PM","Middle Eastern","10:00 PM","EVCC","Hours confirmed by phone 
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"https://www.instagram.com/saharaeastnyc/?hl=en",,,,,,,,"Yes",,,,,
@@ -2473,7 +2470,7 @@ SUN:closed
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.gizmonyc.com/",,,true,,,,,,,,,,,
 "E. 10th Street Finest Deli",526,"https://evgrieve.com/2020/12/the-e-10th-st-finest-deli-has-closed.html","2020-12-15T05:00:00.000Z","212-533-9700","Groceries",40.728627,-73.984298,"162 1st Avenue, New York, NY 10009","No",,,,"Deli ",,"EVCC","PERMANENTLY CLOSED			
 
-","2005-12-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"2020-12-01",,,,,,,,"Two-for-one offers on select merchandise!",
+","2005-12-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"2020-12-01",,,,,,,,,"Two-for-one offers on select merchandise!"
 "Gotham Divers",525,,"2021-01-27T05:00:00.000Z","212-780-0879","Services",40.725665,-73.987598,"125 E. 4th Street, New York, NY 10003",,,"Check out our [classes](https://www.gothamdivers.com/classes/) and [online shopping!](https://store.gothamdivers.com/)
 ",,"Dive Shop",,"EVCC","Website being updated
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","http://www.gothamdivers.com","https://www.instagram.com/gothamdivers/","info@gothamdivers.com",,,,,,"[PADI e-learning courses 25% OFF!]](http://www.gothamdivers.com/covid-classes/)
@@ -2774,7 +2771,7 @@ Order ahead for instore pickup [here](https://www.kmart.com/en_us/dap/in-vehicle
 ",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","https://www.bitenyc.com/","https://www.instagram.com/bitenyc/","bitenyc@gmail.com",,,,,"https://www.gofundme.com/f/support-your-local-store?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,,,,
 "Joyface",445,,"2020-12-16T16:08:00.000Z","(917) 261-2166","Restaurants",40.723938,-73.978782,"104 Avenue C, New York, NY 10009","Yes",," SAT & SUN: 1:00 PM - 10:00 PM
 ","3:00 PM","Bar","10:00 PM","EVCC","Confirmed hours by phone
-",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://joyface.nyc","https://www.instagram.com/joyfacenyc/","Jen@joyface.nyc",true,,,,,,"Yes",,,,,"reccmPjL6plT1TXeo"
+",,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}","https://joyface.nyc","https://www.instagram.com/joyfacenyc/","Jen@joyface.nyc",true,,,,,,"Yes",,,,"reccmPjL6plT1TXeo",
 "Lime Tree Market",444,,"2021-01-26T05:00:00.000Z","(917) 675-6480","Groceries",40.7281356,-73.98484823,"146 1st Avenue, New York, NY 10009","Yes","Yes",,"12:00 AM","Deli ","12:00 AM","EVCC","Confirmed hours by phone
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.limetree-market.com",,"limetreemarket@limetree-market.com",true,,,,,,,,"No",,,
 "Frank's Bike Shop",443,,"2021-01-26T05:00:00.000Z","(212) 533-632","Services",40.713891,-73.980338,"553 Grand Street, New York, NY 10002","Yes",,"WED: Closed 
@@ -2866,7 +2863,7 @@ Daily menu [[here]](https://www.schools.nyc.gov/school-life/food/menus/school-lu
 "Book Club Bar",420,,"2021-07-22T04:00:00.000Z","(646) 678-4160","Retail",40.723004,-73.983206,"197 E. 3rd Street, New York, NY 10009","Yes","Yes","
 ","9:00 AM","Books,Cafe","12:00 AM","EVCC","IG and website are current, Hours from the website
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","https://bookclubbar.com/","https://www.instagram.com/bookclubbar/","nat@bookclubbar.com or erin@bookclubbar.com",,"Yes",,"https://bookclubbar.com/?q=h.cart.gcfuncs",,"
-","Yes",,"Yes",,,"receeGolA4n3kFv2I"
+","Yes",,"Yes",,"receeGolA4n3kFv2I",
 "Jeepney",419,,"2021-07-22T04:00:00.000Z","(908) 356-4147","Restaurants",40.730323,-73.983642,"201 1st Avenue, New York, NY 10003","Yes","Yes","TUE: no deliveries!
 MON: Closed
 
@@ -2929,7 +2926,7 @@ SUN: 8:30 AM - 6:00 PM.
 "Gristedes",403,,"2021-07-21T04:00:00.000Z","(212) 353-1330","Groceries",40.731903,-73.994336,"25 University Place, New York, NY 10003","Yes","Yes","	
 ","7:00 AM","Supermarket","10:00 PM","EVCC","Confirmed hours by phone
 ",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","http://www.gristedessupermarkets.com/","https://www.instagram.com/gristedes/","customerservice@gristedes.com",,,,"http://shop.gristedes.com/ProductDetails.asp?ProductCode=GIFT_CARD",,"Check [website ](https://www.gristedessupermarkets.com/weekly-specials/)for weekly specials!
-",,,,,"Senior hours: 7:00 AM - 8:00 AM ",
+",,,,,,"Senior hours: 7:00 AM - 8:00 AM "
 "La La Laundry",402,,"2021-07-21T04:00:00.000Z","(212) 529-8887","Laundry",40.727683,-73.9795454,"180 Avenue B, New York, NY 10009","Yes","Yes","MON - FRI: last wash 7:30 PM
 SAT & SUN: 9:00 AM - 8:00 PM last wash  6:30 PM
 ","8:00 AM","Laundromat","9:00 PM","EVCC","Confirmed hours by Phone
@@ -3002,7 +2999,7 @@ SUN: 12:00 PM- 5:30 PM
 MON: Closed
 
 ","12:00 PM","Sandwich","8:00 PM","EVCC","IG and website are current, Hours from the website
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://foxface-nyc.square.site","https://www.instagram.com/foxface_nyc/","info@foxface.nyc",,,,"https://squareup.com/gift/QQVB9FDKP6JFZ/order",,,"Yes",,,,,"recQTPxRUI0aErC4o"
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://foxface-nyc.square.site","https://www.instagram.com/foxface_nyc/","info@foxface.nyc",,,,"https://squareup.com/gift/QQVB9FDKP6JFZ/order",,,"Yes",,,,"recQTPxRUI0aErC4o",
 "Azaleas",386,,"2021-07-21T04:00:00.000Z","212-228-5842","Retail",40.728911,-73.987196,"140 2nd Avenue, New York, NY 10003","Yes",,"SUN: noon - 6:00 PM
 
 ","12:00 PM","Fashion","7:00 PM","EVCC","IG and website are current, Hours from the website
@@ -3130,10 +3127,10 @@ SUN: Closed
 ",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","http://www.gringerandsons.com/","https://www.instagram.com/gringerandsons/","Kminauro@gringerandsons.com",,,,,,,,,"Yes",,,
 "East Village Vintage Collective",354,,"2021-07-19T04:00:00.000Z","646-476-8036","Retail",40.728413,-73.979311,"545 E. 12th Street, New York, NY 10009","Yes","Yes","WED - SUN only
 ","1:00 PM","Vintage,Records","6:00 PM","EVCC","IG and website are current
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.eastvillagevintagecollective.com","https://www.instagram.com/evvintagecollective/","evvintagecollective@gmail.com",true,,,,,,,,"Yes",,,"recgE5IajjFUdDOoP"
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.eastvillagevintagecollective.com","https://www.instagram.com/evvintagecollective/","evvintagecollective@gmail.com",true,,,,,,,,"Yes",,"recgE5IajjFUdDOoP",
 "Bonnie Slotnick Cookbooks",353,,"2021-07-19T04:00:00.000Z","212-989-8962","Retail",40.72527,-73.9907,"28 E. 2nd Street, New York, NY 10003","Yes","Yes","See the [website](http://bonnieslotnickcookbooks.com/) for this week's shop hours, online always!
 ",,"Books,Vintage,Gifts & Home",,"EVCC","Check website weekly for hours, IG and Website are current 
-",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","http://bonnieslotnickcookbooks.com","https://www.instagram.com/bonnieslotnickcookbooks/","bonnieslotnickcookbooks@earthlink.net",true,,,,,,,,"Yes",,,"recCMs40nqcdw45lX"
+",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","http://bonnieslotnickcookbooks.com","https://www.instagram.com/bonnieslotnickcookbooks/","bonnieslotnickcookbooks@earthlink.net",true,,,,,,,,"Yes",,"recCMs40nqcdw45lX",
 "Exit9 Gifts",352,,"2021-07-19T04:00:00.000Z","212-228-0145","Retail",40.7241016,-73.9852646,"51 Avenue A, New York, NY 10009","Yes",,"MON: Closed 
 online always!
 ","12:00 PM","Gifts & Home,Childrens","6:00 PM","EVCC","IG being updated, Confirmed Hours by Phone
@@ -3235,7 +3232,7 @@ SUN: Closed
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.uspnyc.com",," uspnyc@yahoo.com",,,,,,,,,,,,
 "Union Market",325,,"2021-07-17T04:00:00.000Z","212-677-2441","Groceries",40.722397,-73.985834,"240 E. Houston Street, New York, NY 10009","Yes","No","Accepts SNAP/EBT.
 ","8:00 AM","Supermarket","10:00 PM","PG","Website and IG are current, hours from website	
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.unionmarket.com","https://www.instagram.com/unionmarket/",,,,,"https://unionmarket.com/gift-cards/","https://linktr.ee/supportindia",,,,,,"Senior Hours: 9:00 AM - 10:00 AM every day",
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.unionmarket.com","https://www.instagram.com/unionmarket/",,,,,"https://unionmarket.com/gift-cards/","https://linktr.ee/supportindia",,,,,,,"Senior Hours: 9:00 AM - 10:00 AM every day"
 "Two Brothers Pizza",324,,"2021-07-17T04:00:00.000Z","212-777-0600","Restaurants",40.728655,-73.98849,"32 St. Mark's Place, New York, NY 10003","Yes",,"THU: 10:30 AM - 1:30 AM
 FRI & SAT: 10:30 AM - 3:00 AM
 SUN: 10:30 AM - 10:30 PM
@@ -4323,7 +4320,7 @@ Reopened 5/27/21
 "Block Drugs",40,,"2021-07-09T04:00:00.000Z","212-473-1587","Health",40.72738872,-73.9887961,"101 2nd Avenue, New York, NY 10003","Yes",,"SAT: 11:00 AM - 5:00 PM 
 SUN: Closed
 ","10:00 AM","Pharmacy,Notary","7:00 PM","EVCC","Hours Confirmed by Website
-",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","www.blockdrugstores.com",,"info@blockdrugstores.com",,,,,,,,,,,"Extended Pharmacy Hours: THUR & FRI: 7:30 PM",
+",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","www.blockdrugstores.com",,"info@blockdrugstores.com",,,,,,,,,,,,"Extended Pharmacy Hours: THUR & FRI: 7:30 PM"
 "Black Seed Bagels",39,,"2021-07-09T04:00:00.000Z","646-518-1236","Cafes and Desserts",40.729058,-73.983843,"176 1st Avenue, New York, NY 10009","Yes","Yes","SAT & SUN: 8:00 AM - 3:00 PM
 ","8:00 AM","Cafe","2:00 PM","EVCC","IG and Website is current, Hours from Website 
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","www.blackseedbagels.com","https://www.instagram.com/blackseedbagels/?hl=en","info@blackseedbagels.com",,,,,,,"Yes (Heated)",,,,,
