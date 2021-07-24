@@ -2616,8 +2616,8 @@ SUN: 11:00 AM - 5:30 PM
 "NY Grill & Deli",492,,"2021-01-27T05:00:00.000Z","(212) 228-7878",,"Groceries",40.72907529,-73.9814896,"191 Avenue A, New York, NY 10009","Yes","Yes","Open 24/7!
 ","12:00 AM","Deli ",,"12:00 AM","EVCC","Confirmed hours by Phone
 ",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
-"East Village New Deli",491,,"2020-06-22T04:00:00.000Z","N/A",,"Groceries",40.7262573,-73.98332616,"115 Avenue A, New York, NY 10009","Yes","Yes",,"8:00 AM","Deli ",,"11:00 PM","EVCC","\*\*\*Laura check Non - working Number (212) 533-2193
-",,,,"Opened","{""id"":""usr42fCnBuLkI9ucV"",""email"":""simranjitkaur202@gmail.com"",""name"":""Simranjit Kaur""}",,,,,,,,,,,
+"East Village New Deli",491,,"2020-06-22T04:00:00.000Z","N/A",,"Groceries",40.7262573,-73.98332616,"115 Avenue A, New York, NY 10009","Yes","Yes",,"8:00 AM","Deli ",,"11:00 PM","EVCC","\*\*\*\*Laura check Non - working Number (212) 533-2193
+",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "Bueno East Mart",490,,"2021-01-27T05:00:00.000Z","(212) 477-8160",,"Groceries",40.72365346,-73.98545634,"36 Avenue A, New York, NY 10009","Yes","No","Open 24/7!
 ","12:00 AM","Deli ",,"12:00 AM","EVCC","Confirmed hours by Phone
 ",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
@@ -2816,34 +2816,30 @@ MON & TUES:  Closed
 
 ",,"Korean","https://www.instagram.com/nowon.nyc/?hl=en",,"EVCC","Website has current hours
 ","Yes (Heated)",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"info@nowonnyc.com",,"https://nowon-nyc.myshopify.com",,,,,,
-"Lillian Wald Food Pantry",435,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-01-26T05:00:00.000Z","(212) 260-2731","https://access.nyc.gov/location/lillian-wald-food-pantry/?anyc_v=nb","Free Food",40.720237,-73.978181,"12 Avenue D, New York, NY 10009","Yes",,"Call for hours and other information.
+"Lillian Wald Food Pantry",435,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-01-26T05:00:00.000Z","(212) 260-2731","https://access.nyc.gov/location/lillian-wald-food-pantry/?anyc_v=nb","Free Food",40.720237,-73.978181,"12 Avenue D, New York, NY 10009","No",,"Call for hours and other information.
 **Text ""FOOD"" to PANTRY (726-879)**
 **and select LillianWald to make a reservation.**
 
 Clients can select the items they need based on their family size. Menus are translated to Spanish, Chinese, and English.
-
 As of 10/14/20: Thursdays from 9:30 AM-3:00 PM, **by appointment only**.
-","9:30 AM",,,"12:30 PM","EVCC","Website being updated
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
-"Beam Living",434,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-01-26T05:00:00.000Z","(833) 749-0444","https://www.beamliving.com","Free Food",40.730978,-73.980805,"435 E. 14th Street, New York, NY 10009","Yes",,"Stuytown and Peter Cooper residents call for hours and other information.
-","9:00 AM",,"https://www.instagram.com/beamliving/","6:00 PM","EVCC","Website being updated
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"happier@beamliving.com",,,,,,,,
-"St. Francis Xavier Mission",433,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2020-11-30T05:00:00.000Z","(212) 627-2100","https://sfxavier.org/xavier-mission","Free Food",40.737862,-73.995472,"55 W. 15th Street, New York, NY 10011",,,"Call for hours and other information.
-",,"Meals",,,"EVCC","\*\*\*Laura Check, number goes to voicemail
-",,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"StFrancisXavier@sfxavier.org",,,,,,,,
+","9:30 AM",,,"12:30 PM","EVCC","Website is not current, last active in 2020
+",,,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
+"Beam Living",434,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-07-24T04:00:00.000Z","(833) 749-0444","https://www.beamliving.com","Free Food",40.730978,-73.980805,"435 E. 14th Street, New York, NY 10009","No",,"Stuytown and Peter Cooper residents call for hours and other information.
+","9:00 AM",,"https://www.instagram.com/beamliving/","6:00 PM","EVCC","Website being updated, no longer doing food distribution
+",,,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"happier@beamliving.com",,,,,,,,
 "Middle Collegiate Church",432,,"2020-12-05T05:00:00.000Z","(212) 477-0666"," https://www.middlechurch.org","Free Food",40.727652,-73.987592,"50 E. 7th Street, New York, NY 10003","No",,"
 ",,,"https://www.instagram.com/middlechurch/",,"EVCC","PERMANENTLY CLOSED after fire December 2020.
-",,,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"middleinfo@middlechurch.org","2020-12-05",,,,,,,
-"Abounding Grace Ministries",431,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2020-11-30T05:00:00.000Z","(212) 614-0370","https://agminnyc.org ","Free Food",40.725216,-73.976253,"428 E. 10th Street, New York, NY 10009",,,"Call for hours and other information.
-",,,"https://www.instagram.com/agminnyc/",,"EVCC","\*\*\*Laura Check, number goes to voicemail
+",,,,"Closed","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,"middleinfo@middlechurch.org","2020-12-05",,,,,,,
+"Abounding Grace Ministries",431,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-07-24T04:00:00.000Z","(212) 614-0370","https://agminnyc.org ","Free Food",40.725216,-73.976253,"428 E. 10th Street, New York, NY 10009",,,"Call for hours and other information.
+",,,"https://www.instagram.com/agminnyc/",,"EVCC","\*\*\*\*Laura Check, number goes to voicemail
 ",,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"info@agminnyc.org",,,,,,,,
-"Village Temple Soup Kitchen",430,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-01-26T05:00:00.000Z","N/A ","https://villagetemple.org/tikkun-olam-social-action/soup-kitchen/","Free Food",40.733918,-73.992193,"33 E. 12th Street, New York, NY 10003","Yes",,"SAT ONLY: 2:30 PM - 4:00 PM
-",,,,,"EVCC","number from website is a non-working number 
-(212) 674-1744 
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"villagetemple@villagetemple.org",,,,,,,,
-"Ascension Outreach",429,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-01-26T05:00:00.000Z","(212) 254-8620","http://ascensionoutreach.org/","Free Food",40.734119,-73.995783,"12 W. 11th Street, New York, NY 10011",,,"
-","8:30 AM",,,"9:30 PM","EVCC","Website is being updated, no update since Jan 17
-",,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
+"Village Temple Soup Kitchen",430,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-07-24T04:00:00.000Z","N/A ","https://villagetemple.org/tikkun-olam-social-action/soup-kitchen/","Free Food",40.733918,-73.992193,"33 E. 12th Street, New York, NY 10003","Yes",,"SAT ONLY
+
+","9:00 AM",,,"12:00 PM","EVCC","Website calendar is current
+",,,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,"villagetemple@villagetemple.org",,,,,,,,
+"Ascension Outreach",429,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/","2021-07-24T04:00:00.000Z","(212) 254-8620","http://ascensionoutreach.org/","Free Food",40.734119,-73.995783,"12 W. 11th Street, New York, NY 10011","Yes",,"Food pantry pickup 1st & 3rd Saturdays
+","8:30 AM",,,"9:30 PM","EVCC","Website is current
+",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "M&N Cleaners",428,,"2021-07-22T04:00:00.000Z","(212) 529-1777",,"Laundry",40.7331687,-73.9863775,"207 E. 14th Street, New York, NY 10003","Yes","Yes","SAT: 9:00 AM - 4:00 PM
 SUN: Closed
 ","8:00 AM","Cleaners",,"6:00 PM","EVCC","Confirmed hours by phone
@@ -2932,8 +2928,8 @@ SUN: 8:30 AM - 6:00 PM.
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"
 ",,,,,
 "Ben's Deli",406,,"2021-01-26T18:00:00.000Z","(212)-228-1406",,"Groceries",40.722529,-73.983241,"32 Avenue B, New York, NY 10009","Yes",,"Pop-up inside serving Mexican street food 8:00 AM - 9:00 PM: tacos, quesadillas, salad bowls.
-","9:00 AM","Deli ",,"10:00 PM","EVCC","\*\*\*\*( call back later) Confirmed hours by Phone	
-",,,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,,,,,,,,
+","9:00 AM","Deli ",,"10:00 PM","EVCC","\*\*\*\*(call back later) Confirmed hours by Phone	
+",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "Key Food",405,,"2021-07-21T04:00:00.000Z","(212) 477-9063","http://keyfood.com/store","Groceries",40.724004,-73.984766,"52 Avenue A, New York, NY 10009","Yes",,"Open 24/7!
 ","12:00 AM","Supermarket","https://www.instagram.com/keyfood","12:00 AM","EVCC","IG is current, Hours confirmed by phone
 ",,,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,"customer.service@keyfood.com",,,,,,,,
@@ -2983,7 +2979,7 @@ SUN: 10:00 AM - 6:00 PM
 ","8:00 AM","Pharmacy",,"8:00 PM","PG","Website is current, Confirmed Hours by Phone
 ",,,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,,,,,,,,,
 "Walgreens (4th Avenue)",394,,"2021-07-21T04:00:00.000Z","(212) 677-0214","https://www.walgreens.com/locator/walgreens-145+4th+ave-new+york-ny-10003/id=6159","Health",40.73371,-73.989677,"145 4th Avenue, New York, NY 10003","Yes","Yes","SUN: Closed
-","12:00 PM","Pharmacy",,"7:00 PM","PG","\*\*\*\*( hours will change in august) Confirmed Hours by Phone
+","12:00 PM","Pharmacy",,"7:00 PM","PG","\*\*\*\*(hours will change in august) Confirmed Hours by Phone
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "Duane Reade (Astor Place)",393,,"2021-07-21T04:00:00.000Z","(212) 375-0734","https://www.walgreens.com/locator/walgreens-4+w+4th+st-new+york-ny-10012/id=14247","Health",40.72979,-73.991805,"4 W. 4th Street, New York, NY 10003","Yes","Yes","Pharmacy Hours:
 SAT: 12:00 PM - 6:00 PM
@@ -3305,7 +3301,7 @@ SAT & SUN: 10:00 AM - 11:00 PM
 "The Roost",310,,"2021-07-18T04:00:00.000Z","646-918-6700","https://newyork.theroostnyc.com","Cafes and Desserts",40.729113,-73.97856,"222 Avenue B, New York, NY 10009","Yes",,"SUN & MON: til 7:00 PM
 TUE - THU: til 1:00 AM
 FRI & SAT: til 2:00 AM
-","7:00 AM","Cafe","https://www.instagram.com/theroostnyc/?hl=en",,"PG","\*\*\*\*( no closing time) Laura review with Jerin, IG is current
+","7:00 AM","Cafe","https://www.instagram.com/theroostnyc/?hl=en",,"PG","IG is current
 ","Yes",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.gofundme.com/f/help-support-the-roost-staff-during-covid-19?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,"Party@theroostnyc.com",,"https://squareup.com/gift/ED35YECRYFT89/order","
 ",,,,,
 "The Lazy Llama Coffee Bar",309,,"2021-07-17T04:00:00.000Z","646-410-1938",,"Cafes and Desserts",40.723489,-73.988641,"72 E. 1st Street, New York, NY 10003","Yes",,,"8:00 AM","Cafe","https://www.instagram.com/thelazyllamacoffeebar/","4:30 PM","PG","Confirmed hours by phone 
