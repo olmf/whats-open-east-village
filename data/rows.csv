@@ -218,10 +218,10 @@ Moved from 333 E. 9th Street 07/2020
 "Sheldon Landa Private Piano Lessons",1213,,"2021-05-07T21:02:00.000Z","(212) 979-8523","http://www.sheldonlanda.com/","Arts & Culture",40.73009,-73.98233,"420 E. 13th Street, New York, NY 10009","Yes",,"MON - THU only
 ","11:00 AM","Music",,"8:00 PM",,"Form request
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"taoslider@gmail.com",,,,,,,,
-"Bockerway Hair Salon",1211,,"2021-04-16T01:59:00.000Z","347-387-2032","http://www.bockerway.com/","Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"SUN: 11:00 AM - 7:00 PM
+"Bockerway Hair Salon",1211,"https://www.yelp.com/biz/bockerway-new-york","2021-07-26T01:59:00.000Z","347-387-2032","http://www.bockerway.com/","Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"SUN: 11:00 AM - 7:00 PM
 MON: Closed 
-","11:00 AM","Hair","https://www.instagram.com/bockerway/","8:00 PM",,"Website is current
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"bockerway@gmail.com",,,"
+","11:00 AM","Hair","https://www.instagram.com/bockerway/","8:00 PM",,"Confirmed hours by phone, yelp and website 
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,true,"bockerway@gmail.com",,,"
 ",,,,,
 "La Cabra ",1210,"https://evgrieve.com/2021/04/la-cabra-opening-scandinavian-coffee.html","2021-04-16T01:28:00.000Z",,,"Cafes and Desserts",40.72935,-73.98667,"152 2nd Avenue, New York, NY 10003",,"Yes",,,"Cafe,Bakery",,,,"Opening soon in former Pure Green location
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
@@ -253,7 +253,7 @@ Reopened Jan 28
 "5 Stuy Cafe",1204,,"2021-04-03T23:18:00.000Z","(212) 614-5843","https://www.stuytown.com/amenities/convenience/five-stuy-cafe","Cafes and Desserts",40.73219,-73.97977,"5 Stuyvesant Oval, New York, NY 10009","Yes",,"SAT & SUN: 8:00 AM - 7:00 PM
 ","7:00 AM","Cafe","https://www.instagram.com/fivestuycafe/","7:00 PM",,"Hours as per 2/20/21 form request
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"5stuysquare@gmail.com",,,,,,,,
-"Toasted Deli",1203,"https://postmates.com/store/toasted-deli-bagel/3VT8bZWnRaeR6qLwmAwuyw?mod=storeLocationHours&modctx=%257B%2522storeSlug%2522%253A%2522toasted-deli-bagel%2522%252C%2522storeUuid%2522%253A%2522dd54fc6d-95a7-45a7-91ea-a2f0980c2ecb%2522%252C%2522sectionUuid%2522%253A%2522%2522%257D&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjEwNSUyMEUlMjA5dGglMjBTdCUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMjNjMzYxODUzLTI0YmItNjBmZC1mY2Y0LTA4OTYzNjk4NTFlZCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJ1YmVyX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNDAuNzMwNDE2MDc4MDc3NjglMkMlMjJsb25naXR1ZGUlMjIlM0EtNzMuOTkwMTE4MDkwOTQxNDElN0Q%3D&ps=1&utm_campaign=place-action-link&utm_medium=organic&utm_source=google","2021-06-28T16:37:00.000Z","(646) 490-6620",,"Groceries",40.730541,-73.99005,"105 E. 9th Street, New York, NY 10003","Yes",,,"6:00 AM ","Deli ,Sandwich",,"6:00 PM",,"Hours confirmed through google, postmates and phone
+"Toasted Deli",1203,"https://postmates.com/store/toasted-deli-bagel/3VT8bZWnRaeR6qLwmAwuyw?mod=storeLocationHours&modctx=%257B%2522storeSlug%2522%253A%2522toasted-deli-bagel%2522%252C%2522storeUuid%2522%253A%2522dd54fc6d-95a7-45a7-91ea-a2f0980c2ecb%2522%252C%2522sectionUuid%2522%253A%2522%2522%257D&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjEwNSUyMEUlMjA5dGglMjBTdCUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMjNjMzYxODUzLTI0YmItNjBmZC1mY2Y0LTA4OTYzNjk4NTFlZCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJ1YmVyX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNDAuNzMwNDE2MDc4MDc3NjglMkMlMjJsb25naXR1ZGUlMjIlM0EtNzMuOTkwMTE4MDkwOTQxNDElN0Q%3D&ps=1&utm_campaign=place-action-link&utm_medium=organic&utm_source=google","2021-07-25T16:37:00.000Z","(646) 490-6620",,"Groceries",40.730541,-73.99005,"105 E. 9th Street, New York, NY 10003","Yes",,,"6:00 AM ","Deli ,Sandwich",,"6:00 PM",,"Hours confirmed through google, postmates and phone
 Opened in former Yuba location
 ",,"2021-06-28",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,
 "Sauced Up",1202,,"2021-04-01T23:19:00.000Z","(917) 675-7511","https://sauced-up1.square.site/s/order","Restaurants",40.72666,-73.98949,"77 2nd Avenue, New York, NY 10003","Yes","Yes",,,"Wings,Sandwich","https://www.instagram.com/saucedupnyc/",,,"IG is current, recently opened	
@@ -1134,21 +1134,20 @@ Reopened 3/17/21. Ravi's third concept in this space (after Fire & Water and Nig
 "La Sultana",894,,"2021-01-08T03:03:00.000Z","(212) 228-7678","http://www.lasultanacafe.com/","Restaurants",40.72528,-73.9878,"124 E. 4th Street, New York, NY 10003","Yes",,,"2:00 PM","Hookah Bar","https://www.instagram.com/lasultanacafe/","10:00 PM",,"Website is being updated
 Hours confirmed by phone
 ",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
-"Manny's Barber Shop",893,,"2021-01-07T03:00:00.000Z","347-397-1146","https://mannysbarbershopnyc.com/","Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"SUN: 10:00 AM - 7:00 PM
-","10:00 AM ","Hair","https://www.instagram.com/mannysbarbershopnyc/","8:00 PM",,"IG last updated 11/15/20, website appointment link is working
-","Yes",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,," info@MannysBarberShopNYC.com",,,,,,,,
-"GG's Nail Salon",892,,"2021-01-08T02:59:00.000Z","(917) 409-1422",,"Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"MON: Closed 
-","2:00 PM","Nail Salon","https://www.instagram.com/ggs_nail_salon125/","8:00 PM",,"Hours confirmed by phone 
-IG is being updated, 
-Website not working
-
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,"
+"Manny's Barber Shop",893,,"2021-07-26T02:00:00.000Z","347-397-1146","https://mannysbarbershopnyc.com/","Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"FRI, SAT & SUN: 10:30 AM - 7:00 PM
+","11:30 AM ","Hair","https://www.instagram.com/mannysbarbershopnyc/","7:30 PM",,"Hours from website 
+","Yes",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,," info@MannysBarberShopNYC.com",,,,,,,,
+"GG's Nail Salon",892,"https://www.instagram.com/p/CRlW23ut6xX/","2021-07-26T01:59:00.000Z","(917) 409-1422",,"Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"SUN: Closed 
+","10:00 PM","Nail Salon","https://www.instagram.com/ggs_nail_salon125/","8:00 PM",,"Hours confirmed by yelp updated two weeks ago and card on IG post
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,"$10 FREE after 10 services!
 ",,,,,
-"Le Bouquet",891,,"2021-06-07T01:50:00.000Z","212-268-7838",,"Retail",40.7255,-73.98803,"116 E. 4th Street, New York, NY 10003","Yes","Yes",,,"Florist","https://www.instagram.com/lebouquetny/?hl=en",,,"IG is current, related to Mono Mono
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,,,,,,,,,
-"Benemon",890,"https://evgrieve.com/2015/07/out-with-euzkadi-on-east-4th-street.html","2021-03-24T22:59:00.000Z","(212) 614-3006","https://www.benemon.nyc/","Restaurants",40.72551,-73.98838,"108 E. 4th Street, New York, NY 10003","Yes","Yes","MON: Closed
-","5:30 PM","Japanese","https://www.instagram.com/benemonnyc/?hl=en","10:00 PM",,"IG is current
-","Yes","2015-08-31",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"contact@benemon.nyc",,,"
+"Le Bouquet",891,,"2021-06-07T01:50:00.000Z","212-268-7838",,"Retail",40.7255,-73.98803,"116 E. 4th Street, New York, NY 10003","Yes","Yes",,,"Florist","https://www.instagram.com/lebouquetny/?hl=en",,,"\*\*\*\*\*call for hours 
+IG is current, related to Mono Mono
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,true,,,,,,,,,
+"Benemon",890,"https://www.yelp.com/biz/benemon-new-york","2021-07-25T22:59:00.000Z","(212) 614-3006","https://www.benemon.nyc/","Restaurants",40.72551,-73.98838,"108 E. 4th Street, New York, NY 10003","Yes","Yes","FRI & SAT: 5:00 PM - 11:00 PM
+MON: Closed
+","5:00 PM","Japanese","https://www.instagram.com/benemonnyc/?hl=en","10:00 PM",,"Hours on google and yelp updated by business third week of july
+","Yes","2015-08-31",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,true,"contact@benemon.nyc",,,"
 ",,,,,
 "Soogil",889,,"2021-03-25T01:41:00.000Z","(646) 838-5524","https://www.soogil.com/","Restaurants",40.72551,-73.98838,"108 E. 4th Street, New York, NY 10003","Yes","Yes","SUN - TUE: Closed
 ","5:00 PM","Korean","https://www.instagram.com/soogilnyc/?hl=en","10:00 PM ",,"IG is current
@@ -1176,18 +1175,18 @@ Reopened 2/25/21
 SAT & SUN: 11:00 PM - 6:30 PM
 ","12:00 PM","Hair",,"7:30 PM",,"Confirmed hours by phone
 ",,,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,true,,,,,,,,,
-"Laurel Cosmetic Tattoo",881,,"2021-01-07T03:25:00.000Z","(718) 306-2602","https://www.laurelnyc.com/","Services",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009","Yes",,"By appointment only! Visit [our booking page](https://www.laurelnyc.com/book) SAT: noon to book your appointment!
-",,"Tattoo","https://www.instagram.com/laurel_cosmetic_tattoo/?hl=en",,,"\*\*\*Laura email re 12th St location, confirmed hours by phone
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"INFO@LAURELNYC.COM",,,,,,,,
+"Laurel Cosmetic Tattoo",881,"https://www.laurelnyc.com/","2021-07-26T02:25:00.000Z","N/A","https://www.laurelnyc.com/","Services",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009","Yes",,"By appointment only! Visit [our booking page](https://www.laurelnyc.com/book) to book your appointment!
+",,"Tattoo","https://www.instagram.com/laurel_cosmetic_tattoo/?hl=en",,,"\*\*\*Laura email re 12th St location,
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"INFO@LAURELNYC.COM",,,,,,,,
 "Louise's Pantry - Lower East Side",880,,"2021-01-06T22:52:00.000Z","(646) 713-2724","https://nazarethhousingnyc.org","Free Food",40.723663,-73.984245,"206 E. 4th Street, New York, NY 10003","Yes",,"TUE Only!
 Entrance is the blue door at the Church of The Most Holy Redeemer.
 
 ","10:00 AM",,"https://www.instagram.com/nazarethhousing/","12:00 PM",,"IG is being updated
 ",,,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,"info@nazarethhousingnyc.org",,,,,,,,
-"Tease Salon",879,,"2021-01-07T03:19:00.000Z","(212) 725-7088",,"Services",40.730679,-73.983704,"352 E. 13th Street, New York, NY 10003","Yes",,"SAT & SUN: 10:00 AM - 7:00 PM
-","10:30 AM","Hair",,"8:00 PM",,"Hours confirmed by phone 
+"Tease Salon",879,,"2021-07-26T02:19:00.000Z","(212) 725-7088",,"Services",40.730679,-73.983704,"352 E. 13th Street, New York, NY 10003","Yes",,"SAT & SUN: 11:00 AM - 7:00 PM
+","11:00 AM","Hair","https://www.instagram.com/teasegroup/?hl=en","8:00 PM",,"Hours confirmed by phone 
 PLS don't post IG link, the account does not belong to the current owner
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,,,,,,,
 "Monk Thrift Shop",878,"https://evgrieve.com/2020/09/monk-thrift-shop-has-closed.html","2020-09-10T01:19:00.000Z","(212) 673-7282",,"Retail",40.724844,-73.987808,"97 E. 3rd Street, New York, NY 10003","No",,,,"Vintage",,,,"PERMANENTLY CLOSED
 ",,"2010-03-01",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"2020-09-01",,,,,,,
 "Yuba",877,"https://evgrieve.com/2020/08/yuba-has-closed-on-9th-street.html","2020-09-08T16:37:00.000Z","(212) 777-8188","https://www.yubarestaurant.com","Restaurants",40.730541,-73.99005,"105 E. 9th Street, New York, NY 10003",,"No",,,"Japanese",,,,"PERMANENTLY CLOSED			
@@ -1205,9 +1204,10 @@ IG is for several locations
 ",,"2017-12-01",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"2020-09-01",,,,,,,
 "Mermaid Inn",871,"https://evgrieve.com/search?q=mermaid","2020-09-08T16:13:00.000Z","N/A","https://www.themermaidnyc.com","Restaurants",40.72701,-73.98843,"96 2nd Avenue, New York, NY 10003","No",,"EV location closed.
 ",,"Seafood","https://www.instagram.com/themermaidnyc/",,,"PERMANENTLY CLOSED
-IG is for several locations 
+IG is for several locations
+Reopening at a different location
 ",,"2003-01-01",,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"jennifer@bulfrogandbaum.com  ","2020-09-01","https://themermaidnyc.com/mermaid_giftcard/",,,,,,
-"By Name",870,"https://evgrieve.com/2020/09/closings-broken-coconut-snowdays.html","2020-09-08T14:50:00.000Z","N/A",,"Restaurants",40.72548,-73.99243,"324 Bowery, New York, NY 10012","No",,,,"Cafe","https://www.instagram.com/bynamenyc/",,,"PERMANENTLY CLOSED
+"By Name",870,"https://evgrieve.com/2020/09/closings-broken-coconut-snowdays.html","2020-09-08T14:50:00.000Z","N/A",,"Restaurants",40.72548,-73.99243,"324 Bowery, New York, NY 10012","No",,,,"Cafe,Japanese","https://www.instagram.com/bynamenyc/",,,"PERMANENTLY CLOSED
 
 ",,"2019-06-01",,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,"2020-09-01",,,,,,,
 "Blockheads",869,"https://evgrieve.com/2020/09/closings-broken-coconut-snowdays.html","2020-09-08T14:48:00.000Z","(917) 388-3534",,"Restaurants",40.731225,-73.989049,"60 3rd Avenue, New York, NY 10003","No",,"EV location closed.
@@ -1220,7 +1220,7 @@ IG is for several locations
 "212 ARTS",866,"https://www.facebook.com/212arts/","2021-07-26T01:59:00.000Z","917-565-8908","https://212arts.com/","Arts & Culture",40.7288,-73.98008,"523 E. 12th Street, New York, NY 10009","Yes",,"TUE & WED:  By appointment only
 MON: CLosed
 Online orders always!	
-","3:00 PM","Gallery","https://www.instagram.com/212arts/","7:00 PM","EVCC","\*\*\*\*\*\*\*Confirmed by phone, location is moving to another, appointments are temporarily moved to a Brooklyn location
+","3:00 PM","Gallery","https://www.instagram.com/212arts/","7:00 PM","EVCC","\*\*\*\*\*\*\*Confirmed by phone, location is moving to another, appointments are temporarily moved to Williamsburg Brooklyn
 ",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"marc@212arts.com",,,,,"Yes",,,
 "Nomad Vintage",865,,"2021-07-26T01:59:00.000Z","212-300-4765","https://nomadvintage.com/","Retail",40.72789,-73.99027,"208 E. 6th Street, New York, NY 10003","Yes",,"SAT & SUN:  Closed
 By appointment only until 8/7
@@ -1229,7 +1229,7 @@ By appointment only until 8/7
 "Mr. Throwback",864,,"2021-07-26T01:59:00.000Z","917-261-7834","https://mrthrowback.com/","Retail",40.7277,-73.98313,"437 E. 9th Street, New York, NY 10009","Yes",,"SUN: 12:00 PM - 6:00 PM
 MON & TUE: Closed
 ","12:00 PM","Fashion","https://www.instagram.com/mrthrowbacknyc/","8:00 PM","EVCC","Hours confirmed by phone
-",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"mrthrowbacknyc@gmail.com",,,,,,,,
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"mrthrowbacknyc@gmail.com",,,,,"Yes",,,
 "Kathe's Jewelry",863,,"2021-07-26T01:59:00.000Z","212-475-2986","www.kathesjewelry.com","Retail",40.73105,-73.98274,"226 1st Avenue, New York, NY 10009","Yes",,"SAT: 10:00 AM - 6:00 PM
 SUN: Closed
 
@@ -1243,14 +1243,14 @@ Reservations only
 ","4:00 PM","Bar","https://www.instagram.com/laslapnyc/","12:00 AM","EVCC","Call no answer, hours from IG
 ","Yes",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true,"hurryuprum@laslapnyc.com",,,,,,true,,
 "Brooklyn Dumpling Shop",860,,"2021-07-25T06:41:00.000Z","N/A","https://www.brooklyndumplingshop.com/location/new-york-brooklyn-dumpling-shop/","Restaurants",40.727594,-73.985616,"131 1st Avenue, New York, NY 10003","Yes",,"SAT & SUN: 24/7 
-","12:00 AM",,"https://www.instagram.com/brooklyndumplingshop/","12:00 AM","EVCC","google hours updated by business third week of july
+","12:00 PM",,"https://www.instagram.com/brooklyndumplingshop/","12:00 AM","EVCC","google hours updated by business third week of july
 ","Yes","2021-05-24","Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,"https://www.brooklyndumplingshop.com/store/gift-cards",,,,,,
 "Marysia Beauty Salon",859,"https://www.yelp.com/biz/marysia-beauty-salon-new-york","2021-07-25T06:32:00.000Z","212-777-2490",,"Services",40.7267,-73.98629,"101 1st Avenue, New York, NY 10003","Yes",,"MON: 8:00 AM - 5:00 PM
 SUN: Closed
 ","8:00 AM","Hair","https://www.instagram.com/marysiakbeauty/","6:00 PM","EVCC","call no answer, hours from yelp and groupon
 ",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,,,,,,,
 "Pop's Eat-Rite",858,"https://app.upserve.com/s/papis-eat-rite-new-york","2021-07-25T06:26:00.000Z","(917) 675-7202","https://www.popseatrite.com","Restaurants",40.72689122114881,-73.98335333,"123 St. Mark's Place, New York, NY 10009","Yes",,"MON: Closed
-","12:00 PM","Vegan","https://www.instagram.com/popseatrite/","9:00 PM ","EVCC","call back later, hours from yelp and ordering website
+","12:00 PM","Vegan","https://www.instagram.com/popseatrite/","9:00 PM ","EVCC","Confirmed hours by phone
 ","Yes","2020-09-15","Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,,,,,,,
 "Blink Fitness",857,,"2021-07-23T06:19:00.000Z","212.202.3300","https://locations.blinkfitness.com/ny/manhattan/98-avenue-a","Health",40.725658,-73.983498,"98 Avenue A, New York, NY 10009","Yes",,"FRI: 5:00 AM - 10:00 PM
 SAT & SUN: 7:00 AM - 7:00 PM
