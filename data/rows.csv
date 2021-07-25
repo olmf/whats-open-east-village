@@ -86,9 +86,9 @@ Website is current
 TUE: Closed
 ","5:00 PM","Bar,Sake","https://www.instagram.com/accidentalbarnyc/","11:00 PM",,"IG is current
 ",,"2021-06-10","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
-"Layers ",1260,,"2021-06-25T23:00:00.000Z","212-777-0813","https://www.layershairnyc.com/","Services",40.73068,-73.9837,"352 E. 13th Street, New York, NY 10003","Yes",,"SUN: Closed
-","11:00 AM","Hair",,"9:00 PM",,"Website is current
-",,"2020-10-01",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"
+"Layers ",1260,"https://www.yelp.com/biz/layers-hair-salon-new-york-2","2021-07-25T23:00:00.000Z","212-777-0813","https://www.layershairnyc.com/","Services",40.73068,-73.9837,"352 E. 13th Street, New York, NY 10003","Yes",,"SUN: Closed
+","11:00 AM","Hair",,"8:00 PM",,"Hours from website and yelp updated at the beginning of July by business
+",,"2020-10-01",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,"
 ",,,,,
 "Spooksvilla + Friends",1259,,"2021-06-25T23:34:00.000Z",,"https://shopspooksvilla.com/","Retail",40.72909,-73.98676,"305 E. 9th Street, New York, NY 10003","Yes",,,,"Gallery,Gifts & Home","https://www.instagram.com/spooksvilla/",,,"IG is current
 ",,"2021-06-17",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,,,,,,,,,
@@ -1122,18 +1122,20 @@ Reopened 3/17/21. Ravi's third concept in this space (after Fire & Water and Nig
 ","11:00 AM","Hair",,"9:00 PM",,"Location Closed 9/20/2020, moved to 352 E. 13th Street
 ",,,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,"2020-09-30",,"
 ",,,,,
-"D & Q Computer",897,,"2020-09-12T23:00:00.000Z","212-260-8237","http://www.dandqcomputer.com/","Services",40.72852,-73.97892,"206 Avenue B, New York, NY 10009","Yes",,"SUN: Closed
-","10:00 AM ","Computer & Phone Repair",,"5:00 PM",,"Website is being updated
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"info@dandqcomputer.com",,,,,,,,
-"Mango Dry Cleaners",896,,"2021-01-07T03:16:00.000Z","(917) 535-5137",,"Laundry",40.724911,-73.983223,"514 E. 6th Street, New York, NY 10009 ","Yes",,"SUN: Closed 
-","8:00 AM","Cleaners"," ","5:30 PM",,"Business recently updated Google listing
-",,,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,,,,,,,,,,
-"Kids Dental",895,,"2021-01-08T03:11:00.000Z","(212) 259-0595","http://myfirstdentistny.com/","Health",40.72429,-73.98488,"57 Avenue A, New York, NY 10009","Yes",,"SAT - SUN: Closed 
-","10:00 AM","Dental",,"5:00 PM",,"Hours confirmed by phone, Website is being updated
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"kidsdental86@gmail.com",,,,,,,,
-"La Sultana",894,,"2021-01-08T03:03:00.000Z","(212) 228-7678","http://www.lasultanacafe.com/","Restaurants",40.72528,-73.9878,"124 E. 4th Street, New York, NY 10003","Yes",,,"2:00 PM","Hookah Bar","https://www.instagram.com/lasultanacafe/","10:00 PM",,"Website is being updated
-Hours confirmed by phone
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
+"D & Q Computer",897,,"2021-07-25T23:00:00.000Z","212-260-8237","http://www.dandqcomputer.com/","Services",40.72852,-73.97892,"206 Avenue B, New York, NY 10009","Yes",,"SUN: Closed
+","10:00 AM ","Computer & Phone Repair",,"6:00 PM",,"Hours from website
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"info@dandqcomputer.com",,,,,,,,
+"Mango Dry Cleaners",896,,"2021-07-26T02:16:00.000Z","(917) 535-5137","https://www.mangodrycleanersinc.com","Laundry",40.724911,-73.983223,"514 E. 6th Street, New York, NY 10009 ","Yes",,"SUN: Closed 
+","8:00 AM","Cleaners"," ","6:00 PM",,"Hours from website
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,
+"Kids Dental",895,,"2021-07-26T02:11:00.000Z","(212) 259-0595","http://myfirstdentistny.com/","Health",40.72429,-73.98488,"57 Avenue A, New York, NY 10009","Yes",,"SUN: Closed 
+","10:00 AM","Dental",,"5:00 PM",,"Confirmed hours by phone
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"kidsdental86@gmail.com",,,,,,,,
+"La Sultana",894,"https://www.yelp.com/biz/la-sultana-cafe-new-york","2021-07-26T02:03:00.000Z","(212) 228-7678","http://www.lasultanacafe.com/","Restaurants",40.72528,-73.9878,"124 E. 4th Street, New York, NY 10003","Yes",,"TUE & SUN: 5:00 PM - 1:00 AM
+FRI & SAT: 5:00 PM - 3:00 AM
+MON: Closed
+","5:00 PM","Hookah Bar","https://www.instagram.com/lasultanacafe/","1:30 AM",,"Confirmed hours by phone and yelp updated at the beginning of July
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,
 "Manny's Barber Shop",893,,"2021-07-26T02:00:00.000Z","347-397-1146","https://mannysbarbershopnyc.com/","Services",40.72566,-73.98757,"125 E. 4th Street, New York, NY 10003","Yes",,"FRI, SAT & SUN: 10:30 AM - 7:00 PM
 ","11:30 AM ","Hair","https://www.instagram.com/mannysbarbershopnyc/","7:30 PM",,"Hours from website 
 ","Yes",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,," info@MannysBarberShopNYC.com",,,,,,,,
@@ -1150,31 +1152,33 @@ MON: Closed
 ","Yes","2015-08-31",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,true,"contact@benemon.nyc",,,"
 ",,,,,
 "Soogil",889,,"2021-03-25T01:41:00.000Z","(646) 838-5524","https://www.soogil.com/","Restaurants",40.72551,-73.98838,"108 E. 4th Street, New York, NY 10003","Yes","Yes","SUN - TUE: Closed
-","5:00 PM","Korean","https://www.instagram.com/soogilnyc/?hl=en","10:00 PM ",,"IG is current
-","Yes",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true," info.soogil@gmail.com",,,,,,,,
-"Professional PT",888,,"2021-01-07T02:36:00.000Z","(917) 810-4180","https://www.professionalpt.com/office/e-4th-street/","Health",40.72572,-73.98891,"88 E. 4th Street, New York, NY 10003","Yes",,"SAT: 8:00 AM - noon
+","5:00 PM","Korean","https://www.instagram.com/soogilnyc/?hl=en","10:00 PM ",,"google hours updated by business second week of july
+","Yes",,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true," info.soogil@gmail.com",,,,,,,,
+"Professional PT",888,,"2021-07-26T01:36:00.000Z","(917) 810-4180","https://www.professionalpt.com/office/e-4th-street/","Health",40.72572,-73.98891,"88 E. 4th Street, New York, NY 10003","Yes",,"SAT: 8:00 AM - noon
 SUN: Closed
-","7:00 AM","Medical,Physical Therapy",,"8:00 PM",,"Website is being updated, updated phone from (917) 810-5201
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"EligibilityAndBenefits@professionalpt.com",,,,,,,,
-"Piccola Strada",887,,"2021-03-03T23:25:00.000Z","(212) 674-1557",,"Restaurants",40.726719,-73.990128,"77 E. 4th Street, New York, NY 10003","Yes",,"MON: Closed
-","4:30 PM","Italian","https://www.instagram.com/piccolastrada_4thstreet/?hl=en","10:00 PM",,"Confirmed hours by phone
-","Yes",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,,,,,,,,,
-"Ralph's Famous Italian Ices & Ice Cream",886,"84 stores: https://www.ralphsices.com/locations/","2021-02-25T14:20:00.000Z","(917) 409-1506","https://www.ralphsices.com/","Restaurants",40.727425,-73.982748,"145 Avenue A, New York, NY 10009","Yes",,"
-","2:00 PM","Ice Cream","https://www.instagram.com/ralphsfamous/","10:00 PM",,"CHAIN (big local), IG is currennt,
-Reopened 2/25/21
-",,"2020-09-11",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"ralphsfamous@gmail.com",,,,,,,,
-"Ki Smith",885,,"2021-07-02T04:57:00.000Z","(212) 677-5131","https://www.kismithgallery.com/works-on-paper","Arts & Culture",40.72416,-73.98406,"197 E. 4th Street, New York, NY 10009","Yes",,"MON & TUE: Closed
-","12:30 PM","Gallery","https://www.instagram.com/kismithgallery/?hl=en","6:30 PM",,"IG is current
-",,"2020-09-09",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"info@kismithgallery.com",,,,,,,,
-"Ibiza",884,,"2021-01-07T04:21:00.000Z","(212) 533-4614","http://www.ibizanyc.com/","Retail",40.72886,-73.98608,"321 E. 9th Street, New York, NY 10003","Yes",,,"12:00 PM","Fashion","https://www.instagram.com/ibizaboutiquenyc/","7:00 PM",,"Confirmed hours by Phone 	
-",,,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,true,"busmail@ibizanyc.com ",,,,,,,,
-"9th St. Vintage",883,,"2021-01-07T04:04:00.000Z","(917) 265-8833","https://www.9thstvintage.com/","Retail",40.72827,-73.98561,"346 E. 9th Street, New York, NY 10003","Yes",,"SUN: 1:00 PM - 6:00 PM
-","1:00 PM","Vintage","https://www.instagram.com/9thstvintage/","7:00 PM",,"Confirmed hours by phone
-",,,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,true,"info@9thstvintage.com",,,,,,,,
-"Tsumiki Hair",882,,"2021-01-07T03:53:00.000Z","212-505-7773","http://www.tsumikihair.com/","Services",40.72751,-73.98335,"408 E. 9th Street, New York, NY 10009","Yes",,"TUE - FRI: noon - 7:30 PM
-SAT & SUN: 11:00 PM - 6:30 PM
+","7:00 AM","Medical,Physical Therapy",,"8:00 PM",,"Confirmed hours by phone automated voice
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"EligibilityAndBenefits@professionalpt.com",,,,,,,,
+"Piccola Strada",887,,"2021-07-25T22:25:00.000Z","(212) 674-1557",,"Restaurants",40.726719,-73.990128,"77 E. 4th Street, New York, NY 10003","Yes",,"SAT & SUN: 4:30 PM - 11:00 PM
+MON: Closed
+","4:30 PM","Italian","https://www.instagram.com/piccolastrada_4thstreet/?hl=en","10:30 PM",,"Confirmed hours by phone
+","Yes",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true,,,,,,,,,
+"Ralph's Famous Italian Ices & Ice Cream",886,"84 stores: https://www.ralphsices.com/locations/","2021-07-25T13:20:00.000Z","(917) 409-1506","https://www.ralphsices.com/","Restaurants",40.727425,-73.982748,"145 Avenue A, New York, NY 10009","Yes",,"FRI & SAT: 11:00 AM - Midnight
+","11:00 AM","Ice Cream","https://www.instagram.com/ralphsicesmanhattan/?hl=en","11:00 PM",,"Confirmed hours by phone, CHAIN (big local), Reopened 2/25/21
+",,"2020-09-11",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"ralphsfamous@gmail.com",,,,,,,,
+"Ki Smith",885,,"2021-07-25T04:57:00.000Z","(212) 677-5131","https://www.kismithgallery.com/works-on-paper","Arts & Culture",40.72416,-73.98406,"197 E. 4th Street, New York, NY 10009","Yes",,"MON & TUE: Closed
+","12:30 PM","Gallery","https://www.instagram.com/kismithgallery/?hl=en","6:30 PM",,"Call no answer, hours from IG & website
+",,"2020-09-09",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"info@kismithgallery.com",,,,,,,,
+"Ibiza",884,,"2021-07-26T03:21:00.000Z","(212) 533-4614","http://www.ibizanyc.com/","Retail",40.72886,-73.98608,"321 E. 9th Street, New York, NY 10003","Yes",,"SUN: 1:00 PM - 6:00 PM
+MON & TUE: Closed
+","1:00 PM","Fashion","https://www.instagram.com/ibizaboutiquenyc/","7:00 PM",,"Confirmed hours by phone
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true,"busmail@ibizanyc.com ",,,,,,,,
+"9th St. Vintage",883,,"2021-07-26T03:04:00.000Z","(917) 265-8833","https://www.9thstvintage.com/","Retail",40.72827,-73.98561,"346 E. 9th Street, New York, NY 10003","Yes",,"
+","12:00 PM","Vintage","https://www.instagram.com/9thstvintage/","6:00 PM",,"Confirmed hours by phone
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true,"info@9thstvintage.com",,,,,,,,
+"Tsumiki Hair",882,,"2021-07-26T02:53:00.000Z","212-505-7773","http://www.tsumikihair.com/","Services",40.72751,-73.98335,"408 E. 9th Street, New York, NY 10009","Yes",,"SAT & SUN: 11:00 PM - 6:30 PM
+MON: Closed
 ","12:00 PM","Hair",,"7:30 PM",,"Confirmed hours by phone
-",,,,"Opened","{""id"":""usrahj7lOAtMyDESf"",""email"":""fatimahasad22@gmail.com"",""name"":""Fatimah Asad""}",,true,,,,,,,,,
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true,,,,,,,,,
 "Laurel Cosmetic Tattoo",881,"https://www.laurelnyc.com/","2021-07-26T02:25:00.000Z","N/A","https://www.laurelnyc.com/","Services",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009","Yes",,"By appointment only! Visit [our booking page](https://www.laurelnyc.com/book) to book your appointment!
 ",,"Tattoo","https://www.instagram.com/laurel_cosmetic_tattoo/?hl=en",,,"\*\*\*Laura email re 12th St location,
 ",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"INFO@LAURELNYC.COM",,,,,,,,
