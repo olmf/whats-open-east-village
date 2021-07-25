@@ -64,8 +64,8 @@ Reopened 6/24/21
 issues with serving alcohol before license granted
 ",,"2021-05-09","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "Moko",1269,"https://evgrieve.com/2021/06/sushi-next-for-former-fresco-space-on.html","2021-07-18T04:00:00.000Z","(856) 304-6681","https://www.mokonyc.com","Restaurants",40.728758,-73.987142,"138 2nd Avenue, New York, NY 10003",,,"FRI - SUN: noon - 11:00 PM
-","5:00 PM","Japanese,Omakase","https://www.instagram.com/mokonyc/?hl=en","11:00 PM","EVCC","\*\*\*\***Call to confirm, choose pickup to turn green**: opening 5PM 7/29/21 in former Fresco location
-",,"2021-07-01","Yes","Unknown","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,,,,,,,,
+","5:00 PM","Japanese,Omakase","https://www.instagram.com/mokonyc/?hl=en","11:00 PM","EVCC","\*\*\*\***Call to confirm, put Yes in pickup to turn green**: opening 5PM 7/29/21 in former Fresco location
+",,"2021-07-01","Yes","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "Avenues",1268,"https://evgrieve.com/2020/08/turntable-lab-closes-its-10th-street.html","2020-09-08T16:34:00.000Z",,,"Cafes and Desserts",40.730864,-73.989937," 84 E. 10th Street, New York, NY 10003",,,,,"Cafe",,,,"Opening soon in location briefly occupied by Turntable Lab
 ",,"2017-02-01",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"customerservice@turntablelab.com","2020-08-01",,,,,,,
 "Sing Sing",1267,"https://www.instagram.com/singsingavea/?hl=en","2021-06-29T00:36:00.000Z","212.674.0700","https://www.singsingavea.com/","Restaurants",40.72521,-73.98451,"81 Avenue A, New York, NY 10009","Yes",,"THU - SUN: 4:00 PM - 4:00 AM
@@ -3088,14 +3088,14 @@ FRI & SAT: 12:00 PM - 7:30 PM
 ","8:00 AM","Laundromat",,"10:00 PM","EVCC","Confirmed Hours by Phone
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,,,,,,,,,
 "Tian Tian Laundromat",371,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]","2020-04-10T04:00:00.000Z","(212) 475-0868",,"Laundry",40.720302,-73.990106,"137 Allen Street, New York, NY 10002","No",,"Closed until 4/31
-","8:00 AM","Laundromat",,"9:00 PM","PG","\*\*\*Non working number, no signs of life since Covid 
+","8:00 AM","Laundromat",,"9:00 PM","PG","\*\*\*\*Non working number, no signs of life since Covid 
 ",,,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "The Laundry Room of Essex",370,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]","2021-07-19T04:00:00.000Z","(212) 475-0070",,"Laundry",40.719495,-73.986433,"121 Rivington Street, New York, NY 10002","Yes",,"Drop off only
 ","8:00 AM","Laundromat",,"7:00 PM","PG","Confirmed Hours by Phone 
 ",,,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,,,,,,,,
 "Green Gate Cleaners",369,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]","2021-01-25T05:00:00.000Z",,,"Laundry",40.721878,-73.988564,"179 Orchard Street, New York, NY 10002","Yes",,"SAT: 9:00 AM - 5:00 PM
 SUN: Closed 
-","9:00 AM","Cleaners",,"6:00 PM","PG","\*\*\*\*Laura check (deleted nonworking phone) Hours that are already here matches with google
+","9:00 AM","Cleaners",,"6:00 PM","PG","\*\*\*\*Laura check (nonworking phone) Hours that are already here matches with google
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
 "Ms. Bubble Laundromat",368,,"2020-11-27T17:45:00.000Z","(212) 475-0110","http://www.missbubblelaundromat.com/202-rivington-st","Laundry",40.718647,-73.982988," 202 Rivington Street, New York, NY 10002","No",,"
 ","8:00 AM","Laundromat",,"8:00 PM","EVCC","PERMANENTLY CLOSED
@@ -3141,10 +3141,11 @@ SUN: Closed
 SUN & MON: Closed
 ","2:00 PM ","Fashion","https://www.instagram.com/latexbaroness/","7:00 PM","EVCC","Confirmed Hours by Phone, store closing 8/31/21.
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"Baroness@Baroness.com","2021-08-31","https://store.baroness.com/giftcertificates.php",,,"Yes",,,
-"AuH2O",356,"https://www.instagram.com/p/CE7MFF7DMeO/","2021-07-19T04:00:00.000Z","(212) 466-0844","www.auh2oshop.com","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","Yes",,"
+"AuH2O",356,"https://www.instagram.com/p/CE7MFF7DMeO/","2021-07-19T04:00:00.000Z","N/A","www.auh2oshop.com","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","Yes",,"MON & TUE: Closed
 
-","12:00 PM","Jewelry,Fashion","https://www.instagram.com/auh2oshop/","7:00 PM","EVCC","\*\*\*\*\*\*Hours from IG, check frequently (in transition from VA) phone is not in service also no phone number found on google or their own website
-",,"2006-10-01",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,true,"auh2oshop@gmail.com",,,"
+
+","12:00 PM","Jewelry,Fashion","https://www.instagram.com/auh2oshop/","7:00 PM","EVCC","\*\*\*\*\*\*Hours from IG, check frequently (in transition from VA) no phone
+",,"2006-10-01",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,true,"auh2oshop@gmail.com",,,"
 ",,"Yes",,,
 "Gringer and Sons Appliances",355,,"2021-07-19T04:00:00.000Z","212-475-0600","http://www.gringerandsons.com/","Retail",40.723873,-73.988248,"29 1st Avenue, New York, NY 10003","Yes","Yes","SAT: 8:30 AM - 4:30 PM 
 SUN: Closed 
@@ -3187,10 +3188,9 @@ SUN: noon - 9:00 PM
 "Whiskers Holistic Pet Care",345,,"2021-07-17T04:00:00.000Z","212-979-2532","https://www.1800whiskers.com/","Services",40.729441,-73.987553,"235 E. 9th Street, New York, NY 10003","Yes","Yes","SUN: 12:00 PM - 6:00 PM 
 ","11:00 AM","Pet Supplies & Grooming","https://www.instagram.com/whiskerspet/","7:00 PM","PL","IG and website are current, Hours from website
 ","Yes",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
-"Westville East",344,,"2021-07-17T04:00:00.000Z","(212) 677-2033","https://stores.westvillenyc.com/westville-east/menu","Restaurants",40.72840267,-73.98201018,"173 Avenue A, New York, NY 10009","Yes","Yes","Lunch: 11:30 AM - 3:00 PM
-Dinner: 5:00 PM - 9:30 PM 
+"Westville East",344,,"2021-07-17T04:00:00.000Z","(212) 677-2033","https://stores.westvillenyc.com/westville-east/menu","Restaurants",40.72840267,-73.98201018,"173 Avenue A, New York, NY 10009","Yes","Yes","
 
-","10:00 AM","American","https://www.instagram.com/westvillenyc/?hl=en","9:30 PM","EVCC","\*\*\*\*\*Destiny Website and IG are current, Hours from website	
+","10:00 AM","American","https://www.instagram.com/westvillenyc/?hl=en","10:00 PM","EVCC","Website and IG are current, confirmed hours by phone
 ","Yes (Heated)",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,"https://www.toasttab.com/westville-east/giftcards","Free Delivery!
 ",,,,,
 "Westville Bakery",343,"https://evgrieve.com/2020/12/as-westville-bakery-exits-superiority.html","2021-01-27T05:00:00.000Z","347-618-7222","westvillenyc.com/bakery/","Cafes and Desserts",40.72767804,-73.98336737,"433 E. 9th Street, New York, NY 10009","No",,"SAT & SUN: 9:00 AM - 6:00 PM
@@ -3376,8 +3376,8 @@ MON: Closed
 TUE - WED: 12:00 PM - 2:00 AM
 THU: 12:00 PM - 3:00 AM
 FRI & SAT: 12:00 PM - 4:00 AM
-",,"Mexican","https://www.instagram.com/taqueriadiana/",,"EVCC","\*\*\*\*Laura please try contacting this business , Website is current, Hours confirmed by website, IG is not current, Voicemail left a different number 
-","Yes",,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,true,"info@taqueriadiana.com",,,,,,,,
+",,"Mexican","https://www.instagram.com/taqueriadiana/",,"EVCC","\*\*\*\*Laura please try contacting this business, Website is current, Hours confirmed by website, IG is not current, Voicemail left a different number 
+","Yes",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"info@taqueriadiana.com",,,,,,,,
 "Takahachi",293,,"2021-07-16T04:00:00.000Z","(212) 505-6524","https://www.takahachi.net/takahachi-eastvillage","Restaurants",40.725303,-73.984359,"85 Avenue A, New York, NY 10009","Yes",,"
 ","4:30 PM","Japanese","https://www.instagram.com/takahachieastvillage/?hl=en","10:30 PM","EVCC","Website and IG are current, Hours confirmed by Phone
 ","Yes",,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,true,"ktm7inc@gmail.com  ",,,,,,,,
@@ -3410,9 +3410,9 @@ $9.95 Early Bird Special: 4:00 PM - 5:45 PM only!
 ",,,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,"martinanardo@sugarsketch.com",,"http://www.sugarsketch.com/new-products/gift-card","Sign up to receive[ 10% off on ](https://www.sugarsketch.com/)your first order.
 ",,"Yes",,,
 "Stuffed Ice Cream",284,,"2021-03-03T05:00:00.000Z","(917) 985-6166","https://stuffedicecreamnyc.com/","Cafes and Desserts",40.728047,-73.985361,"139 1st Avenue, New York, NY 10003","Yes",,"SAT & SUN: 2:00 PM - 10:00 PM
-","4:00 PM","Ice Cream","https://www.instagram.com/stuffedicecreamnyc/","10:00 PM","EVCC","\*\*\*\*check back, Website has hours, planning to extend in late July,
+","4:00 PM","Ice Cream","https://www.instagram.com/stuffedicecreamnyc/","10:00 PM","EVCC","\*\*\*\*check back, planning to extend hours in late July, website has hours
 Reopened 3/3/21
-",,,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,,"hello@stuffedicecreamnyc.com",,"https://squareup.com/gift/8P8P544Y4Y6GH/order",,,,,,
+",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"hello@stuffedicecreamnyc.com",,"https://squareup.com/gift/8P8P544Y4Y6GH/order",,,,,,
 "Stromboli",283,,"2021-07-16T04:00:00.000Z","646-480-1085","https://www.strombolipizzamenu.com","Restaurants",40.727824,-73.985394,"83 St. Marks Place, New York, NY 10003","Yes","Yes","Delivery: until 4:00 AM!
 ","10:00 AM","Pizza",,"5:00 AM","EVCC","Hours confirmed by phone, Website is current
 ","Yes",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,,,,,,,,
@@ -3586,8 +3586,9 @@ SUN: noon - 11:00 PM
 ","Yes (Heated)",,"Yes","Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,true,"info@princeteahouse.com",,,,,,,,
 "Post",237,"https://www.instagram.com/p/CRlxkxxDeWS/","2021-07-25T04:00:00.000Z","646-930-2724","http://www.post-nyc.com","Restaurants",40.72256,-73.98217,"217 E. 3rd Street, New York, NY 10009","Yes",,"SAT & SUN: 10:30AM - 11:30 PM
 
-","4:00 PM","American","https://www.instagram.com/postnewyork/","11:30 PM","EVCC","Now open, IG is current, Hours confirmed by phone
-","Yes",,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}",,true,"info@post-nyc.com",,,,,,,,
+","4:00 PM","American","https://www.instagram.com/postnewyork/","11:30 PM","EVCC","IG is current, Hours confirmed by phone,
+Opened in new location 7/24/21
+","Yes","2021-07-24","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"info@post-nyc.com",,,,,,,,
 "Porto Rico Imported",236,,"2021-07-14T04:00:00.000Z","212-533-1982","www.portorico.com/store","Groceries",40.72832284,-73.98735119,"40 St. Mark's Place. New York, NY 10003","Yes",,"SUN: 10:00 PM - 5:00 PM
 [Coffee to go: buy 5, get one free!](https://www.instagram.com/p/B_h0I_pDkLK/)
 ","9:00 AM","Specialty Market","https://www.instagram.com/portoricoimportingco/?hl=en","5:00 PM","EVCC","Hours confirmed by phone, IG and website are current
@@ -4096,15 +4097,11 @@ Notary & shipping services available.
 ",,"Deli "," ",,"EVCC","\*\*\*\*Laura Check back, no response at (212) 777-0877 -found on yelp
 
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
-"Esperanto",102,,"2021-07-12T04:00:00.000Z","(212) 505-6559","https://esperantony.com/","Restaurants",40.725512,-73.978124,"145 Avenue C, New York, NY 10009","Yes",,"WED: 4:00 PM - 9:30 PM
-THURS: 1:00 PM - 9:30 PM
-FRI: 3:00 PM - 
-SAT: 1:00 PM - 11:00 PM (with a break from 3:30 PM - 6:30 PM)
-SUN 12:30 PM - 6:30 PM (with a break from 3:30 PM - 6:30 PM)
-
-MON & TUES: Closed 
+"Esperanto",102,,"2021-07-12T04:00:00.000Z","(212) 505-6559","https://esperantony.com/","Restaurants",40.725512,-73.978124,"145 Avenue C, New York, NY 10009","Yes",,"SAT: 11:00 AM - 12:00 AM
+SUN: 11:00 AM - 9:00 PM
+MON & TUE: Closed 
 [See menu here](https://www.instagram.com/p/B92Y887hXS3/)
-",,"Brazilian","https://www.instagram.com/esperantony/?hl=en",,"PL","\*\*\*\*call for hours (especially Friday)! IG is current, hours from website contact page are confusing
+","3:00 PM","Brazilian","`","12:00 AM","PL","\*\*\*\*check nonworking phone? IG is current, hours from website contact page are confusing, look old: Laura accepted Google hours
 				
 ","Yes",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"esperantony@gmail.com",,,"
 ",,,,,
