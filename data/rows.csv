@@ -1045,16 +1045,20 @@ Orders can be placed [online](https://www.murphysdoorcafe.com/).
 "The Winslow Gin House and Eatery",924,,"2021-01-07T17:02:00.000Z","(212) 777-7717","https://thewinslownyc.com","Restaurants",40.7327741,-73.9852297,"243 E. 14th Street, New York, NY 10003","Yes","Yes","SAT & SUN: 1:00 PM - 10:00 PM
 ","4:00 PM ","Bar","https://www.instagram.com/thewinslownyc/","10:00 PM",,"Hours confirmed by phone 
 ","Yes",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"info@thewinslownyc.com",,,,,,,,
-"The Original Mee Noodle Shop & Grill",923,,"2021-05-24T22:44:00.000Z","(212) 260-7838",,"Restaurants",40.7309723,-73.9830444,"223 1st Avenue, New York, NY 10003","Yes","Yes",,"11:30 AM","Chinese",,"9:30 PM",,"Hours confirmed by Phone 
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
-"Mister Paradise",921,,"2021-02-25T06:09:00.000Z","N/A","https://www.misterparadisenyc.com","Restaurants",40.72683,-73.98633,"105 1st Avenue, New York, NY 10003","Yes","Yes","Canned cocktails and Electric Burritos to go only
-","4:00 PM","American","https://www.instagram.com/misterparadisenyc/","10:00 PM",,"\*\*\*Temporarily not seating, IG is Current 
-
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,true,"hello@misterparadisenyc.com. ",,,,,,,,
-"The Copper Still",920,,"2021-02-08T05:44:00.000Z",,"http://www.thecopperstillnyc.com","Restaurants",40.72963,-73.98736,"151 2nd Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: noon - 10:00 PM
-","4:00 PM","Bar","https://www.instagram.com/thecopperstill_nyc/","10:00 PM",,"IG is current			
+"The Original Mee Noodle Shop & Grill",923,,"2021-07-26T22:44:00.000Z","(212) 260-7838",,"Restaurants",40.7309723,-73.9830444,"223 1st Avenue, New York, NY 10003","Yes","Yes","To go only
+","11:30 AM","Chinese",,"9:30 PM",,"Hours confirmed by Phone, to go only
+",,,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,,,,,,,
+"Mister Paradise",921,,"2021-07-26T05:09:00.000Z","N/A","https://www.misterparadisenyc.com","Restaurants",40.72683,-73.98633,"105 1st Avenue, New York, NY 10003","Yes","Yes","THURS & FRI: 5:00 PM - 3:00 AM
+SAT: 2:00 PM: 3:00 AM
+SUN & MON: Closed
+","5:00 PM","American","https://www.instagram.com/misterparadisenyc/","1:00 AM",,"Hours updated on yelp few days ago
+","Yes",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,true,"hello@misterparadisenyc.com. ",,,,,,,,
+"The Copper Still",920,,"2021-07-26T04:44:00.000Z","(212) 510-8469","http://www.thecopperstillnyc.com","Restaurants",40.72963,-73.98736,"151 2nd Avenue, New York, NY 10003","Yes","Yes","FRI: noon - 2:00 AM
+SAT: noon - 4:00 AM
+SUN: noon - 4:00 AM
+","3:00 PM","Bar","https://www.instagram.com/thecopperstill_nyc/","12:00 PM",,"Call no answer, Hours from website 
 Reopened Feb. 12
-","Yes (Heated)",,,"Opened","{""id"":""usrt9Ms4NiSf2E6PE"",""email"":""iris8516@gmail.com"",""name"":""Lindsey Loughman""}",,,"thecopperstillnyc@gmail.com",,,,,,,,
+","Yes (Heated)",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"thecopperstillnyc@gmail.com",,,,,,,,
 "Jackdaw",919,,"2021-01-07T05:11:00.000Z","(212) 507-9333","https://www.jackdawnyc.com","Restaurants",40.7319,-73.98564,"213 2nd Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: 11:00 AM - 10:00 PM
 ","12:00 AM","Bar","https://www.instagram.com/jackdawnyc/","10:00 AM",,"IG is Current 
 ","Yes",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"info@jackdaw.com",,,,,,,,
@@ -1065,30 +1069,35 @@ Order through our [website](https://www.virginiasnyc.com/).
 Reopened Feb. 11
 ","Yes","2015-05-04","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"INFO@VIRGINIASNYC.COM",,,"
 ",,,,,
-"The Pizza Spot",917,,"2021-01-07T17:11:00.000Z","(646) 370-6883","https://www.ilmattoneles.com/","Restaurants",40.723012,-73.989732,"147 E. Houston Street, New York, NY 10002","Yes","Yes","
+"The Pizza Spot",917,,"2021-01-07T17:11:00.000Z",,,"Restaurants",40.723012,-73.989732,"147 E. Houston Street, New York, NY 10002",,,"
 
-","11:00 AM ","Pizza",,"9:00 PM",,"Hours confirmed by phone 
-",,,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,
-"Nostro",916,,"2020-09-30T16:07:00.000Z",,,"Restaurants",40.72657,-73.989479,"75 2nd Avenue, New York, NY 10003","No",,,,"Italian","https://www.instagram.com/nostro_ev/?hl=en",,,"PERMANENTLY CLOSED
-",,"2019-10-30",,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"info@bistro731nyc.com","2020-07-30",,,,,,,
-"DIA",915,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html","2020-09-30T16:04:00.000Z","(917) 675-7664","http://dia-nyc.com","Restaurants",40.725665,-73.989413,"58 2nd Avenue, New York, NY 10003","No",,"
+","11:00 AM ","Pizza",,"9:00 PM",,"called and said it was't the right number, google says temporarily closed
+",,,,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,
+"Nostro",916,"https://www.yelp.com/biz/nostro-east-village-new-york","2020-09-30T16:07:00.000Z",,,"Restaurants",40.72657,-73.989479,"75 2nd Avenue, New York, NY 10003",,,,,"Italian","https://www.instagram.com/nostro_ev/?hl=en",,,"PERMANENTLY CLOSED
+Yelp shows hours were updated two weeks ago
+",,"2019-10-30",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"info@bistro731nyc.com","2020-07-30",,,,,,,
+"DIA",915,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html","2020-09-30T16:04:00.000Z","(917) 675-7664","http://dia-nyc.com","Restaurants",40.725665,-73.989413,"58 2nd Avenue, New York, NY 10003",,,"
 ",,"Italian,Pizza",,,,"PERMANENTLY CLOSED
-",,"2018-09-01",,"Closed","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,,"2020-05-01",,,,,,,
-"Josie's",914,,"2021-03-19T15:52:00.000Z","(646) 590-0044",,"Restaurants",40.72487,-73.982895,"520 E. 6th Street, New York, NY 10009","Yes",,"
-","3:00 PM","Bar",,"11:00 PM",,"Reopened 3/19/21
-",,,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
-"Mona's",913,,"2021-03-19T15:52:00.000Z","(212) 353-3780",,"Restaurants",40.729187,-73.978387,"224 Avenue B, New York, NY 10009","Yes",,"
-","3:00 PM","Bar",,"11:00 PM",,"Reopened 3/19/21
-","Yes",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,"Yes",,,
-"Sophie's",912,,"2021-03-19T15:52:00.000Z","(212) 228-5680",,"Restaurants",40.724796,-73.983841,"507 E. 5th Street, New York, NY 10009","Yes",,"
-","3:00 PM","Bar",,"11:00 PM",,"Reopened 3/19/21
-",,,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,
-"Grace Exhibition Space",911,,"2021-01-08T00:54:00.000Z","646-578-3402","https://www.grace-exhibition-space.com/index.php","Arts & Culture",40.72658,-73.97664,"182 Avenue C, New York, NY 10009","Yes",,"Open when resident artists are present. See [Instagram](https://www.instagram.com/graceexhibitionspace/) for programs.
+doordash shows the option to order?
+https://www.doordash.com/store/dia-new-york-593375/?utm\_campaign=gpa&ssr-redirect=true
+",,"2018-09-01",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,"2020-05-01",,,,,,,
+"Josie's",914,,"2021-07-26T15:52:00.000Z","(646) 590-0044",,"Restaurants",40.72487,-73.982895,"520 E. 6th Street, New York, NY 10009","Yes",,"
+","3:00 PM","Bar",,"4:00 AM",,"\*\*\*\*\*call to confirm hours
+Hours from FB, google and yelp
+",,,"Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,
+"Mona's",913,,"2021-07-26T15:52:00.000Z","(212) 353-3780","https://www.instagram.com/monasbarnyc/","Restaurants",40.729187,-73.978387,"224 Avenue B, New York, NY 10009","Yes",,"
+","3:00 PM","Bar",,"4:00 AM",,"Confirmed hours by phone
+","Yes",,"Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,"Yes",,,
+"Sophie's",912,,"2021-07-26T15:52:00.000Z","(212) 228-5680",,"Restaurants",40.724796,-73.983841,"507 E. 5th Street, New York, NY 10009","Yes",,"
+","3:00 PM","Bar",,"4:00 AM",,"\*\*\*\*\*Call to confirm hours 
+Hours from FB and yelp
+",,,"Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,
+"Grace Exhibition Space",911,,"2021-07-26T23:54:00.000Z","646-578-3402","https://www.grace-exhibition-space.com/index.php","Arts & Culture",40.72658,-73.97664,"182 Avenue C, New York, NY 10009","Yes",,"Open when resident artists are present. See [Instagram](https://www.instagram.com/graceexhibitionspace/) for programs.
 ",,"Gallery","https://www.instagram.com/graceexhibitionspace/",,,"IG is current
-",,"2019-11-30",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://www.grace-exhibition-space.com/performance.php?event_id=660",true,"gracexhibitionspace@yahoo.com",,,,,,,,
-"Ed. Varie",910,,"2021-01-08T00:27:00.000Z","N/A","http://www.edvarie.com/","Arts & Culture",40.72485,-73.98104,"184 E. 7th Street, New York, NY 10009","Yes",,"MON & TUE: Closed	
-","12:00 PM","Gallery","https://www.instagram.com/edvarie/","6:00 PM",,"IG is current
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","https://fundraising.fracturedatlas.org/ed-varie",true,"info@edvarie.com",,,,,,,,
+",,"2019-11-30",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","https://www.grace-exhibition-space.com/performance.php?event_id=660",true,"gracexhibitionspace@yahoo.com",,,,,,,,
+"Ed. Varie",910,,"2021-07-26T23:27:00.000Z","N/A","http://www.edvarie.com/","Arts & Culture",40.72485,-73.98104,"184 E. 7th Street, New York, NY 10009","Yes",,"MON & TUE: Closed	
+","12:00 PM","Gallery","https://www.instagram.com/edvarie/","6:00 PM",,"Hours from website
+",,,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","https://fundraising.fracturedatlas.org/ed-varie",true,"info@edvarie.com",,,,,,,,
 "Saramsam",909,,"2021-05-16T22:47:00.000Z","(833) 328-4588","https://www.overthrowhospitality.com/venues/saramsam/","Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","No",,"SUN: noon - 10:00 PM
 MON & TUE: Closed
 ","5:00 PM ","Filipino,Vegan","https://www.instagram.com/saramsamnyc/","11:00 PM",,"Temporarily closed 5/10/21
