@@ -58,8 +58,8 @@ Proof of vaccination required
 ",,"Bar","https://www.instagram.com/thecock.nyc/",,,"IG is current,
 Reopened 6/24/21
 ",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Stuyvesant Gourmet Deli",1276,,"2021-07-07T22:04:00.000Z",,,"Groceries",40.7304,-73.98073,"444 E. 14th St, New York, NY 10009",,,,"Cleaners,Deli ",,,,"Opening soon in former Dion Cleaners location.
-",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
+"Stuyvesant Gourmet Deli",1276,"https://evgrieve.com/2021/07/stuyvesant-gourmet-deli-announces.html","2021-07-28T22:04:00.000Z",,,"Groceries",40.7304,-73.98073,"444 E. 14th St, New York, NY 10009",,,,"Cleaners,Deli ",,,,"Opening soon in former Dion Cleaners location.
+",,,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Bread Story",1272,,"2021-07-02T23:05:00.000Z",,"https://bread-story.com/","Cafes and Desserts",40.7321,-73.9816,"264 1st Avenue, New York, NY 10009","Yes","Artisanal french bakery
 ","7:00 AM","Bakery","https://www.instagram.com/breadstoryny/?hl=en","5:00 PM",,"IG is current
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"2021-06-04",,,,,,,,,,
@@ -788,39 +788,46 @@ Offering virtual performance parties
 "Big Arc Chicken",1004,,"2021-01-07T03:41:00.000Z","(212) 477-0091","https://www.newyorkbigarcchicken.com/","Restaurants",40.73123,-73.98304,"233 1st Avenue, New York, NY 10003","Yes","[order online ](https://www.beyondmenu.com/35198/new-york/big-arc-chicken-new-york-10003.aspx?utm_source=satellite&utm_medium=home_order&pk_vid=4775ecd384f8ed511609961778f1648f)
 ","11:00 AM","Middle Eastern,Halal","https://www.instagram.com/bigarcchicken/","9:00 PM",,"Hours confirmed by phone 
 ",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes",,,,,,,,,,,,
-"Gorin Ramen",1003,"https://evgrieve.com/2020/01/since-2020-gorin-ramen-debuts-on-14th.html","2021-01-07T03:34:00.000Z","917-675-6369","https://gorinramen-ny.com","Restaurants",40.73168,-73.98285,"351 E. 14th St, New York, NY 10003","Yes","FRI - SAT: 12:00 PM -10:30 PM
-","12:00 PM","Japanese","https://www.instagram.com/gorinramen/?hl=en","9:00 PM",,"Hours confirmed by phone 
-","info@gorinramen.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-01-02",,true,,,,,,,,
-"Linen Hall",1002,,"2021-04-12T02:32:00.000Z","(646) 602-9316","https://linenhallnyc.com","Restaurants",40.73236,-73.98766,"101 3rd Avenue, New York, NY 10003","Yes",,,"Bar","https://www.instagram.com/linenhallnyc/",,,"Reopened April 2021
-","linenhallnyc@me.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Yes (Heated)",,,,,,,,,,,
-"The Dolar Shop ",1001,"https://www.instagram.com/p/CIBLss6FlKS/","2021-03-18T02:25:00.000Z","(646) 590-0034","https://www.dolarshop.com/location.php","Restaurants",40.73098,-73.9884,"55 3rd Avenue, New York, NY 10003","Yes","
-","12:00 PM","Chinese","https://www.instagram.com/thedolarshopusa/?hl=en","10:00 PM",,"IG is current
-","dolarshop_center@126.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes (Heated)","2020-11-25",,true,,,"Check Instagram for special offers
+"Gorin Ramen",1003,"https://evgrieve.com/2020/01/since-2020-gorin-ramen-debuts-on-14th.html","2021-07-29T02:34:00.000Z","917-675-6369","https://gorinramen-ny.com","Restaurants",40.73168,-73.98285,"351 E. 14th St, New York, NY 10003","Yes","SAT: 12:00 PM - 12:00 AM
+SUN: 12:00 PM - 10:00 PM
+MON - FRI: Break from 4:00 PM - 6:00 PM
+","12:00 PM ","Japanese","https://www.instagram.com/gorinramen/?hl=en","11:30 PM",,"Hours confirmed by phone 
+","info@gorinramen.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes","Yes (Heated)","2020-01-02",,true,,,,,,,,
+"Linen Hall",1002,,"2021-07-29T02:32:00.000Z","(646) 602-9316","https://linenhallnyc.com","Restaurants",40.73236,-73.98766,"101 3rd Avenue, New York, NY 10003","Yes","THU &  FRI: 4:00 PM - 4:00 AM
+SAT: 12:00 PM - 4:00 AM
+SUN: 12:00 PM - 2:00AM
+","4:00 PM","Bar","https://www.instagram.com/linenhallnyc/","2:00 AM",,"\*\*\*\*\*Call to confirm hours 
+Hours from FB and yelp
+","linenhallnyc@me.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,"Yes (Heated)",,,,,,,,,,,
+"The Dolar Shop ",1001,,"2021-07-29T02:25:00.000Z","(646) 590-0034","https://www.dolarshop.com/location.php","Restaurants",40.73098,-73.9884,"55 3rd Avenue, New York, NY 10003","Yes","FRI - SUN: 12:00 PM - 9:00 PM
+","4:00 PM","Chinese","https://www.instagram.com/thedolarshopusa/?hl=en","9:00 PM",,"Hours and seating confirmed by phone and website
+","dolarshop_center@126.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes","Yes (Heated)","2020-11-25",,true,,,"
 ",,,,,
 "The Boilery ",1000,,"2021-01-05T03:11:00.000Z","(646) 838-5556","https://www.boilerynyc.com/east-village","Restaurants",40.73118,-73.98908,"58 3rd Avenue, New York, NY 10003","No","FRI & SAT: noon - 11:30 PM
 ","12:00 PM","Seafood","https://www.instagram.com/boilerynyc/?hl=en","10:30 PM",,"PERMANENTLY CLOSED
 ","info@boilerynyc.com",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Yes","2019-09-01",,,,,,,,,,
-"3rd & Bzaar",999,,"2021-07-19T01:30:00.000Z",,,"Retail",40.72309,-73.9834,"191 E. 3rd Street, New York, NY 10009","Yes","SUMMER IN THE CITY pop up July 24!
-MON & TUE: Closed
+"3rd & Bzaar",999,"https://evgrieve.com/2021/07/summer-in-city-at-3rd-bzaar.html?m=1","2021-07-29T01:30:00.000Z","(646) 609-2279",,"Retail",40.72309,-73.9834,"191 E. 3rd Street, New York, NY 10009","Yes","SUMMER IN THE CITY market Aug. 14!
 
-","1:00 PM","Fashion,Gifts & Home,Gallery","https://www.instagram.com/3rdandbzaar/","6:00 PM",,"IG is current, popping back Aug 14
-
-","3andbzaar@gmail.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"2021-02-01",,true,,,"
+","11:00 PM","Fashion,Gifts & Home,Gallery","https://www.instagram.com/3rdandbzaar/","6:00 PM",,"Hours from EVgrieve
+","3andbzaar@gmail.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"2021-02-01",,true,,,"
 
 
 
 
 ",true,,,,
-"? Salon",998,,"2020-11-05T00:57:00.000Z",,,"Services",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009",,,,"Hair",,,,"hair salon in former Tree Bistro space (not open to publicity)
-",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"2020-10-01",,,,,,,,,,
-"Dion Cleaners",997,,"2020-12-01T23:04:00.000Z","(212) 420-9114",,"Laundry",40.7304,-73.98073,"444 E. 14th St, New York, NY 10009","No",,,"Cleaners",,,,"PERMANENTLY CLOSED.	
-",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"1985-12-01",,true,"2020-11-14",,,,,,,
-"Yellow Rose",996,,"2021-01-04T22:46:00.000Z","(212) 529-8880","https://www.yellowrosenyc.com/","Restaurants",40.732602,-73.988025,"102 3rd Avenue,  New York, NY 10003","Yes","SUN: 9:00 AM - 3:00 PM 
-MON & TUE: Closed 
-","12:00 PM","American","https://www.instagram.com/yellowrose.nyc/","10:00 PM",,"IG is being updated, Hours on IG
-","yellowrosenyc@gmail.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes","Yes","2020-11-11",,,,"https://www.yellowrosenyc.com/product/physical-gift-card/74?cs=true",,,,,,
-"Tribes of Morocco",994,,"2021-01-05T02:05:00.000Z",,,"Retail",40.72742,-73.98365,"428 E. 9th Street, New York, NY 10009","Yes",,,"Gifts & Home",,,,"Laura check hours, no online presence
-",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,true,,,,,,,,
+"? Salon",998,,"2021-07-28T23:57:00.000Z","(212) 673-4786","https://www.permacutsalon.com","Services",40.72964,-73.98351,"190 1st Avenue, New York, NY 10009","Yes","Sun: 10:00 AM - 5:00 PM
+Every other Sunday, call for hours!!
+","10:00 AM","Hair","https://www.instagram.com/permacut/","7:00 PM",,"Confirmed hours by phone
+",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"2020-10-01",,,,,"New clients receive 10% OFF!! Mention this special when making appointment
+",,,,,
+"Dion Cleaners",997,"https://evgrieve.com/2020/11/dion-cleaners-is-closing-after-35-years.html","2020-12-01T23:04:00.000Z","(212) 420-9114",,"Laundry",40.7304,-73.98073,"444 E. 14th St, New York, NY 10009","No",,,"Cleaners",,,,"PERMANENTLY CLOSED.	
+",,,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"1985-12-01",,true,"2020-11-14",,,,,,,
+"Yellow Rose",996,,"2021-07-28T21:46:00.000Z","(212) 529-8880","https://www.yellowrosenyc.com/","Restaurants",40.732602,-73.988025,"102 3rd Avenue,  New York, NY 10003","Yes","SAT: 9:00 AM - 3:00 PM, 5:00 PM - 10:00 PM
+SUN: 9:00 AM - 3:00 PM
+","11:00 AM","Mexican","https://www.instagram.com/yellowrose.nyc/","10:00 PM",,"Hours from website and IG
+","yellowrosenyc@gmail.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes","Yes","2020-11-11",,,,"https://www.yellowrosenyc.com/product/physical-gift-card/74?cs=true",,,,,,
+"Tribes of Morocco",994,,"2021-01-05T02:05:00.000Z",,,"Retail",40.72742,-73.98365,"428 E. 9th Street, New York, NY 10009","Yes",,,"Gifts & Home",,,,"\*\*\*\*\*Laura check hours, no online presence
+",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,true,,,,,,,,
 "Tamam",993,,"2021-01-05T01:52:00.000Z","917-388-3522","https://www.shop-tamam.com/","Retail",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003","Yes","By appointment or chance, online always! 
 ",,"Gifts & Home","https://www.instagram.com/shop_tamam/",,,"IG is being updated
 ","shop@shop-tamam.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,"https://squareup.com/gift/1GR8TQKYAGKG6/order",,,"Yes",,,
@@ -830,33 +837,37 @@ MON & TUE: Closed
 "il Buco Vita",991,,"2021-01-05T01:29:00.000Z","917-261-2248","https://ilbuco.com/shop","Retail",40.72561,-73.99155,"4 E. 2nd Street, New York, NY 10003","Yes","SUN - TUE: Closed 
 ","12:00 PM","Gifts & Home","https://www.instagram.com/ilbucovita/","5:00 PM",,"Hours confirmed by phone
 ","vitainfo@ilbuco.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"Yes",,,,,"https://ilbuco.com/pages/gift-card",,,"Yes",,,
-"The Bean",990,"https://evgrieve.com/2020/10/the-bean-is-returning-to-its-former.html","2021-07-19T00:14:00.000Z","(917) 261-4364","https://www.thebean.nyc/s/order?location=11eb4168d044e1cdb101ac1f6bbbcc9c","Cafes and Desserts",40.72558,-73.98954,"54 2nd Avenue, New York, NY 10009","Yes",,"7:00 AM ","Cafe","https://www.instagram.com/thebeannyc/?hl=en","9:00 PM",,"IG and website are current, Hours from website
-","contactus@thebeannyc.com",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","Yes","Yes",,,,,"https://squareup.com/gift/ML7T68924DR3J/order","
+"The Bean",990,"https://evgrieve.com/2020/10/the-bean-is-returning-to-its-former.html","2021-07-19T00:14:00.000Z","917-262-0929","https://www.thebean.nyc/s/order?location=11eb4168d044e1cdb101ac1f6bbbcc9c","Cafes and Desserts",40.72558,-73.98954,"54 2nd Avenue, New York, NY 10009","Yes",,"7:00 AM ","Cafe","https://www.instagram.com/thebeannyc/?hl=en","9:00 PM",,"Confirmed hours by phone
+","contactus@thebeannyc.com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","Yes","Yes",,,,,"https://squareup.com/gift/ML7T68924DR3J/order","
 ",,,,,
-"Galleria J. Antonio",989,,"2021-01-05T01:07:00.000Z","212-505-9400","https://galleriajantonio.com/","Retail",40.72397,-73.98547,"43 Avenue A, New York, NY 10009","Yes","MON: Closed 
+"Galleria J. Antonio",989,,"2021-07-29T00:07:00.000Z","212-505-9400","https://galleriajantonio.com/","Retail",40.72397,-73.98547,"43 Avenue A, New York, NY 10009","Yes","SUN: 12:00 PM - 7:00 PM
+MON: Closed 
 ","12:00 PM","Gifts & Home,Jewelry,Judaica","https://www.instagram.com/galleriaj.antonio/","8:00 PM",,"Hours confirmed by phone 
-","jessenewyork@gmail.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,"Get 10% off your first purchase when you [sign up ](https://galleriajantonio.com/about-us)for our newsletter!
+","jessenewyork@gmail.com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,,,,"
 ",,,,,
-"The Listening Body",988,,"2021-01-05T00:15:00.000Z","(212) 254-3347","https://bodymind.training/","Health",40.73066,-73.98479,"325 E. 12th Street, New York, NY 10003","Yes","By appointment or weekly online classes
-",,"Alexander Technique","https://www.instagram.com/thelisteningbody/",,,"IG is being updated
-","cate@thelisteningbody.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,true,,,"
+"The Listening Body",988,,"2021-07-28T23:15:00.000Z","(212) 254-3347","https://bodymind.training/","Health",40.73066,-73.98479,"325 E. 12th Street, New York, NY 10003","Yes","By appointment only
+",,"Alexander Technique","https://www.instagram.com/thelisteningbody/",,,"\*\*\*call when open, website says appointment only for hours
+","cate@thelisteningbody.com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,true,,,"
 ",,,,,
-"The March Hare",987,"https://evgrieve.com/2020/10/after-dinosaur-hill-march-hare-is-new.html","2021-01-05T02:22:00.000Z","646 422 7747","https://www.themarchharenyc.com/","Retail",40.728859,-73.986076,"321 E. 9th Street, New York, NY 10003","Yes","Carrying on the Dinosaur Hill legacy!
-","11:00 AM","Toys","https://www.instagram.com/themarchharenyc/?hl=en","6:00 PM",,"Tim & Karen McDermott carrying on the Dinosaur Hill legacy at a new shop on the block. Hours confirmed on IG
-","themarchharenyc@gmail.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,"2020-11-23",,true,,,"Use code CHARITYCHEST to [buy a toy at a discount](https://www.themarchharenyc.com/), toys will be donated when the chest is full!
+"The March Hare",987,"https://evgrieve.com/2020/10/after-dinosaur-hill-march-hare-is-new.html","2021-07-29T01:22:00.000Z","646 422 7747","https://www.themarchharenyc.com/","Retail",40.728859,-73.986076,"321 E. 9th Street, New York, NY 10003","Yes","
+","11:00 AM","Toys","https://www.instagram.com/themarchharenyc/?hl=en","6:00 PM",,"Hours confirmed by phone
+Tim & Karen McDermott carrying on the Dinosaur Hill legacy at a new shop on the block. 
+","themarchharenyc@gmail.com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","Yes",,"2020-11-23",,true,,,"
 ",,"Yes",,,
-"The Braised Shop",986,,"2020-10-30T00:53:00.000Z","(646) 863-3200",,"Restaurants",40.72901,-73.9847,"241 E. 10th Street, New York, NY 10003","Yes","FRI - SUN only 
-","12:00 PM","Taiwanese","https://www.instagram.com/thebraisedshop/","9:00 PM",,"IG hasn't been updated , Callled 1/4/21 no answer 
-",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes",,"2018-08-11",,true,,,,,,,,
-"International Haircutters",985,,"2020-10-30T00:46:00.000Z","212-529-1457",,"Services",40.73174,-73.98427,"320 E. 14th Street, New York, NY 10003","Yes",,,"Hair",,,,"no online presence, call for hours the lady said there not interested in providing information on the hours 
-",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"Yes",,,,,,,,,,,
-"Doc Holliday's ",984,"https://www.instagram.com/p/CQf-qP_jF4B/","2021-06-29T00:40:00.000Z","(212) 979-0312","https://www.etsy.com/shop/joannahollidays/","Restaurants",40.728095,-73.985307,"141 1st Avenue, New York, NY 10009","Yes","
-","12:00 PM ","Bar","https://www.instagram.com/dochollidaysnyc/","4:00 AM",,"IG is current,
+"The Braised Shop",986,,"2021-07-29T00:53:00.000Z","(646) 863-3200","https://the-braised-shop.square.site/","Restaurants",40.72901,-73.9847,"241 E. 10th Street, New York, NY 10003","Yes","FRI - SUN only 
+","12:00 PM","Taiwanese","https://www.instagram.com/thebraisedshop/","9:00 PM",,"\*\*\*\* call when open, hours from website
+",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","Yes",,"2018-08-11",,true,,,,,,,,
+"International Haircutters",985,,"2021-07-29T00:46:00.000Z","212-529-1457",,"Services",40.73174,-73.98427,"320 E. 14th Street, New York, NY 10003","Yes","SUN: 10:00 AM - 5:00 PM
+","10:00 AM","Hair",,"8:00 PM",,"Confirmed hours by phone, no online presence 
+",,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,"Yes",,,,,,,,,,,
+"Doc Holliday's ",984,"https://www.instagram.com/p/CQf-qP_jF4B/","2021-07-29T00:40:00.000Z","(212) 979-0312",,"Restaurants",40.728095,-73.985307,"141 1st Avenue, New York, NY 10009","Yes","
+","12:00 PM ","Bar","https://www.instagram.com/dochollidaysnyc/","4:00 AM",,"Confirmed hours by phone
 reopened 6/25/2021
-",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"1994-01-01",,true,,,,,,,,
-"E7 Deli & Cafe",983,,"2021-01-05T01:35:00.000Z","(646) 438-9811",,"Groceries",40.726972,-73.985426,"118 1st Avenue, New York, NY 10009","Yes","Open 24/7!
-","12:00 AM","Deli ",,"12:00 AM",,"New Deli at former Golden Food Market location (3 years after new owners refused to renew lease of 35-year old business)
-",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"2020-12-30",,,,,,,,,,
+",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"1994-01-01",,true,,,,,,,,
+"E7 Deli & Cafe",983,,"2021-07-29T00:35:00.000Z","(646) 438-9811",,"Groceries",40.726972,-73.985426,"118 1st Avenue, New York, NY 10009","Yes","Open 24/7!
+","12:00 AM","Deli ",,"12:00 AM",,"Confirmed hours by phone
+New Deli at former Golden Food Market location (3 years after new owners refused to renew lease of 35-year old business)
+",,,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"2020-12-30",,,,,,,,,,
 "Come Back Daily",982,,"2021-07-29T00:21:00.000Z","212.601.2752","https://linktr.ee/comebackdaily","Retail",40.72789,-73.98107,"516 E. 11th Street, New York, NY 10009","Yes","or order [online](https://www.comebackdaily.co/)
 SUN: Closed 
 ","12:00 PM ","CBD","https://www.instagram.com/comebackdaily/","6:00 PM",,"Hours confirmed by phone automated voice
@@ -2666,11 +2677,11 @@ SUN: 11:00 AM - 5:30 PM
 "Panya",493,,"2021-04-11T04:00:00.000Z","212-777-1930","http://panyabakeryny.com","Cafes and Desserts",40.729766,-73.989189,"8 Stuyvesant Street, New York, NY 10003","Yes","	
 ","10:00 AM","Bakery","https://www.instagram.com/panyabakeryny/?hl=en","4:00 PM","EVCC","Confirmed hours by Phone 	
 ","panyanyc@gmail.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,,,true,,,,,,,,
-"NY Grill & Deli",492,,"2021-01-27T05:00:00.000Z","(212) 228-7878",,"Groceries",40.72907529,-73.9814896,"191 Avenue A, New York, NY 10009","Yes","Open 24/7!
+"NY Grill & Deli",492,,"2021-07-28T04:00:00.000Z","(212) 228-7878",,"Groceries",40.72907529,-73.9814896,"191 Avenue A, New York, NY 10009","Yes","Open 24/7!
 ","12:00 AM","Deli ",,"12:00 AM","EVCC","Confirmed hours by Phone
-",,,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}","Yes",,,,,,,,,,,,
-"East Village New Deli",491,,"2020-06-22T04:00:00.000Z","N/A",,"Groceries",40.7262573,-73.98332616,"115 Avenue A, New York, NY 10009","Yes",,"8:00 AM","Deli ",,"11:00 PM","EVCC","\*\*\*\*Laura check Non - working Number (212) 533-2193
-",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,,,,,,,,,,,
+",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","Yes",,,,,,,,,,,,
+"East Village New Deli",491,,"2020-06-22T04:00:00.000Z","(212) 533-2193",,"Groceries",40.7262573,-73.98332616,"115 Avenue A, New York, NY 10009","Yes",,"8:00 AM","Deli ",,"11:00 PM","EVCC","\*\*\*\*\*Laura call this store, they won’t cooperate 
+",,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","Yes",,,,,,,,,,,,
 "Bueno East Mart",490,,"2021-07-28T04:00:00.000Z","(212) 477-8160",,"Groceries",40.72365346,-73.98545634,"36 Avenue A, New York, NY 10009","Yes","Open 24/7!
 ","12:00 AM","Deli ",,"12:00 AM","EVCC","Confirmed hours by Phone
 ",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","No",,,,,,,,,,,,
@@ -2700,9 +2711,9 @@ SUN: 9:30 AM - 10:00 PM
 ","info@rootnbone.com","Yes","Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","Yes","Yes",,,,,"https://www.rootnbone.com/",,,,,,
 "Niconeco Zakkaya",483,,"2021-07-28T04:00:00.000Z"," ","https://www.niconeco.com","Retail",40.728505,-73.983239,"263 E. 10th Street,  New York, NY 10009","Yes","SUN: 12:00 PM - 6:00 PM
 
-","12:00 PM","Stationery","https://www.instagram.com/niconeco_zakkaya/","7:00 PM","EVCC"," IG and website are current, Hours confirmed bu website
+","12:00 PM","Stationery","https://www.instagram.com/niconeco_zakkaya/","7:00 PM","EVCC"," IG and website are current, Hours from website
 
-","shop@niconeco.com",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,,true,,,"https://www.niconeco.com/pages/necopoints
+","shop@niconeco.com",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","Yes",,,,true,,,"learn about points [here](https://www.niconeco.com/pages/necopoints)!
 ",,"Yes",,,
 "CAVA",482,,"2021-01-27T05:00:00.000Z","(646) 416-6440","https://order.cava.com/stores","Restaurants",40.7337718,-73.9896361,"143 4th Avenue, New York, NY 10003","Yes","Closed: SAT & SUN
 Use the CAVA app, or website to order! [http://order.cava.c](http://order.cava.com)om 
@@ -2711,7 +2722,7 @@ Use the CAVA app, or website to order! [http://order.cava.c](http://order.cava.c
 "Mama Fina's",481,,"2021-07-28T04:00:00.000Z","(917) 262-0893","https://www.mamafinas.com/nycmenu","Restaurants",40.728431,-73.982093,"167 Avenue A, New York, NY 10009","Yes","SAT - SUN: noon - 9:30 PM 
 Closed: TUE
 ","2:00 PM","Filipino","https://www.instagram.com/mamafinasnyc/","9:30 PM","EVCC","Confirmed hours by call, Last ig post Aug 2020, Website is current
-",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","Yes",,,,true,,,,,,,,
+",,"Yes","Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","Yes",,,,true,,,,,,,,
 "P.S. 34 Franklin D. Roosevelt",480,,"2021-07-09T04:00:00.000Z",,"https://www.opt-osfns.org/schoolfoodny/meals/default.aspx#Result","Free Food",40.726144,-73.975068," 730 E. 12th Street, New York, NY 10009",,"MON - FRI Only 
 Pickup Community Meals
 \*\*No registration or ID required\*\*
