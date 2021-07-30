@@ -196,9 +196,9 @@ Opened 6/1 in former Space 194 location.
 ",,,"Unknown","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}",,,,,,,,,,,,,
 "Karibbean Restaurant",1224,,"2021-06-07T01:30:00.000Z","(212) 673-9287","https://karibbean-restaurant.business.site/?utm_source=gmb&utm_medium=referral","Restaurants",40.7242,-73.97604,"125 Avenue D, New York, NY 10009","Yes",,"12:00 PM","Carribean",,"9:00 PM",,"Laura noted new sign 4/17/21
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Five Napkin Burger",1222,"https://evgrieve.com/2021/01/tamam-is-now-open-on-14th-street.html","2021-05-07T19:59:00.000Z",,"https://5napkinburger.com/locations/union-square/","Restaurants",40.73327,-73.98759,"150 E. 14th Street, New York, NY 10003","Yes","
-","11:30 AM","American","https://www.instagram.com/explore/locations/360151061385269/5-napkin-burger/","10:00 PM",,"Website has current hours
-",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes",,,,,,,,,,,
+"Five Napkin Burger",1222,"https://evgrieve.com/2021/01/tamam-is-now-open-on-14th-street.html","2021-07-30T19:59:00.000Z","(212) 228-5500","https://5napkinburger.com/locations/union-square/","Restaurants",40.73327,-73.98759,"150 E. 14th Street, New York, NY 10003","Yes","FRI & SAT: 12:00 AM - 10:00 PM
+","12:00 AM","American","https://www.instagram.com/5napkinburger/","9:00 PM",,"Business updated google hours second week of july
+",,"Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","Yes","Yes (Heated)",,,,,"https://5napkinburger.com/giftcards/",,,,,,
 "Looker NYC",1221,,"2021-05-08T01:04:00.000Z",,,"Restaurants",40.722969,-73.98304,"42 Avenue B, New York, NY 10009","Yes",,,"Bar,Vegan","https://www.instagram.com/lookerny/",,,"IG is current
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
 "Alabaster Books",1220,,"2021-05-08T00:50:00.000Z","(212) 982-3550",,"Retail",40.73306,-73.99016,"122 4th Avenue. New York, NY 10003","Yes","SUN: 11:00 Am - 10:00 PM
@@ -473,32 +473,40 @@ MON - TUE: Closed
 ","info@villagechirofit.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,true,,,,,,,,
 "Areta Podhorodecki, MD",1116,,"2021-01-31T02:14:00.000Z","212-529-5966","https://www.northwell.edu/find-care/find-a-doctor/sports-medicine/dr-areta-daria-podhorodecki-md-11381185","Health",40.66701,-73.69532,"44 St. Mark's Place, New York, NY 10003","Yes",,,"Medical,Physical Therapy",,,,"Website is current
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,true,,,,,,,,
-"Whiskey Town",1115,"https://www.instagram.com/p/CIoAa41F0fv/","2021-02-26T01:10:00.000Z","(212) 505-7344","https://whiskeytownbar.com/","Restaurants",40.7258,-73.99028,"29 E. 3rd Street, New York, NY 10003","No",,,"Bar","https://www.instagram.com/whiskeytownbar/?hl=en",,,"Temporarily closed (only open a few times since March shutdown)
-","julian@whiskeyworldwide.com",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Medan Pasar",1114,,"2021-06-26T01:21:00.000Z","646-756-4022","http://medanpasar.com/","Restaurants",40.7265,-73.98508,"102 E. 7th Street, New York, NY 10009","Yes",,"11:30 AM","Malaysian","https://www.instagram.com/medanpasarnyc/","10:00 PM",,"Website is current
-",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes","2020-12-26",,true,,,,,,,,
-"Szechuan Mountain House",1113,,"2021-01-26T01:56:00.000Z","(917) 388-3866","https://www.szechuanmountainhouse.com/","Restaurants",40.7292,-73.98865,"23 St. Mark's Place, New York, NY 10003","Yes",,,"Chinese","https://www.instagram.com/szechuanmountainhouse/",,,"IG is being updated, call for hours
-","szechuanmountainhouse.media@gmail.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes",,,true,,,,,,,,
-"Four Four South Village",1110,,"2021-03-31T00:56:00.000Z",,"http://www.44southvillage.com/menu/","Restaurants",40.84848,-73.41112,"11 E. 7th Street, New York, NY 10009","Yes",,,"Chinese","https://www.instagram.com/fourfoursouthvillagenyc/",,,"Recently opened at former EV Le Sia location,
-website phone is Queens location: 718-886-5001
-",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes","Yes","2021-03-25",,true,,,,,,,,
-"Lara Feldman ",1109,,"2021-01-26T01:56:00.000Z",,,"Health",,,,,,,"Medical,Acupuncture",,,,,,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Halloween Adventure",1108,"https://evgrieve.com/2021/01/halloween-adventure-is-hoping-for-one.html","2021-01-22T20:57:00.000Z","(212) 673-4546","http://www.newyorkcostumes.com/","Retail",40.73235,-73.99033,"104 4th Avenue, New York, NY 10003","Yes","SUN: noon- 7:00 PM
-","11:00 AM","Costumes","https://www.instagram.com/halloween_adventure/","8:00 PM",,"Hoping for one more Halloween!
-","customerservice@newyorkcostumes.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"1981-01-01",,,,,"Support our [clearance sale:](https://www.facebook.com/halloweenadventurenyc/photos/a.10153724379387786/10160421038092786/?type=3) 50% OFF entire store! 75% OFF clearance!
+"Whiskey Town",1115,"https://www.instagram.com/p/CO71I-PjxpQ/","2021-02-26T01:10:00.000Z","(212) 505-7344","https://whiskeytownbar.com/","Restaurants",40.7258,-73.99028,"29 E. 3rd Street, New York, NY 10003",,,,"Bar","https://www.instagram.com/whiskeytownbar/?hl=en",,,"\*\*\*\*\*Hiring post on IG posted in May but didn't pick up the phone to confirm hours
+","info@whiskeytownbar.com",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,"https://www.gofundme.com/f/the-whiskey-family?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,"
+",,,,,
+"Medan Pasar",1114,,"2021-07-31T01:21:00.000Z","646-756-4022","http://medanpasar.com/","Restaurants",40.7265,-73.98508,"102 E. 7th Street, New York, NY 10009","Yes",,"11:30 AM","Malaysian","https://www.instagram.com/medanpasarnyc/","10:00 PM",,"Hours from website and google updated by business mid-July
+",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes","Yes","2020-12-26",,true,,,,,,,,
+"Szechuan Mountain House",1113,,"2021-07-31T00:56:00.000Z","(917) 388-3866","https://www.szechuanmountainhouse.com/","Restaurants",40.7292,-73.98865,"23 St. Mark's Place, New York, NY 10003","Yes","SUN - THU: 11:30 AM - 11:30 PM
+","11:30 AM","Chinese","https://www.instagram.com/szechuanmountainhouse/","11:00 PM",,"Confirmed hours by phone
+","szechuanmountainhouse.media@gmail.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes",,,,true,,,,,,,,
+"Four Four South Village",1110,,"2021-07-31T00:56:00.000Z","(917) 675-7999","http://www.44southvillage.com/menu/","Restaurants",40.84848,-73.41112,"11 E. 7th Street, New York, NY 10009","Yes","FRI, SAT & SUN: 11:00 AM - 10:45 PM
+","11:00 AM","Chinese","https://www.instagram.com/fourfoursouthvillagenyc/","10:00PM",,"Confirmed hours by phone
+",,"Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes","Yes","2021-03-25",,true,,,,,,,,
+"Lara Feldman ",1109,,"2021-07-31T00:56:00.000Z","(917) 974-7977","http://www.nccaomdiplomates.com/larafeldman/about-me","Health",40.74262,-73.99227," 82 E3rd Street, Store West, New York, NY 10003","Yes","By appointment only
+",,"Medical,Acupuncture",,,,"Confirmed by phone, there's no schedule
+",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
+"Halloween Adventure",1108,"https://evgrieve.com/2021/01/halloween-adventure-is-hoping-for-one.html","2021-07-30T19:57:00.000Z","(212) 673-4546","http://www.newyorkcostumes.com/","Retail",40.73235,-73.99033,"104 4th Avenue, New York, NY 10003","Yes","SUN: noon- 7:00 PM
+","11:00 AM","Costumes","https://www.instagram.com/halloween_adventure/","8:00 PM",,"Hours from website and voicemail
+","customerservice@newyorkcostumes.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"1981-01-01",,,,,"
 ",,"Yes",,,
 "Meet Noodles",1107,"https://evgrieve.com/2021/01/the-former-meet-noodles-space-is-for.html","2021-01-21T00:44:00.000Z","(646) 882-0458","http://www.meetnoodles.com/","Restaurants",42.63767,-73.74308,"50 3rd Avenue, New York, NY 10009","No",,,"Chinese","https://www.instagram.com/meetnoodles/?hl=en",,,"PERMANENTLY CLOSED 
 ","zhengqikeng@gmail.com",,"Closed","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"2019-05-01",,true,"2021-01-19",,,,,,,
-"ABC Organic Cleaners",1106,,"2021-01-21T00:17:00.000Z","(212) 982-1155",,"Laundry",40.72673,-73.97653,"184 Avenue C, New York, NY 10009","Yes","SAT: 10:00 AM - 4:00 PM
+"ABC Organic Cleaners",1106,,"2021-07-30T23:17:00.000Z","(212) 982-1155","https://www.abcmetrocleaner.com","Laundry",40.72673,-73.97653,"184 Avenue C, New York, NY 10009","Yes","SAT: 10:00 AM - 4:00 PM
 SUN: Closed
-Plant on premises!
-","9:00 AM","Cleaners",,"5:00 PM",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,true,,,,,,,,
-"Nublu Classic",1105,,"2021-01-21T00:17:00.000Z",,"www.nublu.net","Arts & Culture",40.7225,-73.9797,"62 Avenue C, New York, NY 10009","No","
+
+","9:00 AM","Cleaners",,"5:30 PM",,"Confirmed hours by phone
+",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,true,,,"Sign up and get $10 OFF your first order with promo code ""TRY10""
+",,,,,
+"Nublu Classic",1105,,"2021-07-30T23:17:00.000Z",,"www.nublu.net","Arts & Culture",40.7225,-73.9797,"62 Avenue C, New York, NY 10009","No","
 ",,"Music","https://www.instagram.com/nublunyc/",,,"Temporarily Closed
-","nublu@nublu.net",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Nublu 151",1104,,"2021-05-07T23:17:00.000Z",,"www.nublu.net","Arts & Culture",40.725689,-73.97805,"151 Avenue C, New York, NY 10009","Yes","Check [website](http://www.nublu.net) for schedule
-",,"Music","https://www.instagram.com/nublunyc/",,,"Reopened 5/2021
-","hello@studioonefiftyone.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
+","nublu@nublu.net",,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,"No events posted on [website](http://www.nublu.net)
+",,,,,
+"Nublu 151",1104,"https://www.yelp.com/biz/nublu-new-york-3","2021-07-30T23:17:00.000Z","N/A","www.nublu.net","Arts & Culture",40.725689,-73.97805,"151 Avenue C, New York, NY 10009","Yes","TUE - SAT: 8:00 PM - 4:00 AM
+Check [website](http://www.nublu.net) for events  
+","8:00 PM","Music,Bar","https://www.instagram.com/nublunyc/","2:00 AM",,"Hours from yelp
+","hello@studioonefiftyone.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Studio 151 / Ichi-Go-Ichi",1103,,"2021-05-07T23:17:00.000Z",,,"Restaurants",40.725689,-73.97805,"151 Avenue C, New York, NY 10009","Yes","THU - SUN
 ","6:00 PM","Japanese","https://www.instagram.com/studio151ny/","12:00 AM",,"Reopened 5/2021
 ",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Yes",,,,,,,,,,,
@@ -509,23 +517,31 @@ Plant on premises!
 "Marrakech Custom Tailors",1100,,"2021-01-17T06:24:00.000Z",,"https://www.marrakechtailors.com","Services",40.727119,-73.98661," 76 E. 7th Street, New York, NY, 10003","Yes",,,"Tailor","https://www.instagram.com/marrakech_custom_tailors/",,,,"info@marrakechtailors.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,,,,,,,,,,,
 "Custom Tailors",1099,"https://evgrieve.com/2021/07/rip-joe-tailor.html","2021-07-20T05:24:00.000Z",,,"Services",40.73227,-73.98398,"317 E. 14th Street, New York, NY 10003","Yes",,,"Tailor,Cleaners",,,,"PERMANENTLY CLOSED (proprietor passed away).
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Short Stories",1098,"https://evgrieve.com/2021/01/a-message-for-short-stories.html","2021-01-26T00:24:00.000Z","212-271-6414","https://www.shortstories.nyc/location/short-stories/","Restaurants",40.726711,-73.99144,"355 Bowery, New York, NY 10003",,"THU: 5:00 PM - 10:00 PM
-FRI - SUN: 11:00 AM - 10:00 PM
-",,"Bar","https://www.instagram.com/shortstories/",,,"\*\*\*On winter hiatus as per evgrieve post? 
+"Short Stories",1098,"https://www.yelp.com/biz/short-stories-new-york","2021-01-26T00:24:00.000Z","212-271-6414","https://www.shortstories.nyc/location/short-stories/","Restaurants",40.726711,-73.99144,"355 Bowery, New York, NY 10003","Yes","TUE: 5:00 PM - 2:00 AM 
+WED: 6:00 PM - 2:00 AM 
+THUR: 6:00 PM - 4:00 AM 
+FRI: 3:00 PM - 4:00 AM 
+SAT: 11:00 AM - 4:00 AM 
+SUN: 11:00 AM - 2:00 AM 
+
+",,"Bar","https://www.instagram.com/shortstories/",,,"Hours from yelp updated a few days ago, called directed to user busy
 Random Accessories IG post Jan 10
-","ash@shortstories.nyc",,"Unknown","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,"Yes","2019-02-09",,true,,,,,,,,
-"[plant-baked]",1097,,"2021-01-09T20:59:00.000Z",,,"Cafes and Desserts",40.72661,-73.98429,"117 E. 7th Street, New York, NY 10009","Yes",,"8:00 AM","Bakery","https://www.instagram.com/plant_baked.nyc/",,,"First storefront for bakery 3BEats	
-","getbaked@plantbaked.nyc",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"2021-01-08",,,,,,,,,,
-"Tamam Falafel",1096,"https://evgrieve.com/2021/01/tamam-is-now-open-on-14th-street.html","2021-05-07T19:59:00.000Z",,"https://www.tamamfalafel.com/","Restaurants",40.73327,-73.98759,"150 E. 14th Street, New York, NY 10003","Yes","SUN: Closed
-","11:00 AM","Middle Eastern","https://www.instagram.com/tamamfalafel/","8:00 PM",,"\*\*\*please call for hours
+","ash@shortstories.nyc","Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,"Yes","2019-02-09",,true,,,,,,,,
+"[plant-baked]",1097,,"2021-01-09T20:59:00.000Z","N/A",,"Cafes and Desserts",40.72661,-73.98429,"117 E. 7th Street, New York, NY 10009","Yes","WED: 8:00 AM - 12:00 PM
+","8:00 AM","Bakery","https://www.instagram.com/plant_baked.nyc/","5:00 PM",,"Hours from IG bio and is current
+First storefront for bakery 3BEats	
+","getbaked@plantbaked.nyc",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"2021-01-08",,,,,,,,,,
+"Tamam Falafel",1096,"https://evgrieve.com/2021/01/tamam-is-now-open-on-14th-street.html","2021-07-30T19:59:00.000Z","(212) 333-3449","https://www.tamamfalafel.com/","Restaurants",40.73327,-73.98759,"150 E. 14th Street, New York, NY 10003","Yes","FRI, SAT & SAT: 11:00 AM - 9:00 PM
+","11:00 AM","Middle Eastern","https://www.instagram.com/tamamfalafel/","10:00 PM",,"Confirmed hours by phone
 Recently opened by former 5 Napkin Burger owner in 5 Napkin Express location
-","tamamfalafel@gmail.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"2021-01-25",,,,,,,,,,
-"Tio Pio",1095,,"2021-01-06T00:36:00.000Z","(212) 239-6633","https://www.tiopioinc.com/","Restaurants",40.73235,-73.98533,"250 E. 14th Street, New York, NY 10003","Yes","SAT & SUN: noon - 10:00 PM
-","11:00 AM","Latin","https://www.instagram.com/tiopioeast/","10:00 PM",,"Website has current hours
-","tiopioeast250@gmail..com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"2021-01-03",,true,,,,,,,,
-"EV Gallery",1094,,"2021-01-06T00:22:00.000Z",,,"Retail",40.72717,-73.9783,"621 East 11th Street, New York, NY 10009","Yes","					
-","1:00 PM","Gallery","https://www.instagram.com/_ev.gallery/","6:00 PM",,"Pop-up Gallery in former Red Baron Ink location
-","eastvillagepopups@gmail.com",,"Opened","{""id"":""usrneIQGKrDIF78YQ"",""email"":""ncleary134@gmail.com"",""name"":""Nathaniel Cleary""}",,,"2020-12-01",,,,,,,,,,
+","tamamfalafel@gmail.com","Yes","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,"Yes","2021-01-25",,,,,,,,,,
+"Tio Pio",1095,,"2021-07-30T23:36:00.000Z","(212) 239-6633","https://www.tiopioinc.com/","Restaurants",40.73235,-73.98533,"250 E. 14th Street, New York, NY 10003","Yes","THUR, FRI & SAT: 11:00 AM - 11:00 PM
+SUN: noon - 8:00 PM
+","11:00 AM","Latin","https://www.instagram.com/tiopioeast/","9:00 PM",,"Confirmed hours by phone
+","tiopioeast250@gmail..com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"2021-01-03",,true,,,,,,,,
+"EV Gallery",1094,,"2021-07-30T23:22:00.000Z",,,"Retail",40.72717,-73.9783,"621 East 11th Street, New York, NY 10009","Yes","TUE & WED: Closed
+","5:00 PM","Gallery","https://www.instagram.com/_ev.gallery/","8:00 PM",,"Business updated google hours third week of july, Pop-up Gallery in former Red Baron Ink location
+","eastvillagepopups@gmail.com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,"2020-12-01",,,,,,,,,,
 "Milon",1093,,"2021-01-05T03:07:00.000Z",,,"Restaurants",40.726318,-73.986603,"93 1st Avenue, New York, NY 10003","No",,,"Indian",,,,"PERMANENTLY CLOSED did not reopen after Covid pause
 ",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"1982-01-01",,,"2020-12-31",,,,,,,
 "Panna II",1092,"https://evgrieve.com/2021/02/lights-on-panna-ii-expands-into-former.html","2021-07-31T02:07:00.000Z","(212) 598-4610","http://www.pannatwo.com/","Restaurants",40.726318,-73.986603,"93 1st Avenue, New York, NY 10003","Yes",,"2:00 PM","Indian","https://www.instagram.com/pannaiirestaurant/","11:00 PM",,"Confirmed hours by phone
