@@ -146,7 +146,7 @@ SUN: noon - 10:30 PM
 ",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
 "Mono Cafe",1243,"https://www.yelp.com/biz/mono-mono-new-york-9","2021-08-02T22:39:00.000Z","(917) 285-5034","https://monomonony.com","Cafes and Desserts",40.7255,-73.98803,"116 E. 4th Street, New York, NY 10003","Yes","FRI, SAT & SUN: 12:00 PM - 11:00 PM
 MON & TUE: Closed
-","3:00 PM","Cafe","https://www.instagram.com/monomono.nyc/?hl=en","11:00 AM",,"\*\*\*\*Call to confirm hours  ,Hours from yelp updated a few days ago
+","3:00 PM","Cafe","https://www.instagram.com/monomono.nyc/?hl=en","11:00 AM",,"Hours from voicemail and yelp updated a few days ago
 ","mononyc.info@gmail.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","No","Yes (Heated)",,,true,,,,,,,,
 "787 Coffee",1242,"https://evgrieve.com/2021/06/787-coffee-is-opening-new-location-and.html","2021-08-02T22:55:00.000Z","(888) 629-1004","http://coffeeshops.787coffee.com/","Cafes and Desserts",40.72981,-73.9872,"159 2nd Avenue, New York, NY 10003","Yes","SAT & SUN: 8:00 AM - 8:00 PM
 ","7:00 AM","Cafe","https://www.instagram.com/787coffee/?hl=en","8:00 PM",,"Hours from google
@@ -154,7 +154,7 @@ MON & TUE: Closed
 ","info@787coffee.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Mono Mono",1241,"https://www.yelp.com/biz/mono-mono-new-york-9","2021-08-02T22:39:00.000Z","(917) 285-5034","https://monomonony.com","Restaurants",40.7255,-73.98803,"116 E. 4th Street, New York, NY 10003","Yes","FRI, SAT & SUN: 12:00 PM - 11:00 PM
 MON & TUE: Closed
-","3:00 PM","Korean","https://www.instagram.com/monomono.nyc/?hl=en","11:00 AM",,"\*\*\*\*Call to confirm hours  ,Hours from yelp updated a few days ago
+","3:00 PM","Korean","https://www.instagram.com/monomono.nyc/?hl=en","11:00 AM",,"Hours from voicemail and yelp updated a few days ago
 ","mononyc.info@gmail.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","No","Yes (Heated)",,,true,,,,,,,,
 "Stuytown Greenmarket Farmers Market",1240,"https://www.grownyc.org/greenmarket/manhattan/stuyvesant-town","2021-07-22T16:28:00.000Z","N/A ","https://www.grownyc.org/greenmarket/manhattan/stuyvesant-town","Groceries",40.73139,-73.97805,"Stuyvesant Oval, New York, NY 10009","Yes","SUN ONLY from 5/16 - 12/19
 ","9:30 AM",,"https://www.instagram.com/grownyc_manhattan/","4:00 PM","PG","See website for info on this market
@@ -403,8 +403,8 @@ Box Office Hours: 1 Hour before each show
 ","info@downtownart.org",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Sanshi Noodle House",1162,"https://evgrieve.com/2021/05/openings-sanshi-noodle-house-on-2nd.html  https://www.instagram.com/p/CFL7CKhjr-v/","2021-08-02T00:32:00.000Z","(646) 476-3400",,"Restaurants",40.72794,-73.9877,"118 2nd Avenue, New York, NY 10009","Yes",,"11:00 AM",,"https://www.instagram.com/sanshi_yunnan_ricenoodle/?hl=en","8:30 PM",,"Confirmed hours by phone
 ",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"2021-05-01",,true,,,,,,,,
-"Celeste",1161,,"2021-08-02T00:08:00.000Z","(212) 844-9455","https://www.facebook.com/CelesteHD8/","Services",40.72727,-73.98292,"442 E. 9th Street, New York, NY 10009","Yes","SUN & MON: Closed
-","11:00 AM","Hair",,"6:30 PM",,"\*\*\*\*\*Call to confirm hours, Hours from FB - called multiple times not answering
+"Celeste",1161,,"2021-08-08T00:08:00.000Z","(212) 844-9455","https://www.facebook.com/CelesteHD8/","Services",40.72727,-73.98292,"442 E. 9th Street, New York, NY 10009","Yes","
+","11:00 AM","Hair",,"7:00 PM",,"Confirmed hours by phone 
 ","gerardohd7@gmail.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"2021-03-01",,true,,,,,,,,
 "Gong Cha",1160,"https://evgrieve.com/2021/04/gong-cha-debuts-on-st-marks-place.html","2021-08-02T23:11:00.000Z","(917) 262-0158","https://www.gongchausa.com","Cafes and Desserts",40.66725,-73.69586,"27 St. Mark's Place, New York, NY 10003","Yes","
 ","10:30 PM","Bubble Tea","https://www.instagram.com/gongchatea/","9:00 PM",,"CHAIN.  Confirmed hours by phone
@@ -420,7 +420,7 @@ Box Office Hours: 1 Hour before each show
 ",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"3030-03-01",,,,,,,
 "Best Ave. B Dry Cleaners",1155,"https://evgrieve.com/2020/07/these-2-dry-cleaners-have-closed.html","2021-03-03T02:24:00.000Z","347-833-3400",,"Laundry",40.72708,-73.97943,"167 Avenue B, New York, NY 10009","No",,,"Cleaners",,,,"PERMANENTLY CLOSED.
 ",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,"2020-07-01",,,,,,,
-"Davidovich Bakery",1154,,"2021-08-01T04:00:00.000Z","(646) 559-2553","https://www.davidovichnyc.com/wp/locations/","Cafes and Desserts",40.723521,-73.985267,"36 Avenue A, New York, NY, 10009","Yes","
+"Davidovich Bakery",1154,,"2021-08-07T04:00:00.000Z","(646) 559-2553","https://www.davidovichnyc.com/wp/locations/","Cafes and Desserts",40.723521,-73.985267,"36 Avenue A, New York, NY, 10009","Yes","
 ","7:00 AM","Cafe,Bakery","https://www.instagram.com/davidovichny/","6:00 PM","EVCC","\*\*\*\*\*Call to confirm hours, hours from website - called multiple times not answering
 ","info@davidovichbakery.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes",,"2021-02-25",,true,,,,,,,,
 "The Seeing Place Theater",1152,"https://www.seeingplacetheater.com/shows/11-queerwitch.html","2021-08-01T04:00:00.000Z","(917) 397-0978","https://www.seeingplacetheater.com/","Arts & Culture",40.726429,-73.990646,"64 E. 4th Street, New York, NY 10003",,,,"Theater","https://www.instagram.com/theseeingplace/?hl=en",,,"Performances through Zoom
@@ -458,7 +458,7 @@ FRI - SAT: 12:00 PM - 3:00 AM
 SUN: 12:00 PM - 2:00 AM
 ","4:00 PM","Bar","https://www.instagram.com/buabar/","2:00 AM",,"Hours from website
 ","info@buabar.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,"Yes (Heated)","2012-10-12",,,,,,,,,,
-"The Spotted Owl",1139,,"2021-08-01T23:06:00.000Z","(212) 388-9844","http://www.thespottedowltavern.com/","Restaurants",40.72998,-73.981041,"211 Avenue A, New York, NY 10009","Yes","FRI & SAT: 12:00 PM - 3:30 AM
+"The Spotted Owl",1139,,"2021-08-07T23:06:00.000Z","(212) 388-9844","http://www.thespottedowltavern.com/","Restaurants",40.72998,-73.981041,"211 Avenue A, New York, NY 10009","Yes","FRI & SAT: 12:00 PM - 3:30 AM
 SUN: 12:00 PM - 2:00 AM
 ","3:00 PM","Bar","https://www.instagram.com/thespottedowlnyc/?hl=en","2:00 AM",,"\*\*\*\*\*Call to confirm hours, hours from yelp and google- called multiple times not answering
 ","thespottedowlny@gmail.com","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,"Yes (Heated)",,"https://www.gofundme.com/f/spotted-owl-staff-relief-fund?sharetype=teams&member=3977002&utm_medium=social&utm_source=twitter&utm_campaign=p_na+share-sheet&rcid=a733a622abdc49be89cd4f4ab01724f1",,,,,,,,,
@@ -468,7 +468,7 @@ SUN: 12:00 PM - 1:00 AM
 ",,"Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes","Yes",,,true,,,,,,,,
 "Koya Omakase",1137,,"2021-08-01T21:16:00.000Z",,,"Restaurants",40.729012,-73.984703,"241 E. 10th Street, New York, NY 10003",,,,"Japanese,Omakase",,,,"Appeared at CB 3 SLA Committee 2/8/21
 ",,,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
-"Kilometro Uno (Km 1)",1136,,"2021-08-01T20:44:00.000Z","(646) 669-7547","https://www.km1nyc.com/","Restaurants",40.72302,-73.98866,"58 1st Avenue, New York, NY 10003",,"OPENING AUGUST 20TH
+"Kilometro Uno (Km 1)",1136,"https://www.instagram.com/p/CR4RoAQL3Z_/","2021-08-01T20:44:00.000Z","(646) 669-7547","https://www.km1nyc.com/","Restaurants",40.72302,-73.98866,"58 1st Avenue, New York, NY 10003",,"OPENING AUGUST 20TH
 ",,"Carribean","https://www.instagram.com/km1_nyc/?hl=en",,,"\*\*\*\*\*OPENING AUGUST 20TH, RESERVATIONS THROUGH OPENTABLE
 ","info@km1hospitality.com",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,"2020-08-01",,,"2021-02-28",,,,,,,
 "Lilly's Shakes & Crepes",1135,"https://evgrieve.com/2021/02/lilys-shakes-crepes-is-now-open-on.html","2021-08-01T21:58:00.000Z","(917) 639-3325","https://lilys-shakes-crepes.business.site","Cafes and Desserts",40.72492,-73.97793,"134 Avenue C, New York, NY 10009","Yes",,"9:00 AM","Cafe,Juice Bar",,"12:00 AM",,"Confirmed hours by phone and yelp updated beginning of July
@@ -541,7 +541,7 @@ planned to open but didn't because of covid, planning to open in September- conf
 "Areta Podhorodecki, MD",1116,,"2021-07-31T01:14:00.000Z","212-529-5966","https://www.northwell.edu/find-care/find-a-doctor/sports-medicine/dr-areta-daria-podhorodecki-md-11381185","Health",40.66701,-73.69532,"44 St. Mark's Place, New York, NY 10003","Yes","SAT & SUN: Closed
 ","11:00 AM","Medical,Physical Therapy",,"5:00 PM",,"Hours from website
 ",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,true,,,,,,,,
-"Whiskey Town",1115,"https://www.instagram.com/p/CO71I-PjxpQ/","2021-02-26T01:10:00.000Z","(212) 505-7344","https://whiskeytownbar.com/","Restaurants",40.7258,-73.99028,"29 E. 3rd Street, New York, NY 10003",,,,"Bar","https://www.instagram.com/whiskeytownbar/?hl=en",,,"\*\*\*\*\*Hiring post on IG posted in May but didn't pick up the phone to confirm hours
+"Whiskey Town",1115,"https://www.instagram.com/p/CO71I-PjxpQ/","2021-08-08T00:10:00.000Z","(212) 505-7344","https://whiskeytownbar.com/","Restaurants",40.7258,-73.99028,"29 E. 3rd Street, New York, NY 10003",,,,"Bar","https://www.instagram.com/whiskeytownbar/?hl=en",,,"\*\*\*\*\*Hiring post on IG posted in May but didn't pick up the phone to confirm hours
 ","info@whiskeytownbar.com",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,"https://www.gofundme.com/f/the-whiskey-family?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",,,,"
 ",,,,,
 "Medan Pasar",1114,,"2021-07-31T01:21:00.000Z","646-756-4022","http://medanpasar.com/","Restaurants",40.7265,-73.98508,"102 E. 7th Street, New York, NY 10009","Yes",,"11:30 AM","Malaysian","https://www.instagram.com/medanpasarnyc/","10:00 PM",,"Hours from website and google updated by business mid-July
@@ -695,7 +695,7 @@ SUN: Closed
 
 ","12:00 PM","Music","https://www.instagram.com/friendsofrichiesguitarshop/","7:00 PM",,"Confirmed hours by phone
 ","friendsofrichiesguitarshop@gmail.com",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,,,,,,,,"Yes",,,,
-"Loisaida Realty",1072,,"2021-07-30T00:46:00.000Z","(646) 529-6948","https://www.loisaidarealty.com/","Services",40.725216,-73.976253,"428 E. 10th Street, New York, NY 10009","Yes",,"9:00 AM ","Realtor","https://www.instagram.com/loisaidarealty/?hl=en","8:00 PM",,"\*\*\*\*\*Call to confirm hours- called multiple times no answering
+"Loisaida Realty",1072,,"2021-07-30T00:46:00.000Z","(646) 529-6948","https://www.loisaidarealty.com/","Services",40.725216,-73.976253,"428 E. 10th Street, New York, NY 10009","Yes",,"9:00 AM ","Realtor","https://www.instagram.com/loisaidarealty/?hl=en","8:00 PM",,"Confirmed hours by phone
 ","loisaidarealty@gmail.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Finnerty's",1071,,"2020-12-17T00:57:00.000Z",,,"Restaurants",40.73214,-73.98545,"221 2nd Avenue, New York, NY 10009","No",,,"Bar",,,,"PERMANENTLY CLOSED.	 Did not reopen after Covid.
 ",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","No",,"2009-01-01",,,"2020-12-14",,,,,,,
@@ -902,7 +902,7 @@ MON: Closed
 ",,"Filipino","https://www.instagram.com/ugly_kitchen/",,,"EV Location is PERMANENTLY CLOSED: Landlord Emily Chen padlocked premises 9/3/2020
 Phone is current, IG lists current pop-up partnerships.
 ","aris@manilabowl.com",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,"2011-09-16","https://www.gofundme.com/f/3z7d5?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all",true,"2020-08-16",,,,,,,
-"Tile Bar",1013,,"2021-07-29T02:51:00.000Z","(212) 254-4317","https://facebook.com/pages/Tile-Bar/115914728464273","Restaurants",40.727151,-73.9858603,"115 1st Avenue, New York, NY 10003","Yes",,,"Bar","https://www.instagram.com/tilebarnyc/",,,"\*\*\*\*\*Call for hours
+"Tile Bar",1013,,"2021-08-08T02:51:00.000Z","(212) 254-4317","https://facebook.com/pages/Tile-Bar/115914728464273","Restaurants",40.727151,-73.9858603,"115 1st Avenue, New York, NY 10003","Yes",,,"Bar","https://www.instagram.com/tilebarnyc/",,,"\*\*\*\*\*Call for hours (not picking up)
 ",,"Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,"Yes",,,,,,,,,,,
 "Bar Veloce",1012,,"2021-07-28T06:37:00.000Z",,"https://www.winebarveloce.com/home","Restaurants",40.7306897894,-73.9864323,"175 2nd Ave, New York, NY 10003","No","THU: 3:00 PM - 1:00 AM
 FRI & SAT: 3:00 PM - 2:00 AM
@@ -1555,11 +1555,11 @@ Do not list website: <https://www.geovafashion.com/> or Yaxu Han email: yaxuhan@
 
 
 ","geovafashion@icloud.com ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"The E.V.A.C.",832,"https://evgrieve.com/2021/04/the-evac-arts-venue-replaces-flyelyfe.html","2021-07-23T20:12:00.000Z","(646) 823-9700","https://theevac.org","Arts & Culture",40.7307,-73.98347,"215 First Avenue.  New York, NY 10003","Yes","	
+"The E.V.A.C.",832,"https://evgrieve.com/2021/04/the-evac-arts-venue-replaces-flyelyfe.html","2021-08-07T20:12:00.000Z","(646) 823-9700","https://theevac.org","Arts & Culture",40.7307,-73.98347,"215 First Avenue.  New York, NY 10003","Yes","Hours depend on event. Check [website](https://theevac.org/pages/events) for hours.
 
 
-",,"Gallery","https://www.instagram.com/the.evac/",,"EVCC","\*\*\*\*\*owner DM'd EVCC: grand opening is 8/7, IG is current
-","contact@theevac.org",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,"
+",,"Gallery","https://www.instagram.com/the.evac/",,"EVCC","Owner DM'd EVCC: grand opening is 8/7, IG is current
+","contact@theevac.org",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,"
 ",,,,,
 "Eileen Fisher",831,,"2021-07-23T20:12:00.000Z","212-529-5715","https://locations.eileenfisher.com/us/ny/newyork/womens-clothing-a.html","Retail",40.72869,-73.98663,"314 E. 9th Street, New York, NY 10003","Yes","MON: Closed
 Not able to accept returns & exchanges at this location.
@@ -1666,9 +1666,9 @@ SUN: 11:30 AM - 2:00 AM
 ","3:00 PM","Bar","https://www.instagram.com/the13thstepnyc/?hl=en","2:00 AM","EVCC","IG and website are current, Confirmed hours by phone
 ",,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,"Yes (Heated)",,,,,,"
 ",,,,,
-"Brasserie Saint Marc",805,"https://order.online/store/-779741/en-US/?delivery=true&hideModal=true&utm_source=dd-partner-link","2021-07-23T01:24:00.000Z","(212) 548-3959","https://www.brasseriesaintmarc.com/","Restaurants",40.7286,-73.98709,"136 2nd Avenue, New York, NY 10003","Yes","Outdoor seating coming very soon!!
-","10:00 AM","French","https://www.instagram.com/brasseriesaintmarcnyc/?hl=en","12:45 AM","EVCC","\*\*\*\*\*Confirmed by phone, outdoor seating soon!
-","Contact@brasseriesaintmarc.com","No","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Yes",,,,,,,,,,,,
+"Brasserie Saint Marc",805,"https://order.online/store/-779741/en-US/?delivery=true&hideModal=true&utm_source=dd-partner-link","2021-08-08T01:24:00.000Z","(212) 548-3959","https://www.brasseriesaintmarc.com/","Restaurants",40.7286,-73.98709,"136 2nd Avenue, New York, NY 10003","Yes","
+","10:00 AM","French","https://www.instagram.com/brasseriesaintmarcnyc/?hl=en","12:45 AM","EVCC","Delivery and pickup only! Under renovation, Confirmed by phone
+","Contact@brasseriesaintmarc.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","Yes",,,,,,,,,,,,
 "Minca Ramen Factory",804,,"2021-07-23T02:44:00.000Z","(212) 505-8001","http://newyorkramen.com/minca/","Restaurants",40.723998,-73.982949,"536 E. 5th Street, New York, NY 10009","Yes","SAT & SUN: noon - 10:30 PM
 ","12:00 PM","Japanese","https://www.instagram.com/minca_nyramen/?hl=en","9:30 PM","PG","Confirmed Hours by Phone, plan to have indoor in the future
 ",,"No","Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","Yes","Yes",,,,,,,,,,,
@@ -1740,17 +1740,17 @@ DJ'S ON THE WEEKEND!!
 
 ","4:00 PM","Bar","https://www.instagram.com/macebarnyc/","10:00 PM","EVCC","PERMANENTLY CLOSED. Observed AKSR For Lease sign Nov 2020		
 ",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
-"Alex Shoe Repair",787,,"2021-02-09T00:28:00.000Z","(212) 995-0570",,"Services",40.72399,-73.97926,"99 Avenue C, New York, NY 10009","Yes","FRI: 8:30 AM - 6:00 PM
+"Alex Shoe Repair",787,,"2021-08-07T23:28:00.000Z","(212) 995-0570",,"Services",40.72399,-73.97926,"99 Avenue C, New York, NY 10009","Yes","FRI: 8:30 AM - 6:00 PM
 SAT: Closed
 SUN: 10:00 AM - 5:00 PM
-","8:30 AM","Shoe Repair,Photo",,"7:00 PM","EVCC","\*\*\*\*\*sent to voicemail\*\*
-",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
+","8:30 AM","Shoe Repair,Photo",,"7:00 PM","EVCC","\*\*\*\*\*Laura confirm hours, sent to voicemail (again)
+",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Perfection Cuts",786,,"2021-07-27T23:08:00.000Z","(212) 473-0333",,"Services",40.72324,-73.97979,"77 Avenue C, New York, NY 10009","Yes","
 ","10:00 AM","Hair",,"7:00 PM","EVCC","Confirmed hours by phone
 ",,,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
-"Interfaith Community Services",782,,"2020-12-17T19:54:00.000Z","(212) 473-3558","http://www.interfaithnyc.com","Free Food",40.726081,-73.983501,"Corner of 7th and Avenue A","Yes","MON, WED, FRI: 9:30 AM
-",,"Meals",,,"PG","\*\*\*\*\*Call to confirm hours
-","adi108ny@yahoo.com",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,
+"Interfaith Community Services",782,,"2021-08-07T18:54:00.000Z","(212) 473-3558","http://www.interfaithnyc.com","Free Food",40.726081,-73.983501,"Corner of 7th and Avenue A","Yes","Different hours based on what you need
+",,"Meals",,,"PG","Confirmed by phone
+","adi108ny@yahoo.com",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Maryhouse ",781,,"2021-07-22T04:00:00.000Z","212-777-9617","https://www.catholicworker.org/communities/houses/ny-new-york-maryhouse.html","Free Food",40.72539,-73.989186,"55 E. 3rd Street, New York, NY 10003","Yes","**WOMEN ONLY** 
 Bagged lunch from TUE - FRI: noon - 2:00 PM 
 Showers and clothes available as well.
@@ -2263,7 +2263,7 @@ Reopened 3/25/21
 "Streecha Ukranian Kitchen",644,"https://www.instagram.com/p/CPt59-HhRl3/","2021-07-20T18:30:00.000Z","(914) 413-9774",,"Restaurants",40.72853,-73.988952,"33 E. 7th Street, New York, NY 10003","No","Closed for summer break
 Text [914 413 9774 ](http://tel:9144139774)or DM on [Instagram](https://www.instagram.com/streecha) for Lunch Specials, Menu, and to order ahead!
 ","9:00 AM","Ukrainian","https://www.instagram.com/streecha","2:00 PM","PG","\*\*\*\*\*Check back second week of August
-Closed for annual summer break, IG r
+Closed for annual summer break, IG is current 
 ",,,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,
 "Nomad",642,,"2021-07-20T18:37:00.000Z","(212) 253-5410","http://nomadny.com","Restaurants",40.726541,-73.98892,"78 2nd Avenue, New York, NY 10003","Yes","SAT: 3:00 PM - 11:00 PM
 SUN: 3:00 PM - 10:00 PM
