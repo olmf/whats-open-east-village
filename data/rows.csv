@@ -11,11 +11,11 @@
 "Village Preservation",1404,"2021-08-13T20:13:00.000Z","https://www.villagepreservation.org/","Community Services","232 E. 11th Street, New York, NY 10003",,,"\*\*called only gave me extensions, IG & website is current
 ",,"Unknown","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","(212) 475-9585",40.73056,-73.98734,"By appointment only!
 ","https://www.instagram.com/gvshp_nyc/",,,,,,"info@villagepreservation.org",,"https://www.villagepreservation.org/get-involved/donate/",,,,,,,,,,
-"Third Street Music School",1403,"2021-08-13T20:02:00.000Z","https://thirdstreetmusicschool.org/","Community Services","235 E. 11th Street, New York, NY 10003","Yes","Music","\*\*\*fill in email, confirmed hours on phone
-",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","(212) 777-3240",40.73086,-73.98693,"SAT & SUN: Closed
-","https://www.instagram.com/3rdstreetnyc/",,"9:00 AM","6:00 PM",,,,,"https://thirdstreetmusicschool.networkforgood.com/projects/136265-third-street-annual-fund-2021-22?_ga=2.108758146.1401977594.1628884869-640811447.1628884869",,,,,,,,,,
+"Third Street Music School",1403,"2021-08-13T20:02:00.000Z","https://thirdstreetmusicschool.org/","Community Services","235 E. 11th Street, New York, NY 10003","Yes","Music","confirmed hours on phone
+",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(212) 777-3240",40.73086,-73.98693,"SAT & SUN: Closed
+","https://www.instagram.com/3rdstreetnyc/",,"9:00 AM","6:00 PM",,,"info@thirdstreetmusicschool.org",,"https://thirdstreetmusicschool.networkforgood.com/projects/136265-third-street-annual-fund-2021-22?_ga=2.108758146.1401977594.1628884869-640811447.1628884869",,,,,,,,,,
 "The Village Institute for Psychotherapy	",1402,"2021-08-13T19:55:00.000Z",,"Health","62 E. 1st Street, New York, NY 10003","No","Medical","Moved to 226 East 54th Street,New York, NY 10022
-",,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,,,,,,,,,,,,,,,,,,,
+",,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,40.723831,-73.989029,,,,,,,,,,,,,,,,,,,,
 "	The Boys Club of NY",1401,"2021-08-13T19:58:00.000Z","https://www.bcny.org/","Community Services","287 E 10th St, New York, NY 10009",,,"\*\*\*Clubhouse is closed but staff is working remotely via phone.
 ",,"Unknown","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","(212) 533-2550",40.72803,-73.98239,,"https://www.instagram.com/boysclubny/",,,,,,"info@bcny.org",,"https://www.bcny.org/support/donate/",,,,,,,,,,
 "Watch Me Grow Children’s Sensory Gym & Speech-Language Center	",1400,"2021-08-13T19:50:00.000Z",,"Health","98 E. 4th Street, New York, NY 10003",,"Medical","???
@@ -584,7 +584,7 @@ MON & TUE: Closed
 "The Clay Pot",1188,"2021-03-13T01:14:00.000Z",,"Restaurants","58 St. Mark's Place, New York, NY 10003","No","Chinese","PERMANENTLY CLOSED
 ","2018-02-20","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(646) 434-6449",40.66662,-73.69447,,,,,,,,,"2020-08-20",,"https://evgrieve.com/2020/08/clay-pot-wont-be-returning-to-st-marks.html",,,,,,,,,
 "Frankie's Grocery",1187,"2021-08-01T21:06:00.000Z",,"Groceries","1st Avenue, New York, NY 10003",,"Italian,Sandwich","No online presence
-",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,,,,"https://www.instagram.com/frankiesgrocery/",,,,,,,,,,,,,,,,,,
+",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}",,40.737572,-73.978073,,"https://www.instagram.com/frankiesgrocery/",,,,,,,,,,,,,,,,,,
 "KGB Bar",1186,"2021-08-02T02:03:00.000Z","https://kgbbar.com/","Restaurants","85 E. Fourth Street, New York, NY 10003","Yes","Bar","Website has current hours and events. Reopened March 2021.
 ",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}",,40.72659,-73.98982,,"https://www.instagram.com/kgbbar/",,"7:00 PM","4:00 AM",,,,,,,,,,,,,,,
 "Empellon El Pastor",1185,"2021-08-02T02:03:00.000Z","https://www.empellon.com/restaurants/al-pastor/","Restaurants","132 St. Mark's Place, New York, NY 10009","Yes","Bar","IG is current, website has hours. Reopened March 2021. 
@@ -4669,8 +4669,8 @@ SUN: 8:00 AM - 10:00 PM
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","(212) 228-1696",40.729702,-73.979382,"SAT & SUN: 11:00 AM - 10:00 PM
 MON: Closed
 ","https://www.instagram.com/duakafe/?hl=en",,"12:00 PM","10:00 PM",,"EVCC","duakafe@gmail.com",,,,,"Yes",,"Yes","Yes",,,,
-"Doggie Dearest",81,"2021-07-12T04:00:00.000Z","https://www.yelp.com/biz/doggie-dearest-new-york","Services","543 E. 5th Street, New York, NY 10009","Yes","Pet Supplies & Grooming","\*\*\*\* review with laura ( no status on google)Laura accepted hours from current Yelp
-",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","(212) 254-3204",40.724239,-73.982403,"WED, THU, SAT only
+"Doggie Dearest",81,"2021-07-12T04:00:00.000Z","https://www.yelp.com/biz/doggie-dearest-new-york","Services","543 E. 5th Street, New York, NY 10009","Yes","Pet Supplies & Grooming","Laura accepted hours from current Yelp
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(212) 254-3204",40.724239,-73.982403,"WED, THU, SAT only	
 ",,true,"11:00 AM","5:00 PM",,"EVCC",,,,,,,,,,,,,
 "Divya's Kitchen",80,"2021-08-14T20:00:00.000Z","https://divyaskitchen.com/","Cafes and Desserts","25 1st Avenue, New York, NY 10003 ","Yes","Cafe,Ayurvedic","IG and Website are Current, Hours Confirmed by Phone
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","(212) 477-4834",40.72382,-73.98849,"
@@ -4678,14 +4678,17 @@ MON: Closed
 "Discovery Wines",79,"2021-08-14T04:00:00.000Z","www.discoverywines.com","Retail","16 Avenue B, New York, NY 10009","Yes","Wine","Website and IG are current,  hours confirmed by phone
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","(212) 674-7833",40.721979,-73.983724,"SUN - MON: 1:00 PM - 8:00 PM
 ","https://www.instagram.com/discoverywinesny/",,"1:00 PM","9:00 PM",,"EVCC","trevor@discoverywines.com",,,,"Yes","Yes",,"Yes","Yes",,,,
-"Dim Sum Palace",78,"2021-08-14T20:00:00.000Z","https://www.dimsumpalace.com","Restaurants","59 2nd Avenue, New York, NY 10003","Yes","Chinese","Hours confirmed by phone, Last ig post on April 2021, not sure if the website is current since hours do not match
-",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","(646) 476-8846",40.725937,-73.989927,"
-","https://www.instagram.com/dimsumpalace/",true,"2:00 PM","10:30 PM",,"EVCC","dimsumpalacenyc@gmail.com",,,,,"Yes",,"Yes","Yes",,,,
-"Desi Galli",77,"2021-07-12T20:00:00.000Z","https://www.desigalli.com","Restaurants","172 Avenue B, New York, NY 10009","Yes","Indian,Specialty Market","\*\*\*\* review with laura IG and website are current, Hours from recent ig post
-",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","212-475-3374",40.727385,-73.97978,"DG Pantry now [shipping nationwide](https://www.dgpantry.com/shop/minority-woman-owned/28?page=1&limit=60&sort_by=category_order&sort_order=asc)!
+"Dim Sum Palace",78,"2021-08-14T20:00:00.000Z","https://www.dimsumpalace.com","Restaurants","59 2nd Avenue, New York, NY 10003","Yes","Chinese","Hours confirmed by phone, Last IG post on April 2021, hours on website are not current 
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","(646) 476-8846",40.725937,-73.989927,"
+","https://www.instagram.com/dimsumpalace/",true,"2:00 PM","10:30 PM","Dim Sum 50% OFF 3:00 PM - 5:00 PM weekdays only!
+","EVCC","dimsumpalacenyc@gmail.com",,,,,"Yes",,"Yes","Yes",,,,
+"Desi Galli",77,"2021-07-12T20:00:00.000Z","https://www.desigalli.com","Restaurants","172 Avenue B, New York, NY 10009","Yes","Indian,Mexican,Specialty Market","IG and website are current, garden hours from recent IG post
+",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","212-475-3374",40.727385,-73.97978,"**Desi Garden** ([reservations suggested](https://www.desigalli.com/reservations))
+THU - SUN: 5:00 PM - 10:00 PM
+DG Pantry now [shipping nationwide](https://www.dgpantry.com/shop/minority-woman-owned/28?page=1&limit=60&sort_by=category_order&sort_order=asc)!
 ","https://www.instagram.com/desigalli/?hl=en",true,"11:30 AM","10:00 PM","
-","EVCC","contact@desigalli.com",,,,"Yes","Yes","https://squareup.com/gift/T4TMGNCY0T2CM/order","Yes",,,,,
-"Deli Delight",76,"2021-08-03T04:00:00.000Z",,"Groceries","19 Avenue D, New York, NY 10009",,"Deli ","\*\*\*\*Laura visit to confirm hours and new number (no answer)
+","EVCC","contact@desigalli.com",,,"https://www.instagram.com/p/CSRjqlpgL7I/","Yes","Yes","https://squareup.com/gift/T4TMGNCY0T2CM/order","Yes",,,,,
+"Deli Delight",76,"2020-03-29T04:00:00.000Z",,"Groceries","19 Avenue D, New York, NY 10009",,"Deli ","\*\*\*\*Laura visit to confirm hours and new number (no answer)
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","917) 261-5498",40.72067,-73.978502,,,,,,,"PL",,,,,,,,,,,,,
 "Davey's Ice Cream",75,"2021-08-14T04:00:00.000Z","www.daveysicecream.com","Cafes and Desserts","137 1st Avenue, New York, NY 10003","Yes","Ice Cream","IG and website are current, Summer hours from the website
 ",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","212-228-8032",40.727953,-73.985337,"FRI - SUN: 1:00 PM - 12:00 AM 
@@ -4694,8 +4697,8 @@ MON: Closed
 "Dancin Taste Buds (inside Ben's Deli)",74,"2020-06-15T04:00:00.000Z",,"Restaurants","32 Avenue B, New York, NY 10009","No","Sandwich","Taco counter has a new operator (Dancin Taste Buds was not invited back)
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,40.722596,-73.983281,"
 ",,,,,,"EVCC",,,,,,"No",,,,,,,
-"Dan & John's Wings",73,"2021-08-14T04:00:00.000Z","http://danandjohns.com","Restaurants","135 1st Avenue, New York, NY 10003","Yes","Wings","Hours confirmed by phone, IG is current, hours on website 
-",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","888-977-9464 ",40.727824,-73.985394,"MON & TUE: 4:00 PM - 10:00 PM
+"Dan & John's Wings",73,"2021-08-14T04:00:00.000Z","http://danandjohns.com","Restaurants","135 1st Avenue, New York, NY 10003","Yes","Wings","\*\*\*\*Jerin call to confirm hours, Hours confirmed by phone, IG is current, \*\*\*\*\*hours on website??????
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","888-977-9464 ",40.727824,-73.985394,"MON & TUE: 4:00 PM - 10:00 PM
 WED - SUN: noon - 11:00PM
 
 
