@@ -1121,10 +1121,11 @@ SUN: 1:00 PM - 2:00 AM
 "Food U Desire 3",1056,"2021-07-29T05:34:00.000Z","Groceries",40.72344,-73.98792,"18 1st Avenue, New York, NY 10009","Yes","FRI - SAT: 6:00 AM - 4:00 AM
 ","Deli ",,,"Confirmed hours by phone
 ",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(212) 677-1500","6:00 AM","12:00 AM",,,,,,,,,,,,,,,,
-"Little Gio's Pizza",1055,"2021-07-29T05:22:00.000Z","Restaurants",40.72366,-73.987801,"26 1st Avenue, New York, NY 10009","Yes","FRI - SAT: 12:00 PM - 2:00 AM
+"Little Gio's Pizza",1055,"2021-08-18T05:22:00.000Z","Restaurants",40.72366,-73.987801,"26 1st Avenue, New York, NY 10009","Yes","FRI & SAT: 1:00 PM - 4:00 AM
+TUE & SUN: 1:00 PM - 12:00 AM
 MON: Closed 
-","Pizza,Italian,American",,,"Confirmed hours by phone
-",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(212) 477-8020","11:00 AM","2:00 AM","https://www.littlegiosnyc.com","https://www.instagram.com/littlegiospizza/",,,,,,,,,,,,,,
+","Pizza,Italian,American",,,"Business confirmed hours on google second week of August
+",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(212) 477-8020","1:00 PM","1:00 AM","https://www.littlegiosnyc.com","https://www.instagram.com/littlegiospizza/",,,,,,,,,,,,,,
 "New Double Dragon ",1054,"2021-07-29T05:10:00.000Z","Restaurants",40.72427,-73.98812,"37 1st Avenue, New York, NY 10003","Yes",,"Chinese","Check out [FREE special coupons](https://www.newdoubledragon.com/specials.aspx)!
 ",,"Hours confirmed by phone
 ",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(212) 598-0730","11:00 AM","11:00 PM","https://www.newdoubledragon.com","https://www.instagram.com/newdoubledragon_/","shawnlin2000@gmail.com",,,,,,,,,,,,,
