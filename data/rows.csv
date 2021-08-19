@@ -398,9 +398,9 @@ MON: Closed
 "Tompkins Mini Pool",1282,"2021-08-03T23:41:00.000Z","Health",40.72726,-73.98266,"E. 9th Street and Avenue A, New York, NY 10009","Yes","3:00 PM - 4:00 PM Closed for cleaning
 ","Pool",,,"Website is current, open through 9/3/21
 ",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","(212) 387-6784","11:00 AM","7:00 PM","https://www.nycgovparks.org/parks/tompkins-square-park/facilities/outdoor-pools/tompkins-square-pool",,,,,,,,,,,,,,,
-"Hamilton Fish Pool",1281,"2021-08-03T23:41:00.000Z","Health",40.720001,-73.981522,"128 Pitt Street, New York, NY 10002","Yes","3:00 PM - 4:00 PM Closed for cleaning
-","Pool",,,"Website is current, open through 9/3/21
-",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","(212) 387-7691","11:00 AM","7:00 PM","https://www.nycgovparks.org/parks/hamilton-fish-park/facilities/outdoor-pools/hamilton-fish-pool",,,,,,,,,,,,,,,
+"Hamilton Fish Pool",1281,"2021-08-19T23:41:00.000Z","Health",40.720001,-73.981522,"128 Pitt Street, New York, NY 10002","No","3:00 PM - 4:00 PM Closed for cleaning
+","Pool",,,"Temporarily closed
+",,"Closed","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(212) 387-7691","11:00 AM","7:00 PM","https://www.nycgovparks.org/parks/hamilton-fish-park/facilities/outdoor-pools/hamilton-fish-pool",,,,,,,,,,,,,,,
 "Dry Dock Pool",1280,"2021-08-03T23:41:00.000Z","Health",40.72524,-73.97577,"425 E. 10th Street, New York, NY 10009","Yes","3:00 PM - 4:00 PM Closed for cleaning
 ","Pool",,,"Website is current, open through 9/3/21
 ",,"Opened","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","(212) 677-4481","11:00 AM","7:00 PM","https://www.nycgovparks.org/parks/dry-dock-playground-and-pool/facilities/outdoor-pools/dry-dock-pool",,,,,,,,,,,,,,,
@@ -416,9 +416,12 @@ Proof of vaccination required
 "Loisaida Community Fridge & Pantry",1271,"2021-08-03T22:29:00.000Z","Free Food",40.72604,-73.98019,"602 E. 9th Street, New York, NY 10009","Yes","24/7 food pantry outside of Trinity Church garden
 ",,,,"IG is current
 ",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","N/A",,,"https://linktr.ee/loisaidafridge","https://www.instagram.com/loisaidafridge/?hl=en","loisaidacommunityfridge@gmail.com","2021-06-15",,,,"https://linktr.ee/loisaidafridge",,,,,,,,
-"Carnaval",1270,"2021-08-04T01:48:00.000Z","Restaurants",40.722912,-73.983078,"40 Avenue B, New York, NY 10009","Yes","MON & TUE: Closed
-","Panamanian",,,"Confirmed hours by phone
-",true,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(347) 896-0445","3:00 PM","11:00 PM",,"https://www.instagram.com/elcarnavalnyc/?hl=en",,"2021-05-09",,"https://www.instagram.com/p/COqN8GthdeS/",,,,,,"Yes",,,,
+"Carnaval",1270,"2021-08-20T01:48:00.000Z","Restaurants",40.722912,-73.983078,"40 Avenue B, New York, NY 10009","Yes","WED & THU: 4:00 PM - 10:00 PM
+SAT: 12:00 PM - 11:00 PM
+SUN: 12:00 PM - 9:00 PM
+MON & TUE: Closed
+","Panamanian",,,"Business updated google hours second week of August
+",true,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(347) 896-0445","4:00 PM","11:00 PM",,"https://www.instagram.com/elcarnavalnyc/?hl=en",,"2021-05-09",,"https://www.instagram.com/p/COqN8GthdeS/",,,,,,"Yes",,,,
 "Moko",1269,"2021-08-11T04:00:00.000Z","Restaurants",40.728758,-73.987142,"138 2nd Avenue, New York, NY 10003",,"
 ","Japanese,Omakase","
 ","EVCC","\*\*\*\*\*\*Opening Aug 20, dine-in only to start, week after opening date they'll start doing take-out
@@ -459,8 +462,8 @@ SUN: 3:00 PM - 12:00 AM
 MON & TUE: Closed
 ","Bar,Music",,,"Hours from website
 ",,"Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(917) 740-7492",,,"https://www.thecabinetnyc.com/","https://www.instagram.com/thecabinetnyc/","info@thecabinetnyc.com",,,,,,,,"Yes","Yes",,,,
-"Lucky Star",1256,"2021-08-03T01:26:00.000Z","Cafes and Desserts",,,"St. Mark's Place, New York, NY ",,,"Ice Cream",,,"\*\*\*\*no info, Opening soon
-",,"Unknown","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","N/A",,,,,,,,"https://evgrieve.com/2021/06/lucky-star-is-1950s-style-ice-cream.html",,,,,,,,,,
+"Lucky Star",1256,"2021-08-03T01:26:00.000Z","Cafes and Desserts",,,"34 St. Mark's Place, New York, NY ",,,"Ice Cream",,,"\*\*\*\*no info, Opening soon, Info from grubhub
+",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","(917) 331-2265",,,,,,,,"https://evgrieve.com/2021/06/lucky-star-is-1950s-style-ice-cream.html",,,,,,,,,,
 "KJun at Hi Collar",1254,"2021-07-21T23:51:00.000Z","Restaurants",40.72963,-73.98777,"231 E. 9th Street, New York, NY 10003","Yes","SAT & SUN: 12:00 - 10:00 PM
 MON - TUE: Closed
 
