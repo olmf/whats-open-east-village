@@ -109,6 +109,7 @@
         />
 
         <LastUpdated lastUpdated={item['Last Updated']} source={item['Source']}/>
+        <p class="has-text-grey-light">ID: {item.id}</p>
 
     </div>
 </div>
