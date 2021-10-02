@@ -43,9 +43,10 @@ SUN: Closed
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","179","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,"rubenbookingsnyc@gmail.com",,,,,,,,,,,,,,,,,
 "Swan Valet Cleaner",1503,"2021-09-11T03:34:00.000Z",,"Laundry",40.722839,-73.98304,"199 E 3rd St, New York, NY 10009",,,,"Cleaners",,,,"Status unknown. 
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","199","E 3rd St, New York, NY 10009","E 3rd St"," New York, NY 10009"," New York","(212) 254-1252",,,,,,,,,,,,,,,,,,
-"Wind",1502,"2021-09-11T02:55:00.000Z",,"Services",40.72964,-73.9852,"324 E. 11th Street, New York, NY 10009",,,,"Hair",,,,"Opening soon.		
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","324","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,,,,
-"REVMPD",1501,"2021-09-11T02:51:00.000Z",,"Retail",40.7291,-73.98381,"178 1st Avenue, New York, NY 10009","Yes","SUN: Closed		
+"Wind Hair Salon",1502,"2021-10-03T02:55:00.000Z","https://windhairsalon.com/","Services",40.72964,-73.9852,"324 E. 11th Street, New York, NY 10009","Yes","SUN: Closed
+","10:00 AM","Hair","https://www.instagram.com/wind.hairsalon/","7:00 PM",,"Opened August 2021 
+","2021-08-27","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","324","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York","(917) 675-6956",,,,,,,,,,,,,,,,,,
+"REVMPD",1501,"2021-09-11T02:51:00.000Z",,"Retail",40.7291,-73.98381,"178 1st Avenue, New York, NY 10009","Yes","SUN: Closed
 ","12:00 PM","Vintage",,"8:00 PM",,"Opened August 2021 in former Bella Tile ""showroom"",
 Mike & Steven
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","178","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","(646) 609-2929",,,,,,,,,,,,,,,,,,
@@ -1344,8 +1345,9 @@ Daily menu [[here]](https://www.schools.nyc.gov/school-life/food/menus/school-lu
 MON: Closed		
 ","1:00 PM","Fashion,Books,Gifts & Home","https://www.instagram.com/3standardstoppage/","7:00 PM",,"\*\*\*\*Call no answer, says they are moving on website, shipping resumes 8/15/21
 ","2019-11-01","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","10003","82","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York","(415) 867-6352","customer@3standardstoppage.com",,"https://3ssstudios.com/",,,true,,,,"Yes",,,,,,,,
-"Blue & Gold Tavern ",1041,"2021-01-07T02:58:00.000Z",,"Restaurants",40.72744,-73.986229,"79 E. 7th Street, New York, NY 10003",,,,"Bar",,,,"No signs of life since Covid, google says temporarily closed 
-",,"Unknown","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","10003","79","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York","N/A",,,,,,,,,,,,,,,,,,
+"Blue & Gold Tavern ",1041,"2021-10-03T01:58:00.000Z",,"Restaurants",40.72744,-73.986229,"79 E. 7th Street, New York, NY 10003","Yes","
+",,"Bar",,,,"Reopened 10/1/21
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","79","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York","N/A",,,,,,,,,,,,,,,,,,
 "Rumba Bar & Grill",1040,"2021-07-30T01:58:00.000Z",,"Restaurants",40.72687,-73.97701,"185 Avenue C, New York, NY 10009",,,,"Latin",,,,"\*\*\*\*\*Called said they will be opening in two weeks, Opening soon in former Cafecito space (closed 2016, revolving door ever since)
 ",,"Unknown","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","10009","185","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","(201) 893-6413",,,,,,,,,,,,,,,,,,
 "Yakiniku West",1039,"2021-07-30T01:58:00.000Z","https://www.yakinikuwestnyc.com/","Restaurants",40.72957,-73.98857,"218 E. 9th Street, New York, NY 10003","Yes","SAT: 1:00 PM -9:30 PM
@@ -3063,11 +3065,11 @@ MON: Closed
 IG is old, non-working website, keep yelp 
 
 ",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","10009","164","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","(212) 477-1005",,"Yes",,,,true,,"Yes","Yes",,,,,,,,,
-"Augurs Well Bar",572,"2021-08-04T04:00:00.000Z","https://www.augurswellbar.com/","Restaurants",40.727033,-73.983684,"115 St. Mark's Place, New York, NY 10009","Yes","FRI: 3:00 PM - 2:00 AM
+"Augurs Well Bar",572,"2021-10-02T04:00:00.000Z","https://www.augurswellbar.com/","Restaurants",40.727033,-73.983684,"115 St. Mark's Place, New York, NY 10009","No","FRI: 3:00 PM - 2:00 AM
 SAT: 1:00 PM - 2:00 AM
 SUN: 1:00 PM - 1:00 AM
-","3:00 PM","Bar","https://www.instagram.com/augurswellnyc/?hl=en","1:00 AM","EVCC"," Hours from website, IG & Website are current
-",,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","115","St. Mark's Place, New York, NY 10009","St. Mark's Place"," New York, NY 10009"," New York","N/A","gregorynardello@aol.com",,,,,,,"Yes (Heated)",,,"
+","3:00 PM","Bar","https://www.instagram.com/augurswellnyc/?hl=en","1:00 AM","EVCC","Closed for minor renovations 10/1/21, Hours from website, IG & Website are current
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","115","St. Mark's Place, New York, NY 10009","St. Mark's Place"," New York, NY 10009"," New York","N/A","gregorynardello@aol.com",,"https://www.instagram.com/p/CUgBTLGJr2U/",,,,,"Yes (Heated)",,,"
 ",,,,,,,
 "Black & White Bar",571,"2020-11-02T05:00:00.000Z",,"Restaurants",40.730855,-73.989873,"86 E. 10th Street, New York, NY 10003","No",,"4:00 PM","Bar","https://www.instagram.com/blackandwhitebarnyc/","10:00 PM","EVCC","PERMANENTLY CLOSED October 2020
 ","2000-10-17","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","86","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York","(212) 253-0246","blackandwhitebarnyc@hotmail.com",,"https://evgrieve.com/search?q=black+%26+white",,"2020-10-31",,,"Yes",,,,,,,,,,
