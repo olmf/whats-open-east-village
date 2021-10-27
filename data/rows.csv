@@ -3267,8 +3267,8 @@ Open for orders online 24/7!
 "Sal's Deli & Grocery",541,"2021-08-02T04:00:00.000Z",,"Groceries",40.72893,-73.97869,"216 Avenue B, New York, NY 10009","Yes","
 ","Deli ",,"Hours confirmed by phone
 ",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","216","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","(212) 673-4895",,,,"5:00 AM","12:00 PM",,,,"EVCC",,,,,,,,,,,
-"Ave C Food Corp",540,"2021-08-02T04:00:00.000Z",,"Groceries",40.72685023,-73.97673539,"185 Avenue C, New York, NY 10009","Yes",,"Deli ",,"Hours confirmed by phone
-",,,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","10009","185","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","212-466-3354",,,,"6:00 AM","2:00 AM",,,,"EVCC",,,,,,,,,,,
+"Neighborhood Deli",540,"2021-10-26T04:00:00.000Z",,"Groceries",40.72685023,-73.97673539,"185 Avenue C, New York, NY 10009","Yes",,"Deli ",,"Formerly Ave C Food Corp, Hours confirmed by phone 8/2/21
+",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","185","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","212-466-3354",,,,"6:00 AM","2:00 AM",,,,"EVCC",,,,,,,,,,,
 "Yankee Deli Two",539,"2021-07-30T04:00:00.000Z",,"Groceries",40.72446,-73.97828,"122 Avenue C, New York, NY 10009","Yes","
 ","Deli ",,"Hours confirmed by Phone 
 ",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","122","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","(212) 677-8383",,,"Yes","7:00 AM","7:30 PM",,,,"EVCC",,,,,,,,,,,
@@ -4090,10 +4090,10 @@ SUN: Closed
 ",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","163","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","212-674-6200","urbanvetsanimalhospital@yahoo.com",,,"9:00 AM","7:00 PM",,,,,,,,,,,,,,,
 "Urban Glass and Design",329,"2020-04-04T04:00:00.000Z",,"Services",40.726074,-73.990502,"21 E. 3rd Street, New York, NY 10003","No",,"Furnishing & Building Materials",,"PERMANENTLY CLOSED. Moved to Brooklyn.
 ",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","21","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York","212-217-2003","Info@UrbanGlassandDesign.Com",,,,,,,,"PL",,,,,,,,,,,
-"Up Cleaners & Drop Off Laundry",328,"2021-07-17T04:00:00.000Z",,"Laundry",40.72676333,-73.97709842,"185 Avenue C, New York, NY 10009","Yes","SAT: 8:00 AM - 3:00 PM 
+"Up Cleaners & Drop Off Laundry",328,"2021-10-26T04:00:00.000Z",,"Laundry",40.72676333,-73.97709842,"185 Avenue C, New York, NY 10009",,"SAT: 8:00 AM - 3:00 PM 
 SUN: Closed
-","Cleaners",," Hours confirmed by Phone 
-",,,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","185","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","(212) 677-7982",,,,"8:00 AM","4:00 PM ",,,,"PG",,,,,,,,,,,
+","Cleaners",,"Laura observed gate down, machines still there. Edith says the landlord jacked up the rent and they have to move. Hours confirmed by Phone 7/17/21. 
+",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","185","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","(212) 677-7982",,,,"8:00 AM","4:00 PM ",,,,"PG",,,,,,,,,,,
 "Unleashed Spa",327,"2021-07-17T04:00:00.000Z","www.unleashedspa.com","Services",40.728962,-73.978592,"218 Avenue B, New York, NY 10009","Yes","By appointment **only **from 9:00 AM - 3:00 PM
 Full & **Self-Service** Dog Washing & Pet Grooming!
 ","Pet Supplies & Grooming","https://www.instagram.com/unleashedspa/?hl=en","IG and website are not current, Hours confirmed by phone
