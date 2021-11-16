@@ -76,9 +76,10 @@ SUN & MON: Closed
 ","10009","124","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",40.7245,-73.97824,"SUN: Closed
 ",,,,"7:00 AM","5:30 PM",,,,,,,,,,,,,,,,,,,,
 1527,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Cafe L'Enfer","2021-11-16T23:00:00.000Z",,"Restaurants","443 E. 6th Street, New York, NY 10009","Yes","Bar,Absinthe","IG is current, fall pop-up above Amor Y Amargo
-","10009","443","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York",40.725731,-73.984274,"MON & TUE: Closed
-WED & THU & SUN: 6:00 PM - 12:00 AM
-","EVCC","https://www.overthrowhospitality.com/venues/cafedelenfer","https://www.instagram.com/cafedelenfernyc/","6:00 PM ","2:00 AM","Yes","https://evgrieve.com/2020/12/ravi-derossi-temporarily-closing-his.html","
+","10009","443","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York",40.725731,-73.984274,"FRI & SAT: 6:00 PM - 2:00 AM
+MON & TUE: Closed
+
+","EVCC","https://www.overthrowhospitality.com/venues/cafedelenfer","https://www.instagram.com/cafedelenfernyc/","6:00 PM ","1:00 AM","Yes","https://evgrieve.com/2020/12/ravi-derossi-temporarily-closing-his.html","
 ","2021-10-01",,,,,,,,,,,,,,,,
 1526,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Sweet Village Market","2021-10-02T23:34:00.000Z",,"Groceries","147 1st Avenue, New York, NY 10003",,"Deli ","Opening soon in former 1st Avenue The Bean location. 
 ","10003","147","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",40.72843,-73.98509,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5017,7 +5018,7 @@ Specializing in Hepatitis and Transplant Drug Therapy
 ","10009","424","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",40.72751,-73.98382,"Lunch break: 2:00 PM - 3:00 PM
 TUE & SAT: Closed
 ","EVCC","www.enchantmentsincnyc.com","https://www.instagram.com/enchantmentsnyc/","1:00 PM","7:30 PM",,,,,,"enchantmeantsny@gmail.com",true,,"Yes",,,,,,,,,,,
-98,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Elsewhere Espresso","2021-09-10T04:00:00.000Z","N/A","Cafes and Desserts","335 E. 6th Street, New York, NY 10003","Yes","Cafe","IG is infrequent, last post 2/19/21, no phone, closes early.
+98,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Elsewhere Espresso","2021-11-16T05:00:00.000Z","N/A","Cafes and Desserts","335 E. 6th Street, New York, NY 10003","Yes","Cafe","IG is infrequent, last post 2/19/21, no phone, closes early.
 ","10003","335","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York",40.726897,-73.986841,"FRI: Closed 
 
 ","EVCC",,"https://www.instagram.com/elsewhereespresso/?hl=en","8:00 AM","3:00 PM",,"EVCC","
@@ -5269,9 +5270,10 @@ MON: Closed
 ","10009","99","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.72573035,-73.9839461,"SAT: 8:00 AM – 7:00 PM 
 SUN: 11:00 AM – 5:00 PM
 ","EVCC",,"https://www.instagram.com/bestcleanersa/","7:00 AM","9:00 PM",,,,,,"bestcleanersona@gmail.com",,,,,"Yes",,,,,,,,,
-34,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","Bee Wines & Liquors","2021-08-12T04:00:00.000Z","212-995-5606","Retail","225 Avenue B, New York, NY 10009","Yes","Wine","website is current, hours confirmed by phone
+34,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Bee Wines & Liquors","2021-11-16T05:00:00.000Z","212-995-5606","Retail","225 Avenue B, New York, NY 10009","Yes","Wine","website is current, hours confirmed by site
 
 ","10009","225","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.729029,-73.978044,"FRI - SAT: 10:00 AM - 10:00 PM
+SUN: 12:00 PM - 8:00 PM
 ","EVCC","https://beeliquor.com/","https://www.instagram.com/beeliquor/","10:00 PM","9:00 PM",,,"TAKE $5 YOUR [FIRST ORDER](https://beeliquor.com/) OF $30
 12% OFF 12 OR MORE BOTTLES OF WINE
 ",,,"info@beeliquor.com",true,,"Yes",,"Yes",,,,,,,,,
@@ -5280,58 +5282,59 @@ Closed store at 122 E. 7th Street August 2020. Temp avail at Butter Lane as per 
 (914) 420-1037 (personal phone?)
 ","10009","123","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.726502,-73.98412,"Catering and Pre-orders available at Butter Lane Cupcakes!
 ","EVCC","www.beckysbitesnyc.com","https://www.instagram.com/beckysdips/",,,,"https://www.beckysbitesnyc.com/",,"2017-08-01",,"info@beckysbitesnyc.com",true,,,,,,"2020-02-01",,,,,,,
-32,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Barnyard","2021-10-23T04:00:00.000Z","(212) 674-2276","Groceries","168 Avenue B, New York, NY 10009","No","Specialty Market,Cheese Shop,Sandwich","PEMANENTLY CLOSED. Holds lease through November 2021.		
+32,"Closed","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Barnyard","2021-11-16T05:00:00.000Z","(212) 674-2276","Groceries","168 Avenue B, New York, NY 10009","No","Specialty Market,Cheese Shop,Sandwich","PEMANENTLY CLOSED. Holds lease through November 2021.		
 ","10009","168","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.727297,-73.979883,"SUN: Closed
 ","EVCC","www.barnyardcheese.com","https://www.instagram.com/barnyardcheese/","10:00 AM","8:00 PM",,"https://evgrieve.com/2021/10/barnyard-cheese-shop-is-closing-for.html","
 ",,,"info@barnyardcheese.com",true,,,,,"Yes","2021-10-22",,,,,,,
-31,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Banh Mi Zon","2021-08-12T22:00:00.000Z","646-524-6384","Restaurants","443 E. 6th Street, New York, NY 10009","Yes","Vietnamese","Website and IG are current, Hours from Website
+31,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Banh Mi Zon","2021-11-16T23:00:00.000Z","646-524-6384","Restaurants","443 E. 6th Street, New York, NY 10009","Yes","Vietnamese","Website is current, Hours from Website
 ","10009","443","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York",40.725731,-73.984274,"THU - SAT: 11:00 AM - 9:00 PM
+
+
 ","EVCC","http://banhmizon.com","https://www.instagram.com/banhmizon/","11:00 AM","8:00 PM",,,"[Order direct!](https://eat.9fold.me/index.html#/416) 20% OFF first order, Then 10% OFF with code BMZ10!
 ",,,"banhmizon@gmail.com",true,,,,"Yes","Yes",,,,,,,,
-30,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","B&H Dairy","2021-08-18T22:00:00.000Z","212-505-8065","Restaurants","127 2nd Avenue, New York, NY 10003","Yes","Kosher,Bakery","Confirmed by Phone, IG & FB are current
+30,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","B&H Dairy","2021-11-16T23:00:00.000Z","212-505-8065","Restaurants","127 2nd Avenue, New York, NY 10003","Yes","Kosher,Bakery","Confirmed by Phone, IG & FB are current
 
-","10003","127","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.728506,-73.988015,"On Summer Break through August 25!
-**Order by phone [212-505-8065](http://tel:2125058065)**[ ](http://tel:2125058065)
+","10003","127","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.728506,-73.988015,"**Order by phone [212-505-8065](http://tel:2125058065)**[ ](http://tel:2125058065)
 Now accepting credit cards and Apple/Google Pay. 	
 ","EVCC","https://www.facebook.com/BHDairyKosherRestaurant/","https://www.instagram.com/bandhdairy","7:30 AM","10:00 PM",,"https://www.instagram.com/p/CC8rJsVDYVe/","Check out [our new tees!](https://www.instagram.com/p/CSeoXLJNQRR/) [Email u](mailto:bandhvegetarian@gmail.com)s to light up like our neon sign!
 ",,,"bandhvegetarian@gmail.com",true,,,,"Yes","Yes",,,,"https://www.gofundme.com/f/after-83-years-bh-dairy-may-close-you-can-help?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all","mailto:bandhvegetarian@gmail.com",,,
-29,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","B Cup","2021-08-13T04:00:00.000Z","212-228-4808","Cafes and Desserts","212 Avenue B, New York, NY 10009","Yes","Cafe","IG and website are current
+29,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","B Cup","2021-11-16T05:00:00.000Z","212-228-4808","Cafes and Desserts","212 Avenue B, New York, NY 10009","Yes","Cafe","IG and website are current
 
 ","10009","212","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.72869132144125,-73.97883574991599,"
-","EVCC","www.bcupcafe.com","https://www.instagram.com/bcupcafe/?hl=en","7:30 AM","5:30 PM","Yes","https://www.instagram.com/p/CCqJoLED4f7/",,,,"bcupcafe@gmail.com",,,,,"Yes","Yes",,,,,,,,
-28,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","Avenue C Pharmacy","2021-07-08T04:00:00.000Z","212-228-0764","Health","178 Avenue C, New York, NY 10009","Yes","Pharmacy","Hours Confirmed by Phone 
+","EVCC","www.bcupcafe.com","https://www.instagram.com/bcupcafe/?hl=en","7:30 AM","4:30 PM","Yes","https://www.instagram.com/p/CCqJoLED4f7/",,,,"bcupcafe@gmail.com",,,,,"Yes","Yes",,,,,,,,
+28,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","Avenue C Pharmacy","2021-11-16T05:00:00.000Z","212-228-0764","Health","178 Avenue C, New York, NY 10009","Yes","Pharmacy","Hours Confirmed by Phone 
 ","10009","178","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",40.726528,-73.976532,"SUN: Closed
 Notary services available
 ","EVCC","https://www.facebook.com/Avenue-C-Pharmacy-Surgical-162723810422700/",,"9:30 AM","7:00 PM",,,,,,,,,,,"Yes",,,,,,,,,
-27,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Avant Garden","2021-08-13T04:00:00.000Z","(646) 922-7948","Restaurants","130 E. 7th Street, New York, NY 10009","Yes","Vegan","IG is current
+27,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","Avant Garden","2021-11-16T05:00:00.000Z","(646) 922-7948","Restaurants","130 E. 7th Street, New York, NY 10009","Yes","Vegan","IG is current
 Reopened 2/25/21
 ","10009","130","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.726123,-73.983976,"SAT & SUN: 2:00 PM - 9:00 PM
 PHONE for pickup orders, delivery from Caviar
 
 ","EVCC","https://www.overthrowhospitality.com/venues/avantgarden","https://www.instagram.com/avantgardennyc/","5:00 PM","10:00 PM","Yes",,"
-",,,"info@avantgardennyc.com",,,,,"Yes","Yes (Heated)",,,,"https://www.gofundme.com/f/feed-the-east-village",,,,
-26,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","Avalon Chemists","2021-07-08T04:00:00.000Z","212-260-3131","Health","7 2nd Avenue, New York, NY 10003","Yes","Pharmacy","Hours Confirmed by Phone 
+",,,"info@avantgardennyc.com",,,,,"Yes","Yes (Heated)",,,,"https://www.gofundme.com/f/feed-the-east-village","https://www.overthrowhospitality.com/gift-cards",,,
+26,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Avalon Chemists","2021-11-16T05:00:00.000Z","212-260-3131","Health","7 2nd Avenue, New York, NY 10003","Yes","Pharmacy","MUST CALL for hours, confirmed by phone
 ","10003","7","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.72400237,-73.99126186,"SAT: 10:00 AM - 6:00 PM
 SUN: Closed 
 
 ","EVCC","www.avalonchemists.com",,"9:00 AM","7:00 PM",,,,,,"info@avalonchemists.com",,,,,"Yes",,,,,,,,,
 25,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Atomic Wings","2021-11-16T05:00:00.000Z","(212) 774-9464","Restaurants","184 1st Avenue, New York, NY 10009","Yes","Wings","IG is current, Website is current
 ","10009","184","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.729415,-73.983584,"
-","EVCC","https://www.atomicwings.com/locations","https://www.instagram.com/atomicwings/","11:00 AM","11:00 PM",,,,,,"info@atomicwings.com",,,,,"Yes",,,,,,,,,
+","EVCC","https://www.atomicwings.com/locations","https://www.instagram.com/atomicwings/","11:00 AM","11:00 PM",,,,,,"info@atomicwings.com",,,,,"Yes",,,true,,,,,,
 24,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Atmi","2021-11-16T05:00:00.000Z","212-228-5811","Retail","166 2nd Avenue, New York, NY 10003","Yes","Wine","IG is semi-current, Hours Confirmed from IG
 ","10003","166","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.72995736,-73.98638936,"	
 ","EVCC",,"https://www.instagram.com/atmiliquor/","11:00 AM","12:00 AM",,,,,,,,,,,"Yes",,,,,,,,,
 23,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Atlas Cafe","2020-09-12T04:00:00.000Z","212-539-0966","Cafes and Desserts","73 2nd Avenue, New York, NY 10003","No","Cafe","PERMANENTLY CLOSED September 2020. VACANT.
 ","10003","73","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.72651,-73.989528,"
 ","EVCC",,,"8:00 AM","11:00 PM",,"https://evgrieve.com/2020/09/2nd-avenue-closings-spiritea-dia-and.html",,"1999-01-01",,,,,,,,,"2020-09-01",,,,,,,
-22,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","Artichoke","2021-07-08T04:00:00.000Z","(212) 228-2004","Restaurants","321 E. 14th Street, New York, NY 10003","Yes","Pizza","Hours confirmed by phone, Website is current, IG not current (it's for all locations, not EV) 
+22,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Artichoke","2021-11-16T05:00:00.000Z","(212) 228-2004","Restaurants","321 E. 14th Street, New York, NY 10003","Yes","Pizza","Local CHAIN, 10 stores. Website is current, IG is for all locations, not just EV) 
 
 ","10003","321","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York",40.73209569,-73.98390824,"Pickup is available directly through our website. 		
-","EVCC","https://www.artichokepizza.com/location/artichoke-basille-pizza-east-village/","https://www.instagram.com/artichokepi","11:00 AM","4:00 AM",,,,,,,,,,,"Yes",,,,,,,,,
+","EVCC","https://www.artichokepizza.com/location/artichoke-basille-pizza-east-village/","https://www.instagram.com/artichokepizza/","11:00 AM","4:00 AM",,,,,,,,,,,"Yes",,,true,,,,,,
 21,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Arjun Mehta, DMD","2021-11-16T21:30:00.000Z","212-674-1588","Health","17 Avenue D, New York, NY 10009","Yes","Dental","Hours Confirmed By Phone
 ","10009","17","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York",40.720624,-73.978509,"Open MON & WED Only!
 ","EVCC","https://dentalplaceny.com/","https://www.instagram.com/dr.arjunmehta/?hl=en","11:00 AM","5:00 PM",,,,,,"dentalplaceny@gmail.com",,,,,,,,,,,,,,
-20,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","Amor Y Amargo ","2021-11-16T23:00:00.000Z","(212) 614-6818","Restaurants","443 E. 6th Street, New York, NY 10009","Yes","Bar,Bitters","IG is current.
+20,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Amor Y Amargo ","2021-11-16T23:00:00.000Z","(212) 614-6818","Restaurants","443 E. 6th Street, New York, NY 10009","Yes","Bar,Bitters","IG is current
 ","10009","443","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York",40.725731,-73.984274,"General Store hours: 
 WED - FRI: 3:00 PM - 10:00 PM
 SAT & SUN: noon - 11:00 PM
@@ -5342,8 +5345,8 @@ MON & TUE: Closed
 ","10009","265","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",40.728505,-73.983187,"MON: Closed
 ","EVCC","https://ahimsagarden.com","https://www.instagram.com/ahimsagarden/?hl=en","11:00 AM","10:00 PM","Yes",,"10% OFF enter email 
 ",,,"ahimsanewyork@gmail.com",,,,,"Yes","Yes (Heated)",,,,,"https://squareup.com/gift/5TJQFZH016DZD/order",,,
-18,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","Alphabet Scoop","2021-11-16T22:30:00.000Z","(212) 982-1422","Cafes and Desserts","543 E. 11th Street, New York, NY 10009","Yes","Ice Cream","IG and Website are current
-","10009","543","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",40.727884,-73.979868,"MON : Closed
+18,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Alphabet Scoop","2021-11-16T22:30:00.000Z","(212) 982-1422","Cafes and Desserts","543 E. 11th Street, New York, NY 10009","Yes","Ice Cream","IG and Website are current
+","10009","543","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",40.727884,-73.979868,"MON: Closed
 SAT & SUN : 1:00 PM - 11:00 PM
 ","EVCC","https://www.alphabetscoopny.com/","https://www.instagram.com/alphabetscoopny/","2:00 PM","10:00 PM",,,,,,"scoop@fathersheartnyc.org, robvedral@fathersheartnyc.org",,,,,,,,,,,,,,
 17,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Alphabet City Wine Co.","2021-11-16T05:00:00.000Z","(212) 505-9463","Retail","100 Avenue C, New York, NY 10009","Yes","Wine","IG is current, hours confirmed by phone, website is current
@@ -5377,11 +5380,9 @@ SUN: 10:00 AM - 6:00 PM
 MON: Closed
 ","EVCC","https://www.abraconyc.com/","https://instagram.com/abraco_espresso","8:00 AM","6:00 PM",,"https://www.instagram.com/p/CEmoJ33jb6i/","
 ",,,"info@abraconyc.com",,,"Yes",,"Yes","Yes",,,,,,,,
-11,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","ABC Animal Hospital","2021-08-13T04:00:00.000Z","212-358-0785","Services","200 Avenue A, New York, NY 10009","Yes","Veterinary Services","FB is current, Hours Confirmed by Phone 
-","10009","200","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.72929737,-73.98095182,"TUE: 9:00 AM - 7:00 PM
-THU: 9:00 AM - 2:00 PM
-SAT: Call for info
-SUN: Closed
+11,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","ABC Animal Hospital","2021-08-13T04:00:00.000Z","212-358-0785","Services","200 Avenue A, New York, NY 10009","Yes","Veterinary Services","FB posts are current, MUST CALL for hours 
+","10009","200","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.72929737,-73.98095182,"SAT: Call for info
+THU & SUN: Closed
 ","EVCC","https://abcanimalhosp.com/","https://www.instagram.com/abcanimalhosp/","9:00 AM","5:00 PM",,"https://www.facebook.com/abcanimalhosp",,,,"doc@abcanimalhosp.com",,,,,,,,,,,,,,
 10,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","Abacus Pharmacy","2021-11-15T21:00:00.000Z","212-477-6400","Health","168 2nd Avenue, New York, NY 10003","Yes","Pharmacy","Hours Confirmed by Phone 
 ","10003","168","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.73016,-73.98628,"SAT: 10:00 AM - 5:00 PM
