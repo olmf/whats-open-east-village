@@ -225,9 +225,9 @@ SUN: 10:30 AM - 5:00 PM
 "Home Town Village Convenience Store",1487,"2021-09-10T04:00:00.000Z",,,"Groceries",40.728956,-73.989137,"16 St. Mark's Place, New York, NY 10003","Yes","
 ",,"Deli ",,"East storefront. 
 ",,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","16","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York",,"https://evgrieve.com/2021/09/beard-papas-still-bringing-cream-puffs.html","EVCC","recb24SmnCBNwNc7q","Yes",,,,,,,,,,,,,,,
-"O'Flaherty's",1486,"2021-09-10T04:00:00.000Z",,,"Arts & Culture",40.722601,-73.980231,"55 Avenue C,  New York, NY 10009","Yes","
-",,"Gallery",,"Opened 9/8/2021 in former Moving for Life location
-",,"2021-09-08","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","55","Avenue C,  New York, NY 10009","Avenue C","  New York, NY 10009","  New York",,"https://evgrieve.com/2021/09/at-debut-of-oflahertys-on-avenue-c.html","EVCC","recBcbyCCsVxh8vuT",,,,,,,,,,,,,,,,
+"O'Flaherty's",1486,"2021-09-10T04:00:00.000Z",,"https://oflahertysnyc.com/","Arts & Culture",40.722601,-73.980231,"55 Avenue C,  New York, NY 10009","Yes","[Check website for upcoming exhibitions! ](https://oflahertysnyc.com/upcoming/)
+",,"Gallery",,"Opened 9/8/2021 in former Moving for Life location.
+",,"2021-09-08","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","55","Avenue C,  New York, NY 10009","Avenue C","  New York, NY 10009","  New York","https://www.instagram.com/oflahertys.nyc/?hl=en","https://evgrieve.com/2021/09/at-debut-of-oflahertys-on-avenue-c.html","EVCC","recBcbyCCsVxh8vuT",,,,,,,,,,,,,,,,
 "Two Perrys",1485,"2020-09-07T04:49:00.000Z","212-539-1900",,"Restaurants",40.72491,-73.97861,"127 Avenue C, New York, NY 10009","Yes","TUE & WED: 5:00 PM - midnight
 THU - SAT: 5:00 PM - 2:00 AM
 SUN: 6:00 PM - midnight
@@ -3924,11 +3924,11 @@ See [IG ](https://www.instagram.com/downtownyarns/)for monthly updated hours
 ",,"Fitness",,"PERMANENTLY CLOSED. Reoccupied by O'Flanerty's Gallery after successful pop-ups. 
 Online Class schedule is being updated on IG
 ",true,"2010-01-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","55","Avenue C,  New York, NY 10009","Avenue C","  New York, NY 10009","  New York","https://www.instagram.com/movingforlifedanceexercise/","https://evgrieve.com/2020/12/a-rent-increase-is-forcing-avenue-c.html","EVCC",,,,,,,,"info@movingforlife.org",,,"2020-12-31",,,,,,
-"4th Street Food Co-op",390,"2021-08-11T04:00:00.000Z","212-674-3623","https://4thstreetfoodcoop.org","Groceries",40.726619,-73.990834,"58 E. 4th Street, New York, NY 10003","Yes","SAT: 1:00 PM - 5:00 PM
-MON: noon - 6:30 PM
-WED: 4:00 PM - 7:00 PM
-FRI:12:00 PM - 7:00 PM
-","12:00 PM","Organic","7:00 PM","Website is current, Hours from website
+"4th Street Food Co-op",390,"2021-12-02T05:00:00.000Z","212-674-3623","https://4thstreetfoodcoop.org","Groceries",40.726619,-73.990834,"58 E. 4th Street, New York, NY 10003","Yes","SAT: 1:00 PM - 5:00 PM
+SUN: NOON - 6:00 PM
+MON: NOON - 6:30 PM
+WED: 4:00 PM - 7:00 PM 
+","12:00 PM","Organic","7:00 PM","Website is current, Hours from website, Facebook semi-active 
 ",true,,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","58","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","http://facebook.com/4thStreetFoodCoop/",,"EVCC","rec6D7a4DWVKivldM","Yes",,,,,,"4STproduce@gmail.com",,,,,,,,,
 "East Village Copy Print & Ship Center",389,"2021-12-02T05:00:00.000Z","212-673-5628","www.nycc.com","Services",40.728791,-73.98979,"13 E. 7th Street, New York, NY 10003","Yes","SAT: 10:00 AM - 6:00 PM
 SUN: CLOSED
@@ -3959,11 +3959,11 @@ SUN: 11:00 PM - 6:00 PM
 ","12:00 PM","Gifts & Home,Childrens,Stationery","7:00 PM","IG and Website are current, Confirmed Hours by Phone
 ",true,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","439","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","https://www.instagram.com/pinkoliveshop/",,"EVCC","rec1b6pKqxEDPAzmg",,,,"[Sign up](https://pinkolive.com/pages/contact) & receive 10% off your first online purchase
 ",,,"shop@pinkolive.com","Yes",,,,,"https://pinkolive.com/products/gift-card-1",,,
-"Duo",383,"2021-07-20T04:00:00.000Z","212-777-7044","https://www.duonyc.com","Retail",40.728654,-73.985508,"337 E. 9th Street, New York, NY 10003","Yes","SUN: 1:30 PM - 5:00 PM
+"Duo",383,"2021-12-02T05:00:00.000Z","212-777-7044","https://www.duonyc.com","Retail",40.728654,-73.985508,"337 E. 9th Street, New York, NY 10003","Yes","SUN: 1:30 PM - 5:00 PM
 TUES: Closed
 
 ","1:30 PM","Vintage","6:30 PM","IG and website are current, Hours from website 
-",true,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","337","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","https://www.instagram.com/duonyc/",,"EVCC","recEHrZx7gZpk5xic",,,,"
+",true,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","337","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","https://www.instagram.com/duonyc/",,"EVCC","recEHrZx7gZpk5xic",,,,"
 ",,,"duo@duonyc.com","Yes",,,,,"https://www.instagram.com/p/B9z4Hmwp9Zj/",,,
 "Alphabets",382,"2020-09-02T04:00:00.000Z","212-475-7250","https://alphabetsnyc.com","Retail",40.724411,-73.984481,"64 Avenue A, New York, NY 10009","No","NYC location closed, moving to Palm Springs, CA. 
 
@@ -3971,10 +3971,10 @@ TUES: Closed
 Alphabets moved to 64 Ave A in 2014. Opened at 115 Ave A in 1985.
 ",true,"2014-07-01","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","64","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/alphabetsnyc/","https://www.instagram.com/p/CCBncM3D-9i/","EVCC",,"No",,,"
 ",,,,"No",,"2020-06-29",,,,,,
-"An Me",381,"2021-07-20T04:00:00.000Z","212-228-0500","https://anmeshop.com","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes","SUN: 12:00 AM - 5:00 PM
+"An Me",381,"2021-12-02T05:00:00.000Z","212-228-0500","https://anmeshop.com","Retail",40.728636,-73.986178,"328 E. 9th Street, New York, NY 10003","Yes","SUN: 12:00 AM - 5:00 PM
 ","11:00 PM ","Childrens,Toys","6:00 PM","IG and website are current, Hours from website 
-",true,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","328","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","https://www.instagram.com/anmeshop/",,"EVCC","rect4jw8F0iaW0pu6",,,,,,,"info@shopanme.com","Yes",,,,"recRyLA2pYU9SxctD",,,,
-"The Sock Man",380,"2021-07-19T04:00:00.000Z","212-529-0300 ","https://www.thesockman.com","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY 10009","Yes","SAT & SUN: 12:00 PM - 8:00 PM
+",true,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","328","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","https://www.instagram.com/anmeshop/",,"EVCC","rect4jw8F0iaW0pu6",,,,,,,"info@shopanme.com","Yes",,,,"recRyLA2pYU9SxctD",,,,
+"The Sock Man",380,"2021-12-02T05:00:00.000Z","212-529-0300 ","https://www.thesockman.com","Retail",40.727383,-73.98454,"99 St. Mark's Place, New York, NY 10009","Yes","SAT & SUN: 12:00 PM - 8:00 PM
 
 
 ","12:00 PM","Fashion","8:00 PM","IG and website are current, Hours from website
@@ -4056,10 +4056,10 @@ Hours subject to change, please call ahead
 
 ","12:00 PM","American","11:00 PM","Site is current, Hours from site, Infrequent posting on IG
 ",,,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","162","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","https://www.instagram.com/themaidenlane/",,"EVCC","recTlm0jLqdCqoBsI","Yes","Yes",,,"Yes (Heated)",,"gareth@themaidenlane.com",,,,,,,,,
-"The Baroness Latex",357,"2021-12-02T05:00:00.000Z","212-529-5964","www.baroness.com","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009",,"The shop is closed, limited stock 20% OFF [online](https://store.baroness.com/)!
+"The Baroness Latex",357,"2021-12-02T05:00:00.000Z","212-529-5964","www.baroness.com","Retail",40.729034,-73.979462,"530 E. 13th Street, New York, NY 10009","No","The shop is closed, limited stock 20% OFF [online](https://store.baroness.com/)!
 SUN & MON: Closed
-","2:00 PM ","Fashion","7:00 PM","PERMANENTLY CLOSED. Online store under maintenance 12/2/21 Shop closed 8/31/21, still using storefront, limited stock available online while it lasts. 
-",true,,"Unknown","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","530","E. 13th Street, New York, NY 10009","E. 13th Street"," New York, NY 10009"," New York","https://www.instagram.com/latexbaroness/","https://www.instagram.com/p/CRCebyfjT50/","EVCC","recpGrDhNZ4ubpwdO",,,,"Limited stock 20% OFF [online](https://store.baroness.com/), discount applied at check out. GET IT while it lasts!
+","2:00 PM ","Fashion","7:00 PM","PERMANENTLY CLOSED. Online store under maintenance 12/2/21, Shop closed 8/31/21.
+",true,,"Closed","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","530","E. 13th Street, New York, NY 10009","E. 13th Street"," New York, NY 10009"," New York","https://www.instagram.com/latexbaroness/","https://www.instagram.com/p/CRCebyfjT50/","EVCC","recpGrDhNZ4ubpwdO",,,,"Limited stock 20% OFF [online](https://store.baroness.com/), discount applied at check out. GET IT while it lasts!
 ",,,"Baroness@Baroness.com",,,"2021-08-31",,,"https://store.baroness.com/giftcertificates.php",,,
 "AuH2O",356,"2021-12-02T05:00:00.000Z","917-261-7474","www.auh2oshop.com","Retail",40.72703,-73.98632,"84 E. 7th Street, New York, NY 10003","Yes","MON: Closed
 
@@ -4228,8 +4228,8 @@ MON: Closed
 Endless Hospitality Group.
 ",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","700","E 9th Street, New York, NY 10009","E 9th Street"," New York, NY 10009"," New York","https://www.instagram.com/thewaylandnyc/?hl=en",,"EVCC","recqCPGqDtFdvy31s","Yes","Yes",,"
 ","Yes",,"info@thewaylandnyc.com",,,,,,"https://swipeit.com/product/1910/endless-hospitality",,,
-"The Source Unlimited Print & Copy Shop",312,"2021-07-17T04:00:00.000Z","212-473-7833","http://sourceunltd.com/","Services",40.728753,-73.985752,"331 E. 9th Street, New York, NY 10003","Yes","Shop hours weekdays by appointment or chance. Check out our [etsy](https://www.etsy.com/shop/sourceunltdprint) shop!
-",,"Stationery,Print & Copy",," tried calling, went to specially made voicemail \*\*\*\*\*Call for update- is it still by appt? you can say you're from EVCC. PLS do not update (as per owner's request)
+"The Source Unlimited Print & Copy Shop",312,"2021-12-02T05:00:00.000Z","212-473-7833","http://sourceunltd.com/","Services",40.728753,-73.985752,"331 E. 9th Street, New York, NY 10003","Yes","Shop hours weekdays by appointment or chance. Check out our [etsy](https://www.etsy.com/shop/sourceunltdprint) shop!
+",,"Stationery,Print & Copy",,"PLS do not update (as per owner's request)
 ",,,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","331","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","https://www.instagram.com/thesourceunltdprinting/",,"EVCC","recBFHds4ATJAr3VZ",,,,,,,"santo@sourceunltd.com","Yes",,,,,,,,
 "The Smith",311,"2021-11-30T05:00:00.000Z","212) 420-9800","https://thesmithrestaurant.com","Restaurants",40.731002,-73.988393,"55 3rd Avenue, New York, NY 10003","Yes","THU & FRI: 11:00 PM - 11:00 PM 
 SAT: 9:30 AM - 11:00 PM
@@ -5205,9 +5205,9 @@ Now at Rai Rai Ken!
 ",,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","116","St. Mark's Place, New York, NY 10009","St. Mark's Place"," New York, NY 10009"," New York","https://www.instagram.com/craftandcarry/",,"EVCC",,"Yes","Yes",,,"Yes",,"craftandcarrynyc@gmail.com",,,,,,"https://squareup.com/gift/E54TB3S2RWDRV/order",,,
 "Cosmo's Launderama",67,"2021-11-19T05:00:00.000Z","(646) 602-2557",,"Laundry",40.72787,-73.98481,"142 1st Avenue, New York, NY 10009","Yes","THU: Closed 
 	
-","8:00 AM","Laundromat","8:30 PM","\*\*\*\*\*\*Confirmed by phone: 9th Street location is open. Laura visit 7th Street location? 
+","8:00 AM","Laundromat","8:30 PM","\*\*\*\*\*\*Laura visit 7th Street location? Confirmed by phone: 9th Street location is open. 
 
-",,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","142","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"EVCC","recQdEnebX5yFcM77","Yes",,,,,,,,,,,,,,,
+",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","142","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"EVCC","recQdEnebX5yFcM77","Yes",,,,,,,,,,,,,,,
 "Cornerstone Cafe",66,"2021-11-18T20:30:00.000Z","212 228 1260","https://www.cornerstonecafenyc.com/","Restaurants",40.722031,-73.983149,"17 Avenue B, New York, NY 10009","Yes","TUE: Closed
 	
 ","7:00 AM","Italian","10:00 PM","IG is current, Hours confirmed by phone, Website is current
@@ -5451,10 +5451,10 @@ SUN: 10:00 AM - 6:00 PM
 "Adames Deli Grocery",13,"2021-11-15T05:00:00.000Z","(646) 912-9609",,"Groceries",40.723882,-73.976132,"113 Avenue D, New York, NY 10009","Yes","
 ","8:00 AM","Deli ","12:00 AM","Hours Confirmed by Phone, No social media or website 
 ",,,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","113","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York",,,"AA","recIDug3xGptvBoYU",,,,,,,,,,,,,,,,
-"Abraco Espresso",12,"2021-11-23T05:00:00.000Z","N/A","https://www.abraconyc.com/","Cafes and Desserts",40.727348,-73.986156,"81 E. 7th Street, New York, NY 10003","Yes","SUN: 9:00 AM - 6:00 PM
+"Abraco Espresso",12,"2021-12-02T05:00:00.000Z","N/A","https://www.abraconyc.com/","Cafes and Desserts",40.727348,-73.986156,"81 E. 7th Street, New York, NY 10003","Yes","SUN: 9:00 AM - 6:00 PM
 MON: Closed
-","8:00 AM","Cafe,Bakery,Bar","6:00 PM","\*\*\*\*IG is current, check back, it's a little confusing
-",,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","81","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York","https://instagram.com/abraco_espresso","https://www.instagram.com/p/CEmoJ33jb6i/","EVCC","rechRSOOY5VQ7bJEi","Yes",,,"
+","8:00 AM","Cafe,Bakery,Bar","6:00 PM","IG is current
+",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","81","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York","https://instagram.com/abraco_espresso","https://www.instagram.com/p/CEmoJ33jb6i/","EVCC","rechRSOOY5VQ7bJEi","Yes",,,"
 ","Yes",,"info@abraconyc.com","Yes",,,,,,,,
 "ABC Animal Hospital",11,"2021-08-13T04:00:00.000Z","212-358-0785","https://abcanimalhosp.com/","Services",40.72929737,-73.98095182,"200 Avenue A, New York, NY 10009","Yes","SAT: Call for info
 THU & SUN: Closed
