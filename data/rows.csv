@@ -179,12 +179,12 @@ SUN: 3:00 PM - 11:00 PM
 ",,,,,"https://evgrieve.com/2021/09/the-main-event-set-for-avenue-b.html","Gallery","recWF9OKQX90peS3x",,-73.98304,,,true,"Unknown","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","42","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,true,,,,,,,
 "Rue B",,40.72794,"ruebnyc188@gmail.com","188 Avenue B, New York, NY 10009",,"https://www.rueb-nyc.com","2021-10-21T17:07:00.000Z","Restaurants","(212) 358- 1700","https://www.instagram.com/rueb_nyc/",1510,"PERMANENTLY CLOSED 10/20/21. Hopes to relocate.
 ",,,,,"https://www.instagram.com/p/CVG4eVoDIyy/","Bar,Music",,,-73.979347,,"No",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","188","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes",,"Yes",,,,,,,,
-"Walgreens (3rd Avenue) copy","Pharmacy Hours:
+"Walgreens (3rd Avenue)","Pharmacy Hours:
 MON - FRI: 8:00 AM - 8:00 PM 
 SAT: 9:00 AM - 6:00 PM
 SUN: Closed 
-",40.73351,,"3rd Avenue, New York, NY 10003","7:00 AM ","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","2021-08-06T23:35:00.000Z","Health","212-529-7140",,1509,"\*\*\*\*\*North of Storefront Survey area Laura get address (Address on website is for closed location), all other information is correct
-",,,"10:00 PM",,"https://evgrieve.com/2020/03/that-duane-reade-by-walgreens-closes.html","Pharmacy",,,-73.98664,"PG","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","3rd","Avenue, New York, NY 10003","Avenue"," New York, NY 10003"," New York",,,,,,,,true,,,,
+",40.733509,,"133 3rd Avenue, New York, NY 10003","7:00 AM ","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","2021-08-06T23:35:00.000Z","Health","212-529-7140",,1509,"\*\*\*\*\*North of Storefront Survey area Laura get address (Address on website is for closed location), all other information is correct
+",,,"10:00 PM",,"https://evgrieve.com/2020/03/that-duane-reade-by-walgreens-closes.html","Pharmacy",,,-73.986641,"PG","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","133","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",,,,,,,,true,,,,
 "VACANT",,40.72844,,"158 1st Avenue, New York, NY 10009",,,"2021-09-11T03:34:00.000Z",,,,1508,"VACANT. AKSR Gabe Icikson (646) 761-8958 Formerly Yu's on 1st Back & Foot Rub
 ",,,,,,,,,-73.9843,,"No",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","158","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,,,,,,,,,,
 "787 Office",,40.72981,,"159 2nd Avenue, New York, NY 10009",,,"2021-03-03T02:34:00.000Z",,,,1507,"Storefront office for Local 787 Coffee chain in former Danny's Cleaners location.
@@ -3824,44 +3824,45 @@ MON: Closed
 ",40.732541,"aumshantibookshop@gmail.com","230 E. 14th Street,  New York, NY 10003","11:00 AM ","www.aumshantibookshop.com","2021-07-22T04:00:00.000Z","Retail","212-505-2665","https://www.instagram.com/aumshantinyc/",416,"Confirmed Hours by Phone 
 ",,,"8:00 PM","https://www.aumshantibookshop.com/gift-card",,"Books,Jewelry,Natural & Alternative","recO0PnduJNMhYrCv","Yes",-73.986101,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","230","E. 14th Street,  New York, NY 10003","E. 14th Street","  New York, NY 10003","  New York",,,,,,,,,,,,
 "Trader Joe's","
-",40.730438,,"436 E. 14th Street, New York, NY 10009","8:00 AM","https://locations.traderjoes.com/ny/new-york/546/","2021-07-22T04:00:00.000Z","Groceries","(212) 777-9412","https://www.instagram.com/traderjoes/",415,"IG and website are current, Hours confirmed by phone
-",,,"9:00 PM",,,"Supermarket",,,-73.981064,"EVCC","Yes",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","10009","436","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","No",,,,,,,,,,,
+",40.730438,,"436 E. 14th Street, New York, NY 10009","8:00 AM","https://locations.traderjoes.com/ny/new-york/546/","2021-12-03T05:00:00.000Z","Groceries","(212) 777-9412","https://www.instagram.com/traderjoes/",415,"IG and website are current, Hours confirmed by phone and corroborated by site
+",,,"9:00 PM",,,"Supermarket",,,-73.981064,"EVCC","Yes",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","436","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","No",,,,,,,true,,,,
 "Trader Joe's","
 ",40.733362,,"142 E. 14th Street, New York, NY 10003","8:00 AM","https://locations.traderjoes.com/ny/new-york/540/","2021-07-22T04:00:00.000Z","Groceries","(212) 529-4612","https://www.instagram.com/traderjoes/",414,"IG and website are current, Hours confirmed by phone
 ",,,"9:00 PM",,,"Supermarket",,,-73.987895,"EVCC","Yes",,"Opened","{""id"":""usrQoqmm73tb6xH0s"",""email"":""destiny8136@bronxlawhs.org"",""name"":""Destiny Morgan""}","10003","142","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","No",,,,,,,,,,,
-"Raku","TUE, WED & THU: noon - 9:30 PM
+"Raku","FRI & SAT: 10:00 PM
 MON: Closed
 
-",40.72651,"eastvillage@rakunyc.com","342 E. 6th Street, New York, NY 10003","12:00 PM","http://rakunyc.com/","2021-10-02T04:00:00.000Z","Restaurants","(212) 228-1324","https://www.instagram.com/rakunyc/",413,"IG and website are current, Hours from the website
-",,,"10:00 PM",,"https://www.instagram.com/p/CUIHy_0lN32/","Japanese","recNoIqr2OFCEjNT2",,-73.98666,"EVCC","Yes",true,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","342","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York",,"Yes",,"Yes",,,,,,,,
+",40.72651,"eastvillage@rakunyc.com","342 E. 6th Street, New York, NY 10003","12:00 PM","http://rakunyc.com/","2021-12-03T05:00:00.000Z","Restaurants","(212) 228-1324","https://www.instagram.com/rakunyc/",413,"IG and website are current, Hours from the website
+",,,"9:30 PM",,"https://www.instagram.com/p/CUIHy_0lN32/","Japanese","recNoIqr2OFCEjNT2",,-73.98666,"EVCC","Yes",true,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","342","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York",,"Yes",,"Yes",,,,,,,,
 "Uncle Johnny Grocery Deli Supermarket",,40.721847,,"57 Avenue D, New York, NY 10009","6:00 AM",,"2020-06-24T04:00:00.000Z","Groceries","N/A",,412,"\*\*\*\*Laura visit Non working number (212) 677-3090
 ",,,"10:00 PM",,,"Supermarket","recyZO56sgVejqKVd",,-73.977598,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","57","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York",,,,,,,,,,,,
-"Food Emporium","Free home delivery! 
+"Food Emporium","FRI & SAT: 7:00 AM - 10:00 PM
+Free home delivery! 
 Accepts SNAP/EBT + WIC 
-",40.722409,"ASGCustomeerservice@asghq.com","71 Avenue D, New York, NY 10009","7:00 AM","https://foodemporium.keyfood.com/store/","2021-11-07T04:00:00.000Z","Groceries","(212) 475-3960",,411,"Confirmed hours by Phone	
-",,,"9:00 PM",,,"Supermarket","recJuG8W9dc8kDuEP",,-73.977164,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","71","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
-"Pioneer Supermarket","SUN: 7:30 AM - 8:45 PM
+",40.722409,"ASGCustomeerservice@asghq.com","71 Avenue D, New York, NY 10009","7:00 AM","https://foodemporium.keyfood.com/store/","2021-12-03T05:00:00.000Z","Groceries","(212) 475-3960",,411,"Confirmed hours by Phone	
+",,,"9:00 PM",,,"Supermarket","recJuG8W9dc8kDuEP",,-73.977164,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","71","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
+"Pioneer Supermarket","SUN: 7:30 AM - 9:00 PM
 Accepts SNAP/EBT + WIC. Delivery orders must be placed in-store.
-",40.724026,,"119 Avenue D, New York, NY 10009","7:00 AM","https://www.pioneersupermarkets.com/locations/","2021-07-22T04:00:00.000Z","Groceries","(646) 861-0305","https://www.instagram.com/pioneerspmkt/",410,"IG and website are current, Hours from the website,
+",40.724026,,"119 Avenue D, New York, NY 10009","7:00 AM","https://www.pioneersupermarkets.com/locations/","2021-12-03T05:00:00.000Z","Groceries","(646) 861-0305","https://www.instagram.com/pioneerspmkt/",410,"IG and website are current, Hours from the website,
 Changed biz name to Pioneer (subsidiary of Met Foods) 
-",,,"10:00 PM",,,"Supermarket",,,-73.97595,"EVCC","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","119","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
+",,,"10:00 PM",,,"Supermarket",,,-73.97595,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","119","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
 "Alphabet Grocery",,40.723682,,"89 Avenue C, New York, NY 10009",,,"2020-10-26T04:00:00.000Z","Groceries","N/A",,409,"\*\*\*\*Laura visit shows open in google from 7am - 12am but there is no phone number or website
 ",,,,,,"Deli ","recozGFPsiiDO6iVQ",,-73.97947,"PG",,,"Unknown","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","89","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,,,,,,,,,,
 "Associated Supermarket"," Free delivery! and accepts SNAP/EBT. Delivery orders must be placed via phone Mon-Sat.
-",40.724642,"joe.garcia@associatedsmhq.com","123 Avenue C, New York, NY 10009","7:30 AM","https://www.shopassociated.com/weekly-ad/?circularstoreidentifier=X9L835HMLK0M2DKK5AUOQK4J4FSTB6RLRLXM7V","2021-07-21T04:00:00.000Z","Groceries","(212) 260-3159","https://www.instagram.com/associatedspmkt/",408,"Hours from the website
-",,,"10:00 PM",,,"Supermarket","rec5iYvJRoOnvTeG3",,-73.978655,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","123","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
+",40.724642,"joe.garcia@associatedsmhq.com","123 Avenue C, New York, NY 10009","7:30 AM","https://www.shopassociated.com/weekly-ad/?circularstoreidentifier=X9L835HMLK0M2DKK5AUOQK4J4FSTB6RLRLXM7V","2021-12-03T05:00:00.000Z","Groceries","(212) 260-3159","https://www.instagram.com/associatedspmkt/",408,"Hours from the website
+",,,"10:00 PM",,,"Supermarket","rec5iYvJRoOnvTeG3",,-73.978655,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","123","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
 "C-Town","FRI: 8:00 AM - 8:30 PM
 SUN: 8:30 AM - 6:00 PM. 
 
-",40.726743,,"188 Avenue C, New York, NY 10009","8:00 AM",,"2021-07-21T04:00:00.000Z","Groceries","(212) 505-7577",,407,"Confirmed Hours by phone
+",40.726743,,"188 Avenue C, New York, NY 10009","8:00 AM",,"2021-12-03T05:00:00.000Z","Groceries","(212) 505-7577",,407,"Confirmed Hours by phone
 ",,"
-","8:00 PM",,,"Supermarket",,,-73.976412,"EVCC","Yes",,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","10009","188","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
+","8:00 PM",,,"Supermarket",,,-73.976412,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","188","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
 "Ben's Deli","Pop-up inside serving Mexican street food 8:00 AM - 9:00 PM: tacos, quesadillas, salad bowls.
-",40.722529,,"32 Avenue B, New York, NY 10009","9:00 AM",,"2021-01-26T18:00:00.000Z","Groceries","(212)-228-1406",,406,"Store is open, not picking up phone, check number	
-",,,"10:00 PM",,,"Deli ","recV2qpVBGsFK9apw",,-73.983241,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","32","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,,,,,,
+",40.722529,,"32 Avenue B, New York, NY 10009","6:00 AM",,"2021-12-03T18:00:00.000Z","Groceries","(212)-228-1406",,406,"Confirmed hours by phone	
+",,,"11:00 PM",,,"Deli ","recV2qpVBGsFK9apw",,-73.983241,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","32","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,,,,,,
 "Key Food","Open 24/7!
-",40.724004,"customer.service@keyfood.com","52 Avenue A, New York, NY 10009","12:00 AM","http://keyfood.com/store","2021-07-21T04:00:00.000Z","Groceries","(212) 477-9063","https://www.instagram.com/keyfood",405,"IG is current, Hours confirmed by phone
-",,,"12:00 AM",,,"Supermarket","recJzjsTDiAnQxLur",,-73.984766,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","52","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,,,,,,true,,,,
+",40.724004,"customer.service@keyfood.com","52 Avenue A, New York, NY 10009","12:00 AM","http://keyfood.com/store","2021-12-03T05:00:00.000Z","Groceries","(212) 477-9063","https://www.instagram.com/keyfood",405,"IG is current, Hours confirmed by phone
+",,,"12:00 AM",,,"Supermarket","recJzjsTDiAnQxLur",,-73.984766,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","52","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,,,,,,true,,,,
 "New Yorkers Foodmarket",,40.72777,,"107 2nd Avenue, New York, NY 10003","9:00 AM",,"2021-12-03T05:00:00.000Z","Groceries","(212) 260-2243",,404,"Confirmed hours by Phone 
 ",,,"9:00 PM",,,"Supermarket",,,-73.988686,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","107","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","No",,,,,,,,,,,
 "Gristedes","	
@@ -3870,52 +3871,54 @@ SUN: 8:30 AM - 6:00 PM.
 ","10:00 PM","http://shop.gristedes.com/ProductDetails.asp?ProductCode=GIFT_CARD",,"Supermarket",,,-73.994336,"EVCC","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","25","University Place, New York, NY 10003","University Place"," New York, NY 10003"," New York","Yes",,,,,,,true,,,"Senior hours: 7:00 AM - 8:00 AM ",
 "La La Laundry","MON - FRI: last wash 7:30 PM
 SAT & SUN: 9:00 AM - 8:00 PM last wash  6:30 PM
-",40.727683,,"180 Avenue B, New York, NY 10009","8:00 AM",,"2021-07-21T04:00:00.000Z","Laundry","(212) 529-8887",,402,"Confirmed hours by Phone
-",,,"9:00 PM",,,"Laundromat","recVqk09oFGjQ3zhv",,-73.9795454,"EVCC","Yes",true,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","180","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Yes",,,,,,,,,,,
+",40.727683,,"180 Avenue B, New York, NY 10009","8:00 AM",,"2021-12-03T05:00:00.000Z","Laundry","(212) 529-8887",,402,"Confirmed hours by Phone
+",,,"9:00 PM",,,"Laundromat","recVqk09oFGjQ3zhv",,-73.9795454,"EVCC","Yes",true,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","180","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Yes",,,,,,,,,,,
 "Baker's Pizza","FRI & SAT: 11:00 AM - 4:00 AM
 MON & TUE: CLOSED
-",40.7294326,,"201 Avenue A, New York, NY 10009","11:00 AM","https://bakerspizzanyc.square.site/s/order","2021-09-10T04:00:00.000Z","Restaurants","212-777-7477","https://www.instagram.com/bakerspizzanyc/",401," IG & Website are current (for both locations), Hours confirmed by phone 
-",,,"12:00 AM","https://squareup.com/gift/2F2PYQ00587DQ/order",,"Pizza","recTvucs7f8c2rTC2",,-73.9812956,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","201","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","Yes","Yes",,"Yes",,,,,,,,
+",40.7294326,,"201 Avenue A, New York, NY 10009","11:00 AM","https://bakerspizzanyc.square.site/s/order","2021-09-10T04:00:00.000Z","Restaurants","212-777-7477","https://www.instagram.com/bakerspizzanyc/",401,"\*\*\*\*\*\*PHONE GOES STRAIGHT TO VOICEMAIL, IG & Website are current (for both locations), Hours confirmed by phone 
+",,,"12:00 AM","https://squareup.com/gift/2F2PYQ00587DQ/order",,"Pizza","recTvucs7f8c2rTC2",,-73.9812956,"EVCC","Yes",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","201","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","Yes",,,"Yes",,,,,,,,
 "Choice Cleaners 7","SAT: 9:30 AM - 4:30 PM
 SUN: Closed
 Offering wash and fold, dry clean, tailoring, alteration, shoe shine, shoe clean, and leather alterations. Delivery ""in East Village area.""
-",40.723074,,"24 Avenue A, New York, NY 10009","9:00 AM",,"2021-07-21T04:00:00.000Z","Laundry","(212) 387-8986",,400,"confirmed hours by phone 
-",,,"5:30 PM",,,"Cleaners","recNNORdY5RdIp9nl",,-73.985494,"EVCC","Yes",true,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","24","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","Yes",,,,,,,,,,,
-"Cloak & Dagger","SUN & SAT: 11:00 AM - 7:00 PM
-",40.728542,"shop@cloakanddaggernyc.com","334 E. 9th Street, New York, NY 10003","11:30 AM","www.cloakanddaggernyc.com","2021-07-21T04:00:00.000Z","Retail","212-673-0500","https://www.instagram.com/cloakndaggernyc/",399,"IG is current, Confirmed hours by Phone 	
+",40.723074,,"24 Avenue A, New York, NY 10009","8:30 AM",,"2021-12-03T05:00:00.000Z","Laundry","(212) 387-8986",,400,"confirmed hours by phone 
+",,,"5:30 PM",,,"Cleaners","recNNORdY5RdIp9nl",,-73.985494,"EVCC","Yes",true,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","24","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","Yes",,,,,,,,,,,
+"Cloak & Dagger","SAT: 11:00 AM - 7:00 PM
+SUN: 11:00 AM - 6:00 PM
+",40.728542,"shop@cloakanddaggernyc.com","334 E. 9th Street, New York, NY 10003","11:30 AM","www.cloakanddaggernyc.com","2021-12-03T05:00:00.000Z","Retail","212-673-0500","https://www.instagram.com/cloakndaggernyc/",399,"IG is current, Confirmed hours by Phone 	
 ",,"SCORE 10% OFF WHEN YOU [SIGN OUR MAILING LIST!](https://cloakanddaggernyc.us3.list-manage.com/subscribe/post?u=232bccae8be17d89fd85ebc39&id=944eba5b62)
-","7:30 PM",,,"Fashion","rec5rIvQEELuWpuH0","Yes",-73.985988,"EVCC","Yes",true,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","334","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,,,,,,,,,,
-"Walgreens (1st Avenue)","Pharmacy Hours:
+","7:30 PM",,,"Fashion","rec5rIvQEELuWpuH0","Yes",-73.985988,"EVCC","Yes",true,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","334","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,,,,,,,,,,
+"Walgreens (1st Avenue)","SAT & SUN: 7:00 AM - 10:00 PM
+Pharmacy Hours:
 MON - FRI: 8:00 AM - 8:00 PM
-SAT: 9:00 AM - 6:00_ _PM
-SUN: Closed
-",40.7333,,"298 1st Avenue, New York, NY 10009","7:00 AM ","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","2021-07-21T04:00:00.000Z","Health","212-777-0740",,398,"Website is current, Confirmed Hours by Phone
-",,,"10:00 PM",,,"Pharmacy",,,-73.980778,"PG","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","298","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
+SAT: 9:00 AM - 6:00 PM
+SUN: CLOSED 
+",40.7333,,"298 1st Avenue, New York, NY 10009","7:00 AM ","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","2021-12-03T05:00:00.000Z","Health","212-777-0740",,398,"Website is current, Confirmed Hours by site
+",,,"11:00 PM",,,"Pharmacy",,,-73.980778,"PG","Yes",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","298","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
 "Walgreens (3rd Avenue)","Pharmacy Hours:
 MON - FRI: 8:00 AM - 8:00 PM 
 SAT: 9:00 AM - 6:00 PM
 SUN: Closed 
-",40.73351,,"133 3rd Avenue, New York, NY 10003","7:00 AM ","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","2021-08-06T23:35:00.000Z","Health","212-529-7140",,397,"PERMANENTLY CLOSED. VACANT. Closed location still listed on website.
-",,,"10:00 PM",,"https://evgrieve.com/2020/03/that-duane-reade-by-walgreens-closes.html","Pharmacy",,,-73.98664,"PG","No",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","133","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",,,,,,,,true,,,,
+",,,"3rd Avenue, New York, NY 10003","7:00 AM ","https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","2021-08-06T23:35:00.000Z","Health","212-529-7140",,397,"PERMANENTLY CLOSED. VACANT. Closed location still listed on website.
+",,,"10:00 PM",,"https://evgrieve.com/2020/03/that-duane-reade-by-walgreens-closes.html","Pharmacy",,,,"PG","No",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","3rd","Avenue, New York, NY 10003","Avenue"," New York, NY 10003"," New York",,,,,,,,true,,,,
 "Duane Reade (Union Square)","Pharmacy Hours:
 MON - FRI: 9:00 AM - 9:00 PM
 SAT: 9:00 AM - 6:00 PM
 SUN: Closed
-",40.734496,,"1 Union Square South, New York, NY 10003","7:00 AM ","https://www.walgreens.com/locator/duane+reade-1+union+square+south-new+york-ny-10003/id=14468","2021-07-21T04:00:00.000Z","Health","212-358-8206",,396," Website is current, Confirmed Hours by Phone
-",,,"10:00 PM",,,"Pharmacy",,,-73.990217,"PG","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","1","Union Square South, New York, NY 10003","Union Square South"," New York, NY 10003"," New York","Yes",,,,,,,true,,,,
+",40.734496,,"1 Union Square South, New York, NY 10003","7:00 AM ","https://www.walgreens.com/locator/duane+reade-1+union+square+south-new+york-ny-10003/id=14468","2021-12-03T05:00:00.000Z","Health","212-358-8206",,396," Website is current, Pharmacy confirmed Hours by Phone, Store hours by site
+",,,"11:00 PM",,,"Pharmacy",,,-73.990217,"PG","Yes",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","1","Union Square South, New York, NY 10003","Union Square South"," New York, NY 10003"," New York","Yes",,,,,,,true,,,,
 "Duane Reade (Avenue B)","Pharmacy Hours:
 MON - FRI: 8:00 AM - 8:00 PM
 SAT: 9:00 AM - 6:00 PM
 SUN: 10:00 AM - 6:00 PM
-",40.722159,,"194 E. 2nd Street, New York, NY 10009","7:00 AM ","https://www.walgreens.com/locator/duane+reade-194+e+2nd+st-new+york-ny-10009/id=14354","2021-07-21T04:00:00.000Z","Health","212-375-9000",,395,"Website is current, Confirmed Hours by Phone
-",,,"10:00 PM",,,"Pharmacy","recG6ybtFWOVHO3Kj",,-73.983419,"PG","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","194","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
+",40.722159,,"194 E. 2nd Street, New York, NY 10009","12:00 AM ","https://www.walgreens.com/locator/duane+reade-194+e+2nd+st-new+york-ny-10009/id=14354","2021-12-03T05:00:00.000Z","Health","212-375-9000",,395,"Website is current, Pharmacy confirmed Hours by Phone, store hours by website
+",,,"12:00 AM",,,"Pharmacy","recG6ybtFWOVHO3Kj",,-73.983419,"PG","Yes",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","194","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","Yes",,,,,,,true,,,,
 "Walgreens (4th Avenue)","Open 24/7!
 Pharmacy Hours:
-MON - FRI: 9:00 AM - 9:00 PM
+MON - FRI: 9:00 AM - 7:00 PM
 SAT: 9:00 AM - 6:00 PM
-SUN: 10:00 AM - 6:00 PM
-",40.73371,,"145 4th Avenue, New York, NY 10003","12:00 AM","https://www.walgreens.com/locator/walgreens-145+4th+ave-new+york-ny-10003/id=6159","2021-08-03T04:00:00.000Z","Health","(212) 677-0214",,394,"Confirmed Hours by Phone
-",,,"12:00 AM",,,"Pharmacy",,,-73.989677,"PG","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","145","4th Avenue, New York, NY 10003","4th Avenue"," New York, NY 10003"," New York","Yes",,,,,,,true,,,,
+SUN: CLOSED
+",40.73371,,"145 4th Avenue, New York, NY 10003","12:00 AM","https://www.walgreens.com/locator/walgreens-145+4th+ave-new+york-ny-10003/id=6159","2021-12-03T05:00:00.000Z","Health","(212) 677-0214",,394,"Confirmed Hours by site
+",,,"12:00 AM",,,"Pharmacy",,,-73.989677,"PG","Yes",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","145","4th Avenue, New York, NY 10003","4th Avenue"," New York, NY 10003"," New York","Yes",,,,,,,true,,,,
 "Duane Reade (Astor Place)","Pharmacy Hours:
 MON - FRI: 9:00 AM - 9:00 PM
 SAT: 12:00 PM - 6:00 PM
@@ -3959,8 +3962,8 @@ MON: Closed
 ","7:00 PM","https://www.azaleasnyc.com/products/azaleas-gift-card",,"Fashion","recZSwXG6cgLjwCv9","Yes",-73.987196,"EVCC","Yes",true,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","140","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,,,,,,,,,,
 "Casey's Rubber Stamps","SUN: 2:30 PM - 7:00 PM
 and other hours by chance!
-",40.729688,"Info@caseyrubberstamps.com","322 E. 11th Street, New York, NY 10003","1:00 PM","https://www.caseyrubberstamps.com","2021-08-11T04:00:00.000Z","Retail","917-669-4151","https://www.instagram.com/caseysrubberstamps/",385,"IG and Website are current, Confirmed hours by Phone
-",,,"8:00 PM",,,"Stationery","rec7xzuIE1zcCL0xI","Yes",-73.985282,"EVCC","Yes",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","322","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,,,,,,,,,,
+",40.729688,"Info@caseyrubberstamps.com","322 E. 11th Street, New York, NY 10003","1:00 PM","https://www.caseyrubberstamps.com","2021-12-03T05:00:00.000Z","Retail","917-669-4151","https://www.instagram.com/caseysrubberstamps/",385,"IG and Website are current, Confirmed hours by Phone
+",,,"8:00 PM",,,"Stationery","rec7xzuIE1zcCL0xI","Yes",-73.985282,"EVCC","Yes",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","322","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,,,,,,,,,,
 "Pink Olive","SAT: 11:00 PM - 7:00 PM
 SUN: 11:00 PM - 6:00 PM
 ",40.727592,"shop@pinkolive.com","439 E. 9th Street, New York, NY 10009","12:00 PM","https://pinkolive.com","2021-07-20T04:00:00.000Z","Retail","212-780-0036","https://www.instagram.com/pinkoliveshop/",384,"IG and Website are current, Confirmed Hours by Phone
@@ -4011,16 +4014,9 @@ Alphabets moved to 64 Ave A in 2014. Opened at 115 Ave A in 1985.
 "Quick Coin One Laundromat","
 ",40.729323,,"175 1st Avenue, New York, NY 10003","10:00 AM",,"2021-12-02T05:00:00.000Z","Laundry","(212) 982-1575",,373,"Confirmed Hours by Phone
 ",,,"10:30 PM",,,"Laundromat","rec2pXUOXfeKJgVdC",,-73.984377,"EVCC","Yes",true,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","175","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","Yes",,,,,,,,,,,
-"Tian Tian Laundromat","Closed until 4/31
-",40.720302,,"137 Allen Street, New York, NY 10002","8:00 AM",,"2020-04-10T04:00:00.000Z","Laundry","(212) 475-0868",,371,"\*\*\*\*10002 Non working number, no signs of life since Covid 
-",,,"9:00 PM",,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]","Laundromat",,,-73.990106,"PG","No",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002","137","Allen Street, New York, NY 10002","Allen Street"," New York, NY 10002"," New York",,,,,,,,,,,,
 "The Laundry Room of Essex","Drop off only
 ",40.719495,,"121 Rivington Street, New York, NY 10002","8:00 AM",,"2021-12-02T05:00:00.000Z","Laundry","(212) 475-0070",,370,"Confirmed Hours by Phone 
 ",,,"7:00 PM",,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]","Laundromat",,,-73.986433,"PG","Yes",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10002","121","Rivington Street, New York, NY 10002","Rivington Street"," New York, NY 10002"," New York",,,,,,,,,,,,
-"Green Gate Cleaners","SAT: 9:00 AM - 5:00 PM
-SUN: Closed 
-",40.721878,,"179 Orchard Street, New York, NY 10002","9:00 AM",,"2021-01-25T05:00:00.000Z","Laundry","N/A",,369,"\*\*\*\*\*10002 (nonworking phone) hours from Google
-",,,"6:00 PM",,"(LES Businesses sheet) [https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0]","Cleaners",,,-73.988564,"PG",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002","179","Orchard Street, New York, NY 10002","Orchard Street"," New York, NY 10002"," New York",,,,,,,,,,,,
 "Ms. Bubble Laundromat","
 ",40.718647,," 202 Rivington Street, New York, NY 10002","8:00 AM","http://www.missbubblelaundromat.com/202-rivington-st","2020-11-27T17:45:00.000Z","Laundry","(212) 475-0110",,368,"PERMANENTLY CLOSED. LES.
 ",,,"8:00 PM",,,"Laundromat",,,-73.982988,"EVCC","No",true,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002",,"202 Rivington Street, New York, NY 10002","202 Rivington Street"," New York, NY 10002"," New York",,,,,,,"2020-12-01",,,,,
