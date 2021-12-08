@@ -3576,18 +3576,18 @@ SUN: 9:30 AM - 10:00 PM
 ","10:00 PM","https://www.rootnbone.com/",,,"American","EVCC",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","200","E. 3rd Street,  New York, NY 10009","E. 3rd Street","  New York, NY 10009","  New York",40.722667,-73.983324,"Yes",,,"rec1NnI84C6vOYHTx",,"Yes","Yes",,"Yes",,,,,,,
 "Niconeco Zakkaya","SUN: 12:00 PM - 6:00 PM
 
-","shop@niconeco.com","263 E. 10th Street,  New York, NY 10009","12:00 PM","https://www.niconeco.com","2021-07-28T04:00:00.000Z","Retail"," ","https://www.instagram.com/niconeco_zakkaya/",483," IG and website are current, Hours from website
+","shop@niconeco.com","263 E. 10th Street,  New York, NY 10009","12:00 PM","https://www.niconeco.com","2021-12-07T05:00:00.000Z","Retail"," ","https://www.instagram.com/niconeco_zakkaya/",483," IG and website are current, Hours from website
 
-","7:00 PM",,,,"Stationery","EVCC",true,"Opened","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","263","E. 10th Street,  New York, NY 10009","E. 10th Street","  New York, NY 10009","  New York",40.728505,-73.983239,"Yes",,"learn about points [here](https://www.niconeco.com/pages/necopoints)!
+","7:00 PM",,"https://www.instagram.com/niconeco_zakkaya/",,"Stationery","EVCC",true,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","263","E. 10th Street,  New York, NY 10009","E. 10th Street","  New York, NY 10009","  New York",40.728505,-73.983239,"Yes",,"learn about points [here](https://www.niconeco.com/pages/necopoints)!
 ",,"Yes","Yes",,,,,,,,,,
 "CAVA","SAT & SUN: Closed
 Use the CAVA app, or website to order! [http://order.cava.c](http://order.cava.com)om 
-","hello@cava.com","143 4th Avenue, New York, NY 10003","10:00 AM","https://order.cava.com/stores","2021-08-02T04:00:00.000Z","Restaurants","(646) 416-6440","https://www.instagram.com/cava/?hl=en",482,"Hours confirmed by hone
-","10:00 PM",,,,"Mediterranean","EVCC",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","143","4th Avenue, New York, NY 10003","4th Avenue"," New York, NY 10003"," New York",40.7337718,-73.9896361,"Yes",,,,,"Yes",,,,,,,,,,
-"Mama Fina's","SAT - SUN: noon - 9:30 PM 
-Closed: TUE
-",,"167 Avenue A, New York, NY 10009","2:00 PM","https://www.mamafinas.com/nycmenu","2021-07-28T04:00:00.000Z","Restaurants","(917) 262-0893","https://www.instagram.com/mamafinasnyc/",481,"Confirmed hours by call, Last ig post Aug 2020, Website is current
-","9:30 PM",,,,"Filipino","EVCC",true,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","167","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.728431,-73.982093,"Yes",,,"recRseADNri1NLG3B",,"Yes","Yes",,,,,,,,,
+","hello@cava.com","143 4th Avenue, New York, NY 10003","10:45 AM","https://order.cava.com/stores","2021-12-07T05:00:00.000Z","Restaurants","(646) 416-6440","https://www.instagram.com/cava/?hl=en",482,"Hours confirmed by hone
+","10:00 PM",,"https://www.instagram.com/cava/?hl=en",,"Mediterranean","EVCC",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","143","4th Avenue, New York, NY 10003","4th Avenue"," New York, NY 10003"," New York",40.7337718,-73.9896361,"Yes",,,,,"Yes",,,,,,,,,,
+"Mama Fina's","SAT - SUN: 11:00 AM - 9:00 PM
+TUE: CLOSED
+",,"167 Avenue A, New York, NY 10009","2:00 PM","https://www.mamafinas.com/nycmenu","2021-12-07T05:00:00.000Z","Restaurants","(917) 262-0893","https://www.instagram.com/mamafinasnyc/",481,"Phone keeps ringing, Hours via site (very similar to previous phone hours), Last IG post October 26 2021 (seem to only post updates), Website is current
+","9:00 PM",,,,"Filipino","EVCC",true,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","167","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.728431,-73.982093,"Yes",,,"recRseADNri1NLG3B",,"Yes","Yes",,"Yes",,,,,,,
 "P.S. 34 Franklin D. Roosevelt","MON - FRI Only 
 Pickup Community Meals
 \*\*No registration or ID required\*\*
@@ -3595,12 +3595,12 @@ Daily menu [[here]](https://www.schools.nyc.gov/school-life/food/menus/school-lu
 ",," 730 E. 12th Street, New York, NY 10009","3:00 PM ","https://www.opt-osfns.org/schoolfoodny/meals/default.aspx#Result","2021-09-28T04:00:00.000Z","Free Food",,,480,"Stopped distribution when schools reopened as per CB 3.
 ","5:00 PM",,,,"Meals","EVCC",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009",,"730 E. 12th Street, New York, NY 10009","730 E. 12th Street"," New York, NY 10009"," New York",40.726144,-73.975068,"No",,,,,,,,,,,,,,,
 "B-NYC Dollar Plus","
-",,"215 Avenue B, New York, NY 10009","10:00 AM",,"2021-08-06T04:00:00.000Z","Retail",,,479,"Laura accepted Google hours 
-","8:00 PM",,,,"Dollar Store","PG",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","215","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.728765,-73.978204,"Yes",,,"recKWeGFHdG5y9EI2",,,,,,,,,,,,
-"Sabor A Mexico","SAT & SUN: noon - 9:00 PM 
-Ask about our phone specials! (212) 533-4002
-","saboramexicotaquerianyc@gmail.com","160 1st Avenue, New York, NY 10009","12:00 PM",,"2021-07-29T01:15:00.000Z","Restaurants","(212) 533-4002","https://www.instagram.com/saboramexico_les/?hl=en",478,"IG is current, Hours confirmed by phone
-","10:00 PM",,,,"Mexican","EVCC",true,"Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","10009","160","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.728546,-73.984399,"Yes",,"
+",,"215 Avenue B, New York, NY 10009","10:00 AM",,"2021-12-07T05:00:00.000Z","Retail",,,479,"Laura accepted Google hours 
+","8:00 PM",,,,"Dollar Store","PG",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","215","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.728765,-73.978204,"Yes",,,"recKWeGFHdG5y9EI2",,,,,,,,,,,,
+"Sabor A Mexico","SUN: noon - 10:00 PM 
+
+","saboramexicotaquerianyc@gmail.com","160 1st Avenue, New York, NY 10009","12:00 PM",,"2021-12-08T02:15:00.000Z","Restaurants","(212) 533-4002","https://www.instagram.com/saboramexico_les/?hl=en",478,"Last IG post July 2021, Hours confirmed by phone
+","9:30 PM",,,,"Mexican","EVCC",true,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","160","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.728546,-73.984399,"Yes",,"
 ","rec8fdVTDStZ9wFOH",,"Yes",,,"Yes",,,,,,,
 "Clove Hair Salon","By appointment only
 WED: noon - 7:00 PM
@@ -3609,7 +3609,7 @@ FRI: 10:00 AM - 7:00 PM
 SAT & SUN: 9:00 AM - 6:00 PM
 MON - TUE: Closed
 
-","clovehair@gmail.com","102 Avenue B, New York, NY 10009",,"https://www.clovehairsalon.com/","2021-07-28T04:00:00.000Z","Services","(646) 478-7465","https://www.instagram.com/clovehairsalon/?hl=en",477,"IG & Website are current, hours confirmed by phone and corroborated by site
+","clovehair@gmail.com","102 Avenue B, New York, NY 10009",,"https://www.clovehairsalon.com/","2021-12-07T05:00:00.000Z","Services","(646) 478-7465","https://www.instagram.com/clovehairsalon/?hl=en",477,"IG & Website are current, hours confirmed by phone and corroborated by site
 ",,,,,"Hair","EVCC",true,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","102","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.72486,-73.98163,"Yes",,"
 ",,"Yes",,,,,,,,,,,
 "Lovemore And Do Salon","MON: CLOSED
@@ -3620,8 +3620,8 @@ Call for appointments
 ",,"69 1st Avenue, New York, NY 10003","9:00 AM","http://orderdowntownbakerycocinamexicana.com/","2021-12-07T05:00:00.000Z","Restaurants","212-254-1757",,475,"Hours confirmed by phone
 ","9:00 PM",,,,"Mexican","EVCC",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","69","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",40.72545,-73.987163,"Yes",,"
 ","recBaWkQ4PnvWOQJg",,"Yes",,,,,,,,,,
-"Ave B Beer & Cigars",,"contact@evsmokes.com","206 Avenue B, New York, NY 10009","9:00 AM","https://evsmokesusa.com/","2021-07-28T04:00:00.000Z","Retail","(212) 228-2807",,474,"\*\*\*\*WEBSITE IS CONFUSING Hours confirmed by phone, Website is current
-","12:00 AM",,,,"Smoke Shop","EVCC",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","206","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.728519,-73.978929,"Yes",,,,,,,,,,,,,,,
+"Ave B Beer & Cigars",,,"206 Avenue B, New York, NY 10009","9:00 AM",,"2021-12-07T05:00:00.000Z","Retail","(212) 228-2807",,474,"Hours confirmed by phone
+","2:00 PM",,,,"Smoke Shop","EVCC",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","206","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.728519,-73.978929,"Yes",,,,,,,,,,,,,,,
 "Caracas Arepa Bar","Order via their app or phone. Along with regular options, selling a variety of meal kits.
 ","tellme@caracasarepabar.com","91 E. 7th Street, New York, NY 10009","12:00 PM","http://www.caracasarepabar.com/","2020-11-08T05:00:00.000Z","Restaurants","(212) 228-5062","https://www.instagram.com/caracasarepabar/",473,"PERMANENTLY CLOSED. Confirm VACANT?
 Moved from 93.5 E. 7th Street after September 2016 fire. Williamsburg location remains open. 
@@ -3679,7 +3679,7 @@ PLS DO NOT call director on personal cell: (347) 395-6377 from reclaimed organic
 ",,,,,"Composting","EVCC",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","415","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",40.726203,-73.976459,,,,,"Yes",,,,,,,,,,,
 "Bowery & Vine","FRI & SAT: 11:00 AM - 10:00 PM  
 SUN: noon - 8:00 PM
-","info@boweryandvine.com","269 Bowery, New York, NY 10002","11:00 AM","https://www.boweryandvine.com/","2021-12-07T05:00:00.000Z","Retail","(212) 941-7943","https://www.instagram.com/BoweryandVine/",459,"IG and website are current, Confirmed hours by website
+","info@boweryandvine.com","269 Bowery, New York, NY 10002","11:00 AM","https://www.boweryandvine.com/","2021-12-07T05:00:00.000Z","Retail","(212) 941-7943","https://www.instagram.com/BoweryandVine/",459,"IG is semi current and website is current, Confirmed hours by website
 ","10:00 PM",,,,"Wine","EVCC",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10002","269","Bowery, New York, NY 10002","Bowery"," New York, NY 10002"," New York",40.723581,-73.992564,"Yes",,"[10% discount](https://www.boweryandvine.com) on a 12 bottle case of Still Wine!
 Enter Promo Code CASEDISCOUNT 
 	
