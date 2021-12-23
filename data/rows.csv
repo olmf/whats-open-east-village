@@ -3408,10 +3408,10 @@ SUN: 3:00 PM - 11:00 PM
 ",40.728573,"341 E. 9th Street, New York, NY 10009","2021-12-22T19:49:00.000Z","Restaurants",560,"Hours confirmed by phone, Website and IG are current 
 ",,,"Bar","reca4pf9bEovuD5BU",-73.985365,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","341","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","https://www.instagram.com/theimmigrant_nyc/","4:00 PM","www.theimmigrantnyc.com","(646) 308-1724",,"12:30 AM",,,,,true,,,"mgmt@theimmigrantnyc.com","Yes",,,"Yes",,,,
 "Fat Buddha","SAT & SUN: noon - 11:00 PM
-",40.72973,"212 Avenue A, New York, NY 10009","2021-08-04T04:00:00.000Z","Restaurants",559,"Number is not in service , looks active and back up on their IG,Source link isn’t available anymore, now says hope to open in Sept
-Temporarily closed. IG profile says hoping to open in August \*\*\*Laura check back Fat Whiskey delivery???
-",,,"Bar",,-73.9808,"EVCC","No","Closed","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","10009","212","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/fatbuddhabar/?hl=en","5:00 PM","http://www.fatbuddhabar.com",,,"11:00 PM",,,"
-",,true,,,"info@fatbuddhabar.com","No",,,"Yes",,,,
+",40.72973,"212 Avenue A, New York, NY 10009","2021-08-04T04:00:00.000Z","Restaurants",559,"Number is not in service, looks active and back up on their IG, Source link isn’t available anymore, now says hope to open in Sept
+Temporarily closed. IG profile says hoping to open in August
+",,,"Bar",,-73.9808,"EVCC",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","212","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/fatbuddhabar/?hl=en","5:00 PM","http://www.fatbuddhabar.com",,,"11:00 PM",,,"
+",,true,,,"info@fatbuddhabar.com",,,,"Yes",,,,
 "Strings Ramen","FRI, SAT & SUN: 11:00 AM - 10:00 PM
 
 ",40.730833,"188 2nd Avenue, New York, NY 10003","2021-12-21T22:47:00.000Z","Restaurants",558,"Hours confirmed by phone, Website and IG are current 
@@ -3421,8 +3421,8 @@ Check [Facebook](https://www.facebook.com/CaravanofDreams) for updates!
 ",40.726385,"405 E. 6th Street, New York, NY 10009","2021-12-21T22:46:00.000Z","Restaurants",557,"Hours confirmed by phone
 ",,,"Vegan,Cafe,Juice Bar","recNkmMPkuw65F1hj",-73.985663,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","405","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/caravanofdreamsny/","1:00 PM","http://caravanofdreams.net/","(212) 254-1613",,"10:00 PM",,,,,,,,"caravanofdreams@gmail.com","Yes",,,"Yes","recxZRnoi2axwwa2W",,,
 "Sahara East","
-",40.72945,"184 1st Avenue, New York, NY 10009",,"Restaurants",556,"\*\*\*\*Destiny call back later, Last IG post was April 25th, definitely there and open later than 10pm
-",,,"Middle Eastern","recVtps03umkvA7kw",-73.98363,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","184","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/saharaeastnyc/?hl=en","12:00 PM",,"212-353-9000",,,,,,,,,,,"Yes",,,"Yes",,,,
+",40.72945,"184 1st Avenue, New York, NY 10009","2021-12-23T20:55:00.000Z","Restaurants",556,"\*\*\*\*\*Laura call for hours, IG is current, Google ""website"" just circles back to instagram
+",,,"Middle Eastern","recVtps03umkvA7kw",-73.98363,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","184","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/saharaeastnyc/?hl=en","12:00 PM",,"212-353-9000",,,,,,,,,,,"Yes",,,"Yes",,,,
 "East Village Social","
 ",40.726768,"126 St. Mark's Place, New York, NY 10009","2021-12-21T05:00:00.000Z","Restaurants",555,"\*\*\*\*\*Temporarily closed for renovations since early November 2021.
 ","https://evgrieve.com/2021/12/east-village-social-has-not-been-open.html",,"Bar","recAOVdEzxpzsBRFX",-73.983816,"EVCC",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","126","St. Mark's Place, New York, NY 10009","St. Mark's Place"," New York, NY 10009"," New York","https://www.instagram.com/eastvillagesocial/","2:00 PM","http://www.evsnyc.com/","N/A",,,,,"
@@ -3494,16 +3494,19 @@ Open for orders online 24/7!
 "Your Desire In Food","
 ",40.72406,"226 E. 7th Street, New York, NY 10009","2021-12-21T20:30:00.000Z","Groceries",537,"Hours confirmed by phone 
 ",,,"Deli ","recptTUm8vrZxo6em",-73.97898,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","226","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,"7:00 AM",,"(212) 228-9824",,"12:00 AM ",,,,,,,,,"Yes",,,,,,,
-"Avenue C Laundromat","Drop off only, no self-service
-Website is current. 
+"Avenue C Laundromat","Website is current. 
 Wheelchair accessible entry 
 
-",40.72288,"69 Avenue C, New York, NY 10009","2021-12-21T20:23:00.000Z","Laundry",536,"\*\*\*\*Laura visit, called multiple times and did not get an answer, hours from website \*\*\*\*\*Call again tomorrow 
+",40.72288,"69 Avenue C, New York, NY 10009","2021-12-21T20:23:00.000Z","Laundry",536,"Hours from website confirmed in window.
 
 ",,,"Laundromat","recOaTtK71Es9Tf6H",-73.98006,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","69","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"8:00 AM","http://69-avenue-c-laundromat.edan.io/","212-388-9933",,"8:00 PM",,,,,,,,,,,,,,,,
-"Nur Grocery Two","Open 24/7!
-",40.72224,"54 Avenue C, New York, NY 10009","2021-12-21T20:15:00.000Z","Groceries",535,"\*\*\*\*\*Laura visit, no answer, Google says temporarily closed. 
-",,,"Deli ","recDxORtjMaz1DZwk",-73.97983,"EVCC",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","54","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"12:00 AM",,"(646) 370-5327",,"12:00 AM",,,,,,,,,,,,,,,,
+"Nur Grocery Two","
+",40.72224,"54 Avenue C, New York, NY 10009","2021-12-21T20:15:00.000Z","Groceries",535,"Laura confirmed (no answer on listed phone), Google shows alt number:  [(646) 861-3386](https://www.google.com/search?q=nur+grocery+two+54+avenue+c%2C+new+york%2C+ny+10009&hl=en&biw=1366&bih=617&sxsrf=AOaemvKBw5j_EYrDV0Z__7S80RB538eP2Q%3A1640292779836&ei=q-HEYaerMvGnptQPy7uh8Ak&oq=nur+grocery+two&gs_lcp=Cgdnd3Mtd2l6EAEYADIECCMQJzIECCMQJzILCC4QgAQQxwEQrwE6BwgjEOoCECc6CwguEMcBEK8BEJECOgUIABCRAjoOCC4QgAQQsQMQxwEQ0QM6CwguEIAEELEDEIMBOgsIABCABBCxAxCDAToICC4QgAQQsQM6BQgAEIAEOggIABCABBCxAzoOCC4QsQMQgwEQxwEQowI6CwgAEIAEELEDEMkDOgUIABCSAzoKCC4QxwEQrwEQQzoHCC4QgAQQCjoFCC4QgAQ6BAgAEAo6BwguELEDEAo6CggAELEDEIMBEAo6CwgAEBYQChAeEIsDOgkIABAWEB4QiwM6BggAEBYQHjoCCCZKBAhBGABKBAhGGABQ1gVY4C1gnjxoAXACeACAAYQBiAGEDJIBAzcuOJgBAKABAbABCrgBAsABAQ&sclient=gws-wiz#)
+
+
+
+
+",,,"Deli ","recDxORtjMaz1DZwk",-73.97983,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","54","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"6:00 AM",,"(646) 370-5327",,"12:00 AM",,,,,,,,,,,,,,,,
 "Yoli","
 ",40.72167885,"274 E. 3rd Street, New York, NY 10009","2021-12-21T20:09:00.000Z","Restaurants",534,"Hours confirmed by phone 
 ",,,"Dominican","recZ61uWklj7iClXN",-73.98039484,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","274","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,"7:00 AM",,"(212) 420-1075",,"7:00 PM",,,,,true,,,,,,,,,,,
