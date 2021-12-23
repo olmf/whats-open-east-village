@@ -85,8 +85,8 @@ Opened 12/1/2021 in former Spiegel location.
 ",40.72278711,"20 Avenue A, New York, NY 10009","2021-12-07T05:00:00.000Z","Groceries",1581,"Website is current. Reoccupied by Fancy NY Grill and Deli Fall 2021.
 ",,,"Deli ",,-73.98584895,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","20","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"12:00 AM ","http://fancynygrilldeli.com/","(646) 329-6293",,"12:00 AM",,,,,,,,,"Yes",,,,,,,
 "Kadidja Natural Organic Shea","Holiday pop-up through Jan 9, 2021!
-",,"7 E. 14th Street, New York, NY 10009","2021-12-06T05:00:00.000Z","Health",1580,"Hours from Kadidja IG post.
-","https://www.instagram.com/p/CXHfSnolFno/",,"Natural & Alternative",,,"EVCC",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","7","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","https://www.instagram.com/fourteenthnyc/?hl=en","11:00 AM","https://www.kadidja.nyc","(917) 596-5258",,"7:00 PM",,,,,true,,"https://www.kadidja.nyc/product/gift-card/","kadidja@kadidja.nyc",,true,,,,,,
+",40.735795916809465,"7 E. 14th Street, New York, NY 10009","2021-12-06T05:00:00.000Z","Health",1580,"Hours from Kadidja IG post.
+","https://www.instagram.com/p/CXHfSnolFno/",,"Natural & Alternative",,-73.9925065191126,"EVCC",,"Unknown","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","7","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","https://www.instagram.com/fourteenthnyc/?hl=en","11:00 AM","https://www.kadidja.nyc","(917) 596-5258",,"7:00 PM",,,,,true,,"https://www.kadidja.nyc/product/gift-card/","kadidja@kadidja.nyc",,true,,,,,,
 "Shop Fair","SAT & SUN: 8:00 AM - 10:00 PM
 ",40.72194,"42 Avenue C, New York, NY 10009","2021-12-04T00:32:00.000Z","Groceries",1578,"Website is current
 ",,,"Supermarket",,-73.98001,,"Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","42","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"7:00 AM ","https://shopfairsupermarkets.business.site/?m=true","(212) 614-8401",,"11:00 PM",,,,,,,,,,,,,,,,
@@ -779,9 +779,10 @@ Last seating is at 9:30 PM!
 "Museum of the American Gangster","Open only for private tours, [Email](mailto:museumoftheamericangangster@gmail.com) to schedule.
 ",40.727672,"80 St. Mark's Place, New York, NY 10003","2021-08-07T20:41:00.000Z","Arts & Culture",1307,"Information is from current website 
 ",,,"Museum","recMLCL6YbzdfpDZX",-73.985777,,"Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","80","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","https://www.instagram.com/museumoftheamericangangster/?hl=en",,"https://www.historic80stmarks.com/?fbclid=IwAR02R-d8_5EJ0UUQJq0nBfrxSrhcjb74oLz5qBuIbY8JCx4P0KWtiC-v4kM","(212) 288-5736",,,,,,,,,," museumoftheamericangangster@gmail.com",,,,,,,,
-"The Garret East","
-",40.7294306,"206 Avenue A, New York, NY 10009","2021-07-27T15:23:00.000Z","Restaurants",1304,"Hours from website
-","https://www.instagram.com/borrachitonyc/",,"Bar","recyoclSHEaJetdBf",-73.980746,"PG","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","206","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/thegarretbars/","3:00 PM","http://www.thegarreteast.com/","N/A",,"12:00 AM",,,,,,,,"GARRETEAST@GARRETNYC.COM",,,"Yes",,,,,
+"The Garret East","THURS & FRI: 5:00 PM - 3:00 AM
+",40.7294306,"206 Avenue A, New York, NY 10009","2021-12-23T16:23:00.000Z","Restaurants",1304,"Hours from website, IG is current, no phone number, for revisitation go to <https://resy.com/cities/ny/the-garret-cocteleria?date=2021-12-23&seats=2>
+
+","https://www.instagram.com/borrachitonyc/",,"Bar","recyoclSHEaJetdBf",-73.980746,"PG","Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","206","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/thegarretbars/","5:00 PM","http://www.thegarreteast.com/","N/A",,"1:00 AM",,,,,,,,"GARRETEAST@GARRETNYC.COM",,,"Yes",,,,,
 "Llama@thepark","In the kiosk at First Park!
 ",40.72297,"75 E. 1st Street, New York, NY 10003","2021-11-22T05:00:00.000Z","Cafes and Desserts",1303,"IG shows outdoor dining, hours from Lazy Llama Coffee Bar IG account,
 Lazy Llama outpost opened July 2021 in former Mudpark location
@@ -2366,26 +2367,27 @@ Not able to accept returns & exchanges at this location.
 ",40.72716,"218 E. 5th Street, New York, NY 10003","2021-07-23T20:12:00.000Z","Retail",830,"in limbo since covid shutdown, website says opening soon, no other info
 ",,,"Fashion","recjQXRMRp4bZpwLT",-73.99043,"EVCC",,"Unknown","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","218","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York",,"12:00 PM","http://caveism.com/","N/A ",,"6:00 PM",,,,,,,,,,,,,,,,
 "In Se","
-",40.72917275124385,"19 St. Mark's Place, New York, NY 10003","2021-07-23T19:19:00.000Z","Restaurants",829,"Confirmed hours and seating by phone
-","https://www.yelp.com/biz/in-se-new-york-2",,"Chinese",,-73.98872441310647,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","19","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","https://www.instagram.com/in.se.newyork/?hl=en","5:00 PM",,"(212) 598-1188",,"11:30 PM",,,"
+",40.72917275124385,"19 St. Mark's Place, New York, NY 10003","2021-12-23T20:19:00.000Z","Restaurants",829,"Last post on IG 8/3/21, Hours confirmed by phone 
+","https://www.yelp.com/biz/in-se-new-york-2",,"Chinese",,-73.98872441310647,"EVCC","Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","19","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","https://www.instagram.com/in.se.newyork/?hl=en","5:00 PM",,"(212) 598-1188",,"11:30 PM",,,"
 ",,true,,,"inse.media@gmail.com","Yes",,"Yes","Yes",,,,
-"Waxing Center EV","SUN: 11:00 AM - 6:00 PM
-",40.730509,"209 1st Ave, New York, NY 10003","2021-07-23T21:20:00.000Z","Services",828,"Confirmed Hours by Phone 	
-",,,"Skin Care,Waxing","recIOw505Xq8Nz10P",-73.983486,,"Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","209","1st Ave, New York, NY 10003","1st Ave"," New York, NY 10003"," New York",,"10:00 AM","https://www.waxingcenterev.com/index.html","(212) 729-8740",,"8:30 PM",,,,,,,,"waxingcenterev@gmail.com ",,,,,,,,
-"A-1 Record Shop","Shop now open 7 days a week! [online](https://www.discogs.com/seller/A1RecordShop/profile?page=2) always!
-",40.7258209,"439 E. 6th Street, New York, NY 10009","2021-07-23T15:20:00.000Z","Retail",827,"Hours from IG
-",,,"Records","reciO6MvBr5YjHeG7",-73.9844384,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","439","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/a1recordshop/","12:00 PM","https://www.discogs.com/seller/A1RecordShop/profile?page=2","(212) 473-2870",,"8:00 PM","Yes",,,,,,,"a1recordstore@gmail.com",,,,,,,,
+"Waxing Center EV","SUN: 10:00 AM - 7:00 PM
+",40.730509,"209 1st Ave, New York, NY 10003","2021-12-23T22:20:00.000Z","Services",828,"Confirmed Hours by Phone ,Website is current
+",,,"Skin Care,Waxing","recIOw505Xq8Nz10P",-73.983486,,"Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","209","1st Ave, New York, NY 10003","1st Ave"," New York, NY 10003"," New York",,"10:00 AM","https://www.waxingcenterev.com/index.html","(212) 729-8740",,"8:00 PM",,,,,,,,"waxingcenterev@gmail.com ",,,,,,,,
+"A-1 Record Shop","	
+",40.7258209,"439 E. 6th Street, New York, NY 10009","2021-12-23T16:20:00.000Z","Retail",827,"Hours from IG, Website is current	
+",,,"Records","reciO6MvBr5YjHeG7",-73.9844384,"EVCC","Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","439","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/a1recordshop/","12:00 PM","https://www.discogs.com/seller/A1RecordShop/profile?page=2","(212) 473-2870",,"8:00 PM","Yes",,,,,,,"a1recordstore@gmail.com",,,,,,,,
 "Lost City Oyster House","
 ",40.726306,"171 Avenue C, New York, NY 10009","2021-07-23T16:07:00.000Z","Restaurants",826,"Temporarily closed.
 Opened August 2020. Formerly The Lost Lady. No takeout, just outdoor seating.
 ",,,"Bar,Seafood","reczdThHG4SakttlC",-73.9776055,"PG","No","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","171","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","https://www.instagram.com/lostcityoysterhouse/","4:00 PM","https://www.lostcityoysterhouse.com","(347) 455-0228",,"10:30 PM",,,,,,,,,,,,,,,,
-"Famous Cutz","SUN: 10:00 AM - 6:00 PM
-",40.72838,"156 1st Avenue, New York, NY 10009","2021-07-23T17:38:00.000Z","Services",825,"Confirmed Hours by Phone
-",,,"Hair","recKJuOoiuI5w6a9N",-73.98432,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","156","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/famouscutzny/","10:00 AM","https://www.famouscutzny.com/book-online","(646) 596-8467",,"8:00 PM",,"2021-06-25","
+"Famous Cutz","SAT: 10:00 AM - 8:00 PM
+SUN: 10:00 AM - 7:00 PM
+",40.72838,"156 1st Avenue, New York, NY 10009","2021-12-23T18:38:00.000Z","Services",825,"Confirmed Hours by website, IG is current
+",,,"Hair","recKJuOoiuI5w6a9N",-73.98432,"EVCC","Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","156","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/famouscutzny/","10:00 AM","https://www.famouscutzny.com/book-online","(646) 596-8467",,"8:30 PM",,"2021-06-25","
 ",,,,,"famouscutz@yahoo.com",,,,,,,,
 "Borrachito","Text 646 992 4743 for takeout + delivery
-",40.7294306,"206 Avenue A, New York, NY 10009","2021-07-23T15:23:00.000Z","Restaurants",824,"Phone number is a text only line, Hours from IG & website
-","https://www.instagram.com/borrachitonyc/",,"Mexican","recNGqOGDtWYtPqsz",-73.980746,"PG","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","206","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","http://instagram.com/borrachitonyc","11:00 AM","http://borrachitonyc.com/","(646) 992-4743",,"11:00 PM",,,,,,,,"info@denhospitality.com",,,,"Yes",,,,
+",40.7294306,"206 Avenue A, New York, NY 10009","2021-12-23T16:23:00.000Z","Restaurants",824,"Phone number is a text only, Hours from IG & website, both current
+","https://www.instagram.com/borrachitonyc/",,"Mexican","recNGqOGDtWYtPqsz",-73.980746,"PG","Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","206","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/borrachitotaqueria/","11:00 AM","http://borrachitonyc.com/","(646) 992-4743",,"11:00 PM",,,,,,,,"info@denhospitality.com",,,,"Yes",,,,
 "Anyway Cafe","
 ",40.725203,"34 E. 2nd Street, New York, NY 10003","2021-07-23T15:18:00.000Z","Restaurants",823,"Confirmed Hours by Phone
 ",,,"Russian,Bar,French","recyxqi0jmzKXp7wd",-73.9905016,"PG","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","34","E. 2nd Street, New York, NY 10003","E. 2nd Street"," New York, NY 10003"," New York","https://www.instagram.com/anyway_cafe/","4:00 PM","https://www.anywaycafe.com/east-village","(212) 533-3412",,"12:00 AM",,,,,,,,"info@anywaycafe.nyc.com",,,"Yes","Yes",,,,
@@ -2398,30 +2400,29 @@ SUN: noon - 9:00 PM
 ",40.72481,"543 E. 6th Street, New York, NY 10009","2021-08-09T19:56:00.000Z","Health",821,"Confirmed hours by phone
 ","https://square.site/appointments/book/4QMXETBDFPHX4/fit-ritual-inc-new-york-ny",,"Fitness","recSc1yaYiL0hhFUB",-73.98185,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","543","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/fitritualnyc/","6:00 AM","http://www.fitritualnyc.com","(646) 707-7332",,"9:00 PM",,,"
 ",,,,,"contact@fitritualnyc.com",,,,,,,,
-"Pineapple Club","MON: 5:00 PM - 10:00 PM
-TUE & WED: 5:00 PM - 11:00 PM
-THUR: 5:00 PM - 12:00 AM 
-FRI: 5:00 PM - 12:00 AM 
-SAT: 12:00 PM - 2:00 AM 
-SUN: 12:00 PM - 10:00 PM  
+"Pineapple Club","SAT & SUN: NOON - 11:00 PM
+[Book a table! ](https://www.opentable.com/restref/client/?rid=1050919&restref=1050919&partysize=2&datetime=2021-12-23T19%3A00&lang=en-US&r3uid=ZfyBBwj1EB&ot_source=Restaurant%20website&corrid=76e344af-c8ff-4104-a823-fef1a907d01b)
 
-",40.72538,"509 E. 6th Street, New York, NY 10009","2021-07-23T19:49:00.000Z","Restaurants",820,"Confirmed hours by phone, said hours on google are current.
-",,,"Bar","rec8x2rrUwUVPtfAl",-73.98319,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","509","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/pineappleclubnyc/",,"https://linktr.ee/pineappleclub/","(212) 697-8600",,,,,,,,,,"info@pineappleclub.com",,,"Yes","Yes",,,,
-"Club Cumming",,40.72543,"505 E. 6th Street, New York, NY 10009","2021-07-23T19:41:00.000Z","Restaurants",819,"\*\*\*\*\*Call to confirm, hours from facebook & yelp, IG & Facebook is current
-","https://www.facebook.com/clubcumming",,"Bar","reccceGlSlBqxAKNU",-73.98334,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","505","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/clubcumming/","5:30 PM","https://clubcummingnyc.com","(917) 265-8006",,"4:00 AM",,,"
+",40.72538,"509 E. 6th Street, New York, NY 10009","2021-12-23T20:49:00.000Z","Restaurants",820,"Infrequent posting on IG but current, website is current, as per phone hours from google 
+",,,"Bar","rec8x2rrUwUVPtfAl",-73.98319,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","509","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/pineappleclubnyc/","5:00 PM","https://linktr.ee/pineappleclub/","(212) 697-8600",,"11:00 PM",,,,,,,"https://www.toasttab.com/pineapple-club/giftcards?utmCampaign=onlineOrdering","info@pineappleclub.com",,,"Yes","Yes",,,,
+"Club Cumming","[Check out our event calendar! ](https://clubcummingnyc.com/)
+",40.72543,"505 E. 6th Street, New York, NY 10009","2021-12-23T20:41:00.000Z","Restaurants",819,"IG and website are current, hours from website (updated frequently for events)
+","https://www.facebook.com/clubcumming",,"Bar","reccceGlSlBqxAKNU",-73.98334,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","505","E. 6th Street, New York, NY 10009","E. 6th Street"," New York, NY 10009"," New York","https://www.instagram.com/clubcumming/","5:30 PM","https://clubcummingnyc.com","(917) 265-8006",,"4:00 AM",,,"
 ",,,true,,"clubcummingnyc@gmail.com",,,,"Yes",,,,
-"Soda Club","MON & TUE: Closed
-",40.72666,"155 Avenue B, New York, NY 10009","2021-07-23T19:33:00.000Z","Restaurants",818,"Confirmed hours by phone
-",,,"Vegan,Italian","recJBgCWKygSmKiZx",-73.9798,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","155","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","https://www.instagram.com/sodaclubnyc/","5:00 PM","https://www.overthrowhospitality.com/venues/sodaclub","(833) 328-4588",,"12:00 AM",,"2021-05-10",,,,,"https://www.overthrowhospitality.com/gift-cards"," speakup@overthrowhospitality.com",,,"Yes","Yes",,,,
-"Giano's ","MON: Closed
-",40.72616,"126 E. 7th Street, New York, NY 10009","2021-07-23T19:11:00.000Z","Restaurants",817,"\*\*\*\*\*Call to confirm, IG is not current, hours from website open table
-",,,"Italian","rec3STDTzuewzrv47",-73.98422,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","126","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.instagram.com/gianonyc/","5:00 PM","https://www.gianonyc.com","212-673-7200",,"10:00 PM",,,,,,,"https://www.gianonyc.com/gift-card","info@gianonyc.com","Yes",,"Yes","Yes",,,,
+"Soda Club","Closed Mondays 
+",40.72666,"155 Avenue B, New York, NY 10009","2021-12-23T20:33:00.000Z","Restaurants",818,"IG is current,  website is current, hours from site 
+",,,"Vegan,Italian","recJBgCWKygSmKiZx",-73.9798,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","155","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","https://www.instagram.com/sodaclubnyc/","5:00 PM","https://www.overthrowhospitality.com/venues/sodaclub","(833) 328-4588",,"12:00 AM",,"2021-05-10",,,,,"https://www.overthrowhospitality.com/gift-cards"," speakup@overthrowhospitality.com",,,"Yes","Yes",,,,
+"Giano's ","[Book a table! ](https://www.opentable.com/restref/client/?rid=37102&restref=37102&partysize=2&datetime=2021-12-23T17%3A30&lang=en-US&r3uid=1MLpD2GjG&corrid=f44a5ec2-af87-4196-8aa9-25fa9921d0a5)
+MON: Closed
+",40.72616,"126 E. 7th Street, New York, NY 10009","2021-12-23T20:11:00.000Z","Restaurants",817,"last IG post 7/11/20, hours confirmed by phone and corroborated by site, site is current 
+",,,"Italian","rec3STDTzuewzrv47",-73.98422,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","126","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.instagram.com/gianonyc/","5:00 PM","https://www.gianonyc.com","212-673-7200",,"10:00 PM",,,,,,,"https://www.gianonyc.com/gift-card","info@gianonyc.com","Yes",,"Yes","Yes (Heated)",,,,
 "Sally Beauty Supply","SUN: 11:00 AM - 5:00 PM
-
-",40.7296,"528 E. 14th Street, New York, NY 10009","2021-07-23T18:26:00.000Z","Retail",816,"CHAIN. Confirmed hours by phone
-",,,"Cosmetics & Grooming ","rec9uBAMUAmfrCRL2",-73.97919,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","528","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","https://www.instagram.com/sallybeauty/","10:00 AM","https://www.sallybeauty.com","(332) 217-0003",true,"6:00 PM","Yes",,,,,,"https://www.sallybeauty.com/gift-cards/",,,,,,,,,
-"Veeray da Dhaba",,40.73076,"222 1st Avenue, New York, NY 10009","2021-07-22T05:53:00.000Z","Restaurants",815,"Confirmed hours and seating by phone
-","https://www.instagram.com/p/CN8UDdmlcDS/",,"Punjabi,Indian","rec3ElEyNTQQlYlUd",-73.98265,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","222","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/veeray_da_dhaba/?hl=en","12:00 PM","https://www.veeraydadhaba.com/","(212) 777-1420",,"9:00 PM",,,,,true,,,"info@veeraydadhaba.com","Yes",,"Yes",,,,,
+Closed Saturdays 
+",40.7296,"528 E. 14th Street, New York, NY 10009","2021-12-23T19:26:00.000Z","Retail",816,"website and IG are current, hours from site 
+",,,"Cosmetics & Grooming ","rec9uBAMUAmfrCRL2",-73.97919,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","528","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","https://www.instagram.com/sallybeauty/","10:00 AM","https://www.sallybeauty.com","(332) 217-0003",true,"7:00 PM","Yes",,,,,,"https://www.sallybeauty.com/gift-cards/",,,,,,,,,
+"Veeray da Dhaba","Closed 3:00 PM - 5:00 PM Daily
+",40.73076,"222 1st Avenue, New York, NY 10009","2021-12-23T06:53:00.000Z","Restaurants",815,"Last IG post 11/25/21, Confirmed hours and seating by phone
+","https://www.instagram.com/p/CN8UDdmlcDS/",,"Punjabi,Indian","rec3ElEyNTQQlYlUd",-73.98265,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","222","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/veeray_da_dhaba/?hl=en","12:00 PM","https://www.veeraydadhaba.com/","(212) 777-1420",,"10:00 PM",,,,,true,,,"info@veeraydadhaba.com","Yes",,"Yes",,,,,
 "Love Thy Beast","MON & TUE: Closed
 ",40.72662,"300 E. 5th Street, New York, NY 10003","2021-12-22T06:44:00.000Z","Services",814,"Confirmed hours by phone and corroborated by website, IG is current 
 ","https://www.lovethybeast.com/pages/contact",,"Pet Supplies & Grooming","recbNzApDmlljCwYi",-73.988861,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","300","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York","https://www.instagram.com/lovethybeast/","11:00 AM","https://www.lovethybeast.com","(646) 876-1005",,"6:00 PM","Yes",,,,,,,"info@lovethybeast.com",,,,,,,,
@@ -3263,10 +3264,10 @@ MON: Closed
 ",,,"French","reca15hKL9gvM3rAQ",-73.988072,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","14","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/lucien.nyc/?hl=en","12:00 PM","http://www.luciennyc.com","(212) 260-6481",,"12:00 AM",,,,,,,,,"Yes",,"Yes","Yes",,,,
 "Jane's Exchange","
 	
-",40.722999,"191 E. 3rd Street, New York, NY 10009","2021-10-12T04:00:00.000Z","Retail",592,"IG and website are current
+",40.722999,"191 E. 3rd Street, New York, NY 10009","2021-12-23T05:00:00.000Z","Retail",592,"IG and website are current
 Alt number (do not list): (347) 743-7962
 [Hours via IG](https://www.instagram.com/p/CU40uMkLrdT/)
-","https://www.instagram.com/p/CXPAso0FlH2/",,"Vintage,Childrens,Toys","rec7ySx1wpUWQ5bl9",-73.983443,"EVCC","Yes","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10009","191","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York","https://www.instagram.com/janes_exchange/?hl=en","10:00 AM ","https://janesexchange.com","212-677-0380",,"6:00 PM","Yes",,"
+","https://www.instagram.com/p/CXPAso0FlH2/",,"Vintage,Childrens,Toys","rec7ySx1wpUWQ5bl9",-73.983443,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","191","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York","https://www.instagram.com/janes_exchange/?hl=en","10:00 AM ","https://janesexchange.com","212-677-0380",,"6:00 PM","Yes",,"
 ",,true,,,"janesexchange@gmail.com","Yes",,,,,,,
 "Izzy's Cheesesteak","THU - SUN: 11:30 AM - 1:00 AM
 ",40.71983,"47 Clinton Street, New York, NY 10002","2021-12-08T05:00:00.000Z","Restaurants",591,"Hours confirmed by phone and corroborated by site, IG and website are current
@@ -3378,29 +3379,32 @@ Opened new location at 300 E. 5th Street July 2021.
 ",,,"Chinese","recAA9qzjvhir68Dc",-73.985361,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","122","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.instagram.com/malaproject/","5:00 PM","https://www.malaproject.nyc/","(212) 353-8880",,"10:00 PM",,,,,true,,"https://www.toasttab.com/Mala-Project/giftcards","chloe@malaproject.nyc","Yes",,,"Yes",,,,
 "Ruffian ","SAT: 3:00 PM - 12:00 AM
 SUN: 3:00 PM - 11:00 PM
-",40.72652,"125 E. 7th Street, New York, NY 10009","2021-09-16T04:00:00.000Z","Restaurants",568,"IG is current, Hours from the IG
+",40.72652,"125 E. 7th Street, New York, NY 10009","2021-12-23T22:36:00.000Z","Restaurants",568,"IG is current, Hours from the IG
 (no phone number in google and website )
 
-","https://www.instagram.com/blackemperorbar/",,"Bar,Wine,Vegan","recjrGH0YoCeL23Mq,recaRFnU46znRQHc8",-73.98407,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","125","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.instagram.com/ruffian_nyc/","4:00 PM","https://ruffiannyc.com",,,"12:00 PM","Yes",,,,true,,"https://app.upserve.com/b/ruffian-wine-bar/gift-card","mosterruffiannyc@gmail.com","Yes",,"Yes","Yes",,,,
+","https://www.instagram.com/blackemperorbar/",,"Bar,Wine,Vegan","recjrGH0YoCeL23Mq,recaRFnU46znRQHc8",-73.98407,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","125","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.instagram.com/ruffian_nyc/","4:00 PM","https://ruffiannyc.com",,,"12:00 PM","Yes",,,,true,,"https://app.upserve.com/b/ruffian-wine-bar/gift-card","mosterruffiannyc@gmail.com","Yes",,"Yes","Yes",,,,
 "Factory Tamal","MON: Closed
-",40.726889,"63 E. 4th Street, New York, NY 10003","2021-08-04T04:00:00.000Z","Restaurants",567,"Hours confirmed by phone, IG and website are current
-",,,"Mexican","recLwxwdK103fEeXe",-73.990761,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","63","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","https://www.instagram.com/factory_tamal/","10:00 AM","https://www.factorytamal.com/","(347)659-7098",,"7:30 PM",,,,,true,,"https://squareup.com/gift/3X658GP7RDWNP/order","factorytamal@gmail.com","Yes",,"Yes","Yes",,,,
+",40.726889,"63 E. 4th Street, New York, NY 10003","2021-12-23T22:33:00.000Z","Restaurants",567,"Hours confirmed by phone, IG and website are current
+",,,"Mexican","recLwxwdK103fEeXe",-73.990761,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10003","63","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","https://www.instagram.com/factory_tamal/","10:00 AM","https://www.factorytamal.com/","(347)659-7098",,"7:30 PM",,,,,true,,"https://squareup.com/gift/3X658GP7RDWNP/order","factorytamal@gmail.com","Yes",,"Yes","Yes",,,,
 "Wash Rite Laundromat","Last wash 7:00 PM
-",40.72542,"112 E. 4th Street, New York, NY 10003","2021-08-04T04:00:00.000Z","Laundry",566,"Hours confirmed by phone 
-",,,"Laundromat","recWvW0JO8QGpgx3p",-73.98818,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","112","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,"7:00 AM",,"212-598-1800",,"9:00 PM",,,,,,,,,,,,,,,,
+",40.72542,"112 E. 4th Street, New York, NY 10003","2021-12-23T22:30:00.000Z","Laundry",566,"Hours confirmed by phone 
+",,,"Laundromat","recWvW0JO8QGpgx3p",-73.98818,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10003","112","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,"7:00 AM",,"212-598-1800",,"9:00 PM",,,,,,,,,,,,,,,,
 "Double Zero","Check website for reservations!
-",40.72611,"65 2nd Avenue, New York, NY 10003","2021-08-04T04:00:00.000Z","Restaurants",565,"IG is current, Hours confirmed by phone 
-",,,"Pizza,Vegan","rectYHjSLSKEbPlkp",-73.98955,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","65","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/doublezeromk/?hl=en","12:00 PM","https://www.matthewkenneycuisine.com/double-zero","(212) 777-1608",,"11:00 PM",,,,,,true,"https://squareup.com/gift/BG1XWZ1RX18YG/order","00andco@matthewkenneycuisine.com","Yes",,"Yes","Yes",,,,
-"Brick Lane Curry House",,40.72662,"79 2nd Avenue, New York, NY 10003","2021-08-04T04:00:00.000Z","Restaurants",564,"Hours confirmed by phone, Website and IG are current
-",,,"Indian","recMkJl6Y1r4OKoOn",-73.98939,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","79","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/bricklanecurry/?hl=en","12:00 PM","http://www.bricklanecurryhouse.com/downtown/","212-979-2900",,"11:00 PM",,,,,,,,"info@bricklanecurryhouse.com","Yes",,"Yes","Yes",,,,
+",40.72611,"65 2nd Avenue, New York, NY 10003","2021-12-23T22:30:00.000Z","Restaurants",565,"IG is current, Hours confirmed by phone 
+",,,"Pizza,Vegan","rectYHjSLSKEbPlkp",-73.98955,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10003","65","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/doublezeromk/?hl=en","12:00 PM","https://www.matthewkenneycuisine.com/double-zero","(212) 777-1608",,"11:00 PM",,,,,,true,"https://www.matthewkenneycuisine.com/mkc-gift-cards","00andco@matthewkenneycuisine.com","Yes",,"Yes","Yes",,,,
+"Brick Lane Curry House              ",,40.72662,"79 2nd Avenue, New York, NY 10003","2021-12-23T22:32:00.000Z","Restaurants",564,"Hours confirmed by phone, IG are current, Website still shows coming soon page.
+Number shown on google is not accurate: [(212) 979-8787](https://www.google.com/search?q=Brick%20Lane%20Curry%20House&hl=en&biw=1366&bih=617&sxsrf=AOaemvLX0-Z-PS1ilyX1hF6vczZuoELXVQ:1640299358049&ei=JvfEYdHBAo-Mggfb-rXgBg&ved=2ahUKEwjc4r6k__r0AhUBm-AKHbW8AG8QvS56BAgCEEA&uact=5&oq=Brick+Lane+Curry+House&gs_lcp=Cgdnd3Mtd2l6EAMyCwguEIAEEMcBEK8BMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAESgQIQRgASgQIRhgASgQIQRgASgQIRhgAUPYNWL7CAWDV1QFoA3ACeACAAbsBiAG7AZIBAzAuMZgBAKABAaABArABCsABAQ&sclient=gws-wiz&tbs=lf:1,lf_ui:9&tbm=lcl&rflfq=1&num=10&rldimm=2498585253391718487&lqi=ChZCcmljayBMYW5lIEN1cnJ5IEhvdXNlSM75qfnlgICACFo0EAAQARACEAMYABgBGAIYAyIWYnJpY2sgbGFuZSBjdXJyeSBob3VzZSoKCAIQABABEAIQA5IBEWluZGlhbl9yZXN0YXVyYW50&phdesc=-CGyGl3ZssY&rlst=f#) Laura edited listing 12/23/21
+",,,"Indian","recMkJl6Y1r4OKoOn",-73.98939,"EVCC","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","79","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/bricklanecurry/?hl=en","12:00 PM","http://www.bricklanecurryhouse.com/downtown/","212-979-2900",,"11:00 PM",,,,,,,,"info@bricklanecurryhouse.com","Yes",,"Yes","Yes",,,,
 "Calexico","EV location is temporarily closed.			
 ",40.727381,"99 2nd Avenue, New York, NY 10003","2021-12-23T05:00:00.000Z","Restaurants",563,"\*\*\*\*\*Laura check. EV location Source column is no longer on website, October 2021 storefront survey observed vacant.	
 ","https://www.calexico.com/location/east-village/","2021-10-01","Mexican","recrCVh2oEbmRIGtE",-73.988985,"EVCC","No","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","99","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/calexiconyc/?hl=en","12:00 PM","https://www.calexico.com","(646) 590-1466",,"9:00 PM",,,"50% OFF your next online order with code TACOTIME 
 ",,,,,"eastvillage@calexico.com","No",,,"Yes",,,,
-"16 Handles","THU, FRI & SAT: 11:00 AM - 12:00 AM
-",40.72961,"153 2nd Avenue, New York, NY 10003","2021-08-04T04:00:00.000Z","Cafes and Desserts",562,"Hours confirmed by Phone, Website and IG are current
-",,,"Ice Cream","rec05Osi0D14PgJoy",-73.98719,"EVCC","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","153","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/16handles/?hl=en","12:00 PM ","https://order.16handles.com/location/East-Village","(212) 260-4414",,"11:00 PM",,,"[Unlock two free toppings with your next online order!](https://16handles.com/)
-",,,,,"info@16handles.com","Yes",,"Yes","Yes",,,,
+"16 Handles","THU: 12:00 PM - 11:00 PM
+FRI: 12:00 PM - 8:00 PM
+SAT: closed
+",40.72961,"153 2nd Avenue, New York, NY 10003","2021-12-23T22:30:00.000Z","Cafes and Desserts",562,"Hours confirmed by Phone, Website & IG are current
+",,,"Ice Cream","rec05Osi0D14PgJoy",-73.98719,"EVCC","Yes","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10003","153","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/16handles/?hl=en","12:00 PM ","https://order.16handles.com/location/East-Village","(212) 260-4414",,"10:00 PM",,,"
+","https://order.16handles.com/location/East-Village#Celebrate!",,,,"info@16handles.com","Yes",,"Yes","Yes",,,,
 "Lions & Tigers & Squares"," FRI & SAT: 11:00 AM - 1:00 AM
 ",40.72977,"160 2nd Avenue, New York, NY 10003","2020-07-15T04:00:00.000Z","Restaurants",561,"PERMANENTLY CLOSED. Reoccupied by Marinara Pizza
 ","EVCC","2020-07-01","Pizza",,-73.98641,"EVCC","No","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","160","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","https://www.instagram.com/lionsandtigersandsquares/?hl=en","11:00 AM","https://www.lionsandtigersandsquares.com","(917) 261-6772",,"11:00 PM",,"2019-10-01",,,,,,,"No",,"Yes",,,,,
