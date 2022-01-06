@@ -1423,10 +1423,10 @@ SUN: 11:00 AM - 2:00 AM
 First storefront for bakery 3BEats	
 ","Bakery","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","117","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.instagram.com/plant_baked.nyc/",,40.72661,-73.98429,"WED: 8:00 AM - 12:00 PM
 ","8:00 AM","5:00 PM",,,"recdFiIpxvAdEnpsF",,,,"2021-01-08",,,,,"getbaked@plantbaked.nyc",,,,,,,,
-"Tamam Falafel","150 E. 14th Street, New York, NY 10003","https://www.tamamfalafel.com/","2021-08-18T19:59:00.000Z","Restaurants","(212) 333-3449",1096,"Business updated google hours second week of August
-","Middle Eastern","Yes","Opened","{""id"":""usrnPqPyZXKY8eanF"",""email"":""stacym35@nycstudents.net"",""name"":""Stacy Mora""}","10003","150","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://www.instagram.com/tamamfalafel/",,40.73327,-73.98759,"FRI & SAT: 11:00 AM - 9:00 PM
+"Tamam Falafel","150 E. 14th Street, New York, NY 10003","https://www.tamamfalafel.com/","2022-01-05T20:59:00.000Z","Restaurants","(212) 333-3449",1096,"PERMANENTLY CLOSED. Former 5 Napkin Burger Express location, same owner. UES location remains open. Business updated google hours second week of August
+","Middle Eastern","No","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","150","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://www.instagram.com/tamamfalafel/",,40.73327,-73.98759,"FRI & SAT: 11:00 AM - 9:00 PM
 SUN: 11:00 AM -7:00 PM
-","11:00 AM","10:00 PM","https://evgrieve.com/2021/01/tamam-is-now-open-on-14th-street.html",,,,,,"2021-01-25",,,,,"tamamfalafel@gmail.com",,,"Yes","Yes",,,,
+","11:00 AM","10:00 PM","https://evgrieve.com/2022/01/tamam-falafel-has-closed-on-14th-street.html","2022-01-03",,,,,"2021-01-25",,,,,"tamamfalafel@gmail.com",,,"Yes","Yes",,,,
 "Tio Pio","250 E. 14th Street, New York, NY 10003","https://www.tiopioinc.com/","2021-07-30T23:36:00.000Z","Restaurants","(212) 239-6633",1095,"Confirmed hours by phone
 ","Latin","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","250","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://www.instagram.com/tiopioeast/",true,40.73235,-73.98533,"THUR, FRI & SAT: 11:00 AM - 11:00 PM
 SUN: noon - 8:00 PM
@@ -1577,11 +1577,9 @@ MON & TUE: By appointment
 and by appointment 
 The gallery is temporarily closed. Check out [Masked Angels:](https://citylore.org/2020/07/masked-angels/) stories from nurses on the front lines video blog
 ","2:00 PM","6:00 PM",,,"recjvV0mGPAh259YG",,,"Yes",,,,,,"colleen@citylore.org",,,,,,,,
-"Boilermaker","13 1st Avenue, New York, NY 10003","https://app.upserve.com/s/boilermaker-new-york","2021-07-29T05:34:00.000Z","Restaurants","(347) 866-7739",1057,"Confirmed hours by phone and website
-","Bar","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","13","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","https://www.instagram.com/boilermakernyc/",,40.72349,-73.98864,"FRI: 5:00 PM - 4:00 AM
-SAT: 1:00 PM - 4:00 AM
-SUN: 1:00 PM - 2:00 AM
-","5:00 PM","2:00 AM",,,"recX7iwem4R7rjAFD",,,,,,,,,"info@boildermakernyc.com","Yes",,"Yes","Yes",,,,
+"Boilermaker","13 1st Avenue, New York, NY 10003","https://app.upserve.com/s/boilermaker-new-york","2022-01-05T06:34:00.000Z","Restaurants","(347) 866-7739",1057,"\*\*\*\*\*Closing 1/6/22 Confirmed hours by phone and website
+","Bar","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","13","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","https://www.instagram.com/boilermakernyc/",,40.72349,-73.98864,"Last Call! Closing THU JAN 6
+","5:00 PM","2:00 AM","https://evgrieve.com/2022/01/boilermaker-is-closing-on-1st-and-1st.html","2022-01-07","recX7iwem4R7rjAFD",,,,"2014-09-01",,,,,"info@boildermakernyc.com","Yes",,"Yes","Yes",,,,
 "Food U Desire 3","18 1st Avenue, New York, NY 10009",,"2021-07-29T05:34:00.000Z","Groceries","(212) 677-1500",1056,"Confirmed hours by phone
 ","Deli ","Yes","Opened","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}","10009","18","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,40.72344,-73.98792,"FRI - SAT: 6:00 AM - 4:00 AM
 ","6:00 AM","12:00 AM",,,"recYe0W1IWILztq9V",,,,,,,,,,,,,,,,,
@@ -1666,8 +1664,8 @@ MON & SUN: Closed
 SUN: 9:00 AM - 4:00 PM
 By appointment only
 ","8:00 AM","7:00 PM",,,"recC065cfEOTKONty",,,,,,,,,"info@14streetmedical.com",,,,,,,,
-"Stand Up MRI","191 Avenue A, New York, NY 10009","https://www.standupmriofmanhattan.com/downtown/index.php","2021-07-30T03:22:00.000Z","Health","(212) 674-8300",1031,"Hours from voicemail
-","MRI","Yes","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","191","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/standupmrinyc/?hl=en",,40.72907,-73.98164,"SAT: 8:00 AM - 10:00 PM
+"Stand Up MRI","191 Avenue A, New York, NY 10009","https://www.standupmriofmanhattan.com/downtown/index.php","2021-07-30T03:22:00.000Z","Health","(212) 674-8300",1031,"CHAIN? Hours from voicemail
+","MRI","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","191","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/standupmrinyc/?hl=en",,40.72907,-73.98164,"SAT: 8:00 AM - 10:00 PM
 SUN: 9:00 AM - 8:00 PM
 By appointment only
 ","7:00 AM","10:30 PM",,,"recblFJZ3hvJCTkXO",,,,,,,,,"standupmriofmanhattandowntown@hmca.com",,,,,,,,
@@ -4290,10 +4288,9 @@ SUN: noon -  8:30PM
 "Whiskers Holistic Pet Care","235 E. 9th Street, New York, NY 10003","https://www.1800whiskers.com/","2021-12-01T05:00:00.000Z","Services","212-979-2532",345,"IG and website are current, Hours from website
 ","Pet Supplies & Grooming","Yes","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","235","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","https://www.instagram.com/whiskerspet/",,40.729441,-73.987553,"SUN: 12:00 PM - 6:00 PM 
 ","11:00 AM","7:00 PM",,,"recwYS5MYugDWysdz","PL",,,,,,,,,"Yes",,,"Yes",,,,
-"Westville East","173 Avenue A, New York, NY 10009","https://stores.westvillenyc.com/westville-east/menu","2022-01-03T05:00:00.000Z","Restaurants","(212) 677-2033",344,"\*\*\*\*\*check back, open for dinner only Jan 3 (after renovation), Website and IG are current, confirmed hours by phone
-","American",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","173","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/westvillenyc/?hl=en",,40.72840267,-73.98201018,"
-
-","5:00 PM","10:00 PM",,,"recGxHJl0uUNWWkEi","EVCC",,,,"
+"Westville East","173 Avenue A, New York, NY 10009","https://stores.westvillenyc.com/westville-east/menu","2022-01-05T05:00:00.000Z","Restaurants","(212) 677-2033",344,"Website and IG are current, hours from website are current
+","American","Yes","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","173","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","https://www.instagram.com/westvillenyc/?hl=en",,40.72840267,-73.98201018,"Daily break: 3:30 PM - 5:00 PM
+","11:30 AM","10:00 PM",,,"recGxHJl0uUNWWkEi","EVCC",,,,"
 ",,,"https://www.toasttab.com/westville-east/giftcards",,,,,"Yes (Heated)",,,,
 "Westville Bakery","433 E. 9th Street, New York, NY 10009","westvillenyc.com/bakery/","2021-01-27T05:00:00.000Z","Cafes and Desserts","347-618-7222",343,"PERMANENTLY CLOSED. Temporarily reoccupied by Sullivan Street Bakery. Confirm VACANT?
 ","Bakery,Cafe","No","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","433","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","https://www.instagram.com/westvillebakery/",,40.72767804,-73.98336737,"SAT & SUN: 9:00 AM - 6:00 PM
