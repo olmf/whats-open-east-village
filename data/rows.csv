@@ -347,7 +347,7 @@ SUN: Closed
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","133","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York","Yes",,,,true,"212-529-7140",,,"https://www.walgreens.com/locator/duane+reade-125-133+3rd+ave-new+york-ny-10003/id=14265","7:00 AM ","10:00 PM",,,,,,,,,,,,,
 "VACANT",1508,,"2021-09-11T03:34:00.000Z",,40.72844,-73.9843,"158 1st Avenue, New York, NY 10009",,,,"VACANT. AKSR Gabe Icikson (646) 761-8958 Formerly Yu's on 1st Back & Foot Rub
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","158","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","No",,,,,,,,,,,,,,,,,,,,,,,
-"BrandOn",1507,"https://evgrieve.com/2020/07/these-2-dry-cleaners-have-closed.html","2021-12-22T02:34:00.000Z",,40.72981,-73.9872,"159 2nd Avenue, New York, NY 10009",,,,"\*\*\*\*\*Research, Storefront office in former Danny's Cleaners location.
+"BrandOn",1507,"https://evgrieve.com/2020/07/these-2-dry-cleaners-have-closed.html","2021-12-22T02:34:00.000Z",,40.72981,-73.9872,"159 2nd Avenue, New York, NY 10009",,,,"\*\*\*\*\*Laura research, Storefront office in former Danny's Cleaners location.
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","159","2nd Avenue, New York, NY 10009","2nd Avenue"," New York, NY 10009"," New York",,,,,,,,"2020-07-01",,,,,,,,,,,,,,,,
 "VACANT",1506,,"2021-09-10T04:59:00.000Z",,40.72326,-73.98535,"28 Avenue A, New York, NY 10009","
 ",,,"VACANT. For Rent (212) 260-0125 5000 sq ft
@@ -1291,9 +1291,10 @@ SUN & MON: CLOSED
 "Gong Cha",1160,"https://www.instagram.com/p/CZMikTVjMFN/","2022-01-27T00:11:00.000Z","Cafes and Desserts",40.729133573176895,-73.98837798873319,"27 St. Mark's Place, New York, NY 10003","SAT & SUN: 1:00 PM - 9:30 PM
 ","Bubble Tea",," Confirmed hours by phone, IG is current, Website is current
 ","recsikHK2C2ELcFxf","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","27","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/gongchatea/","2021-04-12",true,"(917) 262-0158",true,,"https://www.gongchausa.com","1:00 PM","9:00 PM","Yes",,,,"inquiries@gongchausa.com",,,,,,,,
-" Xing Fu Tang",1159,"https://xingfutang.com/locations, https://evgrieve.com/2021/09/plywood-comes-down-to-reveal-xing-fu.html","2022-01-27T00:09:00.000Z","Cafes and Desserts",40.66716,-73.69553,"37 St. Mark's Place, New York, NY 10003","
-","Bubble Tea",,"Small chain based in Taiwan, does not fit the NYS chain definition. Opening soon in former Nobletree Coffee location (closed pre-covid July 2019). 
-",,"Unknown","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","37","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York",,,"https://www.instagram.com/xingfutang.ny/",,,,true,,"https://xingfutang.com/",,,,,,," info@usaxingfutang.com",,,,,,,,
+" Xing Fu Tang",1159,,"2022-01-27T00:09:00.000Z","Cafes and Desserts",40.66716,-73.69553,"133 2nd Avenue, New York, NY 10003","
+","Bubble Tea",,"Confirmed by phone, website is current, no Instagram yet.
+Small chain based in Taiwan, does not fit the NYS chain definition. Opened January 2022 in former Nobletree Coffee location (closed pre-covid July 2019). 
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","133","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,,"2022-01-01",,"(646) 590-1298",true,,"https://xingfutang.com/locations","2:00 PM","10:00 PM",,,,," info@usaxingfutang.com",,,,,,,,
 "787 Coffee",1158,"https://www.instagram.com/p/CZMlIMYLQex/","2022-01-27T02:37:00.000Z","Cafes and Desserts",40.73224,-73.9839,"319 E. 14th Street, New York, NY 10003",,"Cafe",,"Hours confirmed by phone, Website is current, IG is current.
 ",,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","319","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/787coffee/","2021-02-26",,"(646) 590-4241",,,"https://787coffee.com/","7:00 AM","6:00 PM","Yes","Yes",,,"info@787coffee.com","Yes",,,,,,,
 "Danny Cleaners",1157,"https://evgrieve.com/2020/07/these-2-dry-cleaners-have-closed.html","2021-03-03T02:34:00.000Z","Laundry",40.72981,-73.9872,"159 2nd Avenue, New York, NY 10009",,"Cleaners",,"PERMANENTLY CLOSED. Reoccupied by 787 Office. Merged with Lois Cleaners on 3rd Avenue.
@@ -1325,15 +1326,18 @@ No signs of life since March COVID shut-down.
 "La Mama",1147,"https://www.instagram.com/p/CZHoZNFrGuQ/","2022-01-24T05:00:00.000Z","Arts & Culture",40.72628,-73.99061,"66 E. 4th Street, New York, NY 10003","Check out our in-person and online [event schedule!](https://www.lamama.org/now-playing)
 ","Theater",,"Link to event schedule in Ab Notes, choose shipping (= streaming)
 ","recnmjtmlYrqteg2S","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","66","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/lamamaetc/?hl=en",,,"(212) 254-6468",,,"http://lamama.org/",,,,"Yes",,,"web@lamama.org",,,,,,,,
-"Planet Taco",1144,"https://www.instagram.com/p/CQSAQ2FDqEb/","2021-08-14T01:36:00.000Z","Restaurants",40.729171,-73.987592,"141 2nd Avenue, New York, NY 10003","
-","Mexican",,"Reopened 8/12/21 with limited menu (after utilities issue).
-","recsok2d6gAZIpaIR","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","141","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/planettacoofficial/","2021-03-20",,"(347) 727-2669",,,"https://www.planettaco.com/",,,"Yes",,,,"COMMANDCENTER@PLANETTACO.COM ",,,,,,,,
+"Planet Taco",1144,"https://www.instagram.com/p/CQSAQ2FDqEb/","2022-01-27T02:36:00.000Z","Restaurants",40.729171,-73.987592,"141 2nd Avenue, New York, NY 10003","SUN & MON: 11:00 AM - Midnight
+TUE - THU: 11:00 AM - 1:00 AM
+FRI & SAT: 11:00 AM - 2:30 AM
+","Mexican",,"Hours from IG profile, IG is current, 
+back on track after gas issue 8/2021
+","recsok2d6gAZIpaIR","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","141","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/planettacoofficial/","2021-03-20",,"(347) 727-2669",,,"https://www.planettaco.com/","11:00 AM",,"Yes",,,,"COMMANDCENTER@PLANETTACO.COM ",,,,,,,,
 "Sweet & Sour Smokeshop",1143,"https://evgrieve.com/2021/02/a-sweet-and-sour-new-business-for-2nd.html","2022-01-25T02:45:00.000Z","Retail",40.72653,-73.98956,"73 2nd Avenue, New York, NY 10003","SAT & SUN: 9:00 AM - 4:00 AM
 ","Smoke Shop",,"Confirmed hours by phone
 ","recqHGSCHzMAfCQQV","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","73","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,,,,"(551) 888-6668",,,,"9:00 AM","2:00 AM",,,,,,,,,,,,,
 "d.b.a.",1142,,"2022-01-25T01:41:00.000Z","Restaurants",40.7243345,-73.9880064,"41 1st Avenue, New York, NY 10003","
-","Bar",,"Hours from google as store updated 12/21, IG is current 
-","recmHXQ6LIEU2gsrQ","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","41","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/d.b.a.eastvillage",,,"N/A",,,,"12:00 PM","4:00 AM","Yes",,,,,,,,,,,,
+","Bar",,"Google hours updated by business 12/21, IG is current 
+","recmHXQ6LIEU2gsrQ","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","41","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/d.b.a.eastvillage",,,"N/A",,,,"12:00 PM","4:00 AM","Yes",,,,,,,,,,,,
 "Bua",1141,,"2022-01-25T01:41:00.000Z","Restaurants",40.72686974377203,-73.983819146085,"122 St.  Mark's Place, New York, NY 10009","FRI: 2:00 PM - 4:00 AM
 SAT & SUN: NOON - 4:00 AM 
 ","Bar",,"Hours from site, IG and site are current 
@@ -1346,7 +1350,7 @@ SUN: NOON - 2:00 AM
 "Cho-Ko Ramen",1138,,"2022-01-24T23:45:00.000Z","Restaurants",40.72517,-73.98746,"59 1st Avenue, New York, NY 10003","SUN: NOON - 11:30 PM
 ","Japanese",,"Confirmed hours by phone
 ","rec7nJJXE7mbOBmIa","Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","59","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","Yes","Yes",,,,"(212) 388-0885",true,,"https://qmenu.us/#/cho-ko-new-york","12:00 PM","12:30 AM","Yes",,,,,"Yes",,,,,,,
-"Koya Omakase",1137,,"2021-08-01T21:16:00.000Z","Restaurants",40.729012,-73.984703,"241 E. 10th Street, New York, NY 10003",,"Japanese,Omakase",,"Hours confirmed by phone, 
+"Koya Omakase",1137,,"2022-01-26T22:16:00.000Z","Restaurants",40.729012,-73.984703,"241 E. 10th Street, New York, NY 10003",,"Japanese,Omakase",,"Opening soon, appeared at CB 3 SLA Conmmittee 2/8/21 (IG is for 5th Avenue location)
 ",,"Unknown","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","241","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/koyaomakase/?hl=en",,,,,,,"12:00 PM","10:00 PM",,,,,,,,,,,,,
 "Kilometro Uno Km 1",1136,"https://evgrieve.com/2022/01/58-1st-st-awaits-another-restaurant.html","2022-01-04T21:44:00.000Z","Restaurants",40.72302,-73.98866,"58 1st Avenue, New York, NY 10003","FRI & SAT: 5:00 PM - 2:00 AM
 ","Carribean",,"PERMANENTLY CLOSED. Closed early December 2021 after operating on and off. 
@@ -1361,9 +1365,9 @@ SUN: NOON - 2:00 AM
 ","Theater",,"Hours from website, Website is current, Last IG post 6/5/2019, Goes straight to voicemail
 ","recdvzqn3kQT0WEln","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","80","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/theatre_80_st_marks/?hl=en",,,"(212) 388-0388",,,"https://www.historic80stmarks.com","3:00 PM","12:30 AM",,,,,"info@theatre80.net",,,,,,,,
 "Queen Vic",1132,,"2022-01-25T22:51:00.000Z","Restaurants",40.72595,-73.98923,"68 2nd Avenue, New York, NY 10003","THU, FRI & SAT: 4:00 PM - 4:00 AM
-","Bar",,"Last IG post 3/16/20, Called multiple times no answer
+","Bar",,"\*\*\*\*\*Laura visit, Last IG post 3/16/20, Called multiple times no answer
 
-","reclC2MAsrXA2zOMo","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","68","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/queen_vic_nyc/?hl=en","2010-09-01",,"(917) 262-0512",,,,"4:00 PM","12:00 AM","Yes",,,,,"Yes",,,true,,,,
+","reclC2MAsrXA2zOMo","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","68","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/queen_vic_nyc/?hl=en","2010-09-01",,"(917) 262-0512",,,,"4:00 PM","12:00 AM","Yes",,,,,"Yes",,,true,,,,
 "Little Poland",1131,"https://www.instagram.com/p/CZH1ft3Pb_r/","2022-01-25T00:05:00.000Z","Restaurants",40.73117,-73.98554,"200 2nd Avenue, New York, NY 10003",,"Diner",,"Hours confirmed by phone, IG is current, Website is current
 ","recDeOBJv2lqzBZQ2","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","200","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes",,"https://www.instagram.com/littlepoland_nyc/",,,"(212) 777-9728",,,"http://www.littlepolandnyc.com/","7:00 AM","11:00 PM","Yes",,,,,"Yes",,,,,,,
 "Momofuku Ko Extra Place",1129,,"2022-01-24T22:27:00.000Z","Restaurants",40.72463,-73.99154,"8 Extra Place, New York, NY 10003","WED - SAT ONLY
@@ -4190,11 +4194,12 @@ SAT: 12:00 PM - 6:00 PM
 SUN: 10:00 AM - 6:00 PM
 ","Pharmacy","PG"," PERMANENTLY CLOSED. Confirm VACANT?
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","20","Astor Place, New York, NY 10003","Astor Place"," New York, NY 10003"," New York","No",,,,true,"(212) 375-0734",,,,"9:00 AM","9:00 PM",,,,,,,,,,,,,
-"Downtown Yarns",392,"https://www.instagram.com/p/CYHx3TBpYRS/","2022-01-13T05:00:00.000Z","Retail",40.723905,-73.985344,"45 Avenue A,  New York, NY 10009","Temporarily closed after fire next door, hope to reopen soon, stay tuned to our Instagram!
+"Downtown Yarns",392,"https://www.instagram.com/p/CYHx3TBpYRS/","2022-01-26T05:00:00.000Z","Retail",40.723905,-73.985344,"45 Avenue A,  New York, NY 10009","We're back! Please stop by!
 SUN: noon - 6:00 pm
 See [IG ](https://www.instagram.com/downtownyarns/)for monthly updated hours
-","Yarn Shop","EVCC","\*\*\*\*\*Temporarily closed after Jan 10 fire, IG is current with hours posted monthly.
-","rec7kKHFw2rMijTm1","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","45","Avenue A,  New York, NY 10009","Avenue A","  New York, NY 10009","  New York",,,"https://www.instagram.com/downtownyarns/",,,"212-995-5991",true,,,"12:00 PM","7:00 PM",,"Yes",,,"downtownyarns45@gmail.com",,,"
+","Yarn Shop","EVCC","IG is current with hours posted monthly, 
+reopened after Jan 10 fire.
+","rec7kKHFw2rMijTm1","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","45","Avenue A,  New York, NY 10009","Avenue A","  New York, NY 10009","  New York","Yes",,"https://www.instagram.com/downtownyarns/",,,"212-995-5991",true,,,"12:00 PM","7:00 PM",,"Yes",,,"downtownyarns45@gmail.com",,,"
 ",,,,,
 "Studio 55C / Moving for Life",391,"https://evgrieve.com/2020/12/a-rent-increase-is-forcing-avenue-c.html","2021-02-25T05:00:00.000Z","Health",40.722601,-73.980231,"55 Avenue C,  New York, NY 10009","Check our Instagram for online class schedule! The Avenue C studio is permanently closed. 
 ","Fitness","EVCC","PERMANENTLY CLOSED. Reoccupied by O'Flanerty's Gallery after successful pop-ups. 
