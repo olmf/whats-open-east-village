@@ -1482,8 +1482,8 @@ SUN: Closed
 ",,"Closed","{""id"":""usrmMkuAGUpDw8BdO"",""email"":""jkwok0595@baysidehighschool.org"",""name"":""Justin Kwok""}","10003","99","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",,,,,,,,,,,true,"No",,,,,,,,,,,,,
 "Usumoya Tavern",1101,"2021-07-30T20:00:00.000Z","Restaurants",40.723965,-73.980829,"620 E. 6th Street, New York, NY, 10009",,"Japanese,Omakase",,"Last IG post 9/25/20, Facebook page shows phone (623) 330-4398. Usumoya Tavern application on 11/16/20 CB 3 SLA agenda (transfer from Mayanoki)
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","620","E. 6th Street, New York, NY, 10009","E. 6th Street"," New York, NY, 10009"," New York","https://www.facebook.com/Usumoyanyc/",,,"https://www.instagram.com/usumoya.nyc/?hl=en","(623) 330-4398","https://www.facebook.com/Usumoyanyc/",,,,"dokkdorg@gmail.com",,,,,,,,"https://squareup.com/gift/3CCMQW3DAKSYD/order",,,,,,,
-"Marrakech Custom Tailors",1100,"2021-07-30T05:24:00.000Z","Services",40.727119,-73.98661,"76 E. 7th Street, New York, NY, 10003",,"Tailor",,"\*\*\*\*\*Laura visit No phone number, IG is not current, yelp reported closed, deleted website (not found)
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","76","E. 7th Street, New York, NY, 10003","E. 7th Street"," New York, NY, 10003"," New York",,,,"https://www.instagram.com/marrakech_custom_tailors/","N/A",,,,,"info@marrakechtailors.com",,,,,,,,,,,,,,,
+"Marrakech Custom Tailors",1100,"2021-07-30T05:24:00.000Z","Services",40.727119,-73.98661,"76 E. 7th Street, New York, NY, 10003",,"Tailor",,"PERMANENTLY CLOSED. Reoccupied by Enz.
+",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","76","E. 7th Street, New York, NY, 10003","E. 7th Street"," New York, NY, 10003"," New York",,,,"https://www.instagram.com/marrakech_custom_tailors/","N/A",,,,,"info@marrakechtailors.com",,"No",,,,,,,,,,,,,
 "Custom Tailors",1099,"2021-07-20T05:24:00.000Z","Services",40.73227,-73.98398,"317 E. 14th Street, New York, NY 10003",,"Tailor,Cleaners",,"PERMANENTLY CLOSED (proprietor passed away).
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","317","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://evgrieve.com/2021/07/rip-joe-tailor.html",,,,,,,,,,,"No",,,,,,,,,,,,,
 "Short Stories",1098,"2022-01-22T00:24:00.000Z","Restaurants",40.726711,-73.99144,"355 Bowery, New York, NY 10003","TUE: 5:00 PM - 2:00 AM 
@@ -1636,9 +1636,9 @@ Reopened Feb. 12, 2021
 "Go Vegan Thai",1064,"2022-01-14T08:01:00.000Z","Restaurants",40.72384,-73.98486,"50 Avenue A, New York, NY 10009",,"Thai",,"Goes by go vegan cuisine on site, called but no answer, hours from site
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","50","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,,,"(267) 666-8058","https://www.govegancuisine.com/","11:30 AM",,"10:00 PM","govegannyc@gmail.com",true,"Yes","Yes",,,,,,,,,,,,
 "Enz",1063,"2022-01-14T07:55:00.000Z","Retail",40.72712,-73.98661,"76 E. 7th Street, New York, NY 10003","
-","Fashion",,"Hours confirmed by answering machine, IG is current
-",,"Opened","{""id"":""usrfgNwvh5KtPsVRA"",""email"":""bwan3739@gmail.com"",""name"":""Branden Wang""}","10003","76","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",,"
-","recpPxlPhrvsstuTh,rec6dkmloaRteKLLx","https://www.instagram.com/enzsnyc/","(917) 841-5989","https://www.enzsnyc.com","12:00 PM","Yes","7:00 PM",,true,"Yes",,,,,,,,,,,,,
+","Fashion",,"Hours confirmed by answering machine, IG is current, opened Nov 2020 in former Marrakech tailor location after 18 years at 125 2nd Avenue (previously on Grove Street).	
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","76","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",,"
+","recpPxlPhrvsstuTh,rec6dkmloaRteKLLx","https://www.instagram.com/enzsnyc/","(917) 841-5989","https://www.enzsnyc.com","12:00 PM","Yes","7:00 PM","mickymarlowe@msn.com",true,"Yes",,"2020-11-13",,,,,,,,,,,
 "Viblissimo",1062,"2022-01-14T07:41:00.000Z","Services",40.72387,-73.99037,"35 E. 1st Street, New York, NY 10003","SAT & SUN: 10:00 AM - 7:00 PM
 By appointment only!
 
