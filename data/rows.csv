@@ -8,10 +8,10 @@ SAT: noon - 11:00 PM
 SUN: noon - 10:00 PM
 ","4:00 PM","Ukrainian",,"10:00 PM",,,"Hours from Google
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","140","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 614-3283",,,,,,,,,,,,,,,
-"Flordel",1645,,"2022-02-28T19:40:00.000Z","https://flordel.nyc/","Services",,,"78 Clinton Street, New York, NY 10002","Yes","
+"Flordel",1645,,"2022-02-28T19:40:00.000Z","https://flordel.nyc/","Services",40.71875,-73.98502,"78 Clinton Street, New York, NY 10002","Yes","
 ","7:00 AM","Florist","https://www.instagram.com/flowers_new_york/","7:00 PM","Check out our [website](https://flordel.nyc/shop/folder/promo) for discounts!
 ","EVCC","IG and website are active, moved from 226 E. 3rd Street early 2022.
-",,,"recJJQhKb2fBLdt0b","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002","78","Clinton Street, New York, NY 10002","Clinton Street"," New York, NY 10002"," New York","(929) 999-4526","Yes","info@flordel.nyc",,,,,,,,,,,,,
+",,,"recJJQhKb2fBLdt0b","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10002","78","Clinton Street, New York, NY 10002","Clinton Street"," New York, NY 10002"," New York","(929) 999-4526","Yes","info@flordel.nyc",,,,,,,,,,,,,
 "? Crystal Shop",1644,,"2022-02-28T05:00:00.000Z",,"Retail",40.728753,-73.985752,"331 E. 9th Street, New York, NY 10003",,"
 ",,"Natural & Alternative",,,,"EVCC","Opening soon as per call 2/28/2022.	
 ",,,"recBFHds4ATJAr3VZ","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","331","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,,,,,,,,,,,,,,
@@ -852,26 +852,26 @@ SUN: 11:00 AM - 7:00 PM
 ",,,"recVEb7iv6Bi5QJld","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","441","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York","(929) 358-8588",,,,,,,,,,,,,,,
 "Lulu's Nails",1328,,"2021-08-10T20:21:00.000Z",,"Services",40.72753,-73.9857,"129 1st Avenue, New York, NY 10003","Yes",,"10:00 AM","Nail Salon",,"8:00 PM",,,"Confirmed hours by phone
 ",,,"recSrB5vuvxQyWrGy","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","129","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","(212) 982-5030",,,,,,,,,,,,,,,
-"Looks Threading Beauty Salon",1327,,"2021-08-10T20:19:00.000Z","http://looksthreading.com","Services",40.73308,-73.98589,"227 E. 14th Street, New York, NY 10003","Yes",,"10:00 AM","Cosmetic Tattoo,Skin Care,Waxing","https://www.instagram.com/looksthreading/","8:00 PM",,,"Confirmed hours by phone
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","227","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","(212) 228-8575",,,,,,,,,,,,,,,
-"Yosei Nails",1326,,"2021-08-10T20:14:00.000Z",,"Services",40.72876,-73.98566,"333 E. 9th Street, New York, NY 10003","Yes",,"11:00 AM","Nail Salon","https://www.instagram.com/yoseinailsnyc/?hl=en","7:00 PM",,,"Confirmed hours by phone
-",,,"recAGqrDcWCISPQcj","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","333","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","(585) 302-8888",,,,,,,,,,,,,,,
-"Top A Nail",1325,,"2021-08-10T20:04:00.000Z",,"Services",40.726768,-73.982674,"139 Avenue A, New York, NY 10009","Yes","SUN: 10:00 AM - 8:00 PM
+"Looks Threading Beauty Salon",1327,,"2022-03-01T21:19:00.000Z","http://looksthreading.com","Services",40.73308,-73.98589,"227 E. 14th Street, New York, NY 10003","Yes",,"10:00 AM","Cosmetic Tattoo,Skin Care,Waxing","https://www.instagram.com/looksthreading/","8:00 PM",,,"Confirmed hours by phone, IG is current, Website is current
+",,,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","227","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","(212) 228-8575",,,,,,,,,,,,,,,
+"Yosei Nails",1326,,"2022-03-01T21:14:00.000Z",,"Services",40.72876,-73.98566,"333 E. 9th Street, New York, NY 10003","Yes",,"11:00 AM","Nail Salon","https://www.instagram.com/yoseinailsnyc/?hl=en","7:00 PM",,,"Confirmed hours by phone
+",,,"recAGqrDcWCISPQcj","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","333","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","(585) 302-8888",,,,,,,,,,,,,,,
+"Top A Nail",1325,,"2022-03-01T21:04:00.000Z",,"Services",40.726768,-73.982674,"139 Avenue A, New York, NY 10009","Yes","
 ","10:00 AM","Nail Salon",,"8:30 PM",,,"Confirmed hours by phone
-",,,"rec9iU5bZrTHBcL9D","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","139","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(212) 475-5678",,,,,,,,,,,,,,,
-"Pinkys Village Spa",1324,,"2021-08-10T19:26:00.000Z","https://www.pinkysvillagespa.com","Services",40.72529,-73.98891,"61 E. 3rd Street, New York, NY 10003","Yes","SUN: 10:00 AM - 8:30 PM
+",,,"rec9iU5bZrTHBcL9D","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","139","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(212) 475-5678",,,,,,,,,,,,,,,
+"Pinkys Village Spa",1324,,"2022-03-01T20:26:00.000Z","https://www.pinkysvillagespa.com","Services",40.72529,-73.98891,"61 E. 3rd Street, New York, NY 10003","Yes","SUN: 10:00 AM - 8:30 PM
 ","10:00 AM","Cosmetic Tattoo,Skin Care,Waxing","https://www.instagram.com/pinkysvillagespa/","9:00 PM","10% OFF your first appointment!
-",,"Hours from website
-",,,"recLHSldTMoO8YeSI","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","61","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York","(646) 409-1006",,"services@pinkysvillagespa.com ",,,,,,,,,,,,,
-"Champions Design",1323,,"2021-08-09T18:17:00.000Z","https://www.championsdesign.com/","Services",40.729549,-73.981339,"203 Avenue A, New York, NY 10009",,,,"Advertising","https://www.instagram.com/championsdesign/",,,,"Please leave for Laura
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","203","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(212) 420-9270","Yes","info@championsdesign.com",,,,,,,,,,,,,
-"Ultraviolet Visual Studio",1322,,"2021-08-09T18:17:00.000Z","https://ultravioletnewyork.com/","Services",40.728699,-73.978821,"212 Avenue B, New York, NY 10009",,"
-",,"Advertising",,,,,"Please leave for Laura
-",,,"recJgMfBoRw63HTcC","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","212","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes",,,,,,,,,,,,,,
-"Now You're Clean",1321,,"2021-08-10T23:34:00.000Z","https://nowyoureclean.com","Services",40.72828,-73.98263,"279 E. 10th Street, New York, NY 10009","Yes","Check out our backyard!
+",,"Hours confirmed by phone, Last IG post 11/5/21, Website is current
+",,,"recLHSldTMoO8YeSI","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","61","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York","(646) 409-1006",,"services@pinkysvillagespa.com ",,,,,,,,,,,,,
+"Champions Design",1323,,"2022-03-01T19:17:00.000Z","https://www.championsdesign.com/","Services",40.729549,-73.981339,"203 Avenue A, New York, NY 10009",,,,"Advertising","https://www.instagram.com/championsdesign/",,,,"Call no answer, IG is current
+",,,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","203","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(212) 420-9270","Yes","info@championsdesign.com",,,,,,,,,,,,,
+"Ultraviolet Visual Studio",1322,,"2022-03-01T19:17:00.000Z","https://ultravioletnewyork.com/","Services",40.728699,-73.978821,"212 Avenue B, New York, NY 10009",,"
+",,"Advertising","https://www.instagram.com/ultravioletnewyork/",,,,"Please leave for Laura
+",,,"recJgMfBoRw63HTcC","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","212","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes",,,,,,,,,,,,,,
+"Now You're Clean",1321,,"2022-03-02T00:34:00.000Z","https://nowyoureclean.com","Services",40.72828,-73.98263,"279 E. 10th Street, New York, NY 10009","Yes","Check out our backyard!
 ","10:00 AM","Pet Supplies & Grooming","https://www.instagram.com/nowyoureclean/","8:00 PM",,,"Hours from website, IG is current and website are current, Hours updated by business on google and yelp beginning of August,
 Opened August 2021 in former Catherine Mueller location.
-",,"2021-08-01","recIjW6bTNk47f1xL","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","279","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","(347) 835-1301",,"info@nowyoureclean.com","Yes",,,,,,,"https://www.paypal.com/donate?token=UKIIiiotGBr-YB4LnTBIKVXObin8pf_EUa9tqUcoJGEsxpBtYB1ziT_uD1TBdlA-CXbOB0XmzcLIT4TC",,,,,
+",,"2021-08-01","recIjW6bTNk47f1xL","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","279","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","(347) 835-1301",,"info@nowyoureclean.com","Yes",,,,,,,"https://www.paypal.com/donate?token=UKIIiiotGBr-YB4LnTBIKVXObin8pf_EUa9tqUcoJGEsxpBtYB1ziT_uD1TBdlA-CXbOB0XmzcLIT4TC",,,,,
 "Villager Smoke Shop",1320,,"2022-03-01T00:34:00.000Z",,"Retail",40.72746,-73.98284,"445 E. 9th Street, New York, NY 10009","Yes",,,"Smoke Shop",,,,,"Please fill in any missing info you can find,
 Opened August 2021 
 ",,"2021-08-01",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","445","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,
