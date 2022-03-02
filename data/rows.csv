@@ -829,9 +829,9 @@ SUN: 11:00 AM - 7:00 PM
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002","157","Allen Street, New York, NY 10002","Allen Street"," New York, NY 10002"," New York","(646) 559-1371",,"zubinewyork@gmail.com",,,,,,,"https://www.instagram.com/p/CPYSKU7p4oZ/",,,,,,
 "Queens Beauty Parlor",1337,,"2021-08-10T22:42:00.000Z","https://www.queensbeautyparlor.com","Services",40.72961,-73.9813,"205 Avenue A, New York, NY 10009","Yes",,"10:00 AM","Skin Care,Waxing","https://www.instagram.com/queens_beauty_parlor/","8:30 PM",,,"Confirmed hours by phone and website
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","205","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(646) 891-0022",,"jana@queensbeautypalor.com",,,,,,,,,,,,,
-"BROWS Artist",1336,"https://www.yelp.com/biz/brows-artist-new-york","2021-08-10T22:27:00.000Z",,"Services",40.72672,-73.98943,"81 2nd Avenue, New York, NY 10003","Yes","SAT & SUN: Closed
-","9:00 AM","Cosmetic Tattoo",,"6:00 PM",,,"Hours from yelp
-",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","81","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(929) 666-2772",,,,,,,,,,,,,,,
+"BROWS Artist",1336,"https://www.yelp.com/biz/brows-artist-new-york","2022-03-02T23:27:00.000Z",,"Services",40.72672,-73.98943,"81 2nd Avenue, New York, NY 10003","Yes","SAT & SUN: Closed
+","9:00 AM","Cosmetic Tattoo",,"6:00 PM",,,"Confirmed hours By phone 
+",,,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","81","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(929) 666-2772",,,,,,,,,,,,,,,
 "Athena's Beauty",1335,,"2022-03-02T22:50:00.000Z","https://www.athenasbeautynyc.com","Services",40.72269,-73.98564,"20 Avenue A, New York, NY 10009","Yes",,"10:00 AM","Skin Care,Waxing","https://www.instagram.com/athenasbeautynyc/","8:00 PM",,,"Confirmed hours by phone, IG is current Website is current
 ",,,"recg5SywKrCbzQoIQ","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","20","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(917) 388-3282",,,,,,,,,,,,,,,
 "Brows Zone",1334,,"2022-03-02T22:42:00.000Z","https://browszone.com","Services",40.73404,-73.99163,"56 E. 13th Street, New York, NY 10003","Yes","Make [appointment](https://browszone.com)
@@ -5253,7 +5253,7 @@ MON: Closed
 ",,,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","339","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York","(212) 475-9081",,,,,,,,,,,,,,,
 "Il Posto Accanto",141,,"2021-11-22T19:30:00.000Z","https://www.ilpostoaccantonyc.com/","Restaurants",40.722472,-73.983954,"190 E. 2nd St, New York, NY 10009","Yes","
 ","12:00 PM","Italian","https://www.instagram.com/ilpostoaccanto/","11:00 PM",,"EVCC","Confirmed hours by phone, IG is current
-",,,"recq2J4jAb5yzgPjw","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","190","E. 2nd St, New York, NY 10009","E. 2nd St"," New York, NY 10009"," New York","(212) 228-3562",,,"Yes (Heated)","Yes",,"Yes",,,"https://www.ilpostoaccantonyc.com/",,,,,,
+",,,"recq2J4jAb5yzgPjw","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","190","E. 2nd St, New York, NY 10009","E. 2nd St"," New York, NY 10009"," New York","(212) 228-3562",,,"Yes (Heated)","Yes",,"Yes",,true,"https://www.ilpostoaccantonyc.com/",,,,,,
 "Iggy's Pizza",140,,"2021-11-29T19:52:00.000Z","https://www.iggyspizzeriamenu.com/","Restaurants",40.729249,-73.98435,"173 First Avenue, New York, NY 10003","Yes","
 ","11:00 AM","Pizza","https://www.instagram.com/iggys_pizzeria/?hl=en","1:00 AM","[SAVE 5% - Place your order online!](https://slicelife.com/restaurants/ny/new-york/10003/iggy-s-pizzeria/menu?utm_campaign=direct_websites&ajs_aid=78c1a3c8-4d49-468a-997a-39da622a91a0&client_id=78c1a3c8-4d49-468a-997a-39da622a91a0)
 
