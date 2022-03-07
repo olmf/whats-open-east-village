@@ -97,8 +97,8 @@ SAT: noon - 11:00 PM
 SUN: noon - 10:00 PM
 ","5:00 PM","Spanish","https://www.instagram.com/naitapas/?hl=en","11:00 PM",,"EVCC","IG and website are current, MOVED FROM 85 -> 84 2nd Ave, reopened 1/24/22, IG and website are current
 ",true,"2022-01-24","rec4OOnHs3K2a904w","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","84","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 677-1030",,"hola@naitapas.nyc","Yes","Yes",,"Yes",,,"https://pay.diamondelitegateway.com/naiegift",,,,,,
-"Sly Fox",1614,,"2022-03-01T21:57:00.000Z",,"Restaurants",40.72885,-73.98704,"140 2nd Avenue, New York, NY 10003","Yes",,"6:00 PM","Bar",,"2:00 AM",,,"Laura accepted hours from Google
-",,,,"Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","140","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 614-3283",,,,,,,,,,,,,,,
+"Sly Fox",1614,,"2022-03-01T21:57:00.000Z",,"Restaurants",40.72885,-73.98704,"140 2nd Avenue, New York, NY 10003","Yes",,"6:00 PM","Bar,Ukrainian",,"2:00 AM",,,"Laura accepted hours from Google
+",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","140","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 614-3283",,,,,,,,,,,,,,,
 "Shabu Tatsu",1613,,"2022-01-07T22:18:00.000Z","https://www.shabutatsu.com/","Restaurants",40.72922151408856,-73.9858873154148,"216 E. 10th Street, New York, NY 10003","Yes","[Make a reservation! ](https://resy.com/cities/ny/shabu-tatsu?seats=2&date=2022-01-07)
 ","5:00 PM","Japanese","https://www.instagram.com/shabu.tatsu/","9:00 PM",,,"Hours from site and resy, IG and site are current 
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","216","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York","n/a","Yes",,"Yes","Yes",,"Yes",,,"https://squareup.com/gift/B5RRAHZMTT2DV/order",,,,,,
@@ -1147,8 +1147,8 @@ Sandra loves you!
 ","7:00 AM","Cafe","https://www.instagram.com/cafesandranyc/?hl=en","7:00 PM",,"EVCC","Hours confirmed by website, Last IG post 10/24/21, Website is current Temporarily Closed sign removed 1/20/22, are they back?
 ",true,"2021-06-01","recNzlxt5v2anJVMF","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10009","194","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","(646) 964-5606",,"cafesandranyc@gmail.com","Yes","Yes",,,,,,,,,,,
 "Ukrainian Museum",1226,,"2022-02-10T23:16:00.000Z","http://www.ukrainianmuseum.org/","Arts & Culture",40.72767,-73.98976,"222 E. 6th Street, New York, NY 10003","Yes","MON & TUE: Closed
-","11:30 AM","Museum","https://www.instagram.com/ukrainianmuseum/","5:00 PM",,,"Confirmed hours by phone, IG is current, Website is current
-",,,"recCQzwVQyEKfYCMS","Opened","{""id"":""usrDNhAm4p6Owyzd6"",""email"":""mohammedyameogo@gmail.com"",""name"":""mohammed yameogo""}","10003","222","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York","(212) 228-0110",,"info@UkrainianMuseum.org",,,,,,,,,,,,,
+","11:30 AM","Museum,Ukrainian","https://www.instagram.com/ukrainianmuseum/","5:00 PM",,,"Confirmed hours by phone, IG is current, Website is current
+",,,"recCQzwVQyEKfYCMS","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","222","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York","(212) 228-0110",,"info@UkrainianMuseum.org",,,,,,,,,,,,,
 "Tony's Famous Pizza",1225,"https://evgrieve.com/2021/07/tonys-pizza-will-be-famous-on-1st-avenue.html","2022-02-02T05:00:00.000Z","https://tonysfamouspizzany.com/1st-ave-location/","Restaurants",40.731147,-73.983024,"231 1st Avenue, New York, NY 10003","Yes","FRI & SAT: 10:00 AM - midnight
 ","10:00 AM","Pizza,Ice Cream,Juice Bar",,"10:00 PM",,"EVCC","Hours from updated website, Opened January 2022 in former Vinny Vincenz location. 
 ",,"2022-01-01","recKFtk3wH7F6pRSX","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","231","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","(212) 777-7144",,,,,,"Yes",,,,,,,,,
@@ -3626,12 +3626,13 @@ Check [Facebook](https://www.facebook.com/CaravanofDreams) for updates!
 ","2:00 PM","Bar","https://www.instagram.com/eastvillagesocial/",,"
 ","EVCC","Reopened 12/31/21 after ""renovations"" in early November.
 ",,,"recAOVdEzxpzsBRFX","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","126","St. Mark's Place, New York, NY 10009","St. Mark's Place"," New York, NY 10009"," New York","N/A",,"bcbgerard@gmail.com","Yes (Heated)","Yes",,,,,,,,,,,
-"Cafe Mogador",554,,"2021-12-22T19:49:00.000Z","http://www.cafemogador.com/","Restaurants",40.727447,-73.984428,"101 St. Marks' Place, New York, NY 10009","Yes","FRI: 10:30 AM - 11:00 PM
+"Cafe Mogador",554,,"2021-12-22T19:49:00.000Z","http://www.cafemogador.com/","Restaurants",40.727447,-73.984428,"101 St. Marks' Place, New York, NY 10009","Yes","Temporarily closed MAR 7-10!
+FRI: 10:30 AM - 11:00 PM
 SAT: 10:00 AM - 11:00 PM
 SUN: 10:00 AM - 10:30 PM
 ","10:30 AM","Mediterranean","https://www.instagram.com/cafemogadornyc/","10:00 PM",,"EVCC","Hours from the website, IG and website are current
 (voicemail said to get the hours from the website)
-",,,"recpDMTWgasLgnFK8","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10009","101","St. Marks' Place, New York, NY 10009","St. Marks' Place"," New York, NY 10009"," New York","(212) 677-2226",,"cafemogador101@gmail.com","Yes","Yes",,"Yes",,,"https://cafemogador.cardfoundry.com/giftcards.php?action=store","https://www.gofundme.com/f/cafe-mogador-east-village-employee-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,
+",,,"recpDMTWgasLgnFK8","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","101","St. Marks' Place, New York, NY 10009","St. Marks' Place"," New York, NY 10009"," New York","(212) 677-2226",,"cafemogador101@gmail.com","Yes","Yes",,"Yes",,,"https://cafemogador.cardfoundry.com/giftcards.php?action=store","https://www.gofundme.com/f/cafe-mogador-east-village-employee-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,
 "Mighty Quinn's Barbeque",553,,"2021-12-22T19:48:00.000Z","https://www.mightyquinnsbbq.com/","Restaurants",40.727606,-73.98866,"103 2nd Avenue, New York, NY 10003","Yes","SAT: noon - 9:30 PM
 ","12:00 PM","BBQ","https://www.instagram.com/mightyquinnsbbq/","9:00 PM",,"EVCC","Hours confirmed by phone, IG and website are current  
 ",,,"recbjZsZPuW5Wnn6q","Opened","{""id"":""usrgoycqG7oYCepTj"",""email"":""jakakpo2@asebx.org"",""name"":""Johanna Akakpo""}","10003","103","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 677-3733","Yes","info@mightyquinnsbbq.com","Yes","Yes",,"Yes",,,"https://shop.mightyquinnsbbq.com/collections/frontpage/products/mighty-quinn-s-gift-card",,,,,,
@@ -5495,8 +5496,8 @@ SUN: Closed
 ","9:00 AM","Organic","https://www.instagram.com/eastvillageorganic/","8:00 PM",,"EVCC","IG is semi-current, Hours Confirmed by Phone 
 ",,,"recycirOW9Im9pwOh","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","124","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","(212) 253-2451",,"eastvillageorganics@gmail.com",,,,"No",,,,,,,,,
 "East Village Meat Market",88,,"2021-11-19T05:00:00.000Z","http://www.eastvillagemeatmarket.com/","Groceries",40.7290653,-73.9875919,"139 2nd Avenue, New York, NY 10003","Yes","SUN: Closed
-","8:00 AM","Specialty Market,Butcher","https://www.instagram.com/eastvillagemeatmarket/","4:00 PM",,"EVCC","IG is current, Hours from website contact page confirmed by Phone 
-",,,"recmhy55d67oxd2m3","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","139","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 228-5590","Yes","info@eastvillagemeatmarket.com",,,,,,,,,,,,,
+","8:00 AM","Specialty Market,Butcher,Ukrainian","https://www.instagram.com/eastvillagemeatmarket/","4:00 PM",,"EVCC","IG is current, Hours from website contact page confirmed by Phone 
+",,,"recmhy55d67oxd2m3","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","139","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","(212) 228-5590","Yes","info@eastvillagemeatmarket.com",,,,,,,,,,,,,
 "East Village Dental Center",87,,"2021-11-19T05:00:00.000Z","https://www.eastvillagedentalcenter.com/","Health",40.722534,-73.980243,"55 Avenue C, New York, NY 10009","Yes","FRI: 9:00 AM - 6:00 PM
 SAT & SUN: Closed 
 ","9:00 AM","Dental",,"6:00 PM",,"EVCC","Hours from site
