@@ -16,4 +16,5 @@
     <OwnedByFilters name="Minority/Women-owned " column="MWBE"/>
     <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
     <OwnedByFilters name="LGBTQ-owned" column="LGBTQ"/>
+    <OwnedByFilters name="Ukrainian" column="Ukrainian"/>
 </div>
