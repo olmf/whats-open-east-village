@@ -1,4 +1,4 @@
-"Name","id","Source","Last Updated","Category","Latitude","Longitude","Address","Sub Categories","Spreadsheet Update Notes","Status","Last modified by","Zip Code","Number","Remainder 1","Street","Remainder2","City","Website","Notes","Instagram","Contributor","Imported table","Survey 2021 copy","MWBE","Pickup Offered","Closure Date","Phone","Shipping Offered","Opening Date","Ukrainian","Open Time","Close Time","Special Offers","Email","Indoor Seating Offered","Outside Seating Offered","Chain","Delivery Offered","Black Owned Business","Giftcard","Fundraiser","LGBTQ","Update Requests","Changes","Special Accommodation Hours","Changes 2"
+"Name","id","Source","Last Updated","Category","Latitude","Longitude","Address","Sub Categories","Spreadsheet Update Notes","Status","Last modified by","Zip Code","Number","Remainder 1","Street","Remainder2","City","Website","Notes","Instagram","Contributor","Imported table","Survey 2021 copy","MWBE","Pickup Offered","Closure Date","Phone","Shipping Offered","Opening Date","Ukrainian Owned","Open Time","Close Time","Special Offers","Email","Indoor Seating Offered","Outside Seating Offered","Chain","Delivery Offered","Black Owned","Giftcard","Fundraiser","LGBTQ Owned","Update Requests","Changes","Special Accommodation Hours","Changes 2"
 "Baonanas",1655,"https://evgrieve.com/2022/03/baonanas-bringing-their-version-of.html","2022-03-11T02:25:00.000Z","Cafes and Desserts",40.72692,-73.98525,"93 E. 7th Street, New York, NY 10009","Cafe","Opening soon in West Store, former Luke's Lobster location.
 ","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","93","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Higher Empire",1654,,"2022-03-10T05:00:00.000Z",,40.72557,-73.98724,"71 1st Avenue, New York, NY 10003",,"Cannabis club and delivery service opening soon in former Alex Shoe Repair location
@@ -5477,9 +5477,9 @@ SUN: Closed
 SAT: Closed 
 Specializing in Hepatitis and Transplant Drug Therapy
 ",,"EVCC","recNVFGf5TxkEvm3R","recSc67EZUyATgHSf",,"Yes",,"212-228-6137","Yes",,,"9:00 AM","5:00 PM",,"East5st@equalcare.com",,,,"Yes",,,,,,,,
-"Enchantments",99,"https://www.instagram.com/p/CY_z-BJLEDN/","2022-02-01T07:30:00.000Z","Retail",40.72751,-73.98382,"424 E. 9th Street, New York, NY 10009","Natural & Alternative","PERMANENTLY CLOSED. Moved to 165 Ave B January 2021. 
+"Enchantments",99,"https://www.instagram.com/p/CY_z-BJLEDN/","2022-02-01T07:30:00.000Z","Retail",40.72751,-73.98382,"424 E. 9th Street, New York, NY 10009","Natural & Alternative","PERMANENTLY CLOSED. Relocated to 165 Ave B January 2021. 
 
-","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","424","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","www.enchantmentsincnyc.com","Lunch break: 2:00 PM - 3:00 PM
+","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","424","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","www.enchantmentsincnyc.com","Lunch break: 2:00 PM - 3:00 PM
 TUE & SAT: Closed
 ","https://www.instagram.com/enchantmentsnyc/","EVCC","recNcqgtC5oNqbrNH","recStRHSw6p3FWMC5",true,"No","2022-01-21","212-228-4394","No","1983-01-01",,"1:30 PM","8:00 PM",,"enchantmeantsny@gmail.com",,,,,,,,,,,,
 "Elsewhere Espresso",98,"EVCC","2021-11-22T05:00:00.000Z","Cafes and Desserts",40.726897,-73.986841,"335 E. 6th Street, New York, NY 10003","Cafe","\*\*\*\*\*Laura visit. IG is infrequent, last post 2/19/21, no phone, close early.
@@ -5573,7 +5573,7 @@ IG and website are current, Summer hours from the website
 ","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","137","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","www.daveysicecream.com","FRI - SUN: 1:00 PM - 12:00 AM 
 ","https://www.instagram.com/daveysicecream/","EVCC","recMVJo9hWtg60O78","recRcaPybXuwlL9Ww",true,"No","2022-03-03","212-228-8032","No","2014-01-01",,"3:00 PM","10:00 PM","Check out our [merch!](https://www.daveysicecream.com/orderonline)
 ","info@daveysicecream.com",,"Yes",,"No",,,,,,,,
-"Dancin Taste Buds (inside Ben's Deli)",74,,"2020-06-15T04:00:00.000Z","Restaurants",40.722596,-73.983281,"32 Avenue B, New York, NY 10009","Sandwich","Taco counter has a new operator (Dancin Taste Buds was not invited back)
+"Dancin Taste Buds (inside Ben's Deli)",74,,"2020-06-15T04:00:00.000Z","Restaurants",40.722596,-73.983281,"32 Avenue B, New York, NY 10009","Sandwich","PERMANENTLY CLOSED. Taco counter has a new operator (Dancin Taste Buds was not invited back)
 ","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","32","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"
 ",,"EVCC",,,,"No",,,,,,,,,,,,,"No",,,,,,,,
 "Dan & John's Wings",73,"https://evgrieve.com/2021/11/dan-johns-returns-on-dec-1.html","2021-12-12T05:00:00.000Z","Restaurants",40.727824,-73.985394,"135 1st Avenue, New York, NY 10003","Wings","Reopened 12/11/2021 after temporary closure for gas issue mid-August 2021.
