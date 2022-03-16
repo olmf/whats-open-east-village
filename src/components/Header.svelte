@@ -18,12 +18,12 @@
 <header>
     {#if innerWidth > 768}
         <div class="header-bar">
-            <h1 class="page-heading">What's Open? East Village</h1>
+            <h1 class="page-heading">Get Local! East Village</h1>
             <img class="pigeon-image" src="/images/pigeon.png"/>
-            <h3 class="title is-3" id="title">A directory of open businesses during the COVID-19 pandemic</h3>
+            <h3 class="title is-3" id="title">A directory of local indepenedent businesses in the East Village NYC.</h3>
             <div style="min-height:210px;">
                 <img class="buildings float-right" src="/images/buildings.png"/>
-                <p class="map-text">This map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village and need our support now more than ever.</p>
+                <p class="map-text">A diversity of local independent retail shops and services is an essential part of life in the East Village. This interactive map helps you locate some of those great places to visit. The <a src="https://evccnyc.org">East Village Community Coalition</a> supports our neighborhood in a variety of ways. Our Retail Diversity and Preservation initiatives defend the East Village against the corporate homogenization sweeping the city and ensure the continuation of a rich history of immigrant settlers who make the neighborhood our home.
             </div>
         </div>
         {#if opened}
@@ -49,7 +49,7 @@
             <h3 class="title is-3" id="title">A directory of open businesses during the COVID-19 pandemic</h3>
             <div>
             <img class="buildings" src="/images/buildings.png"/>
-            <p class="map-text">This map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village and need our support now more than ever.</p>
+            <p class="map-text">The Get Local! map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village.</p>
             </div>
         </div>
         {#if opened}
