@@ -45,8 +45,8 @@
     {:else}
         <div class="header-bar">
             <img class="pigeon-image-mobile" src="/images/pigeon.png"/>
-            <h1 class="page-heading">What's Open? East Village</h1>
-            <h3 class="title is-3" id="title">A directory of open businesses during the COVID-19 pandemic</h3>
+            <h1 class="page-heading">Get Local! East Village</h1>
+            <h3 class="title is-3" id="title">A directory of local independent businesses in the East Village.</h3>
             <div>
             <img class="buildings" src="/images/buildings.png"/>
             <p class="map-text">The Get Local! map is an initiative of the <a href="http://evccnyc.org">East Village Community Coalition</a>, maintained with tips from local blogger <a href="http://EVGrieve.com">EVGrieve.com</a> and a team of dedicated virtual volunteers. Use it to find local businesses, they are the lifeblood of the East Village.</p>
