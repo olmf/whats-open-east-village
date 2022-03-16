@@ -14,7 +14,7 @@
 <div class="field">
     <label class="label">Additional Categories:</label>
     <OwnedByFilters name="Minority/Women-owned " column="MWBE"/>
-    <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
-    <OwnedByFilters name="LGBTQ-owned" column="LGBTQ"/>
-    <OwnedByFilters name="Ukrainian" column="Ukrainian"/>
+    <OwnedByFilters name="Black-owned" column="Black Owned"/>
+    <OwnedByFilters name="LGBTQ-owned" column="LGBTQ Owned"/>
+    <OwnedByFilters name="Ukrainian" column="Ukrainian Owned"/>
 </div>
