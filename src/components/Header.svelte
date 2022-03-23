@@ -20,7 +20,7 @@
         <div class="header-bar">
             <h1 class="page-heading">Get Local! East Village</h1>
             <img class="pigeon-image" src="/images/pigeon.png"/>
-            <h3 class="title is-3" id="title">A directory of local indepenedent businesses in the East Village NYC.</h3>
+            <h3 class="title is-3" id="title">A directory of local independent businesses in the East Village NYC.</h3>
             <div style="min-height:210px;">
                 <img class="buildings float-right" src="/images/buildings.png"/>
                 <p class="map-text">A diversity of local independent retail shops and services is an essential part of life in the East Village. This interactive map helps you locate some of those great places to visit. The <a src="https://evccnyc.org">East Village Community Coalition</a> supports our neighborhood in a variety of ways. Our Retail Diversity and Preservation initiatives defend the East Village against the corporate homogenization sweeping the city and ensure the continuation of a rich history of immigrant settlers who make the neighborhood our home.
