@@ -302,18 +302,19 @@ Opened 12/1/2021 in former Spiegel location.
 "Redge Annex",1582,,"2021-12-08T20:34:00.000Z","Services",40.727161,-73.986443,"80 E. 7th Street, New York, NY 10003","Hours from website
 ",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","80","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York","Yes","Hair","212-673-7095","
 ",,,"11:00 AM","8:00 PM","EVCC","reciGJb7FlhaA0r6w","recnXaCwzmiqPLMVU","https://www.redgesalons.com/","https://www.instagram.com/redgesalons/",,,,,,,,,,,,,,,,,,,
-"Fancy NY Grill & Deli",1581,,"2021-12-07T05:00:00.000Z","Groceries",40.72278711,-73.98584895,"20 Avenue A, New York, NY 10009","Website is current. Reoccupied by Fancy NY Grill and Deli Fall 2021.
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","20","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","Yes","Deli ","(646) 329-6293","Open 24/7!
-",,"Yes","12:00 AM ","12:00 AM","EVCC",,,"http://fancynygrilldeli.com/",,,,,,,,,,,,,,,,,,,,
+"Fancy NY Grill & Deli",1581,,"2022-04-01T04:00:00.000Z","Groceries",40.72278711,-73.98584895,"20 Avenue A, New York, NY 10009","Website is current, hours from google, owner comment a months ago.
+Reoccupied by Fancy NY Grill and Deli Fall 2021.
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","20","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","Yes","Deli ","(646) 329-6293","Open 24/7!
+",,"Yes",,,"EVCC",,,"http://fancynygrilldeli.com/",,,,,,,,,,,,,,,,,,,,
 "Kadidja Natural Organic Shea",1580,"https://www.instagram.com/p/CXHfSnolFno/","2022-01-10T05:00:00.000Z","Health",40.735795916809465,-73.9925065191126,"7 E. 14th Street, New York, NY 10009","Temporary Pop up holiday location. Hours from Kadidja IG post.
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","7","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","No","Natural & Alternative","(917) 596-5258","Holiday pop-up through Jan 9, 2021!
 ",,,"11:00 AM","7:00 PM","EVCC",,,"https://www.kadidja.nyc","https://www.instagram.com/fourteenthnyc/?hl=en","kadidja@kadidja.nyc",,,,true,,,true,,,,,,"https://www.kadidja.nyc/product/gift-card/",,,,,
 "Shop Fair",1578,,"2021-12-04T00:32:00.000Z","Groceries",40.72194,-73.98001,"42 Avenue C, New York, NY 10009","CHAIN. Website is current
 ",true,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","42","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","Yes","Supermarket","(212) 614-8401","SAT & SUN: 8:00 AM - 10:00 PM
 ",,,"7:00 AM ","11:00 PM",,,,"https://shopfairsupermarkets.business.site/?m=true",,,,,,,,,,,,,,,,,,,,
-"Duo ",1577,"https://evgrieve.com/2021/10/duo-nyc-now-open-in-its-new-9th-street.html","2021-12-03T05:00:00.000Z","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","IG and website are current, Hours from website,
+"Duo ",1577,"https://evgrieve.com/2021/10/duo-nyc-now-open-in-its-new-9th-street.html","2022-04-01T04:00:00.000Z","Retail",40.728621,-73.986333,"324 E. 9th Street, New York, NY 10003","IG and website are current, Hours from website,
 moved Oct 2021 from 337 E. 9th Street into former Elliot Mann location at 324.
-",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","324","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","Yes","Vintage","212-777-7044","SUN: 1:30 PM - 5:00 PM
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","324","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","Yes","Vintage","212-777-7044","SUN: 1:30 PM - 5:00 PM
 TUE: Closed
 
 ","2021-10-11",,"1:30 PM","6:30 PM","EVCC","recEHrZx7gZpk5xic","recJYSqW1h0FzQS7A","https://www.duonyc.com","https://www.instagram.com/duonyc/","duo@duonyc.com",,"Yes",,,,,true,,"
@@ -323,40 +324,50 @@ TUE: Closed
 
 
 ","2021-12-01",,"5:00 PM","10:00 PM",,,,"https://www.thetigerlilykitchen.com/","https://www.instagram.com/tlk_nyc/",,,,,,,,true,,,,,,,,,,,
-"Lil' Frankie's Grocery",1575,,"2021-12-02T01:21:00.000Z","Groceries",40.72374,-73.98859,"21 1st Avenue, New York, NY 10003","Opening soon from Frank Prisinzano
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","21","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"Specialty Market,Italian",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Smoke City & Exotics",1574,,"2021-12-02T01:21:00.000Z","Retail",40.72722,-73.97994,"166 Avenue B, New York, NY 10009","Opened November 2021 in long-vacant former laundromat location.
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","166","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Yes","Smoke Shop",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Cinnamon Girl",1573,"https://www.instagram.com/cinnamon_girl_bk/?hl=en","2021-12-01T05:00:00.000Z","Cafes and Desserts",40.72651,-73.989528,"73 2nd Avenue, New York, NY 10003","IG is current, hours from evgrieve post,
+"Lil' Frankie's Grocery",1575,,"2022-04-02T00:21:00.000Z","Groceries",40.72374,-73.98859,"21 1st Avenue, New York, NY 10003","\*\*\*\*\*Laura visit.
+Opening soon from Frank Prisinzano
+",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","21","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"Specialty Market,Italian",,,,,,,,,,,"https://www.instagram.com/LilFrankiesGrocery/?hl=en",,,,,,,,,,,,,,,,,,,
+"Smoke City & Exotics",1574,,"2022-04-02T00:21:00.000Z","Retail",40.72722,-73.97994,"166 Avenue B, New York, NY 10009","Hours from [google](https://www.google.com/maps/place/Smoke+City+Exotics/@40.7271916,-73.979857,15z/data=!4m5!3m4!1s0x0:0x4c7eed5318d77cb0!8m2!3d40.7271916!4d-73.979857), confirmed by biz a weeks ago
+Opened November 2021 in long-vacant former laundromat location.
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","166","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Yes","Smoke Shop",,"FRI & SAT: 10:00 AM - 2:00 AM
+SUN: Noon - Midnight
+",,,"10:00 AM","Midnight",,,,,,,,,,,,,,,,,,,,,,,,
+"Cinnamon Girl",1573,"https://www.instagram.com/cinnamon_girl_bk/?hl=en","2022-04-01T04:00:00.000Z","Cafes and Desserts",40.72651,-73.989528,"73 2nd Avenue, New York, NY 10003","Hours from January IG post
 Opened November 2021 in former Atlas Cafe location.	
-",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","73","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes","Cafe","212-539-0966","
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","73","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","Yes","Cafe","212-539-0966","
 ","2021-11-24",,"8:00 AM","8:00 PM","EVCC","rec7dogBX83YG1sTf","reccuPH0R94eVMNID",,"https://www.instagram.com/cinnamon_girl_bk/?hl=en",,,,,,,,true,,,,,,,,,,,
-"Archie's Press",1572,"https://evgrieve.com/2022/03/a-visit-to-archies-press-on-10th-street.html","2021-12-01T23:53:00.000Z","Retail",40.72955,-73.98561,"219 E. 10th Street, New York, NY 10009","IG and website are current, hours from evgrieve article. Opened  in former East Village Beauty Salon location.
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","219","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","Yes","Gifts & Home",,"SAT & SUN: noon - 6:00 PM
+"Archie's Press",1572,"https://evgrieve.com/2022/03/a-visit-to-archies-press-on-10th-street.html","2022-04-01T22:53:00.000Z","Retail",40.72955,-73.98561,"219 E. 10th Street, New York, NY 10009","IG and website are current, hours from google that's confirmed by the biz 4 weeks ago. 
+Opened  in former East Village Beauty Salon location.
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","219","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","Yes","Gifts & Home",,"SAT & SUN: noon - 6:00 PM
 TUE & WED: Closed			
 ","2021-12-01",,"1:00 PM","6:00 PM",,"recEEHOAofEjKZp0S","recJV8fZigFzZKKPg","https://archiespress.com/","https://www.instagram.com/archiespress/",,,,,,,,,,"Proceeds from Little Ukraine print to humanitarian aid!
 ",,,,,,,,,
-"Prune",1571,"https://evgrieve.com/2021/11/1st-street-prune-watch.html","2021-12-02T00:01:00.000Z","Restaurants",40.72394,-73.98935,"54 1st Street, New York, NY 10003","Temporarily closed since Covid.
+"Prune",1571,"https://evgrieve.com/2021/11/1st-street-prune-watch.html","2022-04-01T23:01:00.000Z","Restaurants",40.72394,-73.98935,"54 1st Street, New York, NY 10003","Temporarily closed since Covid.
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","54","1st Street, New York, NY 10003","1st Street"," New York, NY 10003"," New York",,"American",,,"1999-01-01",,,,,,,"https://prunerestaurant.com/",,,,,,,,,true,,,,,,,,,,,
-"Manco Studio & Gallery",1570,,"2022-02-01T19:47:00.000Z","Arts & Culture",40.72833559,-73.97871947,"199 Avenue B, New York, NY 10009","Manco Studio carrying on holiday popup in former CM Rivera campaign office: <https://www.instagram.com/pjorourkeii/?hl=en>
+"Manco Studio & Gallery",1570,"https://www.instagram.com/p/CbtOlaKM_TP/","2022-04-01T18:47:00.000Z","Arts & Culture",40.72833559,-73.97871947,"199 Avenue B, New York, NY 10009","IG & website are current, hours from [IG post.](https://www.instagram.com/p/CbtOlaKM_TP/)
+Started 2021 holiday pop-up with PJ O'Rourke
+<https://www.instagram.com/pjorourkeii/?hl=en>
 https://pjorourkeii.com/
-",,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","199","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Yes","Gallery,Fashion","646.660.5062","Check out our hand-painted sneakers!
-Always available for commissions!
-",,,,,"EVCC","rec89YgF9YjCwoJA5","recdqpH43ZkSL94pt","https://www.mancostudio.com/","https://www.instagram.com/mancostudio/?hl=en",,,,,,,,,,,,,,,,,,,
-"PlantShed",1567,,"2021-12-01T23:53:00.000Z","Cafes and Desserts",40.7313,-73.98613,"193 2nd Avenue, New York, NY 10003","Opening soon in long-vacant former Pastel location.
-",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","193","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Cafe,Florist",,,,,,,,,,"https://www.plantshed.com/","https://www.instagram.com/plantshednyc/?hl=en",,,,,,,,,,,,,,,,,,,
-"Jo Laurie Design",1565,,"2022-04-01T21:51:00.000Z","Services",40.72577,-73.97935,"620 E. 9th Street, New York,  NY 10009","Long-standing business, office in the rear of Jo Laurie Loves
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","620","E. 9th Street, New York,  NY 10009","E. 9th Street"," New York,  NY 10009"," New York","Yes","Architect","(212) 460-9299","World-class design services from gut renovations to apartment staging! 
-By appointment only.
-","1996-01-01",,,,,"recV7bauGGgPH2ol9","rec0oCBTAHh5WNJax","https://jolauriedesign.com",,,,,,,,,true,,,,,,,,,,,
-"Jo Laurie Loves",1564,,"2022-04-01T22:41:00.000Z","Retail",40.72577,-73.97935,"620 E. 9th Street, New York,  NY 10009","IG & website & [FB](https://www.facebook.com/JoLaurieDesign) are current, hours from their FB.
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","199","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Yes","Gallery,Fashion","646.660.5062","SAT: Noon - 8:00 PM
+MON & SUN: Closed
+
+",,,"4:00 PM","8:00 PM","EVCC","rec89YgF9YjCwoJA5","recdqpH43ZkSL94pt","https://www.mancostudio.com/","https://www.instagram.com/mancostudio/?hl=en",,,,,,,,,,,,,,,,,,,
+"PlantShed",1567,,"2022-04-01T22:53:00.000Z","Cafes and Desserts",40.7313,-73.98613,"193 2nd Avenue, New York, NY 10003","Opening soon in long-vacant former Pastel location.
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","193","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Cafe,Florist",,"East village location opening soon!
+",,,,,,,,"https://www.plantshed.com/","https://www.instagram.com/plantshednyc/?hl=en",,,"Yes",,,,,,,,,,,,,,,,
+"Jo Laurie Design",1565,,"2022-04-01T21:51:00.000Z","Services",40.72577,-73.97935,"620 E. 9th Street, New York,  NY 10009","Hours from [FB](https://www.facebook.com/JoLaurieDesign), Long-standing business, office in the rear of Jo Laurie Loves
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","620","E. 9th Street, New York,  NY 10009","E. 9th Street"," New York,  NY 10009"," New York","Yes","Architect","(212) 460-9299","World-class design services from gut renovations to apartment staging! 
+SAT & SUN: Closed
+","1996-01-01",,"9:00 AM","5:30 PM",,"recV7bauGGgPH2ol9","rec0oCBTAHh5WNJax","https://jolauriedesign.com",,,,,,,,,true,,,,,,,,,,,
+"Jo Laurie Loves",1564,"https://www.instagram.com/p/CYZg6Y0u72a/","2022-04-01T22:41:00.000Z","Retail",40.72577,-73.97935,"620 E. 9th Street, New York,  NY 10009","\*\*\*\*\*Laura confirm hours, IG & website are current, hours from IG post.
 New shop from Jo Laurie Design opened 11/16/21!
-",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","620","E. 9th Street, New York,  NY 10009","E. 9th Street"," New York,  NY 10009"," New York","Yes","Gifts & Home","(212) 460-9299","SAT & SUN: Closed
-Great new gift & home shop from Jo Laurie Design!	
-","2021-11-16",,"9:00 AM","5:30 PM",,,,"https://jolauriedesign.com/pages/coming-soon","https://www.instagram.com/jolaurielovesnyc/"," info@jolauriedesign.com",,,,,,,true,,,,,,,,,,,
+",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","620","E. 9th Street, New York,  NY 10009","E. 9th Street"," New York,  NY 10009"," New York","Yes","Gifts & Home","(212) 460-9299","Great new gift & home shop from Jo Laurie Design!	
+","2021-11-16",,"12:00 PM","6:00 PM",,,,"https://jolauriedesign.com/pages/coming-soon","https://www.instagram.com/jolaurielovesnyc/"," info@jolauriedesign.com",,,,,,,true,,,,,,,,,,,
 "E3 Cleaners",1563,"https://evgrieve.com/2021/12/dry-cleaners-and-laundromats-make-return.html","2022-04-01T05:51:00.000Z","Laundry",40.724731,-73.988403,"82 E. 3rd Street, New York, NY 10003","Hours from [google](https://www.google.com/search?client=firefox-b-1-e&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14&tbm=lcl&q=E3%20Cleaners%20east%20village&rflfq=1&num=10&rldimm=15859455526222359945&rlst=f#rlfi=hd:;si:15859455526222359945;mv:[[40.7324231,-73.9757139],[40.7201995,-73.9909721]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14), confirmed by biz 5 weeks ago.
 Nice-looking new business, no online presence.
-",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","82","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York","Yes","Cleaners","(212) 334-2056",,"2021-12-01",,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","82","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York","Yes","Cleaners","(212) 334-2056","SAT:10:30 AM - 6:00 PM
+SUN: Closed
+","2021-12-01",,"8:30 AM","7:30 PM",,,,,,,,,,,,,,,,,,,,,,,,
 "VACANT",1562,,"2021-11-10T05:00:00.000Z",,40.723018,-73.985519,"150 E. 2nd Street, New York, NY 10009","VACANT. Formerly FDR 99c Pizza. Sotheby's Elizabeth Han (917) 960-8965 elizabeth.han@sothebys.realty
 ",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","150","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","No",,,"
 ",,,,,"EVCC",,,,,,,,,,,,,,,,,,,,,,,
