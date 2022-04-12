@@ -5878,62 +5878,66 @@ SUN: Closed
 "China Wok",59,"https://www.seamless.com/menu/china-wok-63-avenue-d-new-york/473880","2021-11-18T05:00:00.000Z","Restaurants",40.722152,-73.977442,"63 Avenue D, New York, NY 10009","SAT & SUN: 1:00 PM -  9:30 PM
 ","Chinese","PG","Hours Confirmed by Phone 
 ",,"recScsLuL4wnGuRRr","recXtTcTF5xDVfcGP","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","63","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","(212) 979-9896",,"Yes","Yes",,,,"12:00 PM",,"9:30 PM",true,,,,,,,,,,,,,,,,
-"ChikaLicious Dessert Bar / DoughYAKI",58,,"2021-11-18T05:00:00.000Z","Cafes and Desserts",40.729747,-73.986449,"203 E. 10th Street, New York, NY 10003","MON & TUE: Closed 
+"ChikaLicious Dessert Bar / DoughYAKI",58,,"2022-04-12T04:00:00.000Z","Cafes and Desserts",40.729747,-73.986449,"203 E. 10th Street, New York, NY 10003","MON & TUE: Closed 
 [Email](mailto:cdbreservations@gmail.com) for tastings & reservations!
 
-","Dessert Bar","EVCC","Website is current, IG is semi current
-","ChikaLicious.dessert@gmail.com","recGRj50Xc1p33l8P","recL8KwpRd2FiOGXd","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","203","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York","212 995-9511","www.chikalicious.com","Yes","Yes","https://onelink.quickgifts.com/merchant/chikalicious/",,,"3:00 PM","https://www.instagram.com/chikaliciousdessertbar_nyc/?hl=en","10:00 PM",true,,,,"Yes",,,,,,,"Yes",,,,,
-"Cha-An Teahouse",57,"https://www.instagram.com/p/CSFNU0ysZNS/","2021-11-18T05:00:00.000Z","Cafes and Desserts",40.72939,-73.988179,"230 E. 9th Street, New York, NY 10003","THU: 2:00 PM - 8:00 PM
+","Dessert Bar","EVCC","\*\*\*\*\*This is really confusing, they got three website, <https://chikaliciousdesserts.com/#contact>
+<http://thedessertclub.com/>
+and the dead one <http://www.chikalicious.com/> (This one is what we have)
+And they got different IG, 
+<https://www.instagram.com/the_dessertclub/>
+and the one what we have
+<https://www.instagram.com/chikaliciousdessertbar_nyc/?hl=en>
+What website and IG should we put in our database.
+IG is current
+","ChikaLicious.dessert@gmail.com","recGRj50Xc1p33l8P","recL8KwpRd2FiOGXd","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","203","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York","212 995-9511",,"Yes","Yes","https://onelink.quickgifts.com/merchant/chikalicious/",,,"3:00 PM","https://www.instagram.com/chikaliciousdessertbar_nyc/?hl=en","10:00 PM",true,,,,"Yes",,,,,,,"Yes",,,,,
+"Cha-An Teahouse",57,"https://www.instagram.com/p/CSFNU0ysZNS/","2022-04-12T04:00:00.000Z","Cafes and Desserts",40.72939,-73.988179,"230 E. 9th Street, New York, NY 10003","THU: 2:00 PM - 8:00 PM
 FRI: 2:00 PM - 9:00 PM
 SAT: 1:00 PM - 9:00 PM
 SUN: 1:00 PM - 7:00 PM
 MON - WED: Closed
 
-","Tea Shop","EVCC","IG and Website are current, hours confirmed by phone
-Teahouse reopened 8/3/2021  
+","Tea Shop","EVCC","IG and Website are current, hours from IG
 
-","info@chaanbonbon.com","recP4CqR77CFIUxSC","recUl3Rg18DVXFSH0","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","230","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","212-228-8030","www.chaanteahouse.com","Yes",,"https://squareup.com/gift/DMM39M2CFYA3V/order",,,,"https://www.instagram.com/chaanteahouse/?hl=en",,true,,,,,,,,,,,,,,,,
-"Cha-An BONBON",56,,"2021-11-18T05:00:00.000Z","Cafes and Desserts",40.729213,-73.98796,"238 E. 9th Street, New York, NY 10003","THU: 1:00 PM - 6:00 PM
-FRI - SUN: 1:00 PM - 7:00 PM
-MON - WED : Closed
-Cashless
-","Dessert Bar","EVCC"," IG and website are current, hours confirmed by IG and website
-","info@chaanbonbon.com","rechMAEjLI2gUPYxY","recm315IFJ3w9Ajmm","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","238","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","646-669-9785","https://www.chaanteahouse.com/bonbon","Yes","Yes","https://squareup.com/gift/DMM39M2CFYA3V/order",,,"1:00 PM","https://www.instagram.com/chaanbonbon/?hl=en","7:00 PM",true,,,,,"Yes",,,,,,,,,,,
-"Casa Adela",55,,"2021-11-17T23:30:00.000Z","Restaurants",40.722601,-73.979627,"66 Avenue C, New York, NY 10009","
-","Puerto Rican","EVCC","hours from website, site and IG are current
-","casaadelarestaurant@gmail.com","reczMYn4ImxKzb2vh","recE3pOtCny0OWnkF","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","66","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","
+","info@chaanbonbon.com","recP4CqR77CFIUxSC","recUl3Rg18DVXFSH0","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","230","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","212-228-8030","www.chaanteahouse.com","Yes",,"https://squareup.com/gift/DMM39M2CFYA3V/order",,,,"https://www.instagram.com/chaanteahouse/?hl=en",,true,,,,,,,,,,,,,,,,
+"Cha-An BONBON",56,,"2022-04-12T04:00:00.000Z","Cafes and Desserts",40.729213,-73.98796,"238 E. 9th Street, New York, NY 10003","MON - WED : Closed
+~ We are Cashless ~
+","Dessert Bar","EVCC"," IG and website are current, hours from IG
+","info@chaanbonbon.com","rechMAEjLI2gUPYxY","recm315IFJ3w9Ajmm","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","238","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","646-669-9785","https://www.chaanteahouse.com/bonbon","Yes","Yes","https://squareup.com/gift/DMM39M2CFYA3V/order",,,"1:00 PM","https://www.instagram.com/chaanbonbon/?hl=en","6:00 PM",true,,,,,"Yes",,,,,,,,,,,
+"Casa Adela",55,,"2022-04-12T22:30:00.000Z","Restaurants",40.722601,-73.979627,"66 Avenue C, New York, NY 10009","
+","Puerto Rican","EVCC","Website and IG are current, hours from website
+","casaadelarestaurant@gmail.com","reczMYn4ImxKzb2vh","recE3pOtCny0OWnkF","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","66","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","
 (212) 473-1882","https://casa-adela-puerto-rican-restaurant.business.site/?utm_source=gmb&utm_medium=referrala","Yes","Yes",,,,"11:00 AM","https://www.instagram.com/casaadelarestaurant/?hl=en","8:00 PM",true,,,,"Yes",,,,,,,"Yes",,,,,
-"Cafe Social 68",53,,"2021-11-17T05:00:00.000Z","Cafes and Desserts",40.724622,-73.984389,"68 Avenue A, New York, NY 10009","SAT & SUN: 8:00 AM - 7:00 PM
-","Cafe","EVCC","IG is semi-current, website is current, Hours from website
-",,"recPADfYbjdBXNIxZ","recUR4Gn5keRcy3mn","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","68","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(917) 409-6837","https://www.cafesocial68.com/","Yes",,,,,"7:00 AM ","https://www.instagram.com/cafesocial68/","7:00 PM ",,,,,,,,,,,,"Yes",,,,,
+"Cafe Social 68",53,,"2022-04-12T04:00:00.000Z","Cafes and Desserts",40.724622,-73.984389,"68 Avenue A, New York, NY 10009","SAT & SUN: 8:00 AM - 7:00 PM
+","Cafe","EVCC","IG & website are current, Hours from website
+",,"recPADfYbjdBXNIxZ","recUR4Gn5keRcy3mn","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","68","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","(917) 409-6837","https://www.cafesocial68.com/","Yes",,,,,"7:00 AM ","https://www.instagram.com/cafesocial68/","7:00 PM ",,,,,,,,,,,,"Yes",,,,,
 "Cafe Mocha",52,"https://evgrieve.com/search?q=cafe+mocha","2020-12-12T05:00:00.000Z","Cafes and Desserts",40.727757,-73.987903,"116 2nd Avenue, New York, NY 10003",,"Cafe","EVCC","PERMANENTLY CLOSED. Building was demolished after December 2020 fire (had been Temporarily closed since Feb 2020 fire). 
 
 ","cafemochanyc@gmail.com","recITpeRP6dZ5SvMQ","recNaQFgJ7efkDQBe","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","116","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","212-253-1046","www.cafemochanyc.com","No","No",,,,,"https://www.instagram.com/cafemochaeast/",,,,,,,,,,,,,,,,,,
-"Cafe Cortadito",51,"https://www.instagram.com/cafecortaditonyc8212/","2021-11-17T23:30:00.000Z","Restaurants",40.722424,-73.982899,"210 E. 3rd Street, New York, NY 10009","SAT: 11:00 AM - 11:00 PM
-SUN: 11:00 AM - 6:00 PM
+"Cafe Cortadito",51,"https://www.instagram.com/cafecortaditonyc8212/","2022-04-12T22:30:00.000Z","Restaurants",40.722424,-73.982899,"210 E. 3rd Street, New York, NY 10009","SUN: 11:00 AM - 6:00 PM
 MON: Closed
 [NYTimes best Cuban sandwiches!](https://www.nytimes.com/2020/05/12/dining/cuban-sandwich-nyc-coronavirus.html) 
-","Cuban","EVCC","Hours contact link from the website
-","pvalencia236@aol.com","recEtjDiaQ8xJbe6G","recJKK4H4R9NYWzV4","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","210","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York","(212) 614-3080","https://cafecortadito.com/order-online","Yes","Yes",,,,"12:00 PM","https://www.facebook.com/cortaditonyc/","11:00 PM",true,,,,"Yes",,,,,,,"Yes",,,,,
-"C&B Cafe",50,"https://www.candb.nyc/ ","2021-11-17T05:00:00.000Z","Cafes and Desserts",40.725086,-73.981673,"178 E. 7th Street, New York, NY 10009","
-","Cafe,Bakery","PL","IG is current, Hours from IG profile are good as per Laura
-","info@candbnyc","reci1lzEWEIbxMrPD,recA6k9GNjwjd5Tey","recFnLA5HkxzsQe3W,recniM03QFJrMxME1","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","178","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,"https://www.candb.nyc","Yes","No","https://squareup.com/gift/7HV20F01G0WPC/order",,,"9:00 AM","https://www.instagram.com/candbnyc","4:00 PM",,,,,,,,,,,,"Yes (Heated)",,,,,
-"Butter Lane",49,,"2021-11-17T05:00:00.000Z","Cafes and Desserts",40.726502,-73.98412,"123 E. 7th Street, New York, NY 10009","FRI & SAT:  noon - 9:00 PM
-SUN: noon - 8:00 PM
+","Cuban","EVCC","FB is current, hours from FB
+","pvalencia236@aol.com","recEtjDiaQ8xJbe6G","recJKK4H4R9NYWzV4","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","210","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York","(212) 614-3080","https://cafecortadito.com/order-online","Yes","Yes",,,,"12:00 PM","https://www.facebook.com/cortaditonyc/","11:00 PM",true,,,,"Yes",,,,,,,"Yes",,,,,
+"C&B Cafe",50,"https://www.candb.nyc/ ","2022-04-12T04:00:00.000Z","Cafes and Desserts",40.725086,-73.981673,"178 E. 7th Street, New York, NY 10009","
+","Cafe,Bakery","PL","IG is current, Hours from IG profile
+","info@candbnyc","reci1lzEWEIbxMrPD,recA6k9GNjwjd5Tey","recFnLA5HkxzsQe3W,recniM03QFJrMxME1","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","178","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,"https://www.candb.nyc","Yes","No","https://squareup.com/gift/7HV20F01G0WPC/order",,,"9:00 AM","https://www.instagram.com/candbnyc","4:00 PM",,,,,,,,,,,,"Yes (Heated)",,,,,
+"Butter Lane",49,,"2022-04-12T04:00:00.000Z","Cafes and Desserts",40.726502,-73.98412,"123 E. 7th Street, New York, NY 10009","FRI & SAT:  noon - 9:00 PM
+SUN: noon - 7:00 PM
 MON: Closed
-","Bakery","EVCC","IG and website are current, Hours from recent IG post
-","hello@butterlane.com","recQ0e1ESoDoJ0plU","recVhFs3MpEEYLKai","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","123","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","212-677-2880","www.butterlane.com","Yes","Yes","https://www.butterlane.com/product-category/gifts/","
+","Bakery","EVCC","IG, FB and website are current, Hours from [FB](https://www.facebook.com/butterlane/)
+","hello@butterlane.com","recQ0e1ESoDoJ0plU","recVhFs3MpEEYLKai","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","123","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","212-677-2880","www.butterlane.com","Yes","Yes","https://www.butterlane.com/product-category/gifts/","
 ",,"12:00 PM","https://www.instagram.com/butterlane/","8:00 PM",true,,,,,,,,,,,"Yes",,,,,
-"Bubbles N Go Laundromat",48,,"2021-11-17T05:00:00.000Z","Laundry",40.722334,-73.984812,"173 E. 2nd Street, New York, NY 10009","
-","Laundromat","EVCC","Hours Confirmed by Phone, IG is current, <https://www.bubblesngolaundry.com/> under construction
-","info@bubblesngolaundry.com","recENAbCtNRNaGodw","recJ41C1nOS3prJ2U","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","173","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","(212) 677-8777",,"Yes","Yes",,,,"7:00 AM","https://www.instagram.com/bubblesngolaundry/","10:00 PM",,,,,,,,,,,,,,,,,
-"Brodo",47,,"2021-11-17T23:00:00.000Z","Restaurants",40.7300543,-73.9832243,"200 1st Avenue, New York, NY 10009","SAT & SUN: 10:00 AM - 7:00 PM
+"Bubbles N Go Laundromat",48,,"2022-04-12T04:00:00.000Z","Laundry",40.722334,-73.984812,"173 E. 2nd Street, New York, NY 10009","
+","Laundromat","EVCC","IG & website are current, hours from website
+","info@bubblesngolaundry.com","recENAbCtNRNaGodw","recJ41C1nOS3prJ2U","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","173","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","(212) 677-8777",,"Yes","Yes",,,,"7:00 AM","https://www.instagram.com/bubblesngolaundry/","10:00 PM",,,,,,,,,,,,,,,,,
+"Brodo",47,,"2022-04-12T22:00:00.000Z","Restaurants",40.7300543,-73.9832243,"200 1st Avenue, New York, NY 10009","SAT & SUN: 10:00 AM - 7:00 PM
 To order please visit order.brodo.com. We can't thank you enough for your support.
 ","Broth","EVCC","IG is current, Hours from website
-","hello@brodo.com","recvNinqnBPNuhudz","recA4JOPhCQ3J2P2X","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","200","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","(646) 602-1300","https://www.brodo.com/","Yes","Yes",,"
+","hello@brodo.com","recvNinqnBPNuhudz","recA4JOPhCQ3J2P2X","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","200","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","(646) 602-1300","https://www.brodo.com/","Yes","Yes",,"
 ",,"9:00 AM","https://www.instagram.com/brodo/?hl=en","7:00 PM",,,,,,"Yes",,,,,,,,,,,
 "Brix NYC",46,,"2022-04-12T04:00:00.000Z","Retail",40.72729664,-73.97977582,"170 Avenue B, New York, NY 10009","FRI & SAT: noon - 9:00 PM
-","Wine","EVCC","Hours from Website, IG is current
+","Wine","EVCC","\*\*\*\*\*Even though, their IG is current, but I think the hours from their website is questionable. Hours from Website, IG is current
 ","info@brixwines.com","recNUKOnXjEd0n7g5,recLQAiMEYEJUPOil","recQ71JbyZFZ9A97J,recSbbfMRkFtf8s5t","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","170","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","(212) 777-0691","http://www.brixwines.com/","Yes","Yes",,,,"12:00 AM","https://www.instagram.com/brixwineshopnyc/?hl=en","8:00 PM",true,,,,,"Yes",,,,,,,,,,,
 "Brindle Room",45,"https://evgrieve.com/2021/06/the-brindle-room-is-on-hunt-for-new-home.html","2021-06-10T04:00:00.000Z","Restaurants",40.728256,-73.982736,"277 E. 10th Street, New York, NY 10009",,"American","EVCC","PERMANENTLY CLOSED. Relocating to former Virginia's location 647 E. 11th Street (same name or new business by same owner?)
 ","thebrindleroomny@gmail.com",,,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","277","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","212 529 9702","https://brindleroomny.com/","No","No",,,"2009-01-01",,"https://www.instagram.com/brindleroom/",,,,,,,,"https://www.gofundme.com/f/brindle-room-relief-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,"2021-03-31",,,,,,,
