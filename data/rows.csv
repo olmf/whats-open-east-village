@@ -5526,8 +5526,10 @@ SUN: 9:30 AM - 7:30 PM
 "Johnny Air Mart",147,"2021-11-22T21:00:00.000Z","Groceries","214 Avenue A, New York, NY 10009","Yes","Specialty Market,Filipino,Shipping","Confirmed by Phone
 ","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","214","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.7298779,-73.98054239,"
 ",,true,"rec5yn63mx2yOb9OM","recaPOxsgy3O3WuDa",,"(212) 387-7080",,,,"10:00 AM",,"6:00 PM",,,"EVCC",,,,,,"Yes",,,,,,,,,,
-"John's of 12th Street",146,"2021-11-22T20:30:00.000Z","Restaurants","302 E. 12th St, New York, NY 10003","Yes","Italian","Confirmed Hours by phone, IG is current, hours from website
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","302","E. 12th St, New York, NY 10003","E. 12th St"," New York, NY 10003"," New York",40.730621,-73.985532,"Last seating at 10:00 PM
+"John's of 12th Street",146,"2022-04-19T19:30:00.000Z","Restaurants","302 E. 12th St, New York, NY 10003","Yes","Italian","IG & [FB](https://www.facebook.com/Johnsof12thStreet/) are current, hours from FB
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","302","E. 12th St, New York, NY 10003","E. 12th St"," New York, NY 10003"," New York",40.730621,-73.985532,"FRI & SAT: 4:00 PM - 11:30 PM
+SUN: 3:30 PM - 10:30 PM
+Last seating at 10:00 PM
 Delivery & takeout: 4:00 PM - 10:00 PM
 ",,,"recK4V7ktBrrfjRtV","recPlmyJnCsHu4cij",,"(212) 475-9531","https://www.johnsof12thstreet.com/#menus","Yes","rrundbaken@gmail.com","4:00 PM","https://www.instagram.com/johnsof12thstreet/?hl=en","11:00 PM",,,"PG",,,,,"Yes",,,,,,"Yes",,,,,
 "Jiang Diner",145,"2021-07-18T19:00:00.000Z","Restaurants","309 E. 5th Street, New York, NY 10009","No","Chinese","PERMANENTLY CLOSED late July 2021. Website expired
@@ -5536,11 +5538,11 @@ IG not current
 ","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","309","E. 5th Street, New York, NY 10009","E. 5th Street"," New York, NY 10009"," New York",40.726732,-73.988307,"SUN: 5:00 PM - 10:00 PM
 MON: Closed
 ",,true,"rec2Jl288jPyXVuqR","rec70Mtx2kQOcGPff",,"(646) 484-5999","https://www.jiangdiner.com",,,"5:00 PM","https://www.instagram.com/jiangdiner/","11:00 PM",,,"EVCC",,,,,"Yes",,,,"2021-07-31",,"Yes",,,,,
-"Jennifer Cafe",144,"2021-11-22T20:00:00.000Z","Restaurants","133 E. 4th Street, New York, NY 10003","Yes","Latin,Cuban,Mexican,Cafe","Confirmed Hours by phone
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","133","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",40.72542,-73.987315,"
+"Jennifer Cafe",144,"2022-04-19T19:00:00.000Z","Restaurants","133 E. 4th Street, New York, NY 10003","Yes","Latin,Cuban,Mexican,Cafe","\*\*\*\*\*Laura call, IG last post 2020, Confirmed Hours by phone
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","133","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",40.72542,-73.987315,"
 ",,,"recMISybroYOXm1jk","recRZjZAlpZ4c7m8I",,"(917) 674-5443",,,"jenniferscafe32@gmail.com","7:00 AM","https://www.instagram.com/jenniferscafe_/?hl=en","4:00 PM",,,"EVCC",,,,,,,,,,,,,,,,
-"Jell & Chill",143,"2021-11-22T20:00:00.000Z","Cafes and Desserts","110 E. 7th Street, New York, NY 10009","Yes","Dessert Bar","IG and website are current with the same hours
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","110","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.72641,-73.98472,"THU - SUN: 2:00 PM - 9:00 PM
+"Jell & Chill",143,"2022-04-19T19:00:00.000Z","Cafes and Desserts","110 E. 7th Street, New York, NY 10009","Yes","Dessert Bar","IG and website are current, hours from website
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","110","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.72641,-73.98472,"THU - SUN: 2:00 PM - 9:00 PM
 MON: Closed
 ","
 ",true,"recuiiifq7teEIojM","reczzJJEk8uuTtJ8a",,"(646) 370-5229","https://www.jellchill.com/","Yes","info@jellchill.com","2:00 PM","https://www.instagram.com/jellandchill/","8:30 PM",,,"EVCC",,,,,,,,,,,"Yes",,,,,
