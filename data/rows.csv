@@ -9,7 +9,7 @@
 ","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","18","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Blue & Cream",1694,"2022-04-17T01:16:00.000Z","Retail","1 E. 1st Street, New York, NY 10003","Yes","Fashion","\*\*\*\*\*Fill. Longstanding business. 
 ","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","1","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Norris Salon",1693,"2022-01-06T04:04:00.000Z","Services","346 E. 9th Street, New York, NY 10003","Yes","Hair","\*\*\*\*\*Laura FILL
+"Norris Salon",1693,"2022-01-06T04:04:00.000Z","Services","346 E. 9th Street, New York, NY 10003","Yes","Hair","\*\*\*\*\*Fill (Laura visit).
 ","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","346","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",40.72827,-73.98561,"
 ","
 ",true,"recST0cwiDQs1TM4a","recXarDVcERIgE7Ty",true,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5387,33 +5387,36 @@ SUN: 11:00 AM - 9:00 PM
 "Makiinny",182,"2021-12-01T21:26:00.000Z","Restaurants","32 E. 7th Street, New York, NY 10003","Yes","Thai","Website is current, Hours from website
 ","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","32","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.728222,-73.9892,"Closed on holidays.
 ",,true,"recCNwzcEYpuwuDsc","recH4X0ByZqKLfYhA",,"212-673-4610","https://www.athomerecipe.com/","Yes",,"12:00 PM","https://www.instagram.com/makiinnythairestaurant/","9:00 PM",,,"EVCC",,,,,"Yes",,,,,,,,,,,
-"Madame Vo",181,"2021-12-01T21:24:00.000Z","Restaurants","212 E. 10th Street, New York, NY 10003","Yes","Vietnamese","IG and website are current, hours confirmed by phone. 
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","212","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",40.729261,-73.986103,"
+"Madame Vo",181,"2022-04-19T20:24:00.000Z","Restaurants","212 E. 10th Street, New York, NY 10003","Yes","Vietnamese","IG, FB and website are current, hours from [FB](https://www.facebook.com/madamevo)
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","212","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",40.729261,-73.986103,"MON: Closed
+Break time:
+TUE: 4:30 PM - 5:30 PM
+WED - SUN: 4:00 PM - 5:30 PM
 ",,true,"recusw8R062kmhvGH","reczJXzgU73AB2Qv5",,"(917) 261-2115","https://www.madamevonyc.com/","Yes","press@madamevonyc.com","12:00 PM","https://www.instagram.com/madamevonyc/?hl=en","10:00 PM",,,"EVCC",,,,,,,,,,,"Yes",,,,,
-"Love Mama",179,"2021-12-01T21:20:00.000Z","Restaurants","174 2nd Avenue, New York, NY 10003","Yes","Asian","Hours Confirmed by phone
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","174","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.73040037,-73.98611784,,,true,"rec3hcnknd3HigrCw","rec8yDOJhe4Xx1MrU",,"(212) 254-2868","https://www.lovemamany.com","Yes",,"11:00 AM",,"10:00 PM",,,"PG",,,,,,,,,,,,,,,,
-"Loisaida Drugs & Surgical",178,"2021-12-01T21:27:00.000Z","Health","273 E. 3rd Street, New York, NY 10009","Yes","Pharmacy","confirmed hours by phone
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","273","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",40.721717,-73.980315,"FRI, SAT & SUN: 9:30 AM - 5:00 PM
-",,,"recFQowPoUfpeeLmn","recK7PXeiVgFtZ6bL",,"(212) 254-7307",,,,"9:00 AM",,"6:00 PM",,,"PG",,,,,,,,,,,,,,,,
-"Lois Cleaners",177,"2021-12-01T21:16:00.000Z","Laundry","45 3rd Avenue, New York, NY 10003","Yes","Cleaners","hours confirmed by phone
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","45","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",40.730284,-73.988951,"THU, SAT & TUE : 8:00AM - 4:00 PM
+"Love Mama",179,"2022-04-19T20:20:00.000Z","Restaurants","174 2nd Avenue, New York, NY 10003","Yes","Asian","BIZ confirmed hours on [google](https://www.google.com/search?client=firefox-b-1-e&q=Love+Mama&ludocid=12023043814184303085&gsas=1&client=firefox-b-1-e&lsig=AB86z5UiidxJ726rWGMQdKe8oZ7D&sa=X&ved=2ahUKEwjckcrXl6H3AhVNhIkEHdVLAVAQoAJ6BAgjEAc&biw=1920&bih=946&dpr=1) 10 weeks ago
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","174","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.73040037,-73.98611784,,,true,"rec3hcnknd3HigrCw","rec8yDOJhe4Xx1MrU",,"(212) 254-2868","https://www.lovemamany.com","Yes",,"11:30 AM",,"10:30 PM",,,"PG",,,,,,,,,,,,,,,,
+"Loisaida Drugs & Surgical",178,"2022-04-19T20:27:00.000Z","Health","273 E. 3rd Street, New York, NY 10009","Yes","Pharmacy","\*\*\*\*\*Laura Call [Google](https://www.google.com/maps/place/Loisaida+Drug+%26+Surgicals/@40.7216134,-73.9802143,15z/data=!4m5!3m4!1s0x0:0xd4403d3cc0d6ff!8m2!3d40.7216134!4d-73.9802143) say SUN closed, confirmed hours by phone 12/1/2021
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","273","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",40.721717,-73.980315,"SAT: 9:30 AM - 5:00 PM
+",,,"recFQowPoUfpeeLmn","recK7PXeiVgFtZ6bL",,"(212) 254-7307",,,,"9:30 AM",,"6:00 PM",,,"PG",,,,,,,,,,,,,,,,
+"Lois Cleaners",177,"2022-04-19T20:16:00.000Z","Laundry","45 3rd Avenue, New York, NY 10003","Yes","Cleaners","hours confirmed by phone 12/1/2021
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","45","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",40.730284,-73.988951,"THU, SAT & TUE : 8:00AM - 4:00 PM
 SUN: Closed
 
 ",,,"recX9yBOs18UkKviq","rec2qZ2dm29azvQ7O",,"(212) 995-1684","https://www.facebook.com/LoisCleaners/",,,"8:00 AM",,"5:00 PM",,,"PG",,,,,,,,,,,,,,,,
-"Load Laundromat",176,"2022-03-26T20:10:00.000Z","Laundry","602 E. 14th Street, New York, NY 10009","Yes","Laundromat","Hours confirmed by phone, website & IG are current.
-","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","602","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York",40.72916797,-73.97786827,"
+"Load Laundromat",176,"2022-04-19T20:10:00.000Z","Laundry","602 E. 14th Street, New York, NY 10009","Yes","Laundromat","website & IG are current. hours from website
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","602","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York",40.72916797,-73.97786827,"
 ",,,"rec7k3zED1MsDIrL2","reccBu03x2NIStMAq",,"(917) 265-8226","https://www.loadlaundromat.com/","Yes",,"7:00 AM","https://www.instagram.com/load_laundromat/","11:00 PM",,,"PG",,,,,,,,,,,,,,,,
-"Live Live & Organic",175,"2021-12-01T21:01:00.000Z","Health","261 E. 10th Street, New York, NY 10009","Yes","Natural & Alternative","IG is inactive, hours confirmed by phone
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","261","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",40.728537,-73.983355,"
+"Live Live & Organic",175,"2022-04-19T20:01:00.000Z","Health","261 E. 10th Street, New York, NY 10009","Yes","Natural & Alternative","IG last post 2/12/2020, FB last post FEB 2022, hours from FB
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","261","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",40.728537,-73.983355,"SUN: noon - 10:00 PM
 ","
 ",,"recs4n8pRW14FEzpU","recxlOzOLX2kUpUei",,"212-505-5504","https://live-live.com/",,"info@live-live.com","12:00 PM","https://www.instagram.com/liveliveandorganic/","7:00 PM",,,"PL",,,,,,,,,,,,,,,,
 "Little Tong Noodle Shop",174,"2020-07-28T04:00:00.000Z","Restaurants","177 1st Avenue, New York, NY 10003","No","Chinese","PERMANENTLY CLOSED. Reoccupied by Lhasa Tibetan. (Worked with ReThink Food through April 2020.) Opened March 2017. 
 
 ","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","177","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",40.72934,-73.984247,"EV location closed.			
 ",,true,,,,,,,,"12:00 PM","https://www.instagram.com/littletongnyc/","5:00 PM","2017-03-01","https://evgrieve.com/2020/08/lhasa-celebrated-tibetan-restaurant-in.html","EVCC",,,,,,,,,"2020-04-30",,,,,,,
-"Lil' Frankie's",173,"2021-12-01T20:57:00.000Z","Restaurants","19 1st Avenue, New York, NY 10003","Yes","Italian","Hours confirmed by website, IG is current
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","19","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",40.723604,-73.988501,"FRI & SAT : 11: AM - 4:00 AM
-",,,"recC9XyQx7eic61NN","recHqoZfr8fyrRmCb",,"(212) 420-4900","https://www.lilfrankies.com/","Yes",,"11:00 AM","https://www.instagram.com/lilfrankies/?hl=en","2:00 AM",,,"EVCC",,,,,"Yes",,,,,,"Yes",,,,,
+"Lil' Frankie's",173,"2022-04-19T19:57:00.000Z","Restaurants","19 1st Avenue, New York, NY 10003","Yes","Italian","IG is current, hours from their website
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","19","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",40.723604,-73.988501,"FRI & SAT : 11: AM - 2:00 AM
+",,,"recC9XyQx7eic61NN","recHqoZfr8fyrRmCb",,"(212) 420-4900","https://www.lilfrankies.com/","Yes",,"11:00 AM","https://www.instagram.com/lilfrankies/?hl=en","12:00 AM",,,"EVCC","https://shop.giftlocal.com/165-lil-frankies/customize-order",,,,"Yes",,,,,,"Yes",,,,,
 "Lower East Side Coffee Shop",172,"2021-02-05T05:00:00.000Z","Restaurants","442 E. 14th Street, New York, NY 10009","No","American,Diner","PERMANENTLY CLOSED. Vacant.
 Marshall's notice 2/5/21	 		
 ","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","442","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York",40.730343,-73.980756,"
@@ -5424,25 +5427,25 @@ Home of Surma Books and Music for 98 years until 2016 when family sold to Icon R
 ","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","11","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.72893,-73.98977,"EV location PERMANENTLY CLOSED. 	
 
 ",,true,,,,"(646) 370-6423","https://nyclesia.com/","No",,"4:00 PM","https://www.instagram.com/lesia_nyc/","1:00 AM","2018-01-01","https://evgrieve.com/2020/07/le-sia-has-closed-on-7th-street.html","EVCC",,,,,,,,,"2020-07-01",,,,,,,
-"Le Petit Parisien",170,"2021-12-01T20:27:00.000Z","Cafes and Desserts","32 E. 7th Street, New York, NY 10003","Yes","Cafe,Bakery","Confirmed hours by phone, IG is current
-","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","32","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.728288,-73.989098,"SAT & SUN: 9:00 AM - 6:00 PM
+"Le Petit Parisien",170,"2022-04-19T19:27:00.000Z","Cafes and Desserts","32 E. 7th Street, New York, NY 10003","Yes","Cafe,Bakery","IG is current, hours form website
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","32","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.728288,-73.989098,"SAT & SUN: 9:00 AM - 6:00 PM
 ",,true,"recjH4B2uZOzx3SVI","recoYv2ro0PPMOdK6",,"(917) 262-0406","https://www.lepetitparisienusa.com/","Yes","hello32@lepetitparisienusa.com","8:30 AM","https://www.instagram.com/lepetitparisiennyc/","6:00 PM",,,"EVCC",,,true,,"Yes",,,,,,"Yes",,,,,
-"Le Fournil",169,"2021-12-01T20:23:00.000Z","Cafes and Desserts","115 2nd Avenue, New York, NY 10003","Yes","Bakery,Cafe,Specialty Market","IG is current 11/22/21, hours from Instagram profile,
+"Le Fournil",169,"2022-04-19T19:23:00.000Z","Cafes and Desserts","115 2nd Avenue, New York, NY 10003","Yes","Bakery,Cafe,Specialty Market","IG is current, hours from Instagram profile,
 SquareSpace website expired message: https://www.lefournilnyc.com/
-","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","115","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.72789749,-73.98841804,"SUN: 9:00 AM - 3:00 PM
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","115","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.72789749,-73.98841804,"SUN: 9:00 AM - 3:00 PM
 MON: Closed
 ",,,,,,,,"No","lefournil96@gmail.com","8:00 AM","https://www.instagram.com/lefournilnyc/?hl=en","5:00 PM",,,"EVCC",,,,,,,,,,,,,,,,
-"Bright Laundry Land",168,"2021-12-01T20:16:00.000Z","Laundry","108 Stanton Street, New York, NY 10002","Yes","Laundromat","Confirmed hours by Phone 
-","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002","108","Stanton Street, New York, NY 10002","Stanton Street"," New York, NY 10002"," New York",40.721258,-73.987491,"SUN: closed
+"Bright Laundry Land",168,"2022-04-19T19:16:00.000Z","Laundry","108 Stanton Street, New York, NY 10002","Yes","Laundromat","Confirmed hours by Phone 12/1/2021
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10002","108","Stanton Street, New York, NY 10002","Stanton Street"," New York, NY 10002"," New York",40.721258,-73.987491,"SUN: closed
 ",,,,,,"(212) 228-2423",,"Yes",,"8:00 AM",,"7:00 PM",,,"EVCC",,,,,,,,,,,,,,,,
-"E7 New Tech Healthy Cleaners",167,"2021-12-01T20:11:00.000Z","Laundry","97 E. 7th Street, New York, NY 10009","Yes","Cleaners","Hours confirmed hour by Phone,
+"E7 New Tech Healthy Cleaners",167,"2022-04-19T19:11:00.000Z","Laundry","97 E. 7th Street, New York, NY 10009","Yes","Cleaners","Hours confirmed by Phone 12/1/2021
 (LES Businesses sheet) [<https://docs.google.com/spreadsheets/d/1-f6GHoYC6i_bnJtWAJ4mavorF8tAIXiz7B39SnEVtCY/edit#gid=0>]
-","Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","97","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.726843,-73.985167,"SAT: 11:00 AM - 6:30 PM
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","97","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.726843,-73.985167,"SAT: 11:00 AM - 6:30 PM
 SUN: Closed
 Drop off service and delivery (dry clean, wash-and-fold, and alterations).
 ",,true,"rec61x1iBDRhDBpCe","recbiYsHvESxSmKrC",,"(212) 677-0011",,"Yes",,"7:30 AM ",,"7:30 PM",,,"EVCC",,,,,,,,,,,,,,,,
-"Laundry to You",166,"2022-04-19T19:56:00.000Z","Laundry","34 E. 7th Street, New York, NY 10003","Yes","Cleaners","\*\*\*\*\*Should we use the same hours? Same hours on [google](https://www.google.com/search?client=firefox-b-1-e&q=Laundry+to+You&ludocid=11500500185645701333&gsas=1&client=firefox-b-1-e&lsig=AB86z5VwT2iV14pp1wRgdt0vMO7b&sa=X&ved=2ahUKEwjOqPCwkqH3AhWfkYkEHe8fBy8QoAJ6BAgdEAM&biw=1920&bih=946&dpr=1). Confirmed hours by Phone 11/30/2021
-","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","34","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.728189,-73.989122,"SUN: Closed
+"Laundry to You",166,"2022-04-19T19:56:00.000Z","Laundry","34 E. 7th Street, New York, NY 10003","Yes","Cleaners","Confirmed hours by Phone 11/30/2021
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","34","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.728189,-73.989122,"SUN: Closed
 Drop off service
 ",,,"rec2vtqqv92kBmhwj","rec7MURPpa3AQ7ClH",,"(212) 979-6595","http://laundrytoyou.com/",,,"7:30 AM",,"6:00 PM",,,"PG",,,,,,,,,,,,,,,,
 "Ladybird",165,"2022-04-19T19:47:00.000Z","Restaurants","111 E. 7th Street, New York, NY 10009","Yes","Vegan","IG is current, hours from their website
@@ -5502,16 +5505,14 @@ SAT & SUN: 4:30 PM - 5:30 PM
 "Katz's Deli",155,"2022-04-19T04:00:00.000Z","Restaurants","205 E. Houston Street, New York, NY 10002","Yes","Jewish","IG is current, hours from their website
 ","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10002","205","E. Houston Street, New York, NY 10002","E. Houston Street"," New York, NY 10002"," New York",40.722115,-73.987526,"SAT & SUN: 8:00 AM - 11:00 PM
 ",,,,,,"212-254-2246","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r","Yes","press@katzsdelicatessen.com","8:00 AM","https://www.instagram.com/katzsdeli/?hl=en","10:45 PM",,,"EVCC",,,,,"Yes","Yes",,,,,"Yes",,,,,
-"Kapri Cleaners",154,"2022-04-19T20:35:00.000Z","Laundry","250 E. Houston Street, New York, NY 10009","Yes","Cleaners,Tailor","\*\*\*\*\*[Google ](https://www.google.com/maps/place/Kapri+Cleaners/@40.7221969,-73.9854906,15z/data=!4m5!3m4!1s0x0:0xd6fe7cfed4260559!8m2!3d40.7222015!4d-73.9854943)hours is different than what we have
-Confirmed hours by phone.11/22/2021
-Moved into renovated storefront at same address 9/1/2021. Rumors of demolition of one-story spaces (see source). 
-","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","250","E. Houston Street, New York, NY 10009","E. Houston Street"," New York, NY 10009"," New York",40.722073,-73.984836,"SAT: 8:00 AM - 4:00 PM
+"Kapri Cleaners",154,"2022-04-19T20:35:00.000Z","Laundry","250 E. Houston Street, New York, NY 10009","Yes","Cleaners,Tailor","Laura accepted hours from [Google ](https://www.google.com/maps/place/Kapri+Cleaners/@40.7221969,-73.9854906,15z/data=!4m5!3m4!1s0x0:0xd6fe7cfed4260559!8m2!3d40.7222015!4d-73.9854943)
+Moved into renovated storefront at same address 9/1/2021.
+","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","250","E. Houston Street, New York, NY 10009","E. Houston Street"," New York, NY 10009"," New York",40.722073,-73.984836,"SAT: 8:00 AM - 6:00 PM
 SUN: Closed
-",,,"recz7iklJhJuoD8Ds","recEoJLKDiKKDotsQ",,"(212) 420-8853",,,,"8:00 AM",,"6:00 PM",,"https://evgrieve.com/2021/08/this-east-village-business-strip-has.html","PG",,,,,,,,,,,,,,,,
-"Kafana",152,"2022-04-19T19:30:00.000Z","Restaurants","116 Avenue C, New York, NY 10009","Yes","Serbian","\*\*IG is current, hours from IG profile
-Remove their fundraiser, because they reach their goal, also last donation 24 months ago.
+",,,"recz7iklJhJuoD8Ds","recEoJLKDiKKDotsQ",,"(212) 420-8853",,,,"7:00 AM",,"7:00 PM",,"https://evgrieve.com/2021/08/this-east-village-business-strip-has.html","PG",,,,,,,,,,,,,,,,
+"Kafana",152,"2022-04-19T19:30:00.000Z","Restaurants","116 Avenue C, New York, NY 10009","Yes","Serbian","IG is current, hours from IG profile
 
-","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","116","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",40.72432,-73.97851,"SAT & SUN: noon - 12:30 AM
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","116","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",40.72432,-73.97851,"SAT & SUN: noon - 12:30 AM
 
 ",,,"recSYKodg34izkCJz","recXfbPCa45yO5XyX",,"(212) 353-8000","http://www.kafananyc.com","Yes","info@kafananyc.com","5:00 PM","https://www.instagram.com/kafananyc/","11:00 PM",,,"EVCC","https://www.thegiftcardcafe.com/vcart/shop.php",,,,"Yes",,,,,,"Yes",,,,,
 "K & W Best Dry Cleaner & Laundry",151,"2022-04-19T19:13:00.000Z","Laundry","229 E. 11th Street, New York, NY 10003","Yes","Cleaners","Hours from website
@@ -5526,8 +5527,8 @@ SUN: Closed
 SAT: 9:00 AM - 9:00 PM
 SUN: 10:00 AM - 8:30 PM
 ",,true,"recFks9InY8OTacT5","recKBTA7hZ948VxIt",,"(212) 477-0071",,"Yes",,"7:30 AM","https://www.instagram.com/juicevitality/","8:30  PM",,,"EVCC",,,,,,,,,,,,,,,,
-"Johnny Air Mart",147,"2022-04-19T20:00:00.000Z","Groceries","214 Avenue A, New York, NY 10009","Yes","Specialty Market,Filipino,Shipping","\*\*\*\*\*Same time on [google](https://www.google.com/maps/place/Johnny+Air+Mart/@40.7298573,-73.980498,15z/data=!4m5!3m4!1s0x0:0x514300933efc119!8m2!3d40.7298897!4d-73.9805731), do Laura accept the hours on google? CHAIN, hours confirmed by phone 11/22/21
-","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","214","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.7298779,-73.98054239,"
+"Johnny Air Mart",147,"2022-04-19T20:00:00.000Z","Groceries","214 Avenue A, New York, NY 10009","Yes","Specialty Market,Filipino,Shipping","CHAIN, hours confirmed by phone 11/22/21 same as google
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","214","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.7298779,-73.98054239,"
 ",,true,"rec5yn63mx2yOb9OM","recaPOxsgy3O3WuDa",,"(212) 387-7080","https://www.johnnyaircargopadala.com/locations.html",,,"10:00 AM",,"6:00 PM",,,"EVCC",,,,true,,"Yes",,,,,,,,,,
 "John's of 12th Street",146,"2022-04-19T19:30:00.000Z","Restaurants","302 E. 12th St, New York, NY 10003","Yes","Italian","IG & [FB](https://www.facebook.com/Johnsof12thStreet/) are current, hours from FB
 ","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","302","E. 12th St, New York, NY 10003","E. 12th St"," New York, NY 10003"," New York",40.730621,-73.985532,"FRI & SAT: 4:00 PM - 11:30 PM
@@ -5541,8 +5542,8 @@ IG not current
 ","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","309","E. 5th Street, New York, NY 10009","E. 5th Street"," New York, NY 10009"," New York",40.726732,-73.988307,"SUN: 5:00 PM - 10:00 PM
 MON: Closed
 ",,true,"rec2Jl288jPyXVuqR","rec70Mtx2kQOcGPff",,"(646) 484-5999","https://www.jiangdiner.com",,,"5:00 PM","https://www.instagram.com/jiangdiner/","11:00 PM",,,"EVCC",,,,,"Yes",,,,"2021-07-31",,"Yes",,,,,
-"Jennifer Cafe",144,"2022-04-19T19:00:00.000Z","Restaurants","133 E. 4th Street, New York, NY 10003","Yes","Latin,Cuban,Mexican,Cafe","\*\*\*\*\*Laura call, IG last post 2020, Confirmed Hours by phone
-","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10003","133","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",40.72542,-73.987315,"
+"Jennifer Cafe",144,"2022-04-19T19:00:00.000Z","Restaurants","133 E. 4th Street, New York, NY 10003","Yes","Latin,Cuban,Mexican,Cafe","IG last post 2020, Confirmed Hours by phone
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","133","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",40.72542,-73.987315,"
 ",,,"recMISybroYOXm1jk","recRZjZAlpZ4c7m8I",,"(917) 674-5443",,,"jenniferscafe32@gmail.com","7:00 AM","https://www.instagram.com/jenniferscafe_/?hl=en","4:00 PM",,,"EVCC",,,,,,,,,,,,,,,,
 "Jell & Chill",143,"2022-04-19T19:00:00.000Z","Cafes and Desserts","110 E. 7th Street, New York, NY 10009","Yes","Dessert Bar","IG and website are current, hours from website
 ","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","110","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",40.72641,-73.98472,"THU - SUN: 2:00 PM - 9:00 PM
@@ -5665,9 +5666,9 @@ Your place to work and have a snack 11:00 AM - 6:00 PM: wifi and printer availab
 ","Same Day Service!
 PICKUP & DELIVERY text 646-504-9798
 ",,"recQMwvoIl9KA1LNl","recV3XWNCma0PM6CJ",,"(212) 673-6886",,"Yes",,"7:00 AM","https://www.instagram.com/gentlewashlaundromat/?hl=en","10:00 PM",,,"EVCC",,,,,,,,,,,,,,,,
-"Gena's Grill",118,"2022-04-18T17:42:00.000Z","Restaurants","210 1st Avenue, New York, NY 10009","Yes","Dominican","Confirmed Hours by Phone 11/20/2021, same as on website
-","Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","210","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.730346,-73.982986,"
-",,,"recy13tVdDXolzRHy","recDiuUk7EYEAkcwW",,"(212) 473-3700","https://genasgrill.com/","Yes",,"7:00 AM","  ","11:00 PM",,,"EVCC",,,,,"Yes",,,,,,"Yes",,,,,
+"Gena's Grill",118,"2022-04-18T17:42:00.000Z","Restaurants","210 1st Avenue, New York, NY 10009","Yes","Dominican","Confirmed Hours by Phone 11/20/2021, same as on website, updated by business 2 months ago.
+","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","210","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.730346,-73.982986,"
+",,true,"recy13tVdDXolzRHy","recDiuUk7EYEAkcwW",true,"(212) 473-3700","https://genasgrill.com/","Yes",,"7:00 AM","  ","11:00 PM",,,"EVCC",,,,,"Yes",,,true,,,"Yes",,,,,
 "Gem Spa",117,"2021-01-18T05:00:00.000Z","Retail","131 2nd Ave, New York, NY 10003","No","Fashion,Gallery","PERMANENTLY CLOSED. VACANT. In the Patel family since 1986, opened in the 1930s at 131 2nd Avenue, New York, NY 10003
 ","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","131","2nd Ave, New York, NY 10003","2nd Ave"," New York, NY 10003"," New York",40.728525,-73.988022,"
 ",,true,"reck5sbdIU79oEnMp","recpmTCCCV8pDpIBN",,"(917) 509-0964","https://gemspanyc.com","No",,,"https://www.instagram.com/besteggcream/",,,"https://evgrieve.com/2020/05/gem-spa-will-not-reopen.html","EVCC",,,,,,"No",,,"2020-05-07",,,,,,,
@@ -5687,7 +5688,7 @@ PICKUP & DELIVERY text 646-504-9798
 ","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","182","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.727797,-73.979449,"THU & FRI: noon - 11:30 PM
 ","Free delivery on first order
 
-",true,"recbVsVok3PqX9xcp","recgcTmNe4QGcUS1N",,"(917) 675-7897","https://frangos-peri-peri.business.site/","Yes",,"12:00 PM","https://www.instagram.com/frangosnyc/","11:00 PM",,,"EVCC",,,,,"Yes",,,,,,"Yes",,,,,
+",true,"recbVsVok3PqX9xcp","recgcTmNe4QGcUS1N",true,"(917) 675-7897","https://frangos-peri-peri.business.site/","Yes",,"12:00 PM","https://www.instagram.com/frangosnyc/","11:00 PM",,,"EVCC",,,,,"Yes",,,,,,"Yes",,,,,
 "Fonda",111,"2020-03-29T04:00:00.000Z","Restaurants","40 Avenue B, New York, NY 10009","No","Mexican","PERMANENTLY CLOSED, reoccupied by Carnaval.
 
 ","Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","40","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.722918,-73.983061,"EV location closed.
