@@ -27,24 +27,32 @@ SUN: 9:00 AM - 11:00 PM
 ",,"221 2nd Avenue, New York, NY 10009","10009","221","2nd Avenue, New York, NY 10009","2nd Avenue"," New York, NY 10009"," New York","2022-04-20T23:57:00.000Z",-73.98545,40.73214,,,,,,"rechbxl4GahMHvv9F","recmsYMtAbi2WgQY3",,,,,,,,,,,,,,,,,,,,,,,,
 1699,"Unknown","Librae Bakery","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Cafes and Desserts","Bakery",,"\*\*\*\*\*Need lat / longs. Opening soon in former Schmackery's location (did not reopen after March 2020 shutdown).
 ","https://www.libraebakery.com/","35 Cooper Square, New York, NY 10003","10003","35","Cooper Square, New York, NY 10003","Cooper Square"," New York, NY 10003"," New York","2022-04-20T23:09:00.000Z",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1698,"Opened","IG-Fit","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Health","Gym","Yes","\*\*\*\*\*Fill. Longstanding business. 
-",,"242 E. 14th Street, New York, NY 10003","10003","242","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","2022-04-17T01:40:00.000Z",-73.98577,40.732693,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1697,"Opened","Trinity Star","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Services","Hair","Yes","\*\*\*\*\*Fill. Longstanding business. 
-",,"626 E. 14th Street, New York, NY 10009","10009","626","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","2022-04-17T01:32:00.000Z",-73.977295,40.729134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1696,"Opened","1 on 1 Chiropractic","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Health","Chiropractor","Yes","\*\*\*\*\*Fill. Longstanding business. 
-",,"62 E. 1st Street, New York, NY 10003","10003","62","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York","2022-04-17T01:21:00.000Z",-73.989105,40.723564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1695,"Opened","A E Supply","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Retail","Hardware","Yes","\*\*\*\*\*Fill. Longstanding business. 
-",,"18 2nd Avenue, New York, NY 10003","10003","18","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","2022-04-17T01:18:00.000Z",-73.9907511,40.7240606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1694,"Opened","Blue & Cream","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Retail","Fashion","Yes","\*\*\*\*\*Fill. Longstanding business. 
-",,"1 E. 1st Street, New York, NY 10003","10003","1","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York","2022-04-17T01:16:00.000Z",-73.9920996,40.7246528,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1693,"Opened","Norris Salon","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Services","Hair","Yes","\*\*\*\*\*Fill (Laura visit).
-",,"346 E. 9th Street, New York, NY 10003","10003","346","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","2022-01-06T04:04:00.000Z",-73.98561,40.72827,,,"
+1698,"Opened","IG-Fit","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Health","Gym","Yes","USE HOURS FROM [GOOGLE](https://www.google.com/search?client=firefox-b-1-e&q=IG-FIT+Health+Club&ludocid=18246722110984708310&gsas=1&client=firefox-b-1-e&lsig=AB86z5UWwpwniIApynv4YEIPhA4Z&sa=X&ved=2ahUKEwikr7Swlab3AhWAhIkEHeVoDa4QoAJ6BAgkEA0&biw=1920&bih=946&dpr=1)
+","https://www.igfithealthclub.com/","242 E. 14th Street, New York, NY 10003","10003","242","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","2022-04-22T01:40:00.000Z",-73.98577,40.732693,"(646) 707-3791","https://www.instagram.com/igfithealthclub/?hl=en","SUN: 7:00 AM - 9:00 PM
+","7:00 AM","11:00 PM",,,,,,,,,,,,,,,,,,,,,,,,,,
+1697,"Opened","Trinity Star","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Services","Hair","Yes","Laura accepted hours from google
+",,"626 E. 14th Street, New York, NY 10009","10009","626","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York","2022-04-22T01:32:00.000Z",-73.977295,40.729134,"(212) 777-0301",,"SUN & MON: Closed
+","11:00 AM","6:00 PM",,,,,,,,,,,,,,,,,,,,,,,,,,
+1696,"Opened","1 on 1 Chiropractic","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Health","Chiropractor","Yes","Laura accepted hours from[ google](https://www.google.com/search?client=firefox-b-1-e&q=1+on+1+Chiropractic&ludocid=9644506438647184278&gsas=1&client=firefox-b-1-e&lsig=AB86z5U1Av0iE2PHcOJZ7HFYS4Pd&sa=X&ved=2ahUKEwjn-8bKkqb3AhW1k4kEHRjeA8YQoAJ6BAgaEAw&biw=1920&bih=946&dpr=1), do not list old FB (last post 2016)
+",,"62 E. 1st Street, New York, NY 10003","10003","62","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York","2022-04-22T01:21:00.000Z",-73.989105,40.723564,"(212) 228-7072",,"WED: 4:00 PM - 7:00 PM
+SUN: Closed
+","1:00 AM","7:00 PM",,,,,,,,,,,,,,,,,,,,,,,,,,
+1695,"Opened","A E Supply","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Retail","Hardware","Yes","Laura accepted hours from [Google](https://www.google.com/maps/place/A+E+Supply/@40.7240606,-73.9907511,15z/data=!4m5!3m4!1s0x0:0xbfda37c3494bcd74!8m2!3d40.7240655!4d-73.9907634)
+",,"18 2nd Avenue, New York, NY 10003","10003","18","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","2022-04-22T01:18:00.000Z",-73.9907511,40.7240606,"(212) 260-7000",,"SAT: 8:00 AM - 2:00 PM
+SUN: Closed
+","8:00 AM","4:00 PM",,,,,,,,,,,,,,,,,,,,,,,,,,
+1694,"Opened","Blue & Cream","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Retail","Fashion","Yes","IG is for general, website is online store, use hours from [google](https://www.google.com/maps/place/Blue+%26+Cream/@40.7246528,-73.9920996,15z/data=!4m5!3m4!1s0x0:0x1c8f2f62f5e9cc12!8m2!3d40.7246528!4d-73.9920996)
+","https://www.blueandcream.com/","1 E. 1st Street, New York, NY 10003","10003","1","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York","2022-04-22T01:16:00.000Z",-73.9920996,40.7246528,"(212) 533-3088","https://www.instagram.com/blueandcream/",,"11:00 AM","8:00 PM",,,"hello@blueandcream.com",,,,,,,,,,,,,,,,,,,,,,,
+1693,"Opened","Norris Salon","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Services","Hair","Yes","Laura no need to visit, found their current website
+","https://norrissalon.com/booking.html","346 E. 9th Street, New York, NY 10003","10003","346","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","2022-01-06T04:04:00.000Z",-73.98561,40.72827,"(321) 217-8281",,"Boo
 ",,,"recST0cwiDQs1TM4a","recXarDVcERIgE7Ty",,"
 ",true,true,,,,,,,,,,,,,,,,,,,,
-1692,"Opened","Elite Piercing","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Services","Piercing","Yes","\*\*\*\*\*Fill. Longstanding business. 
-",,"18 St. Mark's Place, New York, NY 10003","10003","18","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","2022-04-17T01:03:00.000Z",-73.9889639,40.7290147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1691,"Opened","Step Up Barber Shop","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Services","Hair","Yes","\*\*\*\*\*Use the phone number on Google, not sure if it's the right number. Can't find their IG, FB, or website.
-Fill. Longstanding business. 
+1692,"Opened","Elite Piercing","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Services","Piercing,Jewelry","Yes","[Google](https://www.google.com/search?client=firefox-b-1-e&q=Elite+Jewelry+Co.&ludocid=6057850685646927993&gsas=1&client=firefox-b-1-e&lsig=AB86z5VtUXeZsETLQaaSUes2Ws8C&sa=X&ved=2ahUKEwjM8qvbiab3AhUFjYkEHaigAzAQoAJ6BAgcEAw&biw=1920&bih=946&dpr=1) hours confirmed by call 6 weeks ago, do not list old social media (last posts 2014)
+
+",,"18 St. Mark's Place, New York, NY 10003","10003","18","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","2022-04-22T01:03:00.000Z",-73.9889639,40.7290147,"(646) 692-6230",,"MON - WED: 1:00 PM - 8:00 PM
+","1:00 PM","12:00 AM",,,,,,,,,,,,,,,,,,,,,,,,,,
+1691,"Opened","Step Up Barber Shop","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","Services","Hair","Yes","\*\*\*\*\*Call to confirm, No online presence
+
 ",,"21 Avenue C, New York, NY 10009","10009","21","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","2022-04-22T00:55:00.000Z",-73.98078,40.721447,"(212) 505-8677",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1690,"Opened","PK & Altman Electric ","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","Services","Electrician",,"\*\*\*\*\*Call to confirm, storefront photo has different phone, email
 ","https://pkelectricnyc.com/","94 E. 4th Street, New York, NY 10003 ","0003 ","94","E. 4th Street, New York, NY 10003 ","E. 4th Street"," New York, NY 10003 "," New York","2022-04-16T19:18:00.000Z",-73.9889033,40.7257673,"(646) 681-5151",,"Call for appointment!
