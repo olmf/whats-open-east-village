@@ -1,6 +1,6 @@
 "Name","id","Source","Last Updated","Phone","Category","Latitude","Longitude","Address","Pickup Offered","Notes","Open Time","Sub Categories","Instagram","Close Time","Contributor","Spreadsheet Update Notes","MWBE","Opening Date","AAPI Owned","Status","Last modified by","Zip Code","Number","Remainder 1","Street","Remainder2","City","Website","Delivery Offered","Special Offers","Imported table","Survey 2021 copy","Outside Seating Offered","Closure Date","Indoor Seating Offered","Shipping Offered","Email","Fundraiser","Latinx Owned","Chain","Women Owned","Black Owned","Ukrainian Owned","Giftcard","LGBTQ Owned","Update Requests","Changes","Special Accommodation Hours","Changes 2"
 "Little Myanmar",1725,"https://evgrieve.com/2022/04/openings-little-myanmar-brings-burmese.html","2022-05-02T04:00:00.000Z"," (917) 475-1183","Restaurants",40.723018,-73.985519,"150 E. 2nd Street, New York, NY 10009","Yes","
-","11:00 AM","Burmese","https://www.instagram.com/yuncafe_littlemyanmar/","9:00 PM","EVCC","Hours from [IG post](https://www.instagram.com/p/Cc8vvROrFQO/), opened late April 2022 in former FDR 99c Pizza location.
+","3:00 PM","Burmese","https://www.instagram.com/yuncafe_littlemyanmar/","9:00 PM","EVCC","Hours from evgrieve post, opened late April 2022 in former FDR 99c Pizza location.
 ",true,"2022-04-25",true,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","150","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,,,,,,,
 "Domakase",1724,"https://evgrieve.com/2022/05/2-tenants-for-renovated-storefronts-at.html","2022-05-02T23:12:00.000Z",,"Restaurants",,,"23 Avenue B, New York, NY 10009",,,,"Japanese,Omakase",,,,"Opening soon in newly renovated space.
 ",true,,true,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","23","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,,,,,,,
@@ -2499,12 +2499,11 @@ MON: CLOSED
 SAT: Closed
 ","8:00 AM ","Shoe Repair",,"6:00 PM",,"Confirmed hours by phone and same on site, IG has no posts: https://www.instagram.com/firmshoe/
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","116","4th Avenue, New York, NY 10003","4th Avenue"," New York, NY 10003"," New York","https://sites.google.com/view/firmshoerepair",,,,,,,,,"FirmShoeRepair@Yahoo.com",,,,,,,,,,,,
-"Ho Foods",951,,"2022-01-11T19:00:00.000Z","(347) 788-0682","Restaurants",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","THU - SUN only
-SAT: 10:30 AM - 10:30 PM (with a break from 3:30 PM - 5:30 PM)
+"Ho Foods",951,,"2022-05-06T18:00:00.000Z","(347) 788-0682","Restaurants",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","SAT: 10:30 AM - 10:30 PM (with a break from 3:30 PM - 5:00 PM)
 SUN: 10:30 AM - 9:30 PM (with a break from 3:30 PM - 5:00 PM)
 
-","5:30 PM","Taiwanese","https://www.instagram.com/hofoodsnyc/","10:30 PM",,"Confirmed hours by phone, IG is current, Website is current
-",true,,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","110","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.hofoodsnyc.com/","Yes",,"recWZlqHshwxtAo7L","rec1gMR6mixNIlJW9","Yes",,,,"hofoodsnyc@gmail.com",,,,,,,,,,,,
+","5:00 PM","Taiwanese","https://www.instagram.com/hofoodsnyc/","10:00 PM",,"IG and website are current, hours from website
+",true,,true,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","110","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.hofoodsnyc.com/","Yes",,"recWZlqHshwxtAo7L","rec1gMR6mixNIlJW9","Yes",,,,"hofoodsnyc@gmail.com",,,,,,,,,,,,
 "ORO New York (Hair Kuwayama)",950,"https://www.instagram.com/p/CYmY1zYFax9/","2022-01-11T18:55:00.000Z","(212)529-6977","Services",40.73033,-73.98274,"406 E. 13th Street, New York, NY 10009","Yes","By appointment 
 Last appointment 7:00 PM
 ","11:00 AM ","Hair","https://www.instagram.com/oro_newyork/","8:00 PM ",,"Hours from website, IG is current, Website is current
@@ -2645,9 +2644,9 @@ MON: Closed
 "Ed. Varie",910,,"2022-01-08T00:27:00.000Z","(917) 399-6498","Arts & Culture",40.72485,-73.98104,"184 E. 7th Street, New York, NY 10009","Yes","By appointment, please email info@edvarie.com to schedule
 ",,"Gallery","https://www.instagram.com/edvarie/",,,"Hours from website, site and IG are current 
 ",true,,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","184","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","http://www.edvarie.com/",,,"reckpgWyTLRiZZoxi","recpGHnXNMSyeKJmG",,,,,"info@edvarie.com","https://fundraising.fracturedatlas.org/ed-varie",,,true,,,,,,,,
-"Cadence",909,"https://evgrieve.com/2022/04/proletariat-and-cadence-on-move-to.html","2022-04-25T22:47:00.000Z",,"Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009",,"
-",,"Vegan",,,,"Opening soon in Overthrow Hospitality location briefly occupied by Ladybird II 9/2021 - 04/2022 in former Saramsam space (formerly Night Music, formerly Fire & Water)
-",,"2021-09-01",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","111","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,,,,,"Yes (Heated)","2022-04-24","Yes",,"speakup@overthrowhospitality.com",,,,,,,,,,,,
+"Cadence",909,"https://evgrieve.com/2022/05/cadence-reopens-tonight-in-new-7th.html","2022-05-06T22:47:00.000Z",,"Restaurants",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","Yes","MON & TUE: Closed
+","5:00 PM","Vegan","https://www.instagram.com/cadence.newyork/","10:00 PM",,"Opened May 2022 in Overthrow Hospitality location briefly occupied by Ladybird II (9/2021 - 04/2022) in former Saramsam space (formerly Night Music, formerly Fire & Water)
+",,"2022-05-04",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","111","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York","https://www.overthrowhospitality.com/venues/cadence",,,,,,,,,"speakup@overthrowhospitality.com",,,,,,,,,,,,
 "Spiegel",908,"https://evgrieve.com/2020/09/has-spiegel-closed.html","2020-09-20T20:32:00.000Z","N/A","Restaurants",40.723694,-73.987807,"26 1st Avenue, New York, NY 10009","No",,,"Kosher",,,,"PERMANENTLY CLOSED. Reoccupied by CR7 Gourmet Deli.
 ",,"2014-03-01",,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","26","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,,"recs54wICaMVPBm3w","recxmvX7wbNb4mHSU",,"2020-09-15",,,,,,,,,,,,,,,
 "Jules Bistro",907,"https://evgrieve.com/2020/09/jules-bistro-will-not-be-reopening-on.html","2020-09-18T23:50:00.000Z","N/A","Restaurants",40.72817,-73.986072,"65 St. Mark's Place, New York, NY 10003","No",,,"French",,,,"PERMANENTLY CLOSED
@@ -4059,9 +4058,10 @@ Expanded into two more former hair salon locations at same address September 202
 Open for orders online 24/7!
 ","8:30 AM","Florist","https://www.instagram.com/michaelgeorgeflowers/","5:00 PM","EVCC","Hours confirmed by phone, IG and website are current
 ",,,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","199","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","https://www.michaelgeorgeflowers.com","Yes",,"rec89YgF9YjCwoJA5","recdqpH43ZkSL94pt",,,,,"orders@michaelgeorgeflowers.com",,,,,,,,,,,,
-"Guerra Paint & Pigment",542,,"2021-12-22T19:46:00.000Z","212-529-0628","Services",40.72926,-73.9804,"510 E. 13th Street, New York, NY 10009","Yes","SAT & SUN: Closed
-","12:00 PM","Artist's Paint","https://www.instagram.com/guerrapaint/?hl=en","7:00 PM","EVCC","Hours confirmed by phone, Website and IG are current
-",,,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","510","E. 13th Street, New York, NY 10009","E. 13th Street"," New York, NY 10009"," New York","www.guerrapaint.com",,,"recFjh6AlH8d7mVi4","recKAIxZfI9tm7g7s",,,,"Yes","gp@guerrapaint.com",,,,,,,"https://www.giftrocket.com/gift-card/guerra-paint-and-pigment-corporation-new-york",,,,,
+"Guerra Paint & Pigment",542,,"2022-05-06T18:46:00.000Z","212-529-0628","Services",40.72926,-73.9804,"510 E. 13th Street, New York, NY 10009","Yes","Closing EV location May 23!
+SAT & SUN: Closed
+","12:00 PM","Artist's Paint","https://www.instagram.com/guerrapaint/?hl=en","7:00 PM","EVCC","Closing EV location May 23. Hours confirmed by phone, Website and IG are current
+",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","510","E. 13th Street, New York, NY 10009","E. 13th Street"," New York, NY 10009"," New York","www.guerrapaint.com",,,"recFjh6AlH8d7mVi4","recKAIxZfI9tm7g7s",,,,"Yes","gp@guerrapaint.com",,,,,,,"https://www.giftrocket.com/gift-card/guerra-paint-and-pigment-corporation-new-york",,,,,
 "Sal's Deli & Grocery",541,,"2021-12-22T19:45:00.000Z","(212) 673-4895","Groceries",40.72893,-73.97869,"216 Avenue B, New York, NY 10009","Yes","
 ","5:00 AM","Deli ",,"12:00 PM","EVCC","Hours confirmed by phone
 ",,,,"Opened","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","216","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,"recqlj19UCvVOaxay","recvCKsyODwb3VSZW",,,,,,,,,,,,,,,,,
