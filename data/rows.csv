@@ -5580,7 +5580,7 @@ MON - TUE : closed
 "NYC Pharmacy",215,"2022-04-20T04:00:00.000Z","(212) 253-8686","www.nycprx.com","Health","206 1st Avenue, New York, NY 10009","Yes","SAT: 10:00 AM - 5:00 PM
 SUN: Closed 
 ","Pharmacy",,"EVCC","Hours from their website
-",,,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","206","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.730207,-73.983044,"10:00 AM","7:00 PM",,,,,,,,,,,,,,,,,,,,,
+",,,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","206","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.730207,-73.983044,"10:00 AM","7:00 PM",,,,,,,,,,,,,,,"see google drive ",,,,,,
 "NYC Deli Market",214,"2021-11-23T05:00:00.000Z","N/A",,"Groceries","129 Avenue D, New York, NY 10009","Yes",,"Deli ",,"EVCC","\*\*\*\*\*Laura visit (646) 767-9134 number no longer in service 12/6/21
 ",,,"recQg7TDFkna1aAWZ","recVxyk2zloqgVVLn",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","129","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York",40.724294,-73.975929,"9:00 AM","9:00 PM",,,,,,,,,,,,,,,,,,,,,
 "NY Institute of Aromatic Studies",213,"2021-09-10T04:00:00.000Z","917-310-7845","https://aromaticstudies.com/","Health","530 E. 13th Street, New York, NY 10009","No","Check out our [online classes](https://courses.aromaticstudies.com/live-online/)!
@@ -5803,7 +5803,7 @@ SUN: 11:45 AM - 9:30 PM
 
 ","Korean","https://www.instagram.com/kokowings/","EVCC","IG is current, hours from website
 ","kokowingsny@gmail.com",true,"rec9rLea3cILNwygJ","receIcFzXdJ12hT57",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","192","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.729678,-73.983447,"11:45 AM","10:00 PM",true,,,"Yes",,"
-",,"Yes (Heated)",,,,,"Yes",,,,,,,,
+",,"Yes (Heated)",,,,,"Yes",,"see google drive",,,,,,
 "Kitchen Sink",158,"2021-08-17T22:47:00.000Z","(212) 420-8050","https://www.thekitchensinkny.com/?utm_source=google&utm_medium=gmb&utm_campaign=thekitchensink","Restaurants","88 2nd Avenue, New York, NY 10003","No","FRI & SAT: 10:00 AM - 11:00 PM
 ","Greek,Diner","https://www.instagram.com/thekitchensink.nyc/","EVCC","PERMANENTLY CLOSED. Rebranded as Eros September 2021.
 ",,,"reck9yCChOOf48DWW","recpqZ31bPPvjTYLk",,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","88","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.726812,-73.988628,"10:00 AM","10:00 PM",,,,"Yes",,,,"Yes",,,,,,,,,,,,,
@@ -5819,7 +5819,7 @@ SAT & SUN: 4:30 PM - 5:30 PM
 
 ","Indian","https://www.instagram.com/khiladiny/","EVCC","website and IG are current, hours from website
 ","hello@khiladinyc.com",true,"recJw2uEUM0WtUgSU","recONtV3ON1cIFBHi",true,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","175","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.727482,-73.979191,"11:30 AM","10:30 PM",,,,"Yes",,"
-",,"Yes",,,,"https://squareup.com/gift/MX8T6S1JJ6D5F/order","Yes",,,,,,,,
+",,"Yes",,,,"https://squareup.com/gift/MX8T6S1JJ6D5F/order","Yes",,"see google drive",,,,,,
 "Katz's Deli",155,"2022-04-19T04:00:00.000Z","212-254-2246","https://katzsdelicatessen.com/shipping.html/?SID=4vrc9ugvl2rlriiq8jut52ra8r","Restaurants","205 E. Houston Street, New York, NY 10002","Yes","SAT & SUN: 8:00 AM - 11:00 PM
 ","Jewish","https://www.instagram.com/katzsdeli/?hl=en","EVCC","IG is current, hours from their website
 ","press@katzsdelicatessen.com",,,,,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10002","205","E. Houston Street, New York, NY 10002","E. Houston Street"," New York, NY 10002"," New York",40.722115,-73.987526,"8:00 AM","10:45 PM",,,,"Yes",,,,"Yes",,"Yes",,,"Yes",,,,,,,,
@@ -5844,7 +5844,7 @@ SUN: Closed
 SAT: 9:00 AM - 9:00 PM
 SUN: 10:00 AM - 8:30 PM
 ","Juice Bar","https://www.instagram.com/juicevitality/","EVCC","IG & [FB ](https://www.facebook.com/juicevitality192/)both last post 2/6/22, hours from FB
-",,true,"recFks9InY8OTacT5","recKBTA7hZ948VxIt",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","192","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.729678,-73.983447,"7:30 AM","8:30  PM",true,,,,,,,,,,,,"Yes",,,,,,,,
+",,true,"recFks9InY8OTacT5","recKBTA7hZ948VxIt",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","192","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",40.729678,-73.983447,"7:30 AM","8:30  PM",true,,,,,,,,,,,,"Yes",,"see google drive",,,,,,
 "Johnny Air Mart",147,"2022-04-19T20:00:00.000Z","(212) 387-7080","https://www.johnnyaircargopadala.com/locations.html","Groceries","214 Avenue A, New York, NY 10009","Yes","
 ","Specialty Market,Filipino,Shipping",,"EVCC","CHAIN, hours confirmed by phone 11/22/21 same as google
 ",,true,"rec5yn63mx2yOb9OM","recaPOxsgy3O3WuDa",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","214","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.7298779,-73.98054239,"10:00 AM","6:00 PM",true,,,,true,,,,,"Yes",,,,,"see google drive",,,,,,
@@ -6212,7 +6212,7 @@ SUN: Closed
 
 
  
-","coopersquarevet@gmail.com",,"recNOJlfouzEIFgHt","recS5aMEivAUXqBwR",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10003","211","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York",40.727535,-73.990483,"9:00 AM","5:00 PM",,,,"Yes",,,,,,,,,,,"see googledrive",,,,,,
+","coopersquarevet@gmail.com",,"recNOJlfouzEIFgHt","recS5aMEivAUXqBwR",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","211","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York",40.727535,-73.990483,"9:00 AM","5:00 PM",,,,"Yes",,,,,,,,,,,"see google drive",,,,,,
 "Convive",64,"2022-04-13T04:00:00.000Z","917-383-2111","www.convivewines.com","Retail","196 Avenue A, New York, NY 10009","Yes","SUN: noon - 8:00 PM 
 ","Wine","https://www.instagram.com/convivewines/","EVCC","IG and website current, Hours from website
 ","Info@Convivewines.Com",,"recz9bBkp5eHK4O8d","recEqC2Jj6fXZP9XB",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","196","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.729188,-73.98105658,"11:00 AM","10:00 PM",,,,"Yes",,"
@@ -6416,7 +6416,7 @@ SUN: Closed
 "Alphabet Scoop",18,"2022-07-08T21:30:00.000Z","(212) 982-1422","https://www.alphabetscoopny.com/","Cafes and Desserts","543 E. 11th Street, New York, NY 10009","Yes","SAT & SUN: 1:00 PM - 11:00 PM
 MON: Closed
 ","Ice Cream","https://www.instagram.com/alphabetscoopny/","EVCC","IG and Website are current, hours from IG
-","scoop@fathersheartnyc.org, robvedral@fathersheartnyc.org",,"recJhxT5KPVaEmTSJ","recOyYkuEQWqT7eH7",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","543","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",40.727884,-73.979868,"1:00 PM","10:00 PM",,,,,,,,,,,,,,,,,,,,,
+","scoop@fathersheartnyc.org, robvedral@fathersheartnyc.org",,"recJhxT5KPVaEmTSJ","recOyYkuEQWqT7eH7",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","543","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",40.727884,-73.979868,"1:00 PM","10:00 PM",,,,,,,,,,,,,,,"see google drive",,,,,,
 "Alphabet City Wine Co.",17,"2022-07-08T04:00:00.000Z","(212) 505-9463","www.abcwinecompany.com","Retail","100 Avenue C, New York, NY 10009","Yes","[Order ahead](https://www.abcwinecompany.com/s/shop) for Pick Up or Delivery!
 SAT: 11:00 AM - 9:00 PM
 SUN: noon - 9:00 PM
@@ -6450,7 +6450,7 @@ MON & TUE: Closed
 ","Cafe,Bakery,Bar","https://instagram.com/abraco_espresso","EVCC","Hours from website and ig
 
 ","info@abraconyc.com",,"rechRSOOY5VQ7bJEi","recm8jfdS6W6mW4tG",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","81","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",40.727348,-73.986156,"8:00 AM","6:00 PM",,"https://evgrieve.com/2022/03/indoor-service-is-back-at-abraco.html",,"Yes",,"
-",,,,"Yes",,"https://squareup.com/gift/EYQTP8KAT90PR/order","Yes",,,,,,,,
+",,,,"Yes",,"https://squareup.com/gift/EYQTP8KAT90PR/order","Yes",,"see google images",,,,,,
 "ABC Animal Hospital",11,"2022-07-08T04:00:00.000Z","212-358-0785","https://abcanimalhosp.com/","Services","200 Avenue A, New York, NY 10009","Yes","MON, WED, FRI: 9:00 AM - 5:00 PM
 TUE: 9:00 AM - 7:00 PM
 THU: 9:00 AM - 2:00 PM
@@ -6466,10 +6466,10 @@ SUN: Closed
 SAT: 9:00 AM - 5:00 PM
 SUN: Closed
 ","Locksmith",,"PL","Hours from website.
-",,,"recOHk896bAHSFdWi","recTYLzy0cBX7qyLG",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10003","187","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.730963,-73.986394,"9:00 AM","6:00 PM",,,,,,"
+",,,"recOHk896bAHSFdWi","recTYLzy0cBX7qyLG",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","187","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",40.730963,-73.986394,"9:00 AM","6:00 PM",,,,,,"
 
 
-",,,,,,,"Yes",,,,,,,,
+",,,,,,,"Yes",,"see google images",,,,,,
 "A&C Kitchen",8,"2022-07-08T22:00:00.000Z","(212) 677-8112","https://nyackitchen.com","Restaurants","136 Avenue C, New York, NY 10009","Yes","FRI & SAT: 11:00 AM - 11:30 PM
 SUN: noon - 10:30 PM
 TUE: Closed
@@ -6477,7 +6477,7 @@ TUE: Closed
 Reopened June 2021
 
 	
-",,true,"rec0yao21GwNakJyg","rec5PBPrVHx3p54nE",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","136","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",40.72497,-73.977849," 11:00 AM"," 10:30 PM",true,,"1990-01-01",,,,,,,,,,"Yes",,,,,,,,
+",,true,"rec0yao21GwNakJyg","rec5PBPrVHx3p54nE",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","136","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",40.72497,-73.977849," 11:00 AM"," 10:30 PM",true,,"1990-01-01",,,,,,,,,,"Yes",,"see google images",,,,,,
 "BD Star 99¢ Pizza",7,"2022-07-08T04:00:00.000Z","(212) 505-1200","https://www.bdstarpizza.com","Restaurants","91 Avenue A, New York, NY 10009","Yes","
 ","Pizza",,"EVCC","Website is current, use takeout hours from website
 ",,,"rece4qhIhoTI5h419","recjlRI7bpUYk2pQx",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","91","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",40.72542,-73.98418,"  10:00 AM","12:00 AM",,,,,,"5% OFF in [Slice app](https://slicelife.com/restaurants/ny/new-york/10009/bd-star-pizza/menu?ajs_aid=ea891db2-52b1-4e3f-9727-8be62f64d393&utm_campaign=direct_websites)
@@ -6500,7 +6500,7 @@ TUE & WED: Closed
 ",,"Yes",,"Yes",,"https://www.teadealers.com/products/gift-card","No",,"see google images",,,,,,
 "11B",2,"2022-07-08T20:00:00.000Z","(212) 388-9811","https://www.elevenbnyc.com/  ","Restaurants","174 Avenue B, New York, NY 10009","Yes","SAT & SUN: 11:00 AM - 11:30 PM
 ","Pizza","https://www.instagram.com/elevenbnyc/","EVCC","Website is current, posts infrequently on IG, last IG post 9/2/2021
-","elevenbnyc@gmail.com",,"rec2JS0lPlk9pO3qz","rec70jrKJmlpEzofX",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","174","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.727482,-73.979724,"12:00 PM","11:30 PM",,,,"Yes",,,,"Yes",,,,,"Yes",,,,,,,,
+","elevenbnyc@gmail.com",,"rec2JS0lPlk9pO3qz","rec70jrKJmlpEzofX",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","174","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",40.727482,-73.979724,"12:00 PM","11:30 PM",,,,"Yes",,,,"Yes",,,,,"Yes",,"see google drive",,,,,,
 "10th St & Avenue C Liquor ",1,"2022-07-08T04:00:00.000Z","212-995-8200",,"Retail","159 Avenue C, New York, NY 10009","Yes","SUN: 3:00 PM - 9:00 PM
 ","Wine,Liquor",,"EVCC","No online presence, Hours Confirmed by Phone 
 
