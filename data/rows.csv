@@ -6116,52 +6116,54 @@ SUN: 12:00 PM - 2:00 AM
 MON: Closed
 ","5:00 PM","Mexican","2:00 AM"," IG & website are current, hours from website
 ",,"Yes",,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","25","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"EVCC",,,"recI5KuRGqUtJfIOT","recNmbVgArVJY03Dh","Yes","https://www.instagram.com/eastpointnyc/","contact@avenidacantina.com",,,,,,,,,,,,,
-"East Village Wines",94,,"2022-04-14T04:00:00.000Z","(212) 677-7070","www.eastvillagewines.com","Retail",40.727768,-73.98486,"138 1st Avenue, New York, NY 10009","Yes","Yes","THU: 12:00 PM  -  11:00 PM
-FRI & SAT: 12:00 PM  -  12:00 AM
-SUN: 12:00 PM  -   9:00 PM
+"East Village Wines",94,,"2022-07-13T04:00:00.000Z","(212) 677-7070","www.eastvillagewines.com","Retail",40.727768,-73.98486,"138 1st Avenue, New York, NY 10009","Yes","Yes","THU: 12:00 PM - 11:00 PM
+FRI & SAT: 12:00 PM - 12:00 AM
+SUN: 12:00 PM - 9:00 PM
 ","12:00 PM","Wine","10:00 PM","IG & website is current, hours from website
-",,,,,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","138","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"EVCC",,,"rec9V8pGzNeNgoVmu","receczQ5tOf3v9gbS",,"https://www.instagram.com/ev_wines/?hl=en","wines.eastvillage@gmail.com",,,,,,,,,,,,,
+",,,,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","138","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"EVCC",,,"rec9V8pGzNeNgoVmu","receczQ5tOf3v9gbS",,"https://www.instagram.com/ev_wines/?hl=en","wines.eastvillage@gmail.com",,,,,,,,,,,,,
 "East Village Tavern (aka EVT)",93,"EVCC","2020-03-19T04:00:00.000Z",,,"Restaurants",40.725682,-73.977408,"158 Avenue C, New York, NY 10009","No","No",,,"Bar",,"PERMANENTLY CLOSED pre-COVID (shuttered since Jan 2020). Reoccupied by Green Land Gourmet Deli
 ",,,,,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","158","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"EVCC","2020-01-01","2018-07-09","recUs8autFT65riwf","recZJzBTnGUmkcDlD",,,,,,,,,,,,,,,,
-"East Village Prescription Center",92,,"2022-04-14T04:00:00.000Z","(212) 260-4878",,"Health",40.723653,-73.985608,"41 Avenue A, New York, NY 10009","Yes","Yes","Pharmacy closes at 7:00 PM
+"East Village Prescription Center",92,,"2022-07-13T04:00:00.000Z","(212) 260-4878",,"Health",40.723653,-73.985608,"41 Avenue A, New York, NY 10009","Yes","Yes","Pharmacy closes at 7:00 PM
+SAT: 9:00 AM - 6:00 PM
 SUN: Closed
 
 
-","9:00 AM","Pharmacy","9:30 PM","Confirmed Hours by Phone 1/28/2022
-",,,,"see google drive","Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","41","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"EVCC",,,"recSeTFCsbuoWOvb8","recXvk61mcvEbzQ0w",,,,,,,,,,,,,,,,
-"East Village Postal",91,,"2022-04-14T04:00:00.000Z","(212) 460-8067","www.eastvillagepostal.com","Services",40.728506,-73.984964,"151 1st Avenue, New York, NY 10003","Yes",,"SAT: 10:00 AM - 6:00 PM 
+","9:00 AM","Pharmacy","10:00 PM","Hours have been updated from google, Confirmed Hours by Phone 1/28/2022
+",,,,"see google drive","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","41","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"EVCC",,,"recSeTFCsbuoWOvb8","recXvk61mcvEbzQ0w",,,,,,,,,,,,,,,,
+"East Village Postal",91,,"2022-07-13T04:00:00.000Z","(212) 460-8067","www.eastvillagepostal.com","Services",40.728506,-73.984964,"151 1st Avenue, New York, NY 10003","Yes",,"SAT: 10:00 AM - 6:00 PM 
 SUN: Closed	
 ","9:30 AM","Shipping,Stationery,Print & Copy,Notary","7:00 PM","IG & website are current, hours from website
-",true,,true,"see google drive","Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10003","151","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recEGvY3crUjJSh43","recJXWps6sVzYDCTr","Yes","https://www.instagram.com/eastvillagepostal/",,true,,,,,,,,,,,,
-"East Village Pizza",90,,"2022-04-14T20:00:00.000Z","(212) 529-4545","http://www.eastvillagepizza.net","Restaurants",40.728199,-73.985204,"145 1st Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 11:00 AM - 4:30 AM
-SUN: 11:00 AM - 4:00 AM
+",true,,true,"see google drive","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","151","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recEGvY3crUjJSh43","recJXWps6sVzYDCTr","Yes","https://www.instagram.com/eastvillagepostal/",,true,,,,,,,,,,,,
+"East Village Pizza",90,,"2022-07-13T20:00:00.000Z","(212) 529-4545","http://www.eastvillagepizza.net","Restaurants",40.728199,-73.985204,"145 1st Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 11:00 AM - 4:30 AM
+SUN: 11:00 AM - 5:00 AM
 ","11:00 AM ","Pizza","3:00 AM","IG, FB & website are current, Hours from [FB](https://www.facebook.com/eastvillagepizza/)
-",,,,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10003","145","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recSmYsilraIzzZsL","recXDpTHfsbYOkkh9","Yes (Heated)","https://www.instagram.com/eastvillagepizza/","eastvillagepizza@gmail.com",,,,,,,,,,,,,
-"East Village Organic",89,"outdated https://eastvillageorganic.com/contact/","2022-04-14T04:00:00.000Z","(212) 253-2451",,"Groceries",40.727138,-73.985256,"124 1st Avenue, New York, NY 10009","Yes","No","
+",,,,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","145","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recSmYsilraIzzZsL","recXDpTHfsbYOkkh9","Yes (Heated)","https://www.instagram.com/eastvillagepizza/","eastvillagepizza@gmail.com",,,,,,,,,,,,,
+"East Village Organic",89,"outdated https://eastvillageorganic.com/contact/","2022-07-13T04:00:00.000Z","(212) 253-2451",,"Groceries",40.727138,-73.985256,"124 1st Avenue, New York, NY 10009","Yes","No","
 ","9:00 AM","Organic","8:00 PM","IG is current, hours from IG profile
-",,,,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","124","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"EVCC",,,"recycirOW9Im9pwOh","recDtJSdQaJCoaRDF",,"https://www.instagram.com/eastvillageorganic/","eastvillageorganics@gmail.com",,,,,,,,,,,,,
-"East Village Meat Market",88,,"2022-07-11T04:00:00.000Z","(212) 228-5590","http://www.eastvillagemeatmarket.com/","Groceries",40.7290653,-73.9875919,"139 2nd Avenue, New York, NY 10003","Yes",,"SUN & MON: Closed
+",,,,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","124","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"EVCC",,,"recycirOW9Im9pwOh","recDtJSdQaJCoaRDF",,"https://www.instagram.com/eastvillageorganic/","eastvillageorganics@gmail.com",,,,,,,,,,,,,
+"East Village Meat Market",88,,"2022-07-13T04:00:00.000Z","(212) 228-5590","http://www.eastvillagemeatmarket.com/","Groceries",40.7290653,-73.9875919,"139 2nd Avenue, New York, NY 10003","Yes",,"SUN: Closed
 ","8:00 AM","Specialty Market,Butcher,Ukrainian","4:00 PM","IG is current, Closed Mondays in July and August, Hours from website contact page.
-",,,,"see google drive","Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","10003","139","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recmhy55d67oxd2m3","recryZwu778EMYnbr",,"https://www.instagram.com/eastvillagemeatmarket/","info@eastvillagemeatmarket.com",,,,,"Yes",,,,true,,,,
-"East Village Dental Center",87,,"2022-04-14T04:00:00.000Z","(212) 673-3698","https://www.eastvillagedentalcenter.com/","Health",40.722534,-73.980243,"55 Avenue C, New York, NY 10009","Yes",,"FRI: 9:00 AM - 5:00 PM
+",,,,"see google drive","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","139","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recmhy55d67oxd2m3","recryZwu778EMYnbr",,"https://www.instagram.com/eastvillagemeatmarket/","info@eastvillagemeatmarket.com",,,,,"Yes",,,,true,,,,
+"East Village Dental Center",87,,"2022-07-13T04:00:00.000Z","(212) 847-5090","https://www.eastvillagedentalcenter.com/","Health",40.722534,-73.980243,"55 Avenue C, New York, NY 10009","Yes",,"FRI: 9:00 AM - 5:00 PM
 SAT & SUN: Closed 
-","9:00 AM","Dental","6:00 PM","FB & website are current, hours from [FB](https://www.facebook.com/ehliquors)
-",,,,"see google drive","Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","55","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"EVCC",,,"rece2sxopTNsrWX6K","recjjTYNjUOIGHiV8",,"https://www.instagram.com/eastvillagedentalcenter/",,,,,,,,,,,,,,
-"East Village Dental Arts",86,,"2022-04-14T04:00:00.000Z","(212) 979-6300","http://eastvillagedental.com/","Health",40.726794,-73.977441,"645 E. 11th Street, New York, NY 10009","Yes",,"SAT: 9:00 AM - 3:00 PM (Once a month)
+","9:00 AM","Dental","6:00 PM","Updated number was pasted, IG & website are current, hours from website
+",,,,"see google drive","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","55","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"EVCC",,,"rece2sxopTNsrWX6K","recjjTYNjUOIGHiV8",,"https://www.instagram.com/eastvillagedentalcenter/",,,,,,,,,,,,,,
+"East Village Dental Arts",86,,"2022-07-13T04:00:00.000Z","(212) 979-6300","http://eastvillagedental.com/","Health",40.726794,-73.977441,"645 E. 11th Street, New York, NY 10009","Yes",,"SAT: 9:00 AM - 3:00 PM (Once a month)
 SUN: Closed
-","9:00 AM","Dental","6:00 PM ","Hours from site, last IG post 10/15/21
-",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","645","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,"EVCC",,,"recnCGLbpGZKxhHFx","recsT7cAjH00M22uV",,"https://www.instagram.com/eastvillagedentalarts/",,,,,,,,,,,,,,
-"East Houston St. Wine & Liquors",85,,"2022-04-14T04:00:00.000Z","(212) 432-6322","https://ehliquors.com","Retail",40.722073,-73.984836,"250 E. Houston St, New York, NY 10002","Yes","Yes","SUN: noon - 8:45 PM
-","9:00 AM","Wine","11:30 PM","IG, FB & website are current, Hours from [FB](https://www.facebook.com/ehliquors)
-",,,,"see google drive","Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10002","250","E. Houston St, New York, NY 10002","E. Houston St"," New York, NY 10002"," New York","Check out our [weekly specials](https://ehliquors.com/)!!
+","9:00 AM","Dental","6:00 PM ","\*\*\*\*\*PERMANENTLY CLOSED, Hours from site, last IG post 7/8/22
+",,,,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","645","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,"EVCC",,,"recnCGLbpGZKxhHFx","recsT7cAjH00M22uV",,"https://www.instagram.com/eastvillagedentalarts/",,,,,,,,,,,,,,
+"East Houston St. Wine & Liquors",85,,"2022-07-13T04:00:00.000Z","(212) 432-6322","https://ehliquors.com","Retail",40.722073,-73.984836,"250 E. Houston St, New York, NY 10002","Yes","Yes","SUN: noon - 8:45 PM
+","9:00 AM","Wine","11:30 PM","Last time checked gift cards were out but you can call,IG, FB & website are current, Hours from [FB](https://www.facebook.com/ehliquors)
+",,,,"see google drive","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10002","250","E. Houston St, New York, NY 10002","E. Houston St"," New York, NY 10002"," New York","Check out our [weekly specials](https://ehliquors.com/)!!
 ","EVCC",,,"recCm8d2VCtNwpgZT","recHDzErPDu3LaBOh",,"https://www.instagram.com/ehliquors/","info@ehliquors.com",,,,,"Yes","https://ehliquors.com/buy-gift-cards",,,,,,,
-"East 11th Street Deli Corp",84,,"2022-04-14T04:00:00.000Z","(646) 952-0110",,"Groceries",40.72767,-73.980527,"528 E. 11th Street, New York, NY 10009","Yes",,"SAT & SUN: 8:00 AM - 11:00 PM
-
-","7:00 AM","Deli ","10:30 PM","Hours Confirmed by Phone 11/19/2021
-",,,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","528","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,"EVCC",,,,,,,,,,,,,,,,,,,,
-"Dual Specialty Store",83,,"2022-04-14T04:00:00.000Z","(212) 979-6045","https://dualsnatural.com/","Groceries",40.7262351,-73.9866124,"91 1st Avenue, New York, NY 10003","Yes",,"
-","11:00 AM","Spice Shop,Natural & Alternative","11:00 PM","Last IG post 7/1/21, website is current, hours from website
-",,,,"see google drive","Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10003","91","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recInNNRaULhh05zE,recTnnXwkqylLdEUz","recNEeeg4VMxwLqo2,recYEOoVerzB0YZJX",,"https://www.instagram.com/dualsnatural/","dualsnyc@gmail.com",,,,,,,,,,,,,
+"East 11th Street Deli Corp",84,,"2022-07-13T04:00:00.000Z","(646) 952-0110",,"Groceries",40.72767,-73.980527,"528 E. 11th Street, New York, NY 10009","Yes",,"SAT: 8:00 AM - 11:00 PM
+SUN: 8:00 AM - 10:00 PM
+","7:00 AM","Deli ","11:00 PM","Hours have been checked from google, Hours confirmed by phone 11/19/2021
+",,,,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","528","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,"EVCC",,,,,,,,,,,,,,,,,,,,
+"Dual Specialty Store",83,,"2022-07-13T04:00:00.000Z","(212) 979-6045","https://dualsnatural.com/","Groceries",40.7262351,-73.9866124,"91 1st Avenue, New York, NY 10003","Yes",,"
+","11:00 AM","Spice Shop,Natural & Alternative","11:00 PM","Potential name change to Duals Natural, Last IG post 7/6/21, website is current, hours from website
+",,,,"see google drive","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","91","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","10% off when you join/subscribe the Dual Family
+","EVCC",,,"recInNNRaULhh05zE,recTnnXwkqylLdEUz","recNEeeg4VMxwLqo2,recYEOoVerzB0YZJX",,"https://www.instagram.com/dualsnatural/","dualsnyc@gmail.com",,,,,,,,,,,,,
 "Dua Kafe",82,,"2022-07-13T04:00:00.000Z","(212) 228-1696","https://duakafe.weeblysite.com/","Cafes and Desserts",40.729702,-73.979382,"520 E. 14th Street, New York, NY 10009","Yes","Yes","SAT & SUN: 11:00 AM - 10:00 PM
 MON: Closed
 ","12:00 PM","Cafe,Albanian","10:00 PM","IG and website is current, hours from website
@@ -6170,8 +6172,8 @@ MON: Closed
 ","11:00 AM","Pet Supplies & Grooming","5:00 PM","Laura accepted hours from Yelp (phone goes to voicemail)
 ",true,,,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","543","E. 5th Street, New York, NY 10009","E. 5th Street"," New York, NY 10009"," New York",,"EVCC",,,"recZsrQZS08R46PCh","rec4JShoM197jRarF",,,,true,,,,,,,,,,,,
 "Divya's Kitchen",80,,"2022-07-13T20:00:00.000Z","(212) 477-4834","https://divyaskitchen.com/","Cafes and Desserts",40.72382,-73.98849,"25 1st Avenue, New York, NY 10003","Yes","Yes","FRI: noon - 9:00 PM
-","12:00 PM","Cafe,Ayurvedic","10:00 PM","FB and Website are Current, Hours from [FB](https://www.facebook.com/divyaskitchennyc/)
-",true,"Yes",,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10003","25","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recnBxE6oey4qpEgb","recsSY5vifzkFaZ5z","Yes (Heated)",,"info@divyaskitchen.com",true,,,,"Yes",,"https://www.unicefusa.org/stories/india-faces-brutal-covid-19-crisis-unicef-there-help/38520",,,,,,
+","12:00 PM","Cafe,Ayurvedic","10:00 PM","\*\*\*\*\*Website are Current, Check hours by calling. Google says business updated 9 weeks ago.
+",true,"Yes",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","25","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"EVCC",,,"recnBxE6oey4qpEgb","recsSY5vifzkFaZ5z","Yes (Heated)",,"info@divyaskitchen.com",true,,,,"Yes",,"https://www.unicefusa.org/stories/india-faces-brutal-covid-19-crisis-unicef-there-help/38520",,,,,,
 "Discovery Wines",79,,"2022-07-13T04:00:00.000Z","(212) 674-7833","www.discoverywines.com","Retail",40.721979,-73.983724,"16 Avenue B, New York, NY 10009","Yes","Yes","SUN - MON: 1:00 PM - 8:00 PM
 ","1:00 PM","Wine","9:00 PM","Website and IG are current, hours from website
 ",,,,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","16","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","Check out our [value wines!](https://www.discoverywines.com/valuewines)
