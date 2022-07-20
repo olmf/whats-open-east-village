@@ -2077,8 +2077,10 @@ SUN: NOON - 2:00 AM
 ",,"{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10003","58","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","https://www.km1nyc.com/",,"https://www.instagram.com/km1_nyc/?hl=en",,,"2020-08-01",,,,"info@km1hospitality.com",,"recEfdPkUy9QZGP08","recJwEgJOza6eraPw",,,,,,"2021-12-01",,,,,,,,
 1135,"Opened","Lilly's Shakes & Crepes","https://evgrieve.com/2021/02/lilys-shakes-crepes-is-now-open-on.html","2022-01-25T22:58:00.000Z","(917) 639-3325","Cafes and Desserts",40.72492,-73.97793,"134 Avenue C, New York, NY 10009","Yes",,"9:00 AM","Cafe,Juice Bar","12:00 AM","Confirmed hours by phone, Website is current 
 ",,"{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","134","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","https://lilys-shakes-crepes.business.site",,,,,"2021-02-01",,,,,,"recUXEDS09QWmLl69","recZe54hUaRcBwGVx",,,,,,,,,,,,,,
-1134,"Opened","The Grafton",,"2022-07-15T00:03:00.000Z","(212) 228-8580","Restaurants",40.72717,-73.9852,"126 1st Avenue, New York, NY 10009","Yes","SAT & SUN: 12:00 PM - 3:00 AM
-","4:00 PM","Bar","2:00 AM","Confirmed hours by phone, IG is current, Website is current
+1134,"Opened","The Grafton",,"2022-07-21T00:03:00.000Z","(212) 228-8580","Restaurants",40.72717,-73.9852,"126 1st Avenue, New York, NY 10009","Yes","SAT: 11:00 AM - 3:00 AM
+SUN: 11:00 AM - 1:00 AM
+Hours change based on games.
+","2:45 PM","Bar","1:30 AM","Confirmed hours by phone, IG is current, Facebook is current
 ","see google drive","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","10009","126","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","http://www.thegraftonnyc.com/",,"https://www.instagram.com/thegraftonnyc/?hl=en",,,,,,,"info@thegraftonnyc.com","Yes","recZJue754lJpKwIM","rec40VFwZ5mZEvRxa",,,,,,,,,,,,,,
 1133,"Opened","Theatre 80",,"2022-01-26T01:03:00.000Z","(212) 388-0388","Arts & Culture",40.727652,-73.985733,"80 St. Mark's Place, New York, NY 10003","Yes","FRI & SAT: 3:00 PM - 2:30 AM
 
@@ -4220,13 +4222,14 @@ SUN: 1:00 PM - 1:00 AM
 Opened new location at 300 E. 5th Street July 2021.
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","75","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","http://www.sushibym.com/",,"https://www.instagram.com/sushi_by_m/?hl=en",,true,"2018-12-01",,,"EVCC","sushibym@gmail.com","Yes (Heated)","rec00wcfu7FBXQ2Uj","rec5hXDEo8GRcBnJH",,"
 ",,,,,,,,,,,,
-569,"Opened","MáLà Project",,"2022-07-14T06:30:00.000Z","(212) 353-8880","Restaurants",40.727134,-73.985361,"122 1st Avenue, New York, NY 10009","Yes","MON - FRI: 5:00 PM - 9:15 PM 
-SAT: 11:00 AM - 4:00 PM, 5:00 PM - 9:15 PM
-SUN: 11:00 AM – 9:15 PM                                                                                                                                                                      
+569,"Opened","MáLà Project","https://www.malaproject.nyc/hours-locations","2022-07-20T06:30:00.000Z","(212) 353-8880","Restaurants",40.727134,-73.985361,"122 1st Avenue, New York, NY 10009","Yes","SAT: 11 AM - 10:00 PM
+SUN: 11 AM - 9:15 PM
+Lunch Special: MON - FRI: Noon - 4:00 PM
+Happy Hour: Mon - FRI: 4:00 PM - 7:00 PM                                                                                                                                                                   
 [Order ahead!](http://direct.chownow.com/order/8440/locations)
 
-","12:00 PM","Chinese","4:00 PM","Hours confirmed by phone, IG is current, website last updated 2019
-","see google drive","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","10009","122","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.malaproject.nyc/","Yes","https://www.instagram.com/malaproject/",,true,,,,"EVCC","chloe@malaproject.nyc","Yes","recAA9qzjvhir68Dc","recFRARYdwiyGRtsA",,,,,,,"https://www.toasttab.com/Mala-Project/giftcards",,,,,,,
+","12:00 PM","Chinese","9:15 PM","Hours from website, IG is current, website is current
+","see google drive","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","10009","122","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.malaproject.nyc/","Yes","https://www.instagram.com/malaproject/",,true,,,true,"EVCC","chloe@malaproject.nyc","Yes","recAA9qzjvhir68Dc","recFRARYdwiyGRtsA",,,,,,,"https://www.toasttab.com/Mala-Project/giftcards",,,,,,,
 568,"Opened","Ruffian ","https://www.instagram.com/blackemperorbar/","2022-03-29T21:36:00.000Z","N/A","Restaurants",40.72652,-73.98407,"125 E. 7th Street, New York, NY 10009","Yes","SAT: 3:00 PM - midnight
 SUN: 3:00 PM - 11:00 PM
 ","5:00 PM","Bar,Wine,Vegan","12:00 AM","IG is current, Hours from the IG
@@ -4385,8 +4388,8 @@ SUN: 11:00 AM - 8:00 PM
 ","9:00 AM","Computer & Phone Repair","8:00 PM","Hours confirmed by phone, IG and website are current
 ",,"{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","151","Avenue A,  New York, NY 10009","Avenue A","  New York, NY 10009","  New York","http://www.quickrepairona.com/",,"https://www.instagram.com/quickrepairandelectronics/?hl=en",,,,,,"EVCC","quickrepairavea@gmail.com",,"recIR6DSUp1YvAmP3","recN8x4hOq2eKlHEr",,,,,,,,,,,,,,
 528,"Opened","Tompkins Finest Deli & Grocery",,"2021-12-14T08:32:00.000Z","(212) 228-6701","Groceries",40.72775041,-73.982449,"153 Avenue A, New York, NY 10009","Yes","Open 24/7!
-","12:00 AM","Deli ","12:00 AM","Hours confirmed by phone
-",,"{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","153","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","http://tompkins-deli.edan.io/","Yes",,,,,,,"EVCC",,,"rec191JPGuEtyoVki","rec6qsaeAvFJN9g9G",,,,,,,,,,,,,,
+","12:00 AM","Deli ","12:00 AM","\*\*\*\*\*START HERE, Hours confirmed by phone
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","153","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","http://tompkins-deli.edan.io/","Yes",,,,,,,"EVCC",,,"rec191JPGuEtyoVki","rec6qsaeAvFJN9g9G",,,,,,,,,,,,,,
 527,"Opened","Gizmo Sewing Supplies",,"2021-12-14T08:30:00.000Z","(212) 477-2773","Services",40.72868713,-73.98489115,"160 1st Avenue, New York, NY 10009","Yes","SUN: closed
 ","11:00 AM","Sewing Machine Repair","6:00 PM","Hours confirmed by phone, Website is not current 10/29/2020
 ","see google drive","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","10009","160","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","http://www.gizmonyc.com/",,,,true,,,,"EVCC",,,"reczQ7uCBDpffktGG","recE7yV1vEqvu5Ov4",,,,,,,,,,,,,,
@@ -4656,58 +4659,62 @@ Make a [reservation](https://resy.com/cities/ny/balade?date=2021-12-07&seats=2)!
 ",,"Deli ",,"Hours confirmed by sign on door
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","48","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",,"Yes",,,,,,,"EVCC",,,"recP4i03QPyY82CAA,rechlBZJKEpznQspt","recmC2q8EFqPCBNeR",,,,,,,,,,,,,,
 463,"Opened","Eastside Dollar Store 99¢ Deals",,"2022-04-24T04:00:00.000Z","(212) 388-1919","Retail",40.725533,-73.987028,"73 1st Avenue, New York, NY 10003","Yes","
-","9:00 AM","Dollar Store","7:00 PM","Google hours updated by business April 2022
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","73","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,,,,,,"EVCC",,,"rec0u6i1Yo4Wqbe2d","rec5LxJqSp5cFWzRB",,,,,,,,,,,,,,
-462,"Opened","Kati Thai Cuisine",,"2022-05-04T04:00:00.000Z","212-533-2046","Restaurants",40.731697,-73.982992,"347 E. 14th Street, New York, NY 10003","Yes","SUN: Closed
-","12:00 PM","Thai","10:30 PM","IG & FB are current, hours from website 
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","347","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://katithai.com/","Yes","https://www.instagram.com/katithaicuisinenyc/?hl=en",,true,,"Yes",true,"EVCC","annchawalak@hotmail.com","Yes (Heated)",,,,"[Lunch Specials](https://katithai.com) MON - SAT: 12:00 PM - 4:00 PM
+","9:00 AM","Dollar Store","7:00 PM","\*\*\*\*\*START HERE, Google hours updated by business April 2022
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","73","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,,,,,,"EVCC",,,"rec0u6i1Yo4Wqbe2d","rec5LxJqSp5cFWzRB",,,,,,,,,,,,,,
+462,"Opened","Kati Thai Cuisine",,"2022-07-20T04:00:00.000Z","212-533-2046","Restaurants",40.731697,-73.982992,"347 E. 14th Street, New York, NY 10003","Yes","SUN: Closed
+","12:00 PM","Thai","11:00 PM","\*\*\*\*\*Call/visit to confirm closing hours, Website is current, hours from website, IG last post 3/26/22
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","347","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://katithai.com/","Yes","https://www.instagram.com/katithaicuisinenyc/?hl=en",,true,,"Yes",true,"EVCC","annchawalak@hotmail.com","Yes (Heated)",,,,"[Lunch Specials](https://katithai.com) MON - SAT: 12:00 PM - 4:00 PM
 ",true,,,,,,,,,,,
-461,"Opened","September Wines",,"2022-05-04T04:00:00.000Z","(212) 388-0770","Retail",40.721363,-73.987929,"100 Stanton Street, New York, NY 10002","Yes","FRI & SAT: noon - 10:00 PM
+461,"Opened","September Wines",,"2022-07-20T04:00:00.000Z","(212) 388-0770","Retail",40.721363,-73.987929,"100 Stanton Street, New York, NY 10002","Yes","FRI & SAT: noon - 10:00 PM
 SUN: 1:00 PM- 9:00 PM
 
-","12:00 PM","Wine","9:00 PM","IG and website are current, Hours confirmed by phone 12/7/21
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10002","100","Stanton Street, New York, NY 10002","Stanton Street"," New York, NY 10002"," New York","https://septemberwines.com/","Yes","https://www.instagram.com/septemberwines/?hl=en",,,,,,"EVCC","info@septemberwines.com",,,,,,,,,,,,,,,,,
-460,"Opened","Common Ground Compost",,"2022-05-04T04:00:00.000Z","855 690 9940","Services",40.726203,-73.976459,"415 E. 11th Street, New York, NY 10009",,"FREE Compost Drop-off: see sign at 415 E. 11th Street for date and time. 
+","12:00 PM","Wine","9:00 PM","IG and website are current, hours from website
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10002","100","Stanton Street, New York, NY 10002","Stanton Street"," New York, NY 10002"," New York","https://septemberwines.com/","Yes","https://www.instagram.com/septemberwines/?hl=en",,,,,,"EVCC","info@septemberwines.com",,,,,,,,,,,,,,,,,
+460,"Opened","Common Ground Compost",,"2022-07-20T04:00:00.000Z","855 690 9940","Services",40.726203,-73.976459,"415 E. 11th Street, New York, NY 10009",,"SAT & SUN: Closed
+FREE Compost Drop-off: see sign at 415 E. 11th Street for date and time. 
 We are also offering a paid residential compost pickup service. We can pick up compost weekly, bi-weekly, monthly, from Manhattan residents anywhere south of 87th street. 
 
-",,"Composting",,"IG and website are current. PLS DO NOT call director on personal cell: (347) 395-6377 from reclaimed organics website contact page.
-",,"{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10009","415","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York","https://commongroundcompost.com/",,"https://www.instagram.com/reclaimedorganics/","Yes",,,,,"EVCC","info@reclaimedorganics.org",,,,,,,,,,,,,,,,,
-459,"Opened","Bowery & Vine",,"2022-05-04T04:00:00.000Z","(212) 941-7943","Retail",40.723581,-73.992564,"269 Bowery, New York, NY 10002","Yes","FRI & SAT: 11:00 AM - 10:00 PM  
+","9:00 AM","Composting","5:00 PM","\*\*\*\*\*New IG and email was pasted, website is current. PLS DO NOT call director on personal cell: (347) 395-6377 from reclaimed organics website contact page.
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","415","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York","https://commongroundcompost.com/",,"https://www.instagram.com/commoncompost/","Yes",,,,,"EVCC","hello@commongroundcompost.com",,,,,,,,,,,,,,,,,
+459,"Opened","Bowery & Vine",,"2022-07-20T04:00:00.000Z","(212) 941-7943","Retail",40.723581,-73.992564,"269 Bowery, New York, NY 10002","Yes","FRI & SAT: 11:00 AM - 10:00 PM  
 SUN: noon - 8:00 PM
-","11:00 AM","Wine","9:00 PM","IG and website are current, [google](https://www.google.com/maps/place/Bowery+%26+Vine+%7C+Wine+%26+Spirits/@40.723593,-73.9925738,15z/data=!4m5!3m4!1s0x0:0x6c5bdf636783fd0!8m2!3d40.723593!4d-73.9925738) call 12 weeks ago
-",,"{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10002","269","Bowery, New York, NY 10002","Bowery"," New York, NY 10002"," New York","https://www.boweryandvine.com/","Yes","https://www.instagram.com/BoweryandVine/",,,,,,"EVCC","info@boweryandvine.com",,,,,"Order though our [app](https://www.boweryandvine.com/) to get free local delivery and 5% cash back on every order
+","11:00 AM","Wine","9:00 PM","Website is current, IG last post 4/14/22, hours from website
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10002","269","Bowery, New York, NY 10002","Bowery"," New York, NY 10002"," New York","https://www.boweryandvine.com/","Yes","https://www.instagram.com/BoweryandVine/",,,,,,"EVCC","info@boweryandvine.com",,,,,"Order though our [app](https://www.boweryandvine.com/) to get free local delivery and 5% cash back on every order
+We offer **10% discount** on a **12** bottle case of **STILL WINE**.
+Enter **Promo Code CASEDISCOUNT **(all uppercase - no spaces)
 ",,,,,,,,,,,,
-458,"Opened","Astor Wine ",,"2022-05-04T04:00:00.000Z","(212) 674-7500","Retail",40.727901,-73.992923,"399 Lafayette Street, New York, NY 10003","Yes","SUN: noon - 6:00 PM
+458,"Opened","Astor Wine ",,"2022-07-20T04:00:00.000Z","(212) 674-7500","Retail",40.727901,-73.992923,"399 Lafayette Street, New York, NY 10003","Yes","SUN: noon - 6:00 PM
 See [website](https://www.astorwines.com/hours-directions.aspx) for daily schedule!
 
 
 ","9:00 AM","Wine","9:00 PM","IG & Website are current, hours from website
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","399","Lafayette Street, New York, NY 10003","Lafayette Street"," New York, NY 10003"," New York","https://www.astorwines.com/","Yes","https://www.instagram.com/astorwines/?hl=en","Yes",,,,,"EVCC","cs@astorwines.com",,,,,"Check our [Tuesday](https://www.astorwines.com/tuesdaysale.aspx?r=711) specials!
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","399","Lafayette Street, New York, NY 10003","Lafayette Street"," New York, NY 10003"," New York","https://www.astorwines.com/","Yes","https://www.instagram.com/astorwines/?hl=en","Yes",,,,,"EVCC","cs@astorwines.com",,,,,"Check our [Tuesday](https://www.astorwines.com/tuesdaysale.aspx?r=711) specials!
 ",,,,,"https://www.astorwines.com/giftcards.aspx",,,,,,,
-457,"Opened","East Village Wine & Liquor",,"2022-05-04T04:00:00.000Z","(212) 358-7700","Retail",40.718639,-73.985199,"80 Clinton Street, New York, NY 10003","Yes","SUN: noon - 8:00 PM
-","10:00 AM","Wine","10:00 PM","Confirmed hours by Phone 12/7/21
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","80","Clinton Street, New York, NY 10003","Clinton Street"," New York, NY 10003"," New York","https://wineonclinton.com/","Yes","https://www.instagram.com/evwineliquor/",,,,,,"EVCC",,,,,,,,,,,,,,,,,,
-456,"Opened","Village Gourmet Grocery",,"2022-05-04T04:00:00.000Z","(212) 228-7951","Groceries",40.72727155,-73.98855756,"102 2nd Avenue, New York, NY 10003","Yes","
-","9:00 AM","Deli ","12:00 AM","Hours confirmed by phone 12/7/21
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","102","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,,,,,,,"EVCC",,,"recV7oEoSiJWkmQLl","rec0oP5NMjKcz7bAJ",,,,,,,,,,,,,,
-455,"Opened","S K Deli Market",,"2022-05-04T04:00:00.000Z","(212) 477-8181","Groceries",40.72671449,-73.98925711,"81 2nd Avenue, New York, NY 10003","Yes","
-","6:30 AM","Deli ","11:30 PM","Confirmed hours by phone 12/7/21
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","81","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,,,true,,,,"EVCC",,,"rec1LQo35hdoO1Orw","rec62hPsZieE3M9gU",,,,,,,,,,,,,,
-454,"Opened","Village Farm Grocery ",,"2022-05-04T04:00:00.000Z","(212) 475-7521","Groceries",40.72940357,-73.98728016,"146 2nd Avenue, New York, NY 10003","Yes","Open 24/7!
-","12:00 AM ","Deli ","12:00 AM","Hours confirmed by phone 12/7/21
-",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","146","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes"," ",,,,,,"EVCC",,,"recQ3hvIucCX1HqUt","recVkIW7odDdgsLJR",,,,,,,,,,,,,,
-453,"Opened","Spaghetti Incident",,"2022-05-04T04:00:00.000Z","646.896.1446","Restaurants",40.722312,-73.989951,"231 Eldridge Street, New York, NY 10002","Yes","FRI: 5:00 PM - 11:00 PM
+457,"Opened","East Village Wine & Liquor",,"2022-07-20T04:00:00.000Z","(212) 358-7700","Retail",40.718639,-73.985199,"80 Clinton Street, New York, NY 10003","Yes","FRI & SAT: 11:00 AM - 11:00 PM
+SUN: 12:00 PM - 9:00 PM
+","11:00 AM","Wine","10:00 PM","\*\*\*\*Call/visit for hours, website is current, IG last post 3/8/22
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","80","Clinton Street, New York, NY 10003","Clinton Street"," New York, NY 10003"," New York","https://wineonclinton.com/","Yes","https://www.instagram.com/evwineliquor/",,,,,,"EVCC",,,,,,,,,,,,,,,,,,
+456,"Opened","Village Gourmet Grocery",,"2022-07-20T04:00:00.000Z","(212) 228-7951","Groceries",40.72727155,-73.98855756,"102 2nd Avenue, New York, NY 10003","Yes","
+","8:00 AM","Deli ","9:00 AM","\*\*\*\*Call/visit for hours, google says 8:00 AM - 9:00 PM
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","102","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,,,,,,,"EVCC",,,"recV7oEoSiJWkmQLl","rec0oP5NMjKcz7bAJ",,,,,,,,,,,,,,
+455,"Opened","S K Deli Market",,"2022-07-20T04:00:00.000Z","(212) 477-8181","Groceries",40.72671449,-73.98925711,"81 2nd Avenue, New York, NY 10003","Yes","
+","6:30 AM","Deli ","11:30 PM","\*\*\*\*Call/visit for hours, Google says hours are 24/7
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","81","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,,,true,,,,"EVCC",,,"rec1LQo35hdoO1Orw","rec62hPsZieE3M9gU",,,,,,,,,,,,,,
+454,"Opened","Village Farm Grocery ",,"2022-07-20T04:00:00.000Z","(212) 475-7521","Groceries",40.72940357,-73.98728016,"146 2nd Avenue, New York, NY 10003","Yes","Open 24/7!
+","12:00 AM ","Deli ","12:00 AM","\*\*\*\*Call/visit for hours, Google says hours are 24/7
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","146","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes"," ",,,,,,"EVCC",,,"recQ3hvIucCX1HqUt","recVkIW7odDdgsLJR",,,,,,,,,,,,,,
+453,"Opened","Spaghetti Incident",,"2022-07-20T04:00:00.000Z","646.896.1446","Restaurants",40.722312,-73.989951,"231 Eldridge Street, New York, NY 10002","Yes","FRI: 5:00 PM - 11:00 PM
 SAT: Noon - 11:00 PM 
 SUN: Noon - 10:00 PM
 SAT & SUN break time: 4:00 PM - 5:00 PM
 
-","5:00 PM","Italian","10:00 PM","Website is not current, IG is current, Biz update [google hours 6 days ago](https://www.google.com/maps/place/Spaghetti+Incident/@40.722402,-73.9899587,15z/data=!4m5!3m4!1s0x0:0x342d9bdfb891e13f!8m2!3d40.722402!4d-73.9899587)
-",,"{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","10002","231","Eldridge Street, New York, NY 10002","Eldridge Street"," New York, NY 10002"," New York","http://spaghettiincidentnyc.com/","Yes","https://www.instagram.com/spaghettiincidentnyc/",,,,"Yes",,"EVCC","info.spaghettiincident@gmail.com","Yes",,,,,,,,,"https://www.giftly.com/gift-card/spaghetti-incident-new-york-2",,,,,,,
+","5:00 PM","Italian","10:00 PM","\*\*\*\*Call/visit to confirm hours, website is not current, IG last post 6/29/22
+",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10002","231","Eldridge Street, New York, NY 10002","Eldridge Street"," New York, NY 10002"," New York","http://spaghettiincidentnyc.com/","Yes","https://www.instagram.com/spaghettiincidentnyc/",,,,"Yes",,"EVCC","info.spaghettiincident@gmail.com","Yes",,,,,,,,,"https://www.giftly.com/gift-card/spaghetti-incident-new-york-2",,,,,,,
 452,"Closed","Dian Kitchen",,"2021-05-01T04:00:00.000Z","646-590-9898","Restaurants",40.72766,-73.983261,"435 E. 9th Street, New York, NY 10009","No","FRI & SAT: noon - 10:00 PM
 MON: Closed 
 ","12:00 PM","Chinese","9:30 PM","PERMANENTLY CLOSED. Reoccupied by Evil Katsu.
 ",,"{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","435","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","https://www.diankitchen.com/",,"https://www.instagram.com/dian_kitchen_nyc/",,true,,,,"EVCC","dian.kitchen.nyc@gmail.com",,,,,,,,,"2021-05-01",,,,,,,,
-451,"Opened","Summit Bar",,"2022-05-04T04:00:00.000Z","(347) 465-7911","Restaurants",40.725013,-73.978463,"133 Avenue C, New York, NY 10008","Yes","FRI & SAT: 5:00 PM - 3:00 AM
+451,"Opened","Summit Bar",,"2022-07-20T04:00:00.000Z","(347) 465-7911","Restaurants",40.725013,-73.978463,"133 Avenue C, New York, NY 10008","Yes","FRI & SAT: 5:00 PM - 3:00 AM
 MON: Closed
 ","5:00 PM","Bar","2:00 AM","IG and website are current, google says biz confirmed hours on 6/8/22
 ",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10008","133","Avenue C, New York, NY 10008","Avenue C"," New York, NY 10008"," New York","https://the-summit-bar.square.site/s/order",,"https://www.instagram.com/thesummitbar/",,,"2009-01-01","Yes",,"EVCC","thesummitbar@gmail.com","Yes (Heated)","rec6pqoaim1TAonND","recbGRPzcn29P9IC1",,,,,,,,,,,,,,
@@ -4844,7 +4851,7 @@ MON: Closed
 ",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","142","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","https://locations.traderjoes.com/ny/new-york/540/","No","https://www.instagram.com/traderjoes/",,,,,,"EVCC",,,,,true,,,,,,,,,,,,,
 413,"Opened","Raku","https://www.instagram.com/p/CUIHy_0lN32/","2022-07-20T04:00:00.000Z","(212) 228-1324","Restaurants",40.72651,-73.98666,"342 E. 6th Street, New York, NY 10003","Yes","MON: Closed
 ","12:00 PM","Japanese","9:30 PM","IG and website are current, hours from website
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","342","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York","http://rakunyc.com/",,"https://www.instagram.com/rakunyc/",,true,,"Yes",true,"EVCC","eastvillage@rakunyc.com","Yes (Heated)","recNoIqr2OFCEjNT2","recSF9RQWPGST48Iq",,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","342","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York","http://rakunyc.com/",,"https://www.instagram.com/rakunyc/",,true,,"Yes",true,"EVCC","eastvillage@rakunyc.com","Yes (Heated)","recNoIqr2OFCEjNT2","recSF9RQWPGST48Iq",,,,,,,,,,,,,,
 412,"Closed","Uncle Johnny Grocery Deli Supermarket","https://evgrieve.com/2022/02/uncle-johnny-has-new-closing-date.html","2022-02-22T05:00:00.000Z","N/A","Groceries",40.721847,-73.977598,"57 Avenue D, New York, NY 10009","No","	
 ","6:00 AM","Supermarket","10:00 PM","Closing February 21	
 ",,"{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","10009","57","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York",,,,,,,,,"EVCC",,,"recyZO56sgVejqKVd","recDgfwvmhWuyb5KB",,,,,,"2022-02-22",,,,,,,,
@@ -4852,39 +4859,39 @@ MON: Closed
 Free home delivery! 
 Accepts SNAP/EBT + WIC 
 ","7:00 AM","Supermarket","9:00 PM","\*\*\*\*\*Call/visit for hours
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","71","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","https://foodemporium.keyfood.com/store/h ","Yes",,,,,,,"EVCC","ASGCustomeerservice@asghq.com",,"recJuG8W9dc8kDuEP","recOL7zl3edozoPtd",true,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","71","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","https://foodemporium.keyfood.com/store/h ","Yes",,,,,,,"EVCC","ASGCustomeerservice@asghq.com",,"recJuG8W9dc8kDuEP","recOL7zl3edozoPtd",true,,,,,,,,,,,,,
 410,"Opened","Pioneer Supermarket",,"2022-07-20T04:00:00.000Z","(646) 861-0305","Groceries",40.724026,-73.97595,"119 Avenue D, New York, NY 10009","Yes","SUN: 7:30 AM - 9:00 PM
 Accepts SNAP/EBT + WIC. Delivery orders must be placed in-store.
 ","7:00 AM","Supermarket","10:00 PM","IG and website are current, Hours from the website,
 Changed biz name to Pioneer (subsidiary of Met Foods) 
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","119","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","https://www.pioneersupermarkets.com/locations/","Yes","https://www.instagram.com/pioneerspmkt/",,,,,,"EVCC",,,,,true,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","119","Avenue D, New York, NY 10009","Avenue D"," New York, NY 10009"," New York","https://www.pioneersupermarkets.com/locations/","Yes","https://www.instagram.com/pioneerspmkt/",,,,,,"EVCC",,,,,true,,,,,,,,,,,,,
 409,"Opened","Alphabet Grocery",,"2022-07-20T04:00:00.000Z","N/A","Groceries",40.723682,-73.97947,"89 Avenue C, New York, NY 10009","Yes",,"7:00 AM","Deli ","12:00 AM","\*\*\*\*\*Visit for hours, Google has the same hours as we listed
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","89","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,,,,,,,"PG",,,"recozGFPsiiDO6iVQ","rectQ76emjjT3RDKe",,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","89","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,,,,,,,"PG",,,"recozGFPsiiDO6iVQ","rectQ76emjjT3RDKe",,,,,,,,,,,,,,
 408,"Opened","Associated Supermarket",,"2022-07-20T04:00:00.000Z","(212) 260-3159","Groceries",40.724642,-73.978655,"123 Avenue C, New York, NY 10009","Yes","Free delivery! and accepts SNAP/EBT. Delivery orders must be placed via phone MON - SAT.
 ","7:30 AM","Supermarket","10:00 PM","Website and IG are current, Hours from the website's weekly ad
 ","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","123","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","https://www.shopassociated.com/weekly-ad/?circularstoreidentifier=X9L835HMLK0M2DKK5AUOQK4J4FSTB6RLRLXM7V","Yes","https://www.instagram.com/associatedspmkt/",,,,,,"EVCC","joe.garcia@associatedsmhq.com",,"rec5iYvJRoOnvTeG3","recazpW8LpPDKEzvr",true,,,,,,,,,,,,,
 407,"Opened","C Town",,"2022-07-20T04:00:00.000Z","(212) 505-7577","Groceries",40.726743,-73.976412,"188 Avenue C, New York, NY 10009","Yes","FRI: 8:00 AM - 8:30 PM
 SUN: 8:30 AM - 6:00 PM
 ","8:00 AM","Supermarket","8:00 PM","Website and IG were linked, Google says biz confirmed hours on 7/13/22
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","188","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","https://www.instagram.com/ctown_official/","Yes","https://locations.ctownsupermarkets.com/ctown-supermarkets-699f7b07a969?utm_source=Google&utm_medium=organic&utm_campaign=Yext",,,,,,"EVCC",,,,,true,"
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","188","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York","https://www.instagram.com/ctown_official/","Yes","https://locations.ctownsupermarkets.com/ctown-supermarkets-699f7b07a969?utm_source=Google&utm_medium=organic&utm_campaign=Yext",,,,,,"EVCC",,,,,true,"
 ",,,,,,,,,,,,
 406,"Opened","Ben's Deli",,"2022-07-20T17:00:00.000Z","(212)-228-1406","Groceries",40.722529,-73.983241,"32 Avenue B, New York, NY 10009","Yes","Pop-up inside serving Mexican street food 8:00 AM - 9:00 PM: tacos, quesadillas, salad bowls.
 ","6:00 AM","Deli ","11:00 PM","\*\*\*\*\*Visit/call for hours
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","32","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,,,"EVCC",,,"recV2qpVBGsFK9apw","rec0jRQkvHtVZUveU",,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","32","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,,,"EVCC",,,"recV2qpVBGsFK9apw","rec0jRQkvHtVZUveU",,,,,,,,,,,,,,
 405,"Opened","Key Food","https://evgrieve.com/2022/01/key-food-is-no-longer-open-247.html","2022-07-20T04:00:00.000Z","(212) 477-9063","Groceries",40.724004,-73.984766,"52 Avenue A, New York, NY 10009","Yes","
 ","6:00 AM","Supermarket","12:00 AM","CHAIN, website and IG are current
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","52","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","http://keyfood.com/store",,"https://www.instagram.com/keyfood",,,,,,"EVCC","customer.service@keyfood.com",,"recJzjsTDiAnQxLur","recOQKTixjBD5i6jP",true,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","52","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","http://keyfood.com/store",,"https://www.instagram.com/keyfood",,,,,,"EVCC","customer.service@keyfood.com",,"recJzjsTDiAnQxLur","recOQKTixjBD5i6jP",true,,,,,,,,,,,,,
 404,"Opened","New Yorkers Foodmarket",,"2022-07-20T04:00:00.000Z","(212) 260-2243","Groceries",40.72777,-73.988686,"107 2nd Avenue, New York, NY 10003","Yes","MON & TUE: 10:00 AM - 7:30 PM
 ","10:00 AM","Supermarket","7:00 PM","Posted hours on[ facebook](https://www.facebook.com/NewYorkersMarket/photos/a.384880121929147/1514618298955318/) april 28
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","107","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"No","https://www.facebook.com/NewYorkersMarket/",,,,,,"EVCC",,,,,,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","107","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"No","https://www.facebook.com/NewYorkersMarket/",,,,,,"EVCC",,,,,,,,,,,,,,,,,,
 403,"Opened","Gristedes",,"2022-07-20T04:00:00.000Z","(212) 353-1330","Groceries",40.731903,-73.994336,"25 University Place, New York, NY 10003","Yes","	
 ","7:00 AM","Supermarket","10:00 PM","Website and IG are current, Hours from website
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","25","University Place, New York, NY 10003","University Place"," New York, NY 10003"," New York","http://www.gristedessupermarkets.com/","Yes","https://www.instagram.com/gristedes/",,,,,,"EVCC","customerservice@gristedes.com",,,,true,"Check [website ](https://www.gristedessupermarkets.com/weekly-specials/)for weekly specials!
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","25","University Place, New York, NY 10003","University Place"," New York, NY 10003"," New York","http://www.gristedessupermarkets.com/","Yes","https://www.instagram.com/gristedes/",,,,,,"EVCC","customerservice@gristedes.com",,,,true,"Check [website ](https://www.gristedessupermarkets.com/weekly-specials/)for weekly specials!
 ",,,,,"http://shop.gristedes.com/ProductDetails.asp?ProductCode=GIFT_CARD",,,,,,"Senior hours: 7:00 AM - 8:00 AM ",
 402,"Opened","La La Laundry",,"2022-07-20T04:00:00.000Z","(212) 529-8887","Laundry",40.727683,-73.9795454,"180 Avenue B, New York, NY 10009","Yes","MON - FRI: last wash 7:30 PM
 SAT & SUN: 9:00 AM - 8:00 PM last wash  6:30 PM
 ","8:00 AM","Laundromat","9:00 PM","Website and IG are now linked, Google says biz updated hours on 6/8/22
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","180","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","https://www.lalalaundryny.com/","Yes","https://www.instagram.com/lalalaundryny/",,true,,,true,"EVCC",,,"recVqk09oFGjQ3zhv","rec0HLryiGHz5OU6T",,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","180","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","https://www.lalalaundryny.com/","Yes","https://www.instagram.com/lalalaundryny/",,true,,,true,"EVCC",,,"recVqk09oFGjQ3zhv","rec0HLryiGHz5OU6T",,,,,,,,,,,,,,
 401,"Closed","Baker's Pizza","https://evgrieve.com/2022/07/the-former-bakers-pizza-space-is-for.html","2022-04-25T04:00:00.000Z","212-777-7477","Restaurants",40.7294326,-73.9812956,"201 Avenue A, New York, NY 10009","No","[Order online](http://Order online at Bakerspizzanyc.com) for delivery!
 THU: 11:00 AM - 2:00 AM
 FRI: 11:00 AM - 4:00 AM
@@ -4898,14 +4905,14 @@ Offering wash and fold, dry clean, tailoring, alteration, shoe shine, shoe clean
 399,"Opened","Cloak & Dagger",,"2022-07-20T04:00:00.000Z","212-673-0500","Retail",40.728542,-73.985988,"334 E. 9th Street, New York, NY 10003","Yes","SAT: 11:00 AM - 8:00 PM
 SUN: 11:00 AM - 7:00 PM
 ","12:00 PM","Fashion","8:00 PM","Wesbite and IG are current
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","334","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","www.cloakanddaggernyc.com",,"https://www.instagram.com/cloakndaggernyc/","Yes",true,,,,"EVCC","shop@cloakanddaggernyc.com",,"rec5rIvQEELuWpuH0","recaI9WfyFMKbaPwo",,"SCORE 10% OFF WHEN YOU [SIGN OUR MAILING LIST!](https://cloakanddaggernyc.us3.list-manage.com/subscribe/post?u=232bccae8be17d89fd85ebc39&id=944eba5b62)
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","334","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","www.cloakanddaggernyc.com",,"https://www.instagram.com/cloakndaggernyc/","Yes",true,,,,"EVCC","shop@cloakanddaggernyc.com",,"rec5rIvQEELuWpuH0","recaI9WfyFMKbaPwo",,"SCORE 10% OFF WHEN YOU [SIGN OUR MAILING LIST!](https://cloakanddaggernyc.us3.list-manage.com/subscribe/post?u=232bccae8be17d89fd85ebc39&id=944eba5b62)
 ",true,,,,"https://www.cloakanddaggernyc.com/products/gift-card",,,,,,,
 398,"Opened","Walgreens (1st Avenue)",,"2022-07-20T04:00:00.000Z","212-777-0740","Health",40.7333,-73.980778,"298 1st Avenue, New York, NY 10009","Yes","Pharmacy Hours:
 MON - FRI: 9:00 AM - 9:00 PM
 SAT: 9:00 AM - 6:00 PM
 SUN: 10:00 AM - 6:00 PM
 ","7:00 AM ","Pharmacy","11:00 PM","Website is current, Google says Biz confirmed hours on 7/13/22
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","298","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.walgreens.com/locator/walgreens-298+1st+ave-new+york-ny-10009/id=10135","Yes",,,,,,,"PG",,,,,true,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","298","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://www.walgreens.com/locator/walgreens-298+1st+ave-new+york-ny-10009/id=10135","Yes",,,,,,,"PG",,,,,true,,,,,,,,,,,,,
 397,"Closed","Duane Reade (3rd Avenue)","https://evgrieve.com/2020/03/that-duane-reade-by-walgreens-closes.html","2021-08-06T23:35:00.000Z","212-529-7140","Health",40.73075,-73.9891,"46 3rd Avenue, New York, NY 10003","No","Pharmacy Hours:
 MON - FRI: 8:00 AM - 8:00 PM 
 SAT: 9:00 AM - 6:00 PM
@@ -4918,13 +4925,13 @@ MON - FRI: 9:00 AM - 9:00 PM
 SAT: 9:00 AM - 6:00 PM
 SUN: 10:00 AM - 5:00 PM
 ","12:00 AM ","Pharmacy","12:00 AM","\*\*\*\*\*Hours from website, Biz updated hours on Google says pharmacy open 24/7
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","1","Union Square South, New York, NY 10003","Union Square South"," New York, NY 10003"," New York","https://www.walgreens.com/locator/duane+reade-1+union+square+south-new+york-ny-10003/id=14468","Yes",,,,,,,"PG",,,,,true,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","1","Union Square South, New York, NY 10003","Union Square South"," New York, NY 10003"," New York","https://www.walgreens.com/locator/duane+reade-1+union+square+south-new+york-ny-10003/id=14468","Yes",,,,,,,"PG",,,,,true,,,,,,,,,,,,,
 395,"Opened","Duane Reade (Avenue B)",,"2022-07-20T04:00:00.000Z","212-375-9000","Health",40.722159,-73.983419,"194 E. 2nd Street, New York, NY 10009","Yes","Pharmacy Hours:
 MON - FRI: 8:00 AM - 8:00 PM
 SAT: 9:00 AM - 6:00 PM
 SUN: 10:00 AM - 6:00 PM
 ","7:00 AM ","Pharmacy","11:00 PM","Website is current, Biz update Pharmacy & store hours on [google](https://www.google.com/maps/place/Duane+Reade/@40.7222007,-73.9834584,15z/data=!4m5!3m4!1s0x0:0x962f78e9029593f3!8m2!3d40.7222007!4d-73.9834584) 7/13/22
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","194","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","https://www.walgreens.com/locator/duane+reade-194+e+2nd+st-new+york-ny-10009/id=14354","Yes",,,,,,,"PG",,,"recG6ybtFWOVHO3Kj","recLnZCSzXPbWzozH",true,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","194","E. 2nd Street, New York, NY 10009","E. 2nd Street"," New York, NY 10009"," New York","https://www.walgreens.com/locator/duane+reade-194+e+2nd+st-new+york-ny-10009/id=14354","Yes",,,,,,,"PG",,,"recG6ybtFWOVHO3Kj","recLnZCSzXPbWzozH",true,,,,,,,,,,,,,
 394,"Closed","Walgreens (4th Avenue)","https://evgrieve.com/2022/01/oddly-configured-walgreens-is-closing.html","2022-02-17T05:00:00.000Z","(212) 677-0214","Health",40.73371,-73.989677,"145 4th Avenue, New York, NY 10003","No","Store Closing FEB 17!
 Open 24/7!
 Pharmacy Hours:
@@ -4942,7 +4949,7 @@ SUN: 10:00 AM - 6:00 PM
 392,"Opened","Downtown Yarns",,"2022-07-20T04:00:00.000Z","212-995-5991","Retail",40.723905,-73.985344,"45 Avenue A,  New York, NY 10009","Yes","SUN: Closed
 See [IG ](https://www.instagram.com/downtownyarns/)for monthly updated hours, call to sign up for classes!
 ","12:00 PM","Yarn Shop","7:00 PM","IG is current, Google updated hours by call on 7/6/22 
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","45","Avenue A,  New York, NY 10009","Avenue A","  New York, NY 10009","  New York",,,"https://www.instagram.com/downtownyarns/","Yes",true,,,,"EVCC","downtownyarns45@gmail.com",,"rec7kKHFw2rMijTm1","reccBb84q3s2x4ebp",,"
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10009","45","Avenue A,  New York, NY 10009","Avenue A","  New York, NY 10009","  New York",,,"https://www.instagram.com/downtownyarns/","Yes",true,,,,"EVCC","downtownyarns45@gmail.com",,"rec7kKHFw2rMijTm1","reccBb84q3s2x4ebp",,"
 ",true,,,,,,true,,,,,
 391,"Closed","Studio 55C / Moving for Life","https://evgrieve.com/2020/12/a-rent-increase-is-forcing-avenue-c.html","2021-02-25T05:00:00.000Z","212-222-1351","Health",40.722601,-73.980231,"55 Avenue C,  New York, NY 10009","No","Check our Instagram for online class schedule! The Avenue C studio is permanently closed. 
 ",,"Fitness",,"PERMANENTLY CLOSED. Reoccupied by O'Flanerty's Gallery after successful pop-ups. 
@@ -4954,7 +4961,7 @@ FRI: noon - 7:00 PM
 SAT: 1:00 PM - 5:00 PM
 SUN: noon - 5:00 PM
 ",,"Organic",,"Website is current, Hours from website, Facebook says call to confirm
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","58","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","https://4thstreetfoodcoop.org","Yes","http://facebook.com/4thStreetFoodCoop/",,true,,,,"EVCC","4STproduce@gmail.com",,"rec6D7a4DWVKivldM","recbUyBtxXW0xgG2a",,,true,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","58","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York","https://4thstreetfoodcoop.org","Yes","http://facebook.com/4thStreetFoodCoop/",,true,,,,"EVCC","4STproduce@gmail.com",,"rec6D7a4DWVKivldM","recbUyBtxXW0xgG2a",,,true,,,,,,,,,,,
 389,"Opened","East Village NY Copy Print & Ship Center",,"2022-07-20T04:00:00.000Z","212-673-5628","Services",40.728791,-73.98979,"13 E. 7th Street, New York, NY 10003","Yes","SAT: 10:00 AM - 6:00 PM
 SUN: Closed
 ","8:30 AM","Print & Copy,Shipping","6:00 PM","Website is current, IG last post 2/4/21
@@ -4962,11 +4969,11 @@ SUN: Closed
 388,"Opened","4th Street Copy Center",,"2022-07-20T04:00:00.000Z","212-466-0871","Services",40.72692,-73.990593,"65 E. 4th Street, New York, NY 10003","Yes","SAT: 11:00 AM - 6:30 PM
 SUN: Closed
 ","9:00 AM","Print & Copy","7:00 PM","\*\*\*\*\*Call/visit for hours
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","65","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,,,,,,"EVCC",,,"rec2xhQp72bjzhA3S","rec7OIhO13czO2VSg",,,,,,,,,,,,,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","65","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,,,,,,"EVCC",,,"rec2xhQp72bjzhA3S","rec7OIhO13czO2VSg",,,,,,,,,,,,,,
 387,"Opened","Foxface",,"2022-07-20T04:00:00.000Z",,"Restaurants",40.727652,-73.985733,"80 St. Mark's Place, New York, NY 10003","Yes","FRI & SAT: noon - 9:00 PM
 SUN & MON: Closed
 ","12:00 PM","Sandwich","4:00 PM","IG and website are current, Hours from IG profile
-",,"{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","80","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","https://foxface-nyc.square.site",,"https://www.instagram.com/foxface_nyc/",,,,,,"EVCC","info@foxface.nyc","Yes","recSDarmNfesOGklP","recXUBSLHgfI3rFad",,,,,,,"https://squareup.com/gift/QQVB9FDKP6JFZ/order",,,,"recQTPxRUI0aErC4o",,,
+","see google drive","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","80","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","https://foxface-nyc.square.site",,"https://www.instagram.com/foxface_nyc/",,,,,,"EVCC","info@foxface.nyc","Yes","recSDarmNfesOGklP","recXUBSLHgfI3rFad",,,,,,,"https://squareup.com/gift/QQVB9FDKP6JFZ/order",,,,"recQTPxRUI0aErC4o",,,
 386,"Opened","Azaleas",,"2022-04-07T04:00:00.000Z","212-228-5842","Retail",40.728911,-73.987196,"140 2nd Avenue, New York, NY 10003","Yes","SUN: noon - 6:00 PM
 
 ","12:00 PM","Fashion","7:00 PM","IG and website are current, Hours from the website
