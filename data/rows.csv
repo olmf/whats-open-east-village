@@ -1,4 +1,4 @@
-"Name","id","Category","Sub Categories","Chain","Status","Last modified by","Last Updated","Phone","Website","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Open Time","Close Time","Contributor","Spreadsheet Update Notes","MWBE","AAPI Owned","Zip Code","Number","Remainder 1","Street","Remainder2","City","Opening Date","Indoor Seating Offered","Instagram","Imported table","Survey 2021 copy","Photo","Source","Special Offers","Closure Date","Email","Women Owned","Shipping Offered","Giftcard","Outside Seating Offered","LGBTQ Owned","Black Owned","Fundraiser","Latinx Owned","Ukrainian Owned","Update Requests","Changes","Special Accommodation Hours","Changes 2"
+"Name","id","Category","Sub Categories","Chain","Status","Last modified by","Last Updated","Phone","Website","Latitude","Longitude","Address","Pickup Offered","Delivery Offered","Notes","Open Time","Close Time","Contributor","Spreadsheet Update Notes","MWBE","AAPI Owned","Zip Code","Number","Remainder 1","Street","Remainder2","City","Opening Date","Indoor Seating Offered","Instagram","Imported table","Survey 2021 copy","Photo","Source","Special Offers","Closure Date","Email","Women Owned","Shipping Offered","Giftcard","Outside Seating Offered","LGBTQIA Owned","Black Owned","Latinx Owned","Fundraiser","Ukrainian Owned","Update Requests","Changes","Special Accommodation Hours","Changes 2"
 "Kentucky Fried Chicken",1848,"Restaurants","American",true,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Happy Burrito",1847,"Restaurants","Mexican,American",,"Opened","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-08-11T22:00:00.000Z","(212) 353-3728","http://www.211newtacogrill.net/",40.733144,-73.986164,"211 E. 14th Street, New York, NY 10003","Yes","Yes","SUN: 12:00 PM - 10:30 PM
 ","11:00 AM","12:30 PM","EVCC","Longstanding business, hours from website
@@ -55,8 +55,9 @@ SUN: Closed
 Check the lesson [schedule](https://www.championstkd.com/stores/avenue-c/)
 ","3:00 PM","8:00 PM",,"CHAIN.
 ",,,"10009","177","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,,,,,,,,"aveccma@gmail.com",,,,,,,,,,,,,
-"Hi-Note",1829,"Restaurants","Bar",,"Unknown","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-05T17:07:00.000Z",,,40.72794,-73.979347,"188 Avenue B, New York, NY 10009",,,,,,,"Opening soon in former Rue B location
-",,,"10009","188","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/hi.note.nyc/",,,,,,,,,,,,,,,,,,,,
+"Hi-Note",1829,"Restaurants","Bar,Cafe",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-11T17:07:00.000Z",,"https://www.hi-note.nyc/",40.72794,-73.979347,"188 Avenue B, New York, NY 10009","Yes",,"Cafe only now open
+",,,,"Opening soon in former Rue B location
+",,,"10009","188","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/hi.note.nyc/",,,,,,,"hello@hi-note.nyc",,,,,,,,,,,,,
 "Viking Waffles",1828,"Groceries","Specialty Market",,"Opened","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-08-05T20:44:00.000Z",,"https://www.vikingwaffles.com/",40.726429,-73.977333,"137 Avenue C, New York, NY 10009",,,"[Shipping](https://www.vikingwaffles.com/collections/viking-food) only!
 ",,,,"Online-only brand of waffles.
 ",,,"10009","137","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,"https://www.instagram.com/viking.waffles/?hl=en",,,"see google drive LA",,,,"sales@vikingwaffles.com ",,"Yes",,,,,,,,,,,
@@ -226,9 +227,10 @@ SUN: 12:00 PM - 6:00 PM
 "Thrift NYC",1774,"Retail","Vintage",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-11T21:20:00.000Z","(347) 308-0491",,40.73258,-73.98623,"226 E. 14th Street, New York, NY 10003","Yes",,"SUN: 12:00 PM - 5:00 PM
 ","11:00 AM ","7:00 PM",,"Hours from IG profile, Opened late June 2022 in East Store.
 ",,,"10003","226","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","2022-06-29",,"https://www.instagram.com/thriftnycues/",,,"see google drive LA, JD","https://www.instagram.com/p/CfO-qbQrTvT/",,,,,,,,,,,,,,,,
-"HAGS",1773,"Restaurants",,,"Unknown","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-11T19:09:00.000Z",,"https://hagsnyc.com/",40.729003,-73.984558,"163 1st Avenue, New York, NY 10003",,,"MON & TUE: Closed
-Book a [reservation](https://resy.com/cities/ny/hags?date=2022-08-11&seats=2)!
-","5:00 PM","9:30 PM","PG","Website and IG are current, hours from website. Biz updated hours on 8/4/22 by google. Queer-owned restaurant opened in former Momofuku kitchen location. 
+"HAGS",1773,"Restaurants","American,Vegan",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-11T19:09:00.000Z",,"https://hagsnyc.com/",40.729003,-73.984558,"163 1st Avenue, New York, NY 10003","Yes",,"SUN: 5:00 PM - 9:00 PM Sliding-scale prices until sold out!
+MON & TUE: Closed
+Walk-ins welcome at the bar or [book way ahead](https://resy.com/cities/ny/hags?date=2022-08-11&seats=1), 
+","5:00 PM","10:00 PM","PG","Website and IG are current, hours from website. Queer-owned restaurant opened in former Momofuku kitchen location. 
 ",,,"10003","163","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2022-07-20","Yes","https://www.instagram.com/hags_nyc/","recBExg1aIxN9dXIA","recGVYHq4Jy3oYixY",,,"
 ",,,,,"https://swipeit.com/co-branded/merchant/hags-10866",,true,,,,,,,,
 "Cafe Joah",1772,"Cafes and Desserts","Cafe",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-11T04:00:00.000Z",,"https://cafejoah.com/",40.72973,-73.9808,"212 Avenue A, New York, NY 10009","Yes",,"SAT & SUN: 8:00 AM - 3:00 PM
@@ -261,10 +263,10 @@ TUE: Closed
 Kitchen is closed daily from 3:00 PM - 5:00 PM
 ","12:30 PM","10:00 PM",,"Website is current, hours from website. Opened in former Bubbleology location. 
 ",,,"10009","120","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"Yes",,"recKRV0dW91mEOpPR","recP8mrCQa2CTzKEf",,"https://evgrieve.com/search?q=unique+omakase",,,,,,,,,,,,,,,,
-"Aliens of Brooklyn",1764,"Retail","Fashion,Hats",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-11T23:34:00.000Z",,"https://www.aliensofbrooklyn.com/",40.72909,-73.98676,"305 E. 9th Street, New York, NY 10003","Yes",,"
+"Aliens of Brooklyn",1764,"Retail","Fashion,Hats",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-11T23:34:00.000Z",,"https://www.aliensofbrooklyn.com/",40.72909,-73.98676,"305 E. 9th Street, New York, NY 10003","Yes",,"
 ","11:00 AM","7:00 PM",,"IG and website are current, hours from IG bio. Opened June 2022 in former Fine Tune brows location (briefly Spooksvilla pop-up)
-",,,"10003","305","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","2022-06-12",,"https://www.instagram.com/aliensofbrooklyn/","recBfsDfqLj4wlEPE,recHCI4XZZGbv6fbG","recGwT4EkMkkL6ZE2,recMT9vmT0HrKRA04",,"https://evgrieve.com/2022/06/aliens-of-brooklyn-colonizing-9th-street.html","
-",,"aliensofbrooklyn@gmail.com",,,,,,,,,,,,,
+",true,,"10003","305","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","2022-06-12",,"https://www.instagram.com/aliensofbrooklyn/","recBfsDfqLj4wlEPE,recHCI4XZZGbv6fbG","recGwT4EkMkkL6ZE2,recMT9vmT0HrKRA04",,"https://evgrieve.com/2022/06/aliens-of-brooklyn-colonizing-9th-street.html","
+",,"aliensofbrooklyn@gmail.com",,,,,true,,true,,,,,,
 "PHD Barber",1763,"Services","Hair",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-08T14:08:00.000Z","(212) 510-7985","https://phdbarbers.com/",40.7293,-73.97849,"228 Avenue B, New York, NY 10009","Yes",,"SAT: 9:00 AM - 6:00 PM
 SUN: 9:00 AM - 5:00 PM
 ","9:00 AM","7:30 PM","EVCC","IG and website are current, hours from website and sign on door,
@@ -308,7 +310,7 @@ Happy hour: 3:00 PM - 7:00 PM (everyday)
 Reservations are available!
 ","9:00 AM","10:00 PM",,"IG and website are current, biz updated hours on 7/21/22 by google, Opened May 2022 in former You & Me (private dining) by Graffiti
 ",true,true,"10003","224","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York","2022-05-01","Yes","https://www.instagram.com/hardtoexplainnyc/",,,"see google drive KL","https://evgrieve.com/2022/06/openings-hard-to-explain-on-10th-street.html",,,,,,,,,,,,,,,,
-"Udon St Marks",1753,"Restaurants","Japanese",,"Opened","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-07-19T18:58:00.000Z","(332) 209-0533",,40.72945,-73.98897,"11 St. Mark's Place, New York, NY 10003",,,"Visit us for lunch [@yakiniku\_west\_new\_york](https://www.instagram.com/yakiniku_west_new_york/) while we work to reopen! 
+"Udon St Marks",1753,"Restaurants","Japanese",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-11T18:58:00.000Z","(332) 209-0533",,40.72945,-73.98897,"11 St. Mark's Place, New York, NY 10003",,,"Visit us for lunch [@yakiniku\_west\_new\_york](https://www.instagram.com/yakiniku_west_new_york/) while we work to reopen! 
 
 ",,,,"Temporarily closed after fire 6/1, serving from [@yakiniku\_west\_new\_york](https://www.instagram.com/yakiniku_west_new_york/) while they work to reopen, IG is current with hours
 ",true,true,"10003","11","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York",,,"https://www.instagram.com/udonstmarks/","recITrncp5UJdMYmD","recNaSOBj6VZsxjb1",,,,,,,"Yes",,,,,,,,,,,
@@ -354,9 +356,9 @@ SUN: Noon - 10:00 PM
 ","11:00 AM ","11:00 PM",,"IG is current, website on google listing not working, hours updated by business 6/21/2022. 
 Opened May 2022 in former Artichoke Basil location (moved across the street after 2017 fire in flue).		
 ",,,"10003","328","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","2022-05-22",,"https://www.instagram.com/piladeboba_/",,,,"https://evgrieve.com/2022/05/a-bubble-tea-shop-for-this-long-vacant.html",,,,,,,,,,,,,,,,
-"Empanada Mama",1742,"Restaurants","Latin",,"Unknown","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-07-21T04:00:00.000Z",,,40.7315882,-73.9826645,"239 1st Avenue, New York, NY 10003",,,"
+"Empanada Mama",1742,"Restaurants","Latin",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-11T04:00:00.000Z",,,40.7315882,-73.9826645,"239 1st Avenue, New York, NY 10003",,,"
 ",,,"EVCC","Opening soon in former Papaya Dog location.
-",,,"10003","239","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,,,,"https://evgrieve.com/2022/05/reader-report-empanada-mama-opening-at.html",,,,,,,"Yes",,,,,,,,,
+",,,"10003","239","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,,,,"https://evgrieve.com/2022/08/seeing-empanada-mama-red-on-14th-street.html",,,,,,,,,,,,,,,,
 "Adda Indian Canteen",1741,"Restaurants","Indian",,"Unknown","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-07-21T04:00:00.000Z",,,40.730323,-73.983642,"201 1st Avenue, New York, NY 10003",,,"
 ",,,"EVCC","Opening soon in former Jeepney location.
 ",true,,"10003","201","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,"recMAJgtmLrvUZo0W","recRRaHSgMsL9KJPk",,"https://evgrieve.com/2022/05/acclaimed-adda-indian-canteen.html",,,,,,,,,,,,,,,,
@@ -441,13 +443,13 @@ SUN: 12:00 PM - 9:00 PM
 ",,,"10009","441","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York",,,,"recD3rWOHht2OkV61","recIkSndBiui35gVp",,,,,"terminatecontrol@aol.com",,"Yes",,,,,,,,,,,
 "Social Tees Animal Rescue",1717,"Services","Pet Adoption",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-12T00:45:00.000Z",,"https://www.socialteesnyc.org/",40.7275,-73.98293,"443 E. 9th Street, New York, NY 10009","Yes",,"By appointment only!
 ",,,,"IG and website are current	
-",,,"10009","443","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/socialteesnyc/","recR6d8Cwwumoiqw4","recWnEz1qxvCD3Lls",,"https://www.yelp.com/biz/anine-new-york-4",,,"contact@socialteesnyc.org",,,,,,,"https://www.socialteesnyc.org/donate/",,,,,,
+",,,"10009","443","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/socialteesnyc/","recR6d8Cwwumoiqw4","recWnEz1qxvCD3Lls",,"https://www.yelp.com/biz/anine-new-york-4",,,"contact@socialteesnyc.org",,,,,,,,"https://www.socialteesnyc.org/donate/",,,,,
 "Ollie's Place",1716,"Services","Pet Adoption",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-11T04:00:00.000Z","(212) 875-7538","https://www.facebook.com/olliesplacecats",40.72739,-73.98357,"430 E. 9th Street, New York, NY 10009","Yes",,"SAT & SUN: noon - 5:00 PM
 ","6:00 PM","8:00 PM","EVCC","FB is current, hours from FB
 ",,,"10009","430","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","2015-06-01",,,"recm623FnM64ILahj","recrntu4hN7kXwv6H",,"https://evgrieve.com/2021/08/report-superiority-burger-moving-into.html",,"2021-11-14",,,,,,,,,,,,,,
 "Raul's Barber Shop",1715,"Services","Hair",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-04-24T21:57:00.000Z",,,40.721848,-73.98355,"11 Avenue B, New York, NY 10009","Yes",,"SUN: Closed
 ","7:00 AM","6:30 PM",,"\*\*\*\*\*Call/visit for hours and if opened, No online presence, may be on the ropes: Croman painted over awning & gate
-",true,,"10009","11","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,"https://evgrieve.com/2020/11/a-visit-to-rauls-barber-shop.html",,,,,,,,,,,true,,,,,
+",true,,"10009","11","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,,,,,"https://evgrieve.com/2020/11/a-visit-to-rauls-barber-shop.html",,,,,,,,,,true,,,,,,
 "East Side Tailor",1714,"Services","Tailor",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-11T21:34:00.000Z","(347) 698-2135","https://eastsidetailor.com/home",40.729027,-73.98317,"434 E. 11th Street, New York, NY 10009","Yes",,"SAT: 9:00 AM - 6:00 PM
 SUN: 10:00 AM - 5:00 PM
 ","9:00 AM","7:00 PM",,"IG last post 5/2022, website is current, Google Hours updated by business 7/7/22.
@@ -616,7 +618,7 @@ Opened in November 2021 in former Madan Pasar location (same owner?)
 "Painting Space 122",1667,"Arts & Culture",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-11T04:07:00.000Z",,"https://ps122gallery.org/",40.728497,-73.984461,"150 1st Avenue, New York, NY 10009","Yes",,"FRI - SUN Only
 Check out our [current exhibition!](https://ps122gallery.org/)
 ","1:00 PM ","6:00 PM",,"IG and website are current, hours from website and IG bio. Located in the 122 Community Center.
-",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/ps122gallery/",,,,,,,"info@ps122gallery.org",,"Yes",,,,,"https://www.paypal.com/donate/?hosted_button_id=68UBS73STYYCG",,,,,,
+",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/ps122gallery/",,,,,,,"info@ps122gallery.org",,"Yes",,,,,,"https://www.paypal.com/donate/?hosted_button_id=68UBS73STYYCG",,,,,
 "Movement Research",1666,"Arts & Culture","Dance",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-11T04:07:00.000Z","212-598-0551","https://movementresearch.org/",40.728497,-73.984461,"150 1st Avenue, New York, NY 10009","Yes",,"Check out our [upcoming ](https://movementresearch.org/calendar)classes and performances!
 SAT & SUN: Closed
 ","9:30 AM ","6:30 PM",,"Website & FB is current, hours from [FB](https://www.facebook.com/movementresearch), link to [calendar](https://movementresearch.org/calendar). Located in the 122 Community Center.
@@ -629,7 +631,7 @@ nothing on calendar yet for 2022. Located in the 122 Community Center.
 ",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/maboumines/",,,,,,,"info@maboumines.org",,"Yes",,,,,,,,,,,
 "Alliance for Positive Change / Luis & Lillian Outreach Center",1664,"Community Services",,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-10T04:07:00.000Z","(212) 645-0875, x348","https://alliance.nyc/",40.728497,-73.984461,"150 1st Avenue, New York, NY 10009","Yes",,"
 ","10:00 AM","4:00 PM",,"IG and website are current, Located in the 122 Community Center, hours from website
-",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/thealliance_nyc/",,,,,,,,,"Yes",,,,true,"https://secure.givelively.org/donate/the-alliance-for-positive-change/coronavirus-support-fund",,,,,,
+",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/thealliance_nyc/",,,,,,,,,"Yes",,,,true,,"https://secure.givelively.org/donate/the-alliance-for-positive-change/coronavirus-support-fund",,,,,
 "Gaia Italian Cafe Shop",1663,"Groceries","Specialty Market",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-11T00:14:00.000Z",,"https://www.gaiaitaliancafe.shop/",40.72201,-73.98226,"226 E. 3rd Street, New York, NY 10009","Yes","Yes","SAT - MON: Closed
 ","11:00 AM","3:00 PM","EVCC","IG is current, Hours from IG profile
 Soft-opened June 6, 2022 in former FlorDel location	
@@ -650,7 +652,7 @@ Opening soon in former Papilles location.
 "Essex Squeeze",1660,"Cafes and Desserts","Juice Bar,Cafe",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-08T15:12:00.000Z",,"https://www.essexsqueeze.com",40.72662,-73.98886,"300 E. 5th Street, New York, NY 10003","Yes",,"SUN: 10:00 AM - 6:00 PM
 ","9:00 AM","6:00 PM","PG","IG and website are current, hours from website.
 Opened March 2022 in former Idlewild Coffee location  
-",,,"10003","300","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York","2022-03-07","Yes","https://www.instagram.com/essexsqueeze/?hl=en",,,"see google drive LA","https://evgrieve.com/2022/03/openings-essex-squeeze-on-5th-street.html",,,,,,,,,,,true,,,,,
+",,,"10003","300","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York","2022-03-07","Yes","https://www.instagram.com/essexsqueeze/?hl=en",,,"see google drive LA","https://evgrieve.com/2022/03/openings-essex-squeeze-on-5th-street.html",,,,,,,,,,true,,,,,,
 "Village Yokocho",1659,"Restaurants","Japanese",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-04-04T18:01:00.000Z","(212) 598-3041","https://www.villageyokocho.com/",40.729766,-73.989189,"8 Stuyvesant Street, New York, NY 10003","No",,"MON & TUE: Closed
 ","5:00 PM","12:00 AM","EVCC","PERMANENTLY CLOSED. Cooper Union | Yoshida Restaurant group. 
 Last IG post is Jan 2022, Website is current, 
@@ -1035,7 +1037,7 @@ Nice-looking new business, no online presence.
 "Joey Bats",1561,"Cafes and Desserts","Cafe,Bar",,"Unknown","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-10T07:30:00.000Z",,"https://joeybatscafe.com",40.72324,-73.982819,"50 Avenue B, New York, NY 10009",,,,"11:00 AM","11:00 PM",,"Temporarily closed, Their IG is current, and their website says it's coming soon.
 Opening soon in long-vacant former Lovecraft location.
 ",,,"10009","50","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/joeybatscafe/","rec4304oX1cNB2Vll","rec9krvNR2d3QNgaJ",,,"
-",,,,,,,,,"www.gofundme.com/f/6d5n6-lower-east-side-toy-drive",,,,,,
+",,,,,,,,,,"www.gofundme.com/f/6d5n6-lower-east-side-toy-drive",,,,,
 "Gnoccheria by Luzzo's",1560,"Restaurants","Italian",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-10T07:43:00.000Z","212-254-3638","https://www.gnoccherianyc.com",40.72328,-73.98316,"234 E. 4th Street, New York, NY 10009","Yes","Yes","SAT & SUN: 12:00 PM - 10:00 PM
 ","3:00 PM","11:00 PM",,"IG and website are current, hours from their [website](https://www.gnoccherianyc.com/)
 ",,,"10009","234","E. 4th Street, New York, NY 10009","E. 4th Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/gnoccheriabyluzzos/","recv3DSjNAOI8A7po","recAk4jIHBPYnlseM",,,,,,,,,"Yes",,,,,,,,,
@@ -1093,7 +1095,7 @@ Laura check CB 3 vote record.
 ",,,"10009","76","E. 1st Street, New York, NY 10009","E. 1st Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/oneandone_nyc/",,,"see google drive KL",,,,"Info@oneandone.nyc",,,,"Yes",,,,,,,,,
 "ADT Fourth World",1544,"Community Services",,,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-10T18:39:00.000Z","(212)228-1339","http://atdfourthworld-usa.org",40.729,-73.983963,"172 1st Avenue, New York, NY 10009","Yes",,,,,,"\*\*\*\*\*Check back for hours. IG is for all locations, website and IG are current.
 Laura observed occupied
-",,,"10009","172","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/atd4thworld_us/",,,,,,,"nycteam@4thworldmovement.org",,,,,,,"https://atdfourthworld-usa.org/donate/",,,,,,
+",,,"10009","172","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/atd4thworld_us/",,,,,,,"nycteam@4thworldmovement.org",,,,,,,,"https://atdfourthworld-usa.org/donate/",,,,,
 "Cozy Cafe",1543,"Restaurants","Middle Eastern,Hookah Bar",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-10T18:26:00.000Z","(212) 475-0177","https://cozy-cafe-hookah-bar.business.site/?utm_source=gmb&utm_medium=referral",40.72375,-73.99004,"43 E. 1st Street, New York, NY 10003","Yes",,,"12:00 PM","4:00 AM",,"Last IG post 6/30/2021. Hours from website
 ",,,"10003","43","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/cozycafenyc/","recbFfXyTJ5B6JrtG","recgWGoXNK6RluMi4",,,,,,,,,,,,,,,,,,
 "Nowhere",1542,"Restaurants","Bar",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-10T04:03:00.000Z","917-409-1442","https://nowherebar.squarespace.com/",40.73178,-73.98413,"322 E. 14th Street, New York, NY 10003","Yes",,"MON: 4:00 PM - 4:00 AM
@@ -1518,16 +1520,16 @@ MON & TUE: Closed
 "El Rinconcito ",1405,"Restaurants","Dominican",,"Unknown","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T07:00:00.000Z",,,40.72302,-73.97968,"75 Avenue C, New York, NY 10009",,,"Check out our new location! 75 Avenue C
 ","9:00 AM","9:30 PM","EVCC","Temporarily closed, Longterm business moving from 10th Street location: IG and FB hasn't active since July 2021
 ",true,,"10009","75","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,"https://www.instagram.com/elrinconles/",,,,"https://evgrieve.com/2022/03/el-rinconcito-makes-it-signage-official.html","
-","2021-07-16",,,,,,,,,true,,"recxBL6JfYyOcRLKm",,,
+","2021-07-16",,,,,,,,true,,,"recxBL6JfYyOcRLKm",,,
 "Village Preservation",1404,"Community Services",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T20:13:00.000Z","(212) 475-9585","https://www.villagepreservation.org/",40.73056,-73.98734,"232 E. 11th Street, New York, NY 10003",,,"Check our [website ](https://www.villagepreservation.org/events)for current event!
 ",,,,"IG & website is current
-",,,"10003","232","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/gvshp_nyc/",,,,,,,"info@villagepreservation.org",,"Yes",,,,,"https://www.villagepreservation.org/get-involved/donate/",,,,,,
+",,,"10003","232","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/gvshp_nyc/",,,,,,,"info@villagepreservation.org",,"Yes",,,,,,"https://www.villagepreservation.org/get-involved/donate/",,,,,
 "Third Street Music School",1403,"Community Services","Music",true,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-09T20:02:00.000Z","(212) 777-3240","https://www.thirdstreet.nyc/",40.73086,-73.98693,"235 E. 11th Street, New York, NY 10003","Yes",,"SAT & SUN: Closed
 ","8:30 AM","9:00 PM",,"Website and IG are current, Google says biz updated hours on 6/28/22
-",,,"10003","235","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/3rdstreetnyc/","recoCM86fx9s2aDt2","rectTdzv9yaIhVYiq","see google drive OK",,,,"info@thirdstreetmusicschool.org",,"Yes",,,,,"https://thirdstreetmusicschool.networkforgood.com/projects/136265-third-street-annual-fund-2021-22?_ga=2.108758146.1401977594.1628884869-640811447.1628884869",,,,,,
+",,,"10003","235","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/3rdstreetnyc/","recoCM86fx9s2aDt2","rectTdzv9yaIhVYiq","see google drive OK",,,,"info@thirdstreetmusicschool.org",,"Yes",,,,,,"https://thirdstreetmusicschool.networkforgood.com/projects/136265-third-street-annual-fund-2021-22?_ga=2.108758146.1401977594.1628884869-640811447.1628884869",,,,,
 "The Boys Club of NY",1401,"Community Services","Youth",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T19:58:00.000Z","(212) 533-2550","https://www.bcny.org/",40.72803,-73.98239,"287 E 10th Street, New York, NY 10009","No",,"EV location is closed.
 ",,,,"PERMANENTLY CLOSED. EV Clubhouse is closed.
-",,,"10009","287","E 10th Street, New York, NY 10009","E 10th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/boysclubny/",,,,,,,"info@bcny.org",,,,,,,"https://www.bcny.org/support/donate/",,,,,,
+",,,"10009","287","E 10th Street, New York, NY 10009","E 10th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/boysclubny/",,,,,,,"info@bcny.org",,,,,,,,"https://www.bcny.org/support/donate/",,,,,
 "Liberty Post",1400,"Health","Physical Therapy,Mental Health",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T19:50:00.000Z","(646) 230-8190","https://www.liberty-post.com/locations/new-york-city/",40.72588,-73.98895,"98 E. 4th Street, New York, NY 10003","Yes",,"SAT & SUN: Closed
 ","8:00 AM","6:30PM",,"PERMANENTLY CLOSED, IG last post 5/2022, website is current, Hours from website, Local chain with 7 stores in NY & NJ. Does not fit NYS chain definition. 
 ",,,"10003","98","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/libertypost_nyc/","rec7FeDMBOI4HuPPH","reccWF4bvPJkWfaE5",,,,,"info@liberty-post.com",,"Yes",,,,,,,,,,,
@@ -1539,7 +1541,7 @@ MON & TUE: Closed
 ",,,"10009","428","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/lungsnyc/?hl=en",,,,,,,,,"Yes",,,,,,,,,,,
 "Loisaida Center",1395,"Community Services",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-03-15T18:57:00.000Z","(646) 726-4715","http://loisaida.org/",40.72487,-73.97758,"710 E. 9th Street, New York, NY 10009","Yes",,"SAT & SUN: Closed
 ","10:00 AM","6:00 PM",,"\*\*\*\*\*Call for updated hours, Confirmed hours by phone 8/13/2021
-",,,"10009","710","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/loisaidainc.center/",,,,,,,"info@loisaida.org",,,,,,,,true,,,,,
+",,,"10009","710","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/loisaidainc.center/",,,,,,,"info@loisaida.org",,,,,,,true,,,,,,
 "Under St. Marks	",1394,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-03-15T19:29:00.000Z","(212) 777-6088",,40.66635,-73.69294,"94 St. Mark's Place, New York, NY 10009","Yes",,"The Mic Under St. Marks is back! 
 TUE: 9:00 PM - 2:00 AM
 7 minute time slots!
@@ -1552,39 +1554,39 @@ Reopened February 2022 after fire in location
 ",,,"10009","228","E 3rd Street, New York, NY 10009","E 3rd Street"," New York, NY 10009"," New York",,,,"reccqxxZ0DeWSmcZu","rechHYYoUEfc77xOS",,,,,,,,,,,,,,,,,,
 "The Poetry Project	",1392,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T21:37:00.000Z","(212) 674-0910","https://www.poetryproject.org",40.73017,-73.98706,"131 E. 10th Street,  New York, NY 10003","Yes",,"Check out our [virtual and live](https://www.poetryproject.org/events) events!
 ",,,,"Information from website [events page](https://www.poetryproject.org/events), IG and website are current
-",,,"10003","131","E. 10th Street,  New York, NY 10003","E. 10th Street","  New York, NY 10003","  New York",,,"https://www.instagram.com/poetry_project/",,,,,,,"info@poetryproject.org",,"Yes",,,,,"https://poetryproject.app.neoncrm.com/np/clients/poetryproject/donation.jsp",,,,,,
+",,,"10003","131","E. 10th Street,  New York, NY 10003","E. 10th Street","  New York, NY 10003","  New York",,,"https://www.instagram.com/poetry_project/",,,,,,,"info@poetryproject.org",,"Yes",,,,,,"https://poetryproject.app.neoncrm.com/np/clients/poetryproject/donation.jsp",,,,,
 "LES Girls Club",1390,"Community Services","Youth",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T21:18:00.000Z","(212) 982-1633","https://www.girlsclub.org/",40.72376,-73.97646,"402 E. 8th Street, New York, NY 10009","Yes",,"SAT & SUN: Closed
 ","10:00 AM","6:00 PM",,"Website and IG are current, hours from website
-",,,"10009","402","E. 8th Street, New York, NY 10009","E. 8th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/girlsclubny/","recyFVMAXLqtkRpts","recDWmdZRMrJzCKiQ",,,,,,,,,,,,"https://support.girlsclub.org/give/332331/#!/donation/checkout",,,,,,
+",,,"10009","402","E. 8th Street, New York, NY 10009","E. 8th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/girlsclubny/","recyFVMAXLqtkRpts","recDWmdZRMrJzCKiQ",,,,,,,,,,,,,"https://support.girlsclub.org/give/332331/#!/donation/checkout",,,,,
 "Teatro Circulo	",1389,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T21:11:00.000Z","(212) 505-1808","http://www.teatrocirculo.org",40.72643,-73.99065,"64 E. 4th Street, New York, NY 10003","Yes",,"Check out our [main stage](https://teatrocirculo.org/main-stage/) performances!
 ",,,,"Website and IG are current, link out to main stage page.
-",,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/teatrocirculonyc/",,,,,,,"info@teatrocirculo.org",,,,,,,"https://teatrocirculo.app.neoncrm.com/forms/donation-website",true,,,,,
+",,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/teatrocirculonyc/",,,,,,,"info@teatrocirculo.org",,,,,,,true,"https://teatrocirculo.app.neoncrm.com/forms/donation-website",,,,,
 "GOLES Good Old Lower East Side",1388,"Community Services","Tenants",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T21:04:00.000Z","(212) 533-2541","https://www.goles.org/",40.7272,-73.97934,"171 Avenue B, New York, NY 10009","Yes",,"By appointment only, no walk-ins please!
 FRI: working remotely
 SAT & SUN: Closed
 ",,,,"Confirmed hours by phone 3/2022, website and IG are current
-",,,"10009","171","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/golesnyc/","recADVPZ2Ipg8nsPy","recFUmgoWJqwn8NEW",,,,,"info@goles.org",,,,,,,"https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=132915659",true,,,,,
+",,,"10009","171","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/golesnyc/","recADVPZ2Ipg8nsPy","recFUmgoWJqwn8NEW",,,,,"info@goles.org",,,,,,,true,"https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=132915659",,,,,
 "Rod Rodgers Dance Company",1387,"Arts & Culture","Dance,Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-09T21:05:00.000Z","(212) 674-9066","https://www.rodrodgersdance.org",40.72644,-73.99073,"62 E. 4th Street, New York, NY 10003","Yes",,"Check our [website ](https://www.rodrodgersdance.org/youth-program-2022)for current programs!
 ",,,,"\*\*\*\*\*Call, Doesn't look like they are doing any classes as of now, IG and website [youth program](https://www.rodrodgersdance.org/youth-program-2022) page are current 
-",,,"10003","62","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/rod_rodgers_dance_company/","recgjPyoaNYSYgcFp","reclAgZN4OZ8d1xuN",,,,,"rodrodgers.dance@verizon.net",,"Yes",,,,true,"https://www.rodrodgersdance.org/donate",,,,,,
+",,,"10003","62","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/rod_rodgers_dance_company/","recgjPyoaNYSYgcFp","reclAgZN4OZ8d1xuN",,,,,"rodrodgers.dance@verizon.net",,"Yes",,,,true,,"https://www.rodrodgersdance.org/donate",,,,,
 "Fourth Arts Block FAB",1386,"Community Services","Cultural",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T20:46:00.000Z","(212) 228-4670","http://www.fabnyc.org/",40.72689,-73.99083,"61 E. 4th Street, New York, NY 10003",,,"We're working remotely, please [email](mailto:info@fabnyc.org) for best response.
 ",,,,"Working remotely as per Laura		
-",,,"10003","61","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/_fabnyc/",,,,,,,"info@fabnyc.org",,"Yes",,,,,"http://www.fabnyc.org/support/donate/",,,,,,
+",,,"10003","61","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/_fabnyc/",,,,,,,"info@fabnyc.org",,"Yes",,,,,,"http://www.fabnyc.org/support/donate/",,,,,
 "Paradise Factory Theater	",1385,"Arts & Culture","Theater",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T20:50:00.000Z",,"http://www.paradisefactory.org",40.72643,-73.99065,"64 E. 4th Street, New York, NY 10003",,,,,,,"Keep listing: do not update unless you see recent activity on website. Tom Noonan.
 ",,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,,,,,,," theater@paradisefactory.org      ",,,,,,,,,,,,,
 "Nuyorican Poets Cafe	",1383,"Arts & Culture","Theater",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T20:41:00.000Z","(212) 505-8183","https://www.nuyorican.org",40.7219,-73.98181,"236 E. 3rd Street, New York, NY 10009","Yes",,"Check out our live and virtual [events and open mics!](https://ci.ovationtix.com/35133)
 ",,,,"IG is current, link to website events calendar page
 ",,,"10009","236","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/nuyoricanpoetscafe/","recwWQH76T4aHXAd9","recBdh8w0U5qWIV2x",,,"$5 tickets every [MON & WED](https://www.instagram.com/p/CfSoOg-u3Fa/) ALL Summer!
-",,"info@nuyorican.org",,"Yes",,,,,"https://ci.ovationtix.com/35133/store/donations/29765",true,,,,,
+",,"info@nuyorican.org",,"Yes",,,,,true,"https://ci.ovationtix.com/35133/store/donations/29765",,,,,
 "East Village Independent Merchants Association EVIMA",1382,"Community Services","Small business",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-03-15T20:14:00.000Z","(212) 228-8210","https://evimanyc.org/",40.72689,-73.99083,"61 E. 4th Street, New York, NY 10003",,,,,,,"\*\*\*\*\*START HERE, Laura confirmed location c/o Cooper Square (website will be updated).
 ",,,"10003","61","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/evimanyc/",,,,,,,"evima@evimanyc.org",,"Yes",,,,,,,,,,,
 "Metropolitan Playhouse	",1381,"Arts & Culture","Theater",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-08T20:19:00.000Z","(212) 995-8410","http://www.metropolitanplayhouse.org",40.723438,-73.983551,"220 E. 4th Street, New York, NY 10009","Yes",,"Check out our [performance schedule](http://www.metropolitanplayhouse.org/)[!](http://metropolitanplayhouse.org/season)
 ",,,,"Link to main page (performance schedule) in Ab Notes.
-",,,"10009","220","E. 4th Street, New York, NY 10009","E. 4th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/metplayhouse/",,,"see google drive OK",,,,"connect@metropolitanplayhouse.org",,"Yes",,,,,"https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=35W9U2SK5KCV8&source=url",,,,,,
+",,,"10009","220","E. 4th Street, New York, NY 10009","E. 4th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/metplayhouse/",,,"see google drive OK",,,,"connect@metropolitanplayhouse.org",,"Yes",,,,,,"https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=35W9U2SK5KCV8&source=url",,,,,
 "East Village Community Coalition EVCC",1380,"Community Services","Small business,Sustainability",,"Opened","{""id"":""usrJZpmHqcikyOoBM"",""email"":""weihengj@nycstudents.net"",""name"":""Orange""}","2022-03-15T20:10:00.000Z","(212) 979-2344","http://evccnyc.org/",40.72634,-73.97998,"143 Avenue B, New York, NY 10009","Yes",,"By appointment only please!
 Check the [WhatsOpenEV map](http://evccnyc.org/covid-whats-open/) for the latest information on your favorite local businesses!
 ",,,,"
-",,,"10009","143","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/evccnyc/",,,,,,,"info@evccnyc.org",,,,,,,"http://evccnyc.org/donate/",,,,,,
+",,,"10009","143","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/evccnyc/",,,,,,,"info@evccnyc.org",,,,,,,,"http://evccnyc.org/donate/",,,,,
 "Ideal Glass	",1379,"Arts & Culture","Gallery,Theater",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-08-12T20:05:00.000Z","(212) 598-3030"," https://idealglass.org",40.7253,-73.99095,"22 E. 2nd Street, New York, NY 10003","No",,"
 ",,,,"PERMANENTLY CLOSED. Reoccupied by Karma Gallery as per evgrieve, 
 Ideal Glass moving into 9 St. Marks Place as per google? https://www.google.com/search?q=ideal%20glass%20east%20village&rlz=1C1ONGR\_enUS928US928&oq=ideal+glass+east+village&aqs=chrome.0.69i59.7855j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf\_ui:2&tbm=lcl&rflfq=1&num=10&rldimm=11688421393891399655&lqi=ChhpZGVhbCBnbGFzcyBlYXN0IHZpbGxhZ2WqARMQASoPIgtpZGVhbCBnbGFzcygA&ved=2ahUKEwit\_teFxqzyAhWZLs0KHVDWB2EQvS4wAHoECA0QHw&rlst=f#rlfi=hd:;si:11688421393891399655,l,ChhpZGVhbCBnbGFzcyBlYXN0IHZpbGxhZ2WqARMQASoPIgtpZGVhbCBnbGFzcygA;mv:[[40.732907499999996,-73.98865839999999],[40.729231399999996,-73.9975027]];tbs:lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf\_ui:2
@@ -1595,13 +1597,13 @@ Ideal Glass moving into 9 St. Marks Place as per google? https://www.google.com/
 ",,,"10003","59","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/creativetime/",,,,,,,"info@creativetime.org",,"Yes",,,,,,,,,,,
 "Fourth Street Theater",1376,"Arts & Culture","Theater",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T19:46:00.000Z","(212) 780-9037","https://www.nytw.org",40.72663,-73.98989,"83 E. 4th Street, New York, NY 10003","Yes",,"We're back on 4th Street! Check out our [schedule](https://www.nytw.org/)!
 ",,,,"Website is current, link out to [main website ](https://www.nytw.org/)page.
-",,,"10003","83","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,,,,,,,,,,,,,,"https://www.nytw.org/donate/?spektrixid=1920AnnualFund",,,,,,
+",,,"10003","83","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,,,,,,,,,,,,,,,"https://www.nytw.org/donate/?spektrixid=1920AnnualFund",,,,,
 "East Village Radio",1375,"Arts & Culture",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-14T19:38:00.000Z",,"https://www.facebook.com/EVRadio/",40.723671,-73.988548,"19 1st Avenue, New York, NY 10003",,,"
 ",,,,"IG posts infrequent, FB only lists RIPs. Operating on Dash Radio since 2015 (after regulations forced pirate station off the air).	
 ",,,"10003","19","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2003-01-01",,"https://www.instagram.com/eastvillageradio/",,,,"https://en.wikipedia.org/wiki/East_Village_Radio",,,,,"Yes",,,,,,,,,,,
 "Cooper Square Committee",1374,"Community Services","Tenants,Small business",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T19:35:00.000Z","(212) 228-8210","https://coopersquare.org/",40.72689,-73.99083,"61 E. 4th Street, New York, NY 10003","Yes",,"Please call or [email](mailto:csc@coopersquare.org) for a response within one business day! 
 ",,,,"Office staff is present, Info from contact page on website
-",,,"10003","61","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/coopersquare/","rec5XkzZ84hmhGP9T","recaeL0o25iCwraYh",,,,,"csc@coopersquare.org",,,,,,,"https://coopersquare.org/about-us/donate",,,,,,
+",,,"10003","61","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/coopersquare/","rec5XkzZ84hmhGP9T","recaeL0o25iCwraYh",,,,,"csc@coopersquare.org",,,,,,,,"https://coopersquare.org/about-us/donate",,,,,
 "DUO Multicultural Arts Center",1373,"Arts & Culture",,,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-03-15T19:17:00.000Z","(212) 598-4320",,40.72644,-73.99073,"62 E. 4th Street, New York, NY 10003",,,,,,,"\*\*\*\*\*Ask Rachel at Rod Rodgers if Michelangelo is around. No sign of life, google says temporarily closed, [website](https://duotheater.org) is down.
 ",,,"10003","62","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,,,,,,,"duotheatre@gmail.com",,,,,,,,,,,,,
 "Community Board 3",1372,"Community Services",,,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-01T19:08:00.000Z","(212) 533-5300","https://www1.nyc.gov/html/mancb3/html/home/home.shtml",40.72701,-73.9908,"59 E. 4th Street, New York, NY 10003",,,"By appointment only, please call ahead!
@@ -1613,7 +1615,7 @@ Ideal Glass moving into 9 St. Marks Place as per google? https://www.google.com/
 ",,,"10009","220","E. 4th Street, New York, NY 10009","E. 4th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/connellytheater/","recdEArctOCssVtS1","reciV1SBnPDIHGOHp",,,,,"theater@connellycenter.org",,,,,,,,,,,,,
 "Avenues For Justice / Robert Siegal Center",1370,"Community Services","Youth",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-08T22:01:00.000Z","(212) 505-5130","https://avenuesforjustice.org/",40.7248,-73.98163,"100 Avenue B, New York, NY 10009","Yes",,"SAT & SUN: Closed
 ","3:00 PM","7:00 PM",,"\*\*\*\*\*Call for hours, website and IG are current, EV location is open 
-",,,"10009","100","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/avenuesforjustice/",,,"see google drive KL",,,,,,,,,,,"https://avenuesforjustice.networkforgood.com/projects/93743-avenues-for-justice",,,,,,
+",,,"10009","100","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/avenuesforjustice/",,,"see google drive KL",,,,,,,,,,,,"https://avenuesforjustice.networkforgood.com/projects/93743-avenues-for-justice",,,,,
 "Alpha Omega Theatrical Dance Company",1369,"Arts & Culture","Theater",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-02T18:50:00.000Z","(212) 749-0095","http://alphaomegadance.org",40.72633,-73.99042,"70 E. 4th Street, New York, NY 10003","Yes",,"Check out our [Open Classes!](http://alphaomegadance.org/at-the-ao/#workshops)
 ",,,,"Offering some outdoor performances and open classes: link out to Events pages on website
 ",,,"10003","70","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/alphaomegadance.nyc/",,,"see google drive LA",,,,"info@alphaomegadance.org",,"Yes",,,,,,,,,,,
@@ -1675,7 +1677,7 @@ Opened April 2022 in former Joe's Steam Rice Roll location.
 SUN: 11:00 AM - 7:00 PM
 ","10:30 AM","6:30 PM",,"\*\*\*\*\*Visit for photo and hours, Hours from website 
 ",,,"10003","30","E. 13th Street, New York, NY 10003","E. 13th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/wink.bar/",,,"see google photo OK",,,,,,,,,,,,,,,,,
-"Opulant (?)",1340,"Restaurants","American",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-07-01T00:59:00.000Z",,,40.72393,-73.98283,"540 E. 5th Street, New York, NY 10009",,,,,,,"Opening soon in former Black Iron Burger location (vacant since July 2019).
+"Le Burger",1340,"Restaurants","American",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-07-01T00:59:00.000Z",,,40.72393,-73.98283,"540 E. 5th Street, New York, NY 10009",,,,,,,"Opening soon in former Black Iron Burger location (vacant since July 2019).
 ",,,"10009","540","E. 5th Street, New York, NY 10009","E. 5th Street"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,,,,,,,,
 "My EyeBrow Salon",1339,"Services","Skin Care,Waxing",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-08T23:06:00.000Z","(212) 254-6464","http://my-eyebrow-salon.edan.io/",40.71835,-73.98573,"101 Clinton Street, New York, NY 10002","Yes",,"SUN: 11:00 AM - 6:00 PM
 ","10:00 AM","7:30 PM",,"Hours from website
@@ -1828,7 +1830,7 @@ RELOCATED from E. 12th Street September 2021 in corner (south) section of Basics
 
 
 ",true,,"10003","91","3rd Avenue, New York, NY 10003","3rd Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/curethrift/","recOKaDSm1zyy6BwZ","recT1B4hg2AONRWln",,,"
-","2021-07-06","info@curethriftshop.com",,,"https://squareup.com/gift/A631DBS1A5AYM/order",,,,"https://www.curethriftshop.com/donate",,,,,,
+","2021-07-06","info@curethriftshop.com",,,"https://squareup.com/gift/A631DBS1A5AYM/order",,,,,"https://www.curethriftshop.com/donate",,,,,
 "Evil Katsu",1284,"Restaurants","Japanese",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-04T04:00:00.000Z","(646) 370-3435","https://www.evilkatsu.com/",40.72766,-73.983261,"435 E. 9th Street, New York, NY 10009","Yes",,"SAT & SUN: 1:00 PM - 9:00 PM
 ","12:00 PM","9:00 PM","EVCC","\*\*\*\*\*Visit to see if hours are for everyday, IG & Website are current, Hours confirmed by phone, opened in former Dian Kitchen location.
 ",,,"10009","435","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","2021-07-19","No","https://www.instagram.com/evilkatsu/","rec4raWpEI3dO5LhV","rec9IBnOyJ4t3Q66j","see google drive OK",,,,"info@evilkatsu.com",,,,"Yes",,,,,,,,,
@@ -1862,7 +1864,7 @@ Proof of vaccination and booster required
 ",,,"10009","264","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","2021-06-04",,"https://www.instagram.com/breadstoryny/?hl=en",,,"see google drive OK",,,,"info@bread-story.com",,,,,,,,,,,,,
 "Loisaida Community Fridge & Pantry",1271,"Free Food",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T22:29:00.000Z","N/A","https://linktr.ee/loisaidafridge",40.72604,-73.98019,"602 E. 9th Street, New York, NY 10009","Yes",,"24/7 food pantry outside of Trinity Church garden
 ",,,,"IG is current
-",,,"10009","602","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","2021-06-15",,"https://www.instagram.com/loisaidafridge/?hl=en",,,"see google drive KL",,,,"loisaidacommunityfridge@gmail.com",,,,,,,"https://linktr.ee/loisaidafridge",,,,,,
+",,,"10009","602","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York","2021-06-15",,"https://www.instagram.com/loisaidafridge/?hl=en",,,"see google drive KL",,,,"loisaidacommunityfridge@gmail.com",,,,,,,,"https://linktr.ee/loisaidafridge",,,,,
 "Carnaval",1270,"Restaurants","Panamanian",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-05T01:48:00.000Z","(646) 650-7558",,40.722912,-73.983078,"40 Avenue B, New York, NY 10009","Yes",,"WED & THU: 4:00 PM - 10:00 PM
 SAT: 12:00 PM - 11:00 PM
 SUN: 12:00 PM - 9:00 PM
@@ -2015,7 +2017,7 @@ MON: CLOSED
 "Theater for the New City",1230,"Arts & Culture","Gallery,Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-04T23:15:00.000Z","212-254-1109","https://theaterforthenewcity.net/",40.72862,-73.9848,"155 1st Avenue, New York, NY 10003","Yes",,"Check our[ website](https://theaterforthenewcity.net/shows-2/) or [Instagram](https://www.instagram.com/theater_for_the_new_city/?hl=en) for updated schedules
 Vaccination card or negative COVID test required indoors. 
 ",,,,"IG & website are current
-",true,,"10003","155","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/theater_for_the_new_city/?hl=en","recorOTl8ueOulN8B","rectIfkK2vf4J68XZ",,,,,,,"Yes",,,,,"https://theaterforthenewcity.net/donate/",,,,,,
+",true,,"10003","155","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/theater_for_the_new_city/?hl=en","recorOTl8ueOulN8B","rectIfkK2vf4J68XZ",,,,,,,"Yes",,,,,,"https://theaterforthenewcity.net/donate/",,,,,
 "Yubu",1229,"Restaurants","Korean",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-04T23:00:00.000Z","(646) 891-0116","https://www.yubu.nyc/",40.72715,-73.98627,"86 E. 7th Street, New York, NY 10003","Yes",,"Closed daily between 3:00 PM - 4:00 PM
 MON & TUE: Closed
 ","11:00 AM","8:00 PM",,"Confirmed Hours by phone, IG and website are current, hours from website
@@ -2026,7 +2028,7 @@ Active on Door dash, Uber Eats, and Postmates, Hours from IG profile, last IG po
 "Cafe Sandra",1227,"Cafes and Desserts","Cafe",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-04T04:00:00.000Z","(646) 964-5606","https://cafesandra.com/",40.72974,-73.98339,"194 1st Avenue, New York, NY 10009","Yes",,"SAT & SUN: 8:00 AM - 7:00 PM
 Sandra loves you!
 ","7:00 AM","7:00 PM","EVCC","\*\*\*\*\*Visit to see if they are open, Hours confirmed by website, Last IG post 10/24/21, Temporarily Closed sign taken down 1/20/22, still don't look active
-",true,,"10009","194","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","2021-06-01","Yes","https://www.instagram.com/cafesandranyc/?hl=en","recNzlxt5v2anJVMF","recSQMYSZw3qCugB3",,"https://evgrieve.com/2021/11/cafe-sandra-is-closed-for-now.html",,,"cafesandranyc@gmail.com",,,,"Yes",,,,true,,,,,
+",true,,"10009","194","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","2021-06-01","Yes","https://www.instagram.com/cafesandranyc/?hl=en","recNzlxt5v2anJVMF","recSQMYSZw3qCugB3",,"https://evgrieve.com/2021/11/cafe-sandra-is-closed-for-now.html",,,"cafesandranyc@gmail.com",,,,"Yes",,,true,,,,,,
 "Ukrainian Museum",1226,"Arts & Culture","Museum,Ukrainian",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-04T22:16:00.000Z","(212) 228-0110","http://www.ukrainianmuseum.org/",40.72767,-73.98976,"222 E. 6th Street, New York, NY 10003","Yes",,"MON & TUE: Closed
 ","11:30 AM","5:00 PM",,"The website is retuning soon, Confirmed hours by phone, IG is current, [Website](https://www.ukrainianmuseum.org/) will return soon
 ",,,"10003","222","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/ukrainianmuseum/","recCQzwVQyEKfYCMS","recH70XkKzF0uJXBg","see google drive KL",,,,"info@UkrainianMuseum.org",,,,,,,,,true,,,,
@@ -2143,9 +2145,9 @@ FRI - SAT: 4:00 PM - 4:00 AM
 
 ","4:00 PM","2:00 AM",,"Hours from website straight to voicemail,IG is current  hours from website
 ",,,"10009","164","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/dreambabydreamnyc/","recIcm8wDBwTdQ5mA","recNtNzVxCx9sBqbY","see google drive LA",,,,"dreambabyavenueb@gmail.com",,,,"Yes (Heated)",,,,,,,,,
-"Hi Noona",1194,"Cafes and Desserts","Juice Bar,Korean",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-07-25T01:27:00.000Z","(718) 715-5673","https://www.hi-noona.com",40.728931,-73.9804,"515 E. 12th Street, New York, NY 10009",,,"MON & TUE: Closed
-","11:00 AM","5:00 PM",,"\*\*\*\*\*Closed for summer break. Hours from Website, IG is current, Website is current
-",true,true,"10009","515","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York","2021-06-10",,"https://www.instagram.com/hi.noona.nyc/","rec7GHZwHtcaNKSJY","reccX8qVBudq2vdym",,"https://evgrieve.com/2021/08/about-hi-noona-serving-up-unique-korean.html",,,,true,,,,,,,,,,,,
+"Hi Noona",1194,"Cafes and Desserts","Juice Bar,Korean",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-12T01:27:00.000Z","(718) 715-5673","https://www.hi-noona.com",40.728931,-73.9804,"515 E. 12th Street, New York, NY 10009","No",,"MON & TUE: Closed
+","11:00 AM","5:00 PM",,"PERMANENTLY CLOSED. Hours from Website, IG is current, Website is current
+",true,true,"10009","515","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York","2021-06-10",,"https://www.instagram.com/hi.noona.nyc/","rec7GHZwHtcaNKSJY","reccX8qVBudq2vdym",,"https://www.instagram.com/p/ChFJuTduCDi/",,"2022-08-10",,true,,,,,,,,,,,,
 "Stage Salon",1193,"Services","Hair",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-08-02T01:27:00.000Z","(347) 952-8862","http://www.stagenycsalon.com/",40.72297,-73.98304,"42 Avenue B, New York, NY 10009","No",,"TUE: Closed
 ","11:30 AM","7:00 PM",,"Confirmed hours by phone 8/1/21? nothern storefront 
 ",true,,"10009","42","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/stagenycsalon/",,,,,,,,,,,,,,,,,,,,
@@ -2202,13 +2204,13 @@ Reopened March 2021
 "Bhakti Center",1177,"Health","Yoga",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-05T01:07:00.000Z","212-533-4842","https://linktr.ee/bhakticenter",40.72382,-73.988487,"25 1st Avenue, New York, NY 10003",,,"8:00 AM - noon and 4:00 PM - 7:00 PM 
 Check out our [online streaming classes](http://bhakticenter.org/yoga-schedule-pricing/)!
 ",,,,"\*\*\*\*\*Visit for hours and photo, Confirmed hours by phone 2/2022, see class schedule, IG and website are current
-",,,"10003","25","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/bhakticenter/","recvC6ZvuDPVTc74Q","recATxqUoEQb8XsTe",,"https://www.instagram.com/p/CZR54XFo8Zv/",,,"info@bhakticenter.org",,"Yes",,,,,"http://bhakticenter.org/donate/",,,,,,
+",,,"10003","25","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/bhakticenter/","recvC6ZvuDPVTc74Q","recATxqUoEQb8XsTe",,"https://www.instagram.com/p/CZR54XFo8Zv/",,,"info@bhakticenter.org",,"Yes",,,,,,"http://bhakticenter.org/donate/",,,,,
 "Body Evolutions",1176,"Health","Pilates",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-04T00:26:00.000Z","212-375-0430","http://www.bodyevolutions.com/be-East-Village",40.72821,-73.98367,"266 E. 10th Street, New York, NY 10009","Yes",,"SAT & SUN: 9:00 AM - 6:00 PM
 ","9:00 AM","9:00 PM",,"\*\*\*\*\*\*Visit for photo and hours, Hours from website, IG is current, Website is current
 ",,,"10009","266","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/bodyevolutionsnyc/","rec8RoIOv1Tk3PNVW","recd8P9dp2UAiA8Kk","see google drive JD, KL",,,,"info@bodyevolutions.com",,,,,,,,,,,,,
 "Anthology Film Archives",1175,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T23:57:00.000Z","212-505-5181","http://anthologyfilmarchives.org/",40.72466,-73.99013,"32 2nd Avenue, New York, NY 10003","Yes",,"Check out our [film screening schedule!](http://anthologyfilmarchives.org/film_screenings/calendar#day-28)
 ",,,,"IG is current, and Website is current, link out to film screening schedule
-",,,"10003","32","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/anthologyfilmarchives/","recwaRqxAhN2EgyhY","recBriRWuiOiT1T6m",,"https://evgrieve.com/2021/07/the-anthology-film-archives-returns.html",,,,,,"http://anthologyfilmarchives.bigcartel.com/category/gift-cards",,,,"http://anthologyfilmarchives.org/support/donate",,,,,,
+",,,"10003","32","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/anthologyfilmarchives/","recwaRqxAhN2EgyhY","recBriRWuiOiT1T6m",,"https://evgrieve.com/2021/07/the-anthology-film-archives-returns.html",,,,,,"http://anthologyfilmarchives.bigcartel.com/category/gift-cards",,,,,"http://anthologyfilmarchives.org/support/donate",,,,,
 "Cinema Village",1174,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T23:58:00.000Z","(212) 924-3364","https://www.cinemavillage.com/",40.73396,-73.99345,"22 E. 12th Street, New York, NY 10003","Yes",,"Book your tickets [online](https://www.cinemavillage.com/)!
 ","12:00 PM","10:30 PM",,"Hours confirmed by phone, IG is current, website is current
 reopened 6/18/2021
@@ -2228,13 +2230,13 @@ reopened 6/18/2021
 WED - SUN: noon -  6:00 PM
 **Box Office** opens 1 Hour before show
 ",,,,"Confirmed hours by phone automated voice and website, link to [events](https://performancespacenewyork.org/our-new-mission/) in Ab Notes, IG and website are current. Located in the 122 Community Center.
-",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/performance.space.new.york/",,,,,,,"info@performancespacenewyork.org",,"Yes",,,,,"https://performancespacenewyork.org/donate/",,,,,,
+",,,"10009","150","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,"https://www.instagram.com/performance.space.new.york/",,,,,,,"info@performancespacenewyork.org",,"Yes",,,,,,"https://performancespacenewyork.org/donate/",,,,,
 "Danspace Project",1167,"Arts & Culture","Theater,Dance",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T04:00:00.000Z","212-674-8112","https://danspaceproject.org/",40.730445,-73.987046,"131 E. 10th Street, New York, NY 10003","Yes",,"Check out our [calendar!](https://danspaceproject.org/calendar)
 ",,,,"Website is current, IG is current, link to event [calendar](https://danspaceproject.org/calendar/) in Ab Notes
-",,,"10003","131","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/danspaceproject/?hl=en",,,,,,,"info@danspaceproject.org",,"Yes",,,true,,"https://web.ovationtix.com/trs/store/2742/alldonations",,,,,,
+",,,"10003","131","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/danspaceproject/?hl=en",,,,,,,"info@danspaceproject.org",,"Yes",,,true,,,"https://web.ovationtix.com/trs/store/2742/alldonations",,,,,
 "The Public Theater",1166,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T04:00:00.000Z","212-539-8500","https://publictheater.org/",40.728988,-73.99171,"425 Lafayette Street, New York, NY 10003","Yes",,"Checkout our [performance calendar](https://publictheater.org/Calendar)!
 ",,,,"Website and Instagram are current, link to calendar in [Ab Notes](https://publictheater.org/Calendar)
-",,,"10003","425","Lafayette Street, New York, NY 10003","Lafayette Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/publictheaterny/",,,,"https://www.instagram.com/publictheaterny/",,,"supporters@publictheater.org",,,,,,,"https://publictheater.org/support-us/thankyouforyoursupport/",,,,,,
+",,,"10003","425","Lafayette Street, New York, NY 10003","Lafayette Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/publictheaterny/",,,,"https://www.instagram.com/publictheaterny/",,,"supporters@publictheater.org",,,,,,,,"https://publictheater.org/support-us/thankyouforyoursupport/",,,,,
 "Astor Place Theatre",1164,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T04:00:00.000Z","(212) 254-4371","https://www.astorplacetheatrenyc.com/information/",40.729322,-73.99221,"434 Lafayette Street, New York, NY 10003","Yes",,"Check out our [website](https://www.astorplacetheatrenyc.com/blue-man-group/) for upcoming performances
 ",,,,"Link to [website](https://www.astorplacetheatrenyc.com/events/) with tickets, IG last post 6/24/22, website is current
 ",,,"10003","434","Lafayette Street, New York, NY 10003","Lafayette Street"," New York, NY 10003"," New York",,,,,,,"https://www.astorplacetheatrenyc.com/events/","Sign up for newsletter and get $5 OFF your first order!
@@ -2271,22 +2273,22 @@ No signs of life since March COVID shut-down.
 ",true,,"10009","36","Avenue A, New York, NY, 10009","Avenue A"," New York, NY, 10009"," New York","2021-02-25",,"https://www.instagram.com/davidovichbakery/","rectoI5QoTAAElTGd","recyF9wfiUBQT6evB",,,,,"info@davidovichbakery.com",,,,,,,,,,,,,
 "The Seeing Place Theater",1152,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T04:00:00.000Z","(917) 397-0978","https://www.seeingplacetheater.com/",40.726429,-73.990646,"64 E. 4th Street, New York, NY 10003",,,"Check our [calendar](https://www.seeingplacetheater.com/season.html) for upcoming events!
 ",,,,"Link to [season page](https://www.seeingplacetheater.com/season.html) in Ab Notes. IG last post 4/2022
-",,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/theseeingplace/?hl=en","recD7fI5KBLvMilTG","recIoG9uECML13GI4",,"https://www.seeingplacetheater.com/shows/11-queerwitch.html",,,"info@seeingplacetheater.com",,"Yes",,,true,,"https://web.ovationtix.com/trs/store/34676/alldonations",,,,,,
+",,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/theseeingplace/?hl=en","recD7fI5KBLvMilTG","recIoG9uECML13GI4",,"https://www.seeingplacetheater.com/shows/11-queerwitch.html",,,"info@seeingplacetheater.com",,"Yes",,,true,,,"https://web.ovationtix.com/trs/store/34676/alldonations",,,,,
 "IATI Theater",1151,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T04:00:00.000Z","(212) 505-6757","http://www.iatitheater.org/",40.726429,-73.990646,"64 E. 4th Street, New York, NY 10003",,,"Check our [calendar ](https://www.iatitheater.org/calendar)for upcoming events!
 ",,,,"Make sure [calendar](https://www.iatitheater.org/calendar) link is current! Only occasional live events for now, theater is not yet open, IG and website current
-",true,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/iatitheater/?hl=en","reckk5t6wIcgiS3hV","recpBwUvqJdwxDo6j",,"http://www.iatitheater.org/calendar/month/2021/06/",,,"info@iatitheater.org",,"Yes",,,,,"https://www.givegab.com/campaigns/iati-theater-needs-you",,,,,,
+",true,,"10003","64","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/iatitheater/?hl=en","reckk5t6wIcgiS3hV","recpBwUvqJdwxDo6j",,"http://www.iatitheater.org/calendar/month/2021/06/",,,"info@iatitheater.org",,"Yes",,,,,,"https://www.givegab.com/campaigns/iati-theater-needs-you",,,,,
 "New York Theater Workshop",1150,"Arts & Culture","Theater",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-29T04:00:00.000Z","(212) 780-9037","https://www.nytw.org/",40.72667,-73.99,"79 E. 4th Street, New York, NY 10003","Yes",,"Check out our [event schedule](https://www.nytw.org/): we offer virtual options for all live events!
 ",,,,"Link to event schedule in Ab Notes, choose shipping (= streaming)
 ",,,"10003","79","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/nytw79/?hl=en","reciF9cnx3ODPfLMb,rec05TPSaj5hxiuZz","rec5mkgh4k6xM3POX,recnWADMr4PT406Bz","see google drive LA","https://www.nytw.org/show/semblance/tickets/","
-",,"INFO@NYTW.ORG",,"Yes",,,,,"https://www.nytw.org/support/",,,,,,
+",,"INFO@NYTW.ORG",,"Yes",,,,,,"https://www.nytw.org/support/",,,,,
 "The Kraine Theater",1149,"Arts & Culture","Theater",,"Unknown","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-29T04:00:00.000Z","(212) 777-6088",,40.726589,-73.989822,"85 E. 4th Street, New York, NY 10003",,,"
 ",,,,"Reopened recently
 Temporarily Closed as of 1/1/2021, Link to event schedule in Ab Notes, choose shipping (= streaming)
-",,,"10003","85","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,"recFtgDpikOn4hrFv","recKKH4OclPDj2MuT","see google drive OK","https://www.frigid.nyc/calendar/The-Kraine-Theater/2021-08",,,"office@frigid.nyc",,,,,,,"https://www.frigid.nyc/donations",,,,,,
+",,,"10003","85","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,,"recFtgDpikOn4hrFv","recKKH4OclPDj2MuT","see google drive OK","https://www.frigid.nyc/calendar/The-Kraine-Theater/2021-08",,,"office@frigid.nyc",,,,,,,,"https://www.frigid.nyc/donations",,,,,
 "Wow Café Theater",1148,"Arts & Culture","Theater",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T04:00:00.000Z","(917) 725-1482","http://www.wowcafe.org/",40.7278,-73.99314,"59 E. 4th Street, New York, NY 10003","Yes",,"Check out our upcoming [events](http://www.wowcafe.org/events/) and [member meetings](http://www.wowcafe.org/how-to-become-a-member/)!
 ",,,,"Link to website home page in Ab Notes 
 Resumed some in person performances 7/2021, pause for 1/2/2022
-",true,,"10003","59","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/wow.cafe/?hl=en",,,,"https://www.eventbrite.com/e/recovery-a-benefit-show-for-wow-cafe-theater-tickets-162468765451",,,"wowcafetheater@gmail.com",,,,,true,,"https://charity.gofundme.com/o/en/campaign/wow40years",,,,,,
+",true,,"10003","59","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/wow.cafe/?hl=en",,,,"https://www.eventbrite.com/e/recovery-a-benefit-show-for-wow-cafe-theater-tickets-162468765451",,,"wowcafetheater@gmail.com",,,,,true,,,"https://charity.gofundme.com/o/en/campaign/wow40years",,,,,
 "La Mama",1147,"Arts & Culture","Theater",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-01T04:00:00.000Z","(212) 254-6468","http://lamama.org/",40.72628,-73.99061,"66 E. 4th Street, New York, NY 10003","Yes",,"Check out our in-person and online [event schedule!](https://www.lamama.org/now-playing)
 ",,,,"Link to event schedule in Ab Notes, choose shipping (= streaming)
 ",,,"10003","66","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/lamamaetc/?hl=en","recnmjtmlYrqteg2S","recsDKULfZsGIZBRg","see google drive LA","https://www.instagram.com/p/CZHoZNFrGuQ/",,,"web@lamama.org",,"Yes",,,,,,,,,,,
@@ -2310,7 +2312,7 @@ SAT & SUN: NOON - 4:00 AM
 SAT: NOON - 3:30 AM
 SUN: NOON - 2:00 AM
 ","3:00 PM","3:30 AM",,"Hours from site, IG last post 5/2022, website is not current 
-",,,"10009","211","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/thespottedowlnyc/?hl=en","recffCDK31P5CtRtx","reckw349X2QlReciV",,,,,"thespottedowlny@gmail.com",,,,"Yes (Heated)",,,"https://www.gofundme.com/f/spotted-owl-staff-relief-fund?sharetype=teams&member=3977002&utm_medium=social&utm_source=twitter&utm_campaign=p_na+share-sheet&rcid=a733a622abdc49be89cd4f4ab01724f1",,,,,,
+",,,"10009","211","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/thespottedowlnyc/?hl=en","recffCDK31P5CtRtx","reckw349X2QlReciV",,,,,"thespottedowlny@gmail.com",,,,"Yes (Heated)",,,,"https://www.gofundme.com/f/spotted-owl-staff-relief-fund?sharetype=teams&member=3977002&utm_medium=social&utm_source=twitter&utm_campaign=p_na+share-sheet&rcid=a733a622abdc49be89cd4f4ab01724f1",,,,,
 "Cho-Ko Ramen",1138,"Restaurants","Japanese",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-29T22:45:00.000Z","(212) 388-0885","https://qmenu.us/#/cho-ko-new-york",40.72517,-73.98746,"59 1st Avenue, New York, NY 10003","Yes","Yes","SUN: NOON - 11:00 PM
 ","12:00 PM","2:00 AM",,"Confirmed hours by phone
 ",true,,"10003","59","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"Yes",,"rec7nJJXE7mbOBmIa","reccEaamy8nr3mHxy",,,,,,,,,"Yes",,,,,,,,,
@@ -2693,7 +2695,7 @@ MON & TUE: Closed
 SUN & MON: CLOSED 
 
 ","5:00 PM","8:00 PM",,"Confirmed hours by phone, IG and website are current, hours from website
-",true,,"10003","303","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","1979-01-01",,"https://www.instagram.com/katinka_ny/","recqV5VmsBH6tyWSm","recvcwmLmCImIjhHK",,"https://evgrieve.com/2022/04/east-village-treasure-katinka.html",,,,true,,,,,true,"https://www.gofundme.com/f/please-help-katinka-east-village-nyc?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer",,,,,,
+",true,,"10003","303","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","1979-01-01",,"https://www.instagram.com/katinka_ny/","recqV5VmsBH6tyWSm","recvcwmLmCImIjhHK",,"https://evgrieve.com/2022/04/east-village-treasure-katinka.html",,,,true,,,,,true,,"https://www.gofundme.com/f/please-help-katinka-east-village-nyc?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer",,,,,
 "Radiology Medical Arts",1032,"Health","MRI",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T03:22:00.000Z","(212) 481-3333","https://www.14streetmedical.com/office-location/radiology-medicalarts",40.72984,-73.97985,"500 E. 14th Street, New York, NY 10009","Yes",,"FRI: 8:00 AM - 6:00 PM
 SUN: 9:00 AM - 4:00 PM
 SAT: Closed
@@ -2749,7 +2751,7 @@ SAT: Closed
 ",,,"10009","103","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/ciaopastanyc/",,,,,,,"Ciaopastanyc@gmail.com ",,,,,,,,,,,,,
 "Free Food Fridge & Pantry (S’Mac)",1017,"Free Food",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-02T03:39:00.000Z",,,40.7300869,-73.9835335,"197 1st Avenue, New York, NY 10003","Yes",,"24/7 food pantry outside of S’Mac, maintained by East Village Neighbors.
 ",,,,"IG is current
-",true,,"10003","197","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2020-10-15",,"https://www.instagram.com/eastvillageneighbors/",,,,,,,"eastvillageneighbors@gmail.com",,,,,,,"https://www.gofundme.com/f/east-village-neighborhood-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_nacp+share-sheet&rcid=dcee904fda7f410e8aa69a7920270913",,,,,,
+",true,,"10003","197","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2020-10-15",,"https://www.instagram.com/eastvillageneighbors/",,,,,,,"eastvillageneighbors@gmail.com",,,,,,,,"https://www.gofundme.com/f/east-village-neighborhood-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_nacp+share-sheet&rcid=dcee904fda7f410e8aa69a7920270913",,,,,
 "Black Ant",1016,"Restaurants","Mexican",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-02T23:19:00.000Z","(212) 598-0300","https://www.theblackantnyc.com/",40.72573,-73.98932,"60 2nd Avenue, New York, NY 10003","Yes",,"FRI: 4:00 PM - 2:00 AM
 SAT: 11:00 AM - 3:30 PM & 4:00 PM - 2:00 AM
 SUN: 11:00 AM - 10:00 PM
@@ -2764,7 +2766,7 @@ MON: Closed
 "Ugly Kitchen",1014,"Restaurants","Filipino",,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","2021-05-08T02:56:00.000Z","(646) 329-6875",,40.72679,-73.98636,"103 1st Avenue, New York, NY 10003","No",,"DM on Instagram or Call for deliveries
 ",,,,"EV Location is PERMANENTLY CLOSED: Landlord Emily Chen padlocked premises 9/3/2020
 Phone is current, IG lists current pop-up partnerships.
-",true,,"10003","103","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2011-09-16",,"https://www.instagram.com/ugly_kitchen/","rechY8aGgDXWRyTlt","recmfzB5aEYc6jeaR",,"https://ny.eater.com/2020/12/4/22150498/ugly-kitchen-landlord-lockout-nyc-restaurant-closure",,"2020-08-16","aris@manilabowl.com",,,,,,,"https://www.gofundme.com/f/3z7d5?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all",,,,,,
+",true,,"10003","103","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2011-09-16",,"https://www.instagram.com/ugly_kitchen/","rechY8aGgDXWRyTlt","recmfzB5aEYc6jeaR",,"https://ny.eater.com/2020/12/4/22150498/ugly-kitchen-landlord-lockout-nyc-restaurant-closure",,"2020-08-16","aris@manilabowl.com",,,,,,,,"https://www.gofundme.com/f/3z7d5?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all",,,,,
 "Tile Bar",1013,"Restaurants","Bar",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-03T02:51:00.000Z","(212) 254-4317","https://facebook.com/pages/Tile-Bar/115914728464273",40.727151,-73.9858603,"115 1st Avenue, New York, NY 10003","Yes",,"SAT & SUN: 3:00 PM - 1:00 AM
 Closing Hours may differ
 ","4:00 PM","11:00 PM",,"\*\*\*\*\*Call for hours, Confirmed hours by phone, IG and FB are current
@@ -2829,8 +2831,8 @@ SUN: 10:00 AM - 4:00 PM
 "Tribes of Morocco",994,"Retail","Gifts & Home",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-10T11:03:00.000Z",,,40.72742,-73.98365,"428 E. 9th Street, New York, NY 10009","Yes",,"SUN - TUE: 12:00 PM - 7:00 AM
 ","12:00 PM","7:00 PM",,"No online presence
 ",true,,"10009","428","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,,"recuYlf1j1BrMA6ov","reczfMGqd2CH1lrdT","see google drive KL",,,,,,,,,,,,,,,,,
-"Tamam",993,"Retail","Gifts & Home",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-02T10:25:00.000Z","917-388-3522","https://www.shop-tamam.com/",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003","Yes",,"FRI & SAT: noon - 6:00 PM 
-",,,,"\*\*\*\*\*IG is current with weekly hours, Website is current, keep listing for online shopping.
+"Tamam",993,"Retail","Gifts & Home",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-08-11T10:25:00.000Z","917-388-3522","https://www.shop-tamam.com/",40.726501,-73.98851,"304 E. 5th Street, New York, NY 10003","Yes",,"WED - SAT: noon - 6:00 PM 
+",,,,"\*\*\*\*\*IG is current with weekly hours, Website is current.
 ",true,,"10003","304","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/shoptamam/","recovRYsAdAZbg07D","rectMipRueBfq1lW1","see google drive LA",,,,"shop@shop-tamam.com",true,"Yes","https://squareup.com/gift/1GR8TQKYAGKG6/order",,,,,,,,,,
 "Nalata Nalata",992,"Retail","Gifts & Home",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-02T10:24:00.000Z","212-228-1030","https://nalatanalata.com/",40.7246,-73.99156,"2 Extra Place, New York, NY 10003","Yes",,"WED, THU & SUN only or shop online
 ","1:00 PM","7:00 PM",,"Confirmed hours by phone on 12/2021, IG last post 5/22/22, Website has same hours that we have, website is current
@@ -2854,7 +2856,7 @@ SUN: 10:00 AM - 4:00 PM
 ","11:00 AM","6:00 PM",,"Hours confirmed by phone, hours from IG bio and website, website is current, IG is not current, last post 5/17/22
 Tim & Karen McDermott carrying on the Dinosaur Hill legacy at a new shop on the block. 
 ",true,,"10003","321","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York","2020-11-23",,"https://www.instagram.com/themarchharenyc/?hl=en","recVy4ZbaBOko6P0H","rec0PvqA4CPADRaP5","see google drive KL","https://www.instagram.com/p/CdWDCQNOFXk/","
-",,"themarchharenyc@gmail.com",true,"Yes",,,,,"https://checkout.square.site/merchant/ML4SXCTZ8QW87/checkout/GVUC76QRES4M27MWOXX434IX",,,,,,
+",,"themarchharenyc@gmail.com",true,"Yes",,,,,,"https://checkout.square.site/merchant/ML4SXCTZ8QW87/checkout/GVUC76QRES4M27MWOXX434IX",,,,,
 "The Braised Shop",986,"Restaurants","Taiwanese",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T07:44:00.000Z","(646) 863-3200","https://the-braised-shop.square.site/",40.72901,-73.9847,"241 E. 10th Street, New York, NY 10003","Yes","Yes","FRI - SUN only 
 ","12:00 PM","9:00 PM",,"hours confirmed by phone, IG is not current, last post 5/28/22, website is current, Google says hours updated by biz on 6/20/22
 ",true,,"10003","241","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York","2018-08-11","Yes","https://www.instagram.com/thebraisedshop/","reccF6HsmPur2I7HP","rechWx8RgQvHhtswd",,,,,,,,,,,,,,,,,,
@@ -2917,7 +2919,7 @@ THU: Closed
 
 ","12:00 PM","9:30 PM",,"Hours from IG bio
 
-",true,,"10003","128","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/nonla_nyc/?hl=en",,,,"https://www.instagram.com/p/CYmaFg3v604/",,,,,,"https://squareup.com/gift/MLZ8QZRSN9ARM/order",,,,"https://www.gofundme.com/f/help-ronny-nguyens-medical-expenses?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,
+",true,,"10003","128","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/nonla_nyc/?hl=en",,,,"https://www.instagram.com/p/CYmaFg3v604/",,,,,,"https://squareup.com/gift/MLZ8QZRSN9ARM/order",,,,,"https://www.gofundme.com/f/help-ronny-nguyens-medical-expenses?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
 "99¢ Pizza",970,"Restaurants","Pizza",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T17:08:00.000Z",,"https://www.freshpizzeriamenu.com/",40.732261,-73.985533,"246 E. 14th Street, New York, NY 10003","Yes",,,"9:00 AM","3:00 AM",,"Hours from website, website is current
 ",,,"10003","246","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York",,,,"recGlPnKwaEKGHsRs","recLCgO9qbF0VsNGQ",,,,,,,,,,,,,,,,,,
 "The UPS Store",969,"Services","Shipping",true,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T04:00:00.000Z","(212) 933-9448","https://locations.theupsstore.com/ny/new-york/108-1st-ave",40.726641,-73.985753,"108 1st Avenue, New York, NY 10009","Yes",,"SAT: 10:00 AM - 6:00 PM
@@ -2941,7 +2943,7 @@ Closing times may vary
 ",true,,"10009","443","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/anine_ev/","recR6d8Cwwumoiqw4","recWnEz1qxvCD3Lls",,"https://www.yelp.com/biz/anine-new-york-4",,,"lashfarm14@gmail.com",true,,,,,,,,,,,,
 "TBG Space",965,"Arts & Culture","Gallery",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2020-10-22T21:30:00.000Z","917-407-7386","http://www.theresabyrnes.com/",40.72584,-73.97951,"616 E. 9th Street, New York, NY 10009","No",,"Online always!
 ",,,,"PERMANENTLY CLOSED after over 10 years at this location.
-",true,,"10009","616","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/theresabyrnes/",,,,,,"2020-11-30",,,,,,,,"https://www.gofundme.com/f/help-theresa-stave-off-eviction-from-tbg-on-e9th?utm_source=facebook&utm_medium=social&utm_campaign=p_cf%20share-flow-1&fbclid=IwAR2ws1rRjicNY-TqO00AxHjG38Gb0lbwLhHBuoYvLQB6QaE8XaK8XCOXl7k",,,,,,
+",true,,"10009","616","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/theresabyrnes/",,,,,,"2020-11-30",,,,,,,,,"https://www.gofundme.com/f/help-theresa-stave-off-eviction-from-tbg-on-e9th?utm_source=facebook&utm_medium=social&utm_campaign=p_cf%20share-flow-1&fbclid=IwAR2ws1rRjicNY-TqO00AxHjG38Gb0lbwLhHBuoYvLQB6QaE8XaK8XCOXl7k",,,,,
 "Beetle House",964,"Restaurants","Bar,American",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-08-11T02:00:00.000Z","646-510-4786","https://beetlehousenyc.com/",40.727089278072945,-73.98803330930373,"308 E. 6th Street, New York, NY 10003","Yes",,"THU - SAT: 4:00 PM - 2:00 AM
 MON & TUE: Closed
 Every day is Halloween! [Reservations](https://www.yelp.com/reservations/beetle-house-new-york-3) suggested.
@@ -3022,7 +3024,7 @@ Last appointment 7:00 PM
 ",true,,"10003","92","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","2020-01-23",,,,,,"https://evgrieve.com/search?q=sanpoutei",,"2020-03-15",,,,,,,,,,,,,,
 "All the King's Horses ATKH Cafe",945,"Cafes and Desserts","Cafe",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-02T01:50:00.000Z","(305) 619-1754","https://www.allthekingshorsesnyc.com",40.7288,-73.98008,"521 E. 12th Street, New York, NY 10009","Yes","Yes","
 ","7:00 AM","4:00 PM",,"IG is current, unable to open the website, hours from IG bio
-",,,"10009","521","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York","2020-10-21","Yes","https://www.instagram.com/atkhcafe/","rec7avvntE5RRDmEu,recr4vPWLwSyXFMRd","reccrWWMnF676oHtS,recwlWglFxTOcq7GB",,"https://www.instagram.com/p/CYmXQWALYKo/",,,"robbie@allthekingshorsesnyc.com",,,,,,,"https://www.gofundme.com/f/bryant-family-support-fundraiser?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer",,,,,,
+",,,"10009","521","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York","2020-10-21","Yes","https://www.instagram.com/atkhcafe/","rec7avvntE5RRDmEu,recr4vPWLwSyXFMRd","reccrWWMnF676oHtS,recwlWglFxTOcq7GB",,"https://www.instagram.com/p/CYmXQWALYKo/",,,"robbie@allthekingshorsesnyc.com",,,,,,,,"https://www.gofundme.com/f/bryant-family-support-fundraiser?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer",,,,,
 "Kyuramen",944,"Restaurants","Taiwanese",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-02T01:42:00.000Z","(646) 692-4120","https://www.kyuramen.com/locations",40.73282,-73.98681,"210 E. 14th Street, New York, NY 10003","Yes","Yes",,"11:00 AM","11:00 PM",,"Nationwide chain with only 8 stores, Confirmed hours by phone on 12/2021, IG and website are current
 
 ",true,,"10003","210","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York","2021-02-01","Yes","https://www.instagram.com/kyuramen.usq/",,,,"https://www.instagram.com/kyuramen.usq/","
@@ -3137,7 +3139,7 @@ MON: Closed
 "Ed. Varie",910,"Arts & Culture","Gallery",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T23:27:00.000Z","(917) 399-6498","http://www.edvarie.com/",40.72485,-73.98104,"184 E. 7th Street, New York, NY 10009","Yes",,"Gallery hours SAT & SUN: 12:00 PM - 6:00 PM
 By appointment, please email info@edvarie.com to schedule
 ",,,,"\*\*\*\*\*Should I keep the hours as is? Gallery hours [here](https://www.instagram.com/p/CgroXrYrQ7v/?hl=en), website and IG are current 
-",true,,"10009","184","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/edvarie/","reckpgWyTLRiZZoxi","recpGHnXNMSyeKJmG",,,,,"info@edvarie.com",true,,,,,,"https://fundraising.fracturedatlas.org/ed-varie",,,,,,
+",true,,"10009","184","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/edvarie/","reckpgWyTLRiZZoxi","recpGHnXNMSyeKJmG",,,,,"info@edvarie.com",true,,,,,,,"https://fundraising.fracturedatlas.org/ed-varie",,,,,
 "Cadence",909,"Restaurants","Vegan",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T22:47:00.000Z","(929) 456-5660","https://www.overthrowhospitality.com/venues/cadence",40.726681,-73.984507,"111 E. 7th Street, New York, NY 10009","Yes",,"MON: Closed
 ","5:00 PM","11:00 PM",,"IG last post 3/30/22, website is current, hours from website
 Opened May 2022 in Overthrow Hospitality location briefly occupied by Ladybird II (9/2021 - 04/2022) in former Saramsam space (formerly Night Music, formerly Fire & Water)
@@ -3404,7 +3406,7 @@ SUN: Closed
 "Museum of Reclaimed Urban Space (MoRUS)",836,"Arts & Culture","Gallery",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T02:00:00.000Z","(646) 340-8341","http://www.morusnyc.org/",40.7258,-73.977966,"155 Avenue C, New York, NY 10009","Yes",,"MON & WED: Closed 
 
 ","11:30 AM","5:30 PM","EVCC","\*\*\*\*\*Call for updates, hours from 10/10/21 IG post, IG is current, website is not current still have an event on May 19th posted, hours on website are 1-6PM except MON and WED due to being closed, FB says 12-5PM
-",,,"10009","155","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,"https://www.instagram.com/morusnyc/?hl=en","rec0wnUrigbeLYoi6","rec5NOlQchcu0JJ7u",,"https://www.instagram.com/p/CYRdJpVsgNx/",,,"info@morusnyc.org",,,,,,,"http://www.morusnyc.org/support-us/donate/",,,,,,
+",,,"10009","155","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,,"https://www.instagram.com/morusnyc/?hl=en","rec0wnUrigbeLYoi6","rec5NOlQchcu0JJ7u",,"https://www.instagram.com/p/CYRdJpVsgNx/",,,"info@morusnyc.org",,,,,,,,"http://www.morusnyc.org/support-us/donate/",,,,,
 "GS Socks & Belts",835,"Retail","Fashion",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-31T22:00:00.000Z","N/A ",,40.72969,-73.97939,"520 E. 14th Street, New York, NY 10009","Yes",,"Great prices on the basics!
 ",,,"EVCC","Laura confirmed open
 ",true,,"10009","520","E. 14th Street, New York, NY 10009","E. 14th Street"," New York, NY 10009"," New York",,,,"recjXU5I48X0ju3Vh","recoelw7Y9YgyfoKF",,,,,,,,,,,true,,,,,,,
@@ -3527,7 +3529,7 @@ SUN: 2:00 PM - 9:30 PM
 "Duck's Eatery",807,"Restaurants","American",,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","2021-09-21T04:25:00.000Z","(212) 432 3825","http://www.duckseatery.com",40.73025,-73.98381,"351 E. 12th Street, New York, NY 10003","No","No","SUN: 2:00 PM - 10:00 PM
 MON - WED: Closed
 ","4:00 PM","10:00 PM","EVCC","PERMANENTLY CLOSED. Reoccupied by Salma.
-",,,"10003","351","E. 12th Street, New York, NY 10003","E. 12th Street"," New York, NY 10003"," New York","2012-08-01",,"https://www.instagram.com/duckseatery/","rectlVyjABCzgIrT3","recyCmZIuCDPvtMIr",,"https://evgrieve.com/2020/11/ducks-eatery-will-close-this-weekend.html",,"2020-11-08",,,,,"Yes",,,"https://www.gofundme.com/f/ducks-eatery?sharetype=teams&member=4293722&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=b82a29a63bd743bebb79cbbb331b8c07",,,,,,
+",,,"10003","351","E. 12th Street, New York, NY 10003","E. 12th Street"," New York, NY 10003"," New York","2012-08-01",,"https://www.instagram.com/duckseatery/","rectlVyjABCzgIrT3","recyCmZIuCDPvtMIr",,"https://evgrieve.com/2020/11/ducks-eatery-will-close-this-weekend.html",,"2020-11-08",,,,,"Yes",,,,"https://www.gofundme.com/f/ducks-eatery?sharetype=teams&member=4293722&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=b82a29a63bd743bebb79cbbb331b8c07",,,,,
 "The 13th Step",806,"Restaurants","Bar",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-29T01:43:00.000Z","(212) 228-8020","http://13thstep.eatdrinkandbemerry.com/",40.72956,-73.98743,"149 2nd Avenue, New York, NY 10003","Yes",,"FRI: 3:00 PM - 4:00 AM
 SAT: 11:30 AM - 4:00 AM
 SUN: 11:30 AM - 2:00 AM
@@ -3711,7 +3713,7 @@ SAT & SUN: Brunch 11:30 AM - 3:30 PM
 SUN: 4:00 PM - 10:00 PM
 ","5:00 PM","10:00 PM","EVCC","Hours and seating confirmed by phone and website, IG and website are current, hours from website
 ",,,"10003","178","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/pangeanyc/","recRlqnRqjgy34DIa","recWCROgkkhOiPYxy",,"https://www.instagram.com","[Takeout or Pickup](https://www.instagram.com) 20% OFF through December!
-",,"info@pangeanyc.com",,,,"Yes",,,"https://www.gofundme.com/f/preserve-downtown-nyc-arts-and-support-pangea?utm_source=widget&utm_medium=referral&utm_campaign=p_cp+share-sheet",,,,,,
+",,"info@pangeanyc.com",,,,"Yes",,,,"https://www.gofundme.com/f/preserve-downtown-nyc-arts-and-support-pangea?utm_source=widget&utm_medium=referral&utm_campaign=p_cp+share-sheet",,,,,
 "Village Grannies",759,"Retail","Smoke Shop",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-29T01:28:00.000Z","(212) 254-1555","https://www.villagegrannies.com/",40.72827,-73.98561,"346 E. 9th Street, New York, NY 10003","Yes",,"SUN: 1:00 PM - 6:00 PM
 TUE: Closed
 ","1:00 PM","7:00 PM","EVCC","Confirmed hours by phone, IG and website are current, hours from website, Google says biz updated their hours on 6/9/22
@@ -3903,7 +3905,7 @@ SUN: 10:00 AM - 7:00 PM
 ",,,"10009","14","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/shampooavenueb/","rec70mhUWPSRQIHT5","recchNIjQQT75t2It",,,,,"info@shampooavenueb.com",,,"https://na0.meevo.com/EgiftApp/order?tenantId=101675",,,,,,,,,,
 "LES Community Fridge",709,"Free Food",,,"Unknown","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2021-07-20T22:37:00.000Z","N/A ","https://linktr.ee/lescommunityfridge",40.715307,-73.983794,"466 Grand St, New York, NY 10002",,,"Open 24/7! Fresh, free food: leave what you can, take what you need!
 ","12:00 AM","12:00 AM","PG","\*\*\*\*\*Laura check status, Last IG post 8/5/2021
-",,,"10002","466","Grand St, New York, NY 10002","Grand St"," New York, NY 10002"," New York",,,"https://www.instagram.com/les_communityfridge/",,,,"https://www.instagram.com/les_communityfridge/",,,,,,,,,,"https://donorbox.org/supportthefridge",,,,,,
+",,,"10002","466","Grand St, New York, NY 10002","Grand St"," New York, NY 10002"," New York",,,"https://www.instagram.com/les_communityfridge/",,,,"https://www.instagram.com/les_communityfridge/",,,,,,,,,,,"https://donorbox.org/supportthefridge",,,,,
 "Salon Pigmentos",708,"Services","Hair,Waxing",,"Opened","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-07-27T21:30:00.000Z","212-260-2888","http://www.salonpigmentos.com/",40.72897,-73.97862,"218 Avenue B, New York, NY 10009","Yes",,"SUN & MON: Closed 
 ","11:00 AM","7:00 PM","EVCC","\*\*\*\*\*Check for hours, Confirmed Hours by Phone, 12/14/2021 Website and IG are current
 RELOCATED to Michael's Unisex location during pandemic
@@ -3982,7 +3984,7 @@ Appointment Only!
 ",,,"10009","380","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",,,,"recLXQ7cmcIZvM9qo","recQehyBgdJfKxufM",,,,,,,,,,,,,,,,,,
 "Jenna Perry Hair",692,"Services","Hair",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-07-27T02:24:00.000Z","646-719-1611","https://www.jennaperryhair.com/",40.72809,-73.98407,"411 E. 9th Street, New York, NY 10009",,,"EV location is closed. Check us out in SoHo! [Book online](https://www.jennaperryhair.com/#book-now)
 ",,,"EVCC","Sign on door ""stay tuned for 9th St Glow Up"". Hair salon moved to new location in Soho mid-June. Hours from site, IG is current
-",,,"10009","411","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/jennaperryhair/","recB4JVSW33ZDe6Cb","recGlamhQ44fSZrrz",,"https://www.vogue.com/article/bella-hadid-and-maude-apatows-opens-soho-salon",,,"HELLO@JENNAPERRYHAIR.COM",true,"Yes","https://blvd.me/jenna-perry-hair/gift-cards",,,,,,,,,,
+",true,,"10009","411","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/jennaperryhair/","recB4JVSW33ZDe6Cb","recGlamhQ44fSZrrz",,"https://www.vogue.com/article/bella-hadid-and-maude-apatows-opens-soho-salon",,,"HELLO@JENNAPERRYHAIR.COM",true,"Yes","https://blvd.me/jenna-perry-hair/gift-cards",,,,,,,,,,
 "Suki",691,"Restaurants","Japanese",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-06-17T02:43:00.000Z","(917) 999-6672","https://www.sukicurry.com/",40.727134,-73.986081,"111 1st Avenue, New York, NY 10003","No",,"FRI & SAT: NOON - 10:00 PM
 ","12:00 PM","9:00 PM","EVCC"," Location permanently closed. RELOCATED TO 32 St. Mark's Place June 2022. Website is current, infrequent IG posts
 ",true,true,"10003","111","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/sukijapanesekitchen/","recyzrxdGinqgF5L5","recDQSYCAjoGvqqAt",,"https://www.instagram.com/sukijapanesekitchen/",,,,true,,,,,,,,,,,,
@@ -4070,7 +4072,7 @@ SUN: 4:00 PM - 12:00 AM
 "Cure Thrift Shop",672,"Retail","Vintage",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-07-05T19:19:00.000Z","(212) 505-7467","http://www.curethriftshop.com/",40.732634,-73.989311,"111 E. 12th Street, New York, NY 10003","No",,"This location is closed. Reopened September 2021 at 91 3rd Avenue.
 ","12:00 PM","9:00 PM","PG","Location PERMANENTLY CLOSED. RELOCATED to 91 3rd Avenue in August 2021
 ",true,,"10003","111","E. 12th Street, New York, NY 10003","E. 12th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/curethrift/",,,,,"
-","2021-07-06","info@curethriftshop.com",,,"https://squareup.com/gift/A631DBS1A5AYM/order",,,,"https://www.curethriftshop.com/donate",,,,,,
+","2021-07-06","info@curethriftshop.com",,,"https://squareup.com/gift/A631DBS1A5AYM/order",,,,,"https://www.curethriftshop.com/donate",,,,,
 "Bernd Goeckler Antiques",671,"Retail","Gifts & Home",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-26T19:15:00.000Z","(212) 777-8209","http://www.bgoecklerantiques.com/",40.732439,-73.993252,"30 E. 10th Street, New York, NY 10003",,"Yes","FRI: 10:00 AM - 3:00 PM
 SAT & SUN: Closed
 ","10:00 AM","5:00 PM","PG","Confirmed hours by phone, IG and website are current
@@ -4107,7 +4109,7 @@ SUN 11:00 AM - 6:00 PM
 "Makari Antiques & Fine Art",663,"Retail","Gifts & Home,Japanese",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-25T23:23:00.000Z","(212) 995-5888","http://www.themakari.com/",40.73222,-73.98775,"97 3rd Avenue, New York NY 10003","Yes",,"MON: Closed
 ","12:00 PM","5:30 PM","EVCC","Confirmed hours by phone and website, IG and website are current
 ",true,,"10003","97","3rd Avenue, New York NY 10003","3rd Avenue"," New York NY 10003",,,,"https://www.instagram.com/themakari97/","recHG73T819r4lXAX","recMXyui22aHj6ipl",,,"
-",,"info@themakari.com",,,,,,,"https://www.themakari.com/store/p761/Gift_Card.html",,,,,,
+",,"info@themakari.com",,,,,,,,"https://www.themakari.com/store/p761/Gift_Card.html",,,,,
 "Cafiero Select",662,"Retail","Gifts & Home",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-25T23:23:00.000Z"," (212) 414-8821","www.cafieroselect.com",40.72517,-73.99044,"36 E. 2nd Street, New York, NY 10003","Yes",,"FRI - SUN: Closed
 ","12:00 PM","6:00 PM","EVCC","\*\*\*\*\*Confirmed hours by phone on 12/2021, website out of date (multiple conflicting hours), IG is current
 ",,,"10003","36","E. 2nd Street, New York, NY 10003","E. 2nd Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/cafieroselecthome/","recfF5uhUiPmYGuoy","reckWwVGOjQCdrPdW",,,,,"info@cafieroselect.com",,,,,,,,,,,,,
@@ -4163,7 +4165,7 @@ SAT: 11:00 AM - 11:00 PM
 SUN: 11:00 AM - 8:00 PM
 MON: Closed
 ","9:00 AM ","8:00 PM","PG","IG and website are current, Hours and seating confirmed by phone, Google says biz updated hours on 5/2/22
-",true,,"10009","38","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"No","https://www.instagram.com/kc.gmt.empanadas/","recqZMVhSCymPDfEH","recvgdmGMDzC4oAt5",,,,,"kcgourmetempanadas@gmail.com",true,,,"Yes",,,,true,,,,,
+",true,,"10009","38","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"No","https://www.instagram.com/kc.gmt.empanadas/","recqZMVhSCymPDfEH","recvgdmGMDzC4oAt5",,,,,"kcgourmetempanadas@gmail.com",true,,,"Yes",,,true,,,,,,
 "Streecha Ukranian Kitchen",644,"Restaurants","Ukrainian",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-25T18:30:00.000Z","(914) 413-9774",,40.72853,-73.988952,"33 E. 7th Street, New York, NY 10003","Yes",,"MON & TUE: Closed
 ","9:00 AM","5:00 PM","PG","Hours from IG, IG is current
 ",,,"10003","33","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/streecha","recHLEI8nmVGtx7PF","recM259xhnWWIisE3","see google drive OK",,,,,,,,,,,,,true,,,,
@@ -4210,7 +4212,7 @@ Appointment required: text START to (646) 257-2520
 From 3:00 PM - 5:00 PM
 SAT & SUN: Closed
 ",,,"EVCC","IG and website are current, Google says biz updated hours on 6/6/22
-",,,"10009","602","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/trinitysafh/","reciCuVqSchNduBhW","recnTVmPMdi3sfW6k",,"https://safhnyc.org/how-to-get-food/food",,,"info@safhnyc.org",,,,"Yes",,,"https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=133401340&vlrStratCode=hamQxxwwezV9ZPtytYki0bly4RCfUMxKmB%2fZhn8DYUgDayIHxFeLbSZEPhO%2fM1vL",,,,,,
+",,,"10009","602","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/trinitysafh/","reciCuVqSchNduBhW","recnTVmPMdi3sfW6k",,"https://safhnyc.org/how-to-get-food/food",,,"info@safhnyc.org",,,,"Yes",,,,"https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=133401340&vlrStratCode=hamQxxwwezV9ZPtytYki0bly4RCfUMxKmB%2fZhn8DYUgDayIHxFeLbSZEPhO%2fM1vL",,,,,
 "Horus Cafe on A",630,"Restaurants","Middle Eastern,Hookah Bar",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-25T05:04:00.000Z","(212) 228-4774","http://www.horusona.com",40.72792,-73.98195,"293 E. 10th Street, New York, NY 10009","Yes","Yes","FRI - SAT: 9:00 AM - 4:00 AM
 ","9:00 AM","3:00 AM","EVCC","IG and website are current, Hours from IG bio
 ",,,"10009","293","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/horuscafeona/","recj5oi3MT7WUPXij","recomPJsGU8c9Ai7H","see google drive KL","http://www.horuscafeona.com/","	
@@ -4333,7 +4335,7 @@ Cash Only!
 ",,"askemily@emmysquaredpizza.com",,,"https://www.emmysquaredpizza.com/gift-cards/","Yes (Heated)",,,,,,,,,
 "William Barnacle Tavern",597,"Restaurants","Bar",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-22T04:00:00.000Z","(212) 388-0388","https://www.facebook.com/William-Barnacle-Tavern-323687330991867/",40.727672,-73.985777,"80 St. Mark's Place, New York, NY 10003","Yes",,"FRI & SAT: 3:00 PM - 2:30 AM
 ","3:00 PM","12:30 AM","EVCC","FB is current with hours, only IG post 2017, Google says hours updated by phone on 6/17/22
-",,,"10003","80","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York",,,"https://www.instagram.com/william_barnacle_tavern/?hl=en","recl4JeGoyBgTZ7ut","recqlaF5izCw8KsjR","see google drive KL",,,,"scheibsplace@gmail.com",,,,"Yes",,,"https://www.gofundme.com/f/historic-theatre-80-relief-drive?sharetype=teams&member=6087210&pc=fb_co_campmgmt_w&rcid=r01-160289071965-ebee4f7c972149e2&utm_source=facebook&utm_medium=social&utm_campaign=p_lico%2Bshare-sheet&fbcl6zS89v0xZMl9NqRCJ1xSrr9DlNzk&fbclid=IwAR23E5nb-UJ_F-11pwRZsyhqSWmGQQOViq9sKEgkpeKpOqJHl6Pjbj2kztM",,,,,,
+",,,"10003","80","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York",,,"https://www.instagram.com/william_barnacle_tavern/?hl=en","recl4JeGoyBgTZ7ut","recqlaF5izCw8KsjR","see google drive KL",,,,"scheibsplace@gmail.com",,,,"Yes",,,,"https://www.gofundme.com/f/historic-theatre-80-relief-drive?sharetype=teams&member=6087210&pc=fb_co_campmgmt_w&rcid=r01-160289071965-ebee4f7c972149e2&utm_source=facebook&utm_medium=social&utm_campaign=p_lico%2Bshare-sheet&fbcl6zS89v0xZMl9NqRCJ1xSrr9DlNzk&fbclid=IwAR23E5nb-UJ_F-11pwRZsyhqSWmGQQOViq9sKEgkpeKpOqJHl6Pjbj2kztM",,,,,
 "2A",596,"Restaurants","Bar",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-22T04:00:00.000Z","(212) 505-2466",,40.7230096,-73.9860484,"25 Avenue A, New York, NY 10009","Yes",,"SAT: 2:30 PM - 4:00 AM
 SUN: noon - 4:00AM
 ","4:00 PM","4:00 AM","PG","phone goes to voicemail, Reopened 2021, last IG post 2017
@@ -4431,7 +4433,7 @@ MON: Closed
 "Cafe Himalaya",576,"Restaurants","Tibetan",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-22T07:17:00.000Z","212-358-0160","https://cafehimalaya.weebly.com",40.72322,-73.98792,"78 E. 1st Street, New York NY 10009","Yes","Yes","SUN: 12:00 PM - 9:30 PM
 MON: Closed
 ","12:00 PM","10:00 PM","EVCC","\*\*\*\*\*Website is current, IG last post 6/9/21, Hours confirmed by phone, hours from website
-",true,,"10009","78","E. 1st Street, New York NY 10009","E. 1st Street"," New York NY 10009",,,"Yes","https://www.instagram.com/cafehimalaya_nyc/","recGXMeapT71vW8kp","recLedFzjU8hKHt9N","see google drive KL","https://evgrieve.com/2021/03/theres-now-sidewalk-bridge-outside-cafe.html",,,"cafehimalayany@gmail.com",,,,"Yes",,,"https://merchant.sendchinatownlove.com/cafe-himalaya",,,,,,
+",true,,"10009","78","E. 1st Street, New York NY 10009","E. 1st Street"," New York NY 10009",,,"Yes","https://www.instagram.com/cafehimalaya_nyc/","recGXMeapT71vW8kp","recLedFzjU8hKHt9N","see google drive KL","https://evgrieve.com/2021/03/theres-now-sidewalk-bridge-outside-cafe.html",,,"cafehimalayany@gmail.com",,,,"Yes",,,,"https://merchant.sendchinatownlove.com/cafe-himalaya",,,,,
 "Papaya Dog",575,"Restaurants","American",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-08-04T04:00:00.000Z","(646) 654-7010",,40.7315882,-73.9826645,"239 1st Avenue, New York, NY 10003","No",,"SAT & SUN: 8:00 AM - 4:00 PM
 ","8:00 AM","9:00 PM","EVCC","PERMANENTLY CLOSED 10/20/21
 ",,,"10003","239","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/papayadog_/",,,,"https://evgrieve.com/2021/10/reader-report-cheap-eats-fave-papaya.html",,,,,,,"Yes",,,,,,,,,
@@ -4525,7 +4527,7 @@ SAT: 9:30 AM - 12:00 AM
 SUN: 9:30 AM - 11:00 PM
 ","10:00 AM","11:00 PM","EVCC","Hours from the website, IG and website are current
 (voicemail said to get the hours from the website)
-",,,"10009","101","St. Marks' Place, New York, NY 10009","St. Marks' Place"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/cafemogadornyc/","recpDMTWgasLgnFK8","recuUdklabt1v80zw","see google drive OK",,,,"cafemogador101@gmail.com",,,"https://cafemogador.cardfoundry.com/giftcards.php?action=store","Yes",,,"https://www.gofundme.com/f/cafe-mogador-east-village-employee-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,,
+",,,"10009","101","St. Marks' Place, New York, NY 10009","St. Marks' Place"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/cafemogadornyc/","recpDMTWgasLgnFK8","recuUdklabt1v80zw","see google drive OK",,,,"cafemogador101@gmail.com",,,"https://cafemogador.cardfoundry.com/giftcards.php?action=store","Yes",,,,"https://www.gofundme.com/f/cafe-mogador-east-village-employee-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet",,,,,
 "Mighty Quinn's Barbeque",553,"Restaurants","BBQ",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-22T18:48:00.000Z","(212) 677-3733","https://www.mightyquinnsbbq.com/",40.727606,-73.98866,"103 2nd Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 11:30 AM - 9:30 PM
 ","11:30 AM","9:00 PM","EVCC","\*\*\*\*\*Can be labelled as a chain, Hours confirmed by phone, IG and website are current
 ",,,"10003","103","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/mightyquinnsbbq/","recbjZsZPuW5Wnn6q","recgAqToJvXlb8IVO","see google drive OK",,,,"info@mightyquinnsbbq.com",,"Yes","https://shop.mightyquinnsbbq.com/collections/frontpage/products/mighty-quinn-s-gift-card","Yes",,,,,,,,,
@@ -4680,7 +4682,7 @@ MON: Closed
 ",true,,"10009","199","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,,,"rec3mxAirDUGaBiYP","rec8DY1HlEVWpmDNd",,,,,,,,,,,,,,,,,,
 "Vision Urbana",514,"Free Food",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-21T20:14:00.000Z","(646) 626-9748","https://www2.visionurbana.org/",40.71407,-73.987793,"66 Essex Street, New York, NY 10002","Yes","Yes","[Home delivery meals & food pantry!](https://www2.visionurbana.org/pantry_form)
 ",,,"EVCC","\*\*\*\*\*Confirm information from website, Website not current
-",true,,"10002","66","Essex Street, New York, NY 10002","Essex Street"," New York, NY 10002"," New York",,,"https://www.instagram.com/visionurbanainc/?hl=en",,,,,,,"Eric@visionurbana.org",,,,,,,"https://www2.visionurbana.org/donate",,,,,,
+",true,,"10002","66","Essex Street, New York, NY 10002","Essex Street"," New York, NY 10002"," New York",,,"https://www.instagram.com/visionurbanainc/?hl=en",,,,,,,"Eric@visionurbana.org",,,,,,,,"https://www2.visionurbana.org/donate",,,,,
 "Shi Eurasia ",513,"Groceries","Specialty Market",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-22T20:11:00.000Z","212-228-7988",,40.721147,-73.989006,"166 Allen Street, New York, NY 10002","Yes",,"
 ","12:00 PM","6:30 PM","EVCC","Google says biz updated hours 7/1/22, IG last post 12/24/17
 ",true,,"10002","166","Allen Street, New York, NY 10002","Allen Street"," New York, NY 10002"," New York",,,"https://www.instagram.com/shieurasianyc/",,,,,"
@@ -4689,7 +4691,7 @@ MON: Closed
 CLOSED FIRST SAT of each month.
 ","8:30 AM","11:00 AM","EVCC","Hours confirmed by phone 12/9/21, website & IG are current 
 Closed August 6th and reopen 13th
-",,,"10009","545","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/fathersheartnyc/?hl=en","recwbb4dX6huQmhJZ","recBsCvCR7iK57Cyn",,,,,"webmaster@fathersheartnyc.org",,,,,,,"https://www.fathersheartnyc.org/donate",,,,,,
+",,,"10009","545","E. 11th Street, New York, NY 10009","E. 11th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/fathersheartnyc/?hl=en","recwbb4dX6huQmhJZ","recBsCvCR7iK57Cyn",,,,,"webmaster@fathersheartnyc.org",,,,,,,,"https://www.fathersheartnyc.org/donate",,,,,
 "Supreme Laundromat",510,"Laundry","Laundromat",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-29T19:30:00.000Z","(212) 388-0211",,40.724725,-73.9816261,"96 Avenue B, New York, NY 10009","Yes",," SUN: 9:00 AM - 8:00 PM
 
 ","8:00 AM","8:00 PM","EVCC","Biz updated hours on google 6/16/2022
@@ -4876,7 +4878,7 @@ Pickup Community Meals
 ",,,"EVCC","PERMANENTLY CLOSED June 2020. Confirm VACANT?
 
 ",true,,"10003","35","E. 1st Street, New York, NY 10003","E. 1st Street"," New York, NY 10003"," New York","2016-06-01",,"https://www.instagram.com/otherwild/","recmiyPY062uYlGKz","recrzZgnU73Kd61zX",,"https://www.instagram.com/p/CBN2Ni5nEEP/","
-","2020-06-09","otherwildshipping@gmail.com",,"No",,,,,"https://www.instagram.com/p/CDzyzzrnuZX/",,,,,,
+","2020-06-09","otherwildshipping@gmail.com",,"No",,,,,,"https://www.instagram.com/p/CDzyzzrnuZX/",,,,,
 "Vinny Vincenz",468,"Restaurants","Pizza",,"Closed","{""id"":""usrilghvIcPvSkqAy"",""email"":""jerinsultana2018@gmail.com"",""name"":""Jerin Sultana""}","2021-07-28T04:00:00.000Z","(212) 674-0707","http://www.ordervinnyvincenz.com",40.731147,-73.983024,"231 1st Avenue, New York, NY 10003","No","No",,"11:00 AM","11:30 PM","EVCC","last ig post may 2020 and website and phone not in service
 ",,,"10003","231","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York","2003-01-01",,"https://www.instagram.com/vinnyvincenzpizza/",,,,,,"2021-04-01",,,,,,,,,,,,,,
 "Balade",467,"Restaurants","Mediterranean",,"Opened","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-08-10T04:00:00.000Z","(212) 529-6868","https://www.baladerestaurants.com",40.7302624,-73.9830279,"208 1st Avenue, New York, NY 10009","Yes","Yes"," SAT & SUN: Noon - 11:00 PM
@@ -4949,7 +4951,7 @@ MON: CLOSED
 ",true,true,"10009","146","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,,,,,"see google drive KL",,,,"limetreemarket@limetree-market.com",,"No",,,,,,,,,,,
 "Frank's Bike Shop",443,"Services","Bicycles",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-08T04:00:00.000Z","(212) 533-6332","http://www.franksbikes.com/",40.713891,-73.980338,"553 Grand Street, New York, NY 10002","Yes",,"WED: Closed
 ","10:00 AM","6:00 PM","TransAlt","Hours confirmed by phone 8/8/22
-",true,,"10002","553","Grand Street, New York, NY 10002","Grand Street"," New York, NY 10002"," New York","1976-05-17",,,,,"see google drive OK",,,,"franksbikeshop@verizon.net",,,,,,,,true,,,,,
+",true,,"10002","553","Grand Street, New York, NY 10002","Grand Street"," New York, NY 10002"," New York","1976-05-17",,,,,"see google drive OK",,,,"franksbikeshop@verizon.net",,,,,,,true,,,,,,
 "Bike Express",442,"Services","Bicycles",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-20T04:00:00.000Z","(646) 799-9474","https://mexicomania9.wixsite.com/bikeexpressny",40.735496,-73.986713,"134 E. 17th Street, New York, NY 10003","Yes",,"SAT: 10:00 AM - 7:00 PM 
 SUN: 10:00 AM - 5:00 PM
 ","10:00 AM","9:00 PM","TransAlt","Website is current, hours from website
@@ -4992,10 +4994,10 @@ As of 10/14/20: Thursdays from 9:30 AM-3:00 PM, **by appointment only**.
 ",,,"10009","428","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/agminnyc/",,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,"info@agminnyc.org",,,,,,,,,,,,,
 "Village Temple Soup Kitchen",430,"Free Food",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-20T04:00:00.000Z","(212) 674-2340","https://www.villagetemple.org/soup-kitchen",40.733918,-73.992193,"33 E. 12th Street, New York, NY 10003","Yes",,"SAT ONLY: 2:30 PM - 4:00 PM
 ",,,"EVCC","\*\*\*\*\*Call Saturday, are sat only? and are accepting donations? Website is current, hours from text on home page. Phone number does not work just rings. 212-674-2340
-",,,"10003","33","E. 12th Street, New York, NY 10003","E. 12th Street"," New York, NY 10003"," New York",,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,"villagetemple@villagetemple.org",,,,,,,"https://www.villagetemple.org/donate",,,,,,
+",,,"10003","33","E. 12th Street, New York, NY 10003","E. 12th Street"," New York, NY 10003"," New York",,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,"villagetemple@villagetemple.org",,,,,,,,"https://www.villagetemple.org/donate",,,,,
 "Ascension Outreach",429,"Free Food",,,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-08-01T04:00:00.000Z","(212) 254-8620","http://ascensionoutreach.org/",40.734119,-73.995783,"12 W. 11th Street, New York, NY 10011","Yes",,"Food pantry pickup 1st & 3rd Saturdays with photo ID and proof of residence 
 ","8:30 AM","9:30 AM","EVCC","Info confirmed by phone on 8/1/22, Website is current, hours from website
-",,,"10011","12","W. 11th Street, New York, NY 10011","W. 11th Street"," New York, NY 10011"," New York",,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,,,,,,,"https://www.paypal.com/donate?token=IKtT0eCYi9CiOK7c60lGfTiS0v1JntLNAKS4xmuZ40K8K38D1tyiwFh38rfqE4dymnUggfiH5yUuyGRt",,,,,,
+",,,"10011","12","W. 11th Street, New York, NY 10011","W. 11th Street"," New York, NY 10011"," New York",,,,,,,"https://www.nycfoodpolicy.org/coronavirus-nyc-food-reports/",,,,,,,,,,,"https://www.paypal.com/donate?token=IKtT0eCYi9CiOK7c60lGfTiS0v1JntLNAKS4xmuZ40K8K38D1tyiwFh38rfqE4dymnUggfiH5yUuyGRt",,,,,
 "M&N Cleaners",428,"Laundry","Cleaners",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-08-09T04:00:00.000Z","(212) 529-1777",,40.7331687,-73.9863775,"207 E. 14th Street, New York, NY 10003","Yes","Yes","SAT: 9:00 AM - 4:00 PM
 SUN: Closed
 ","8:00 AM","6:00 PM","EVCC","Hours confirmed by phone 8/9/2022
@@ -5046,7 +5048,7 @@ MON: Closed
 "La Sirena Mexican Folkart",417,"Retail","Gifts & Home,Fashion",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-20T04:00:00.000Z","212-780-9113","http://www.lasirenanyc.com/",40.725949,-73.990269,"27 E. 3rd Street, New York, NY 10003","Yes",,"SUN: Noon - 4:00 PM
 ","12:00 PM","5:00 PM","EVCC","IG and website are current, Google says hours updated by phone call 7/13/22
 ",true,,"10003","27","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/lasirena_nyc/","recEM310fHwqGJ5jj","recJ3usp9IxGVuq8H","see google drive OK",,"
-",,"lasirenanyc@yahoo.com",true,"Yes",,,,,"https://www.gofundme.com/f/help-save-la-sirena-mexican-folk-art",true,,,,,
+",,"lasirenanyc@yahoo.com",true,"Yes",,,,,true,"https://www.gofundme.com/f/help-save-la-sirena-mexican-folk-art",,,,,
 "Aum Shanti Bookshop",416,"Retail","Books,Jewelry,Natural & Alternative",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-20T04:00:00.000Z","212-505-2665","www.aumshantibookshop.com",40.732541,-73.986101,"230 E. 14th Street,  New York, NY 10003","Yes",,"THU - SUN: 11:00 AM - 9:00 PM
 ","11:00 AM ","8:00 PM","EVCC","IG and website are current, hours from website
 ",,,"10003","230","E. 14th Street,  New York, NY 10003","E. 14th Street","  New York, NY 10003","  New York",,,"https://www.instagram.com/aumshantinyc/","recO0PnduJNMhYrCv","recThgOCoKO2wJMrT","see google drive OK",,,,"aumshantibookshop@gmail.com",,"Yes","https://www.aumshantibookshop.com/gift-card",,,,,,,,,,
@@ -5157,7 +5159,7 @@ SUN: 10:00 AM - 6:00 PM
 See [IG ](https://www.instagram.com/downtownyarns/)for monthly updated hours, call to sign up for classes!
 ","12:00 PM","7:00 PM","EVCC","IG is current, Google updated hours by call on 7/6/22 
 ",true,,"10009","45","Avenue A,  New York, NY 10009","Avenue A","  New York, NY 10009","  New York",,,"https://www.instagram.com/downtownyarns/","rec7kKHFw2rMijTm1","reccBb84q3s2x4ebp","see google drive OK",,"
-",,"downtownyarns45@gmail.com",true,"Yes",,,,,,true,,,,,
+",,"downtownyarns45@gmail.com",true,"Yes",,,,,true,,,,,,
 "Studio 55C / Moving for Life",391,"Health","Fitness",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-02-25T05:00:00.000Z","212-222-1351","https://movingforlife.org",40.722601,-73.980231,"55 Avenue C,  New York, NY 10009","No",,"Check our Instagram for online class schedule! The Avenue C studio is permanently closed. 
 ",,,"EVCC","PERMANENTLY CLOSED. Reoccupied by O'Flanerty's Gallery after successful pop-ups. 
 Online Class schedule is being updated on IG
@@ -5257,7 +5259,7 @@ FRI & SAT: Noon - 8:00 PM
 "Three Jewels",365,"Health","Yoga,Cafe",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-22T04:00:00.000Z","(646) 964-5736","https://linktr.ee/threejewelsnyc",40.726324,-73.991123,"5 E 3rd Sreet, New York, NY 10003","Yes",,"SAT & SUN: 10:00AM - 7:00 PM, see [website](https://www.threejewels.org/) for online class schedule!
 ","7:30 AM","8:15 PM ","EVCC","IG and [website](https://www.threejewels.org/) are current, hours from in-person class schedule.
 ",,,"10003","5","E 3rd Sreet, New York, NY 10003","E 3rd Sreet"," New York, NY 10003"," New York",,,"https://www.instagram.com/threejewelsnyc/","recEUotbbYM8EJoCf","recJbPUA5ZNoTuJrD",,,"Unlimited yoga, mediation classes and Free Farm to People Produce with Membership [$49 per month](https://www.instagram.com/p/CPtK2KCDwmm/). 
-",,"info@threejewels.org",,"Yes",,,,,"https://www.threejewels.org/the-emergency-jewel-fund",,,,,,
+",,"info@threejewels.org",,"Yes",,,,,,"https://www.threejewels.org/the-emergency-jewel-fund",,,,,
 "Illumina East",364,"Health","Yoga",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-01-25T05:00:00.000Z","(646) 851-0355","https://illuminayoga.com",40.724713,-73.981723,"96 Avenue B, New York, NY 10009","No",,"The studio is closed. Check out online classes on the website.
 ",,,"EVCC","PERMANENTLY CLOSED July 2020. 2nd floor studio. Confirm VACANT? 
 ",,,"10009","96","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","2018-09-01",,,,,,"https://evgrieve.com/2020/07/bad-karma-illumina-east-closes-on.html",,"2020-07-01",,,,,,,,,,,,,,
@@ -5310,7 +5312,7 @@ THU: Closed
 ",,"charles@shopexit9.com",,"Yes",,,true,,,,,,,,
 "Zaragoza Mexican Deli-Grocery",351,"Groceries","Specialty Market,Mexican",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-21T04:00:00.000Z","212-780-9204",,40.7300141,-73.9808626,"215 Avenue A, New York, NY 10009","Yes",,"FRI & SAT: 9:00 AM - 2:00 AM
 ","11:00 AM","7:00 PM","EVCC","\*\*\*\*\*Call/visit for hours
-",true,,"10009","215","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,,"recXVVsnIUuWaZvaY","rec2cmTMCVvcpKQZm","see google drive KL",,,,,,,,"Yes",,,,true,,,,,
+",true,,"10009","215","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,,"recXVVsnIUuWaZvaY","rec2cmTMCVvcpKQZm","see google drive KL",,,,,,,,"Yes",,,true,,,,,,
 "Yankee Pizza",350,"Restaurants","Pizza",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-21T04:00:00.000Z","646-760-3334","www.yankeepizzamenu.com",40.726709,-73.977261,"181 Avenue C, New York, NY 10009","Yes","Yes","MON: Closed 
 
 ","11:00 AM","9:00 PM","EVCC","Website is current, hours from website
@@ -5369,7 +5371,7 @@ First-come, first served!
 
 ","8:00 AM","11:00 PM ","EVCC","IG and website are current, hours from website	
 ",,,"10003","144","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/veselkanyc/","recZPHOxslZvLw7kS","rec468fWmm0L0hs9g","see google drive LA",,"[Eat borscht!](https://www.instagram.com/p/CasKb0juLd3/) Stand with Ukraine! 
-",,,,,"https://www.toasttab.com/veselka-144-2nd-ave/giftcards","Yes (Heated)",,,"https://veselka.getbento.com/support-ukraine/",,true,,,,
+",,,,,"https://www.toasttab.com/veselka-144-2nd-ave/giftcards","Yes (Heated)",,,,"https://veselka.getbento.com/support-ukraine/",true,,,,
 "Veniero's",335,"Cafes and Desserts","Bakery,Cafe,Gelato",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-20T04:00:00.000Z","212-674-7070","http://venierospastry.com",40.7294232,-73.9845454,"342 E. 11th Street, New York, NY 10003","Yes","Yes","FRI & SAT: 8:00 AM - 11:00 PM
 ","8:00 AM","10:00 PM","EVCC","IG and website are current, Hours from website 
 ",,,"10003","342","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/venierospastry/?hl=en","recoylkdLwxw0KNVE","rectPMLCFxyMfv8K2",,,,,,,"Yes","https://www.venierospastry.com/mm5/merchant.mvc?Session_ID=7b36b32f67d8f31c9d8ace6bcbafc948&Screen=CTGY&Category_Code=GC&SubView=","No",,,,,,,,,
@@ -5410,7 +5412,7 @@ SUN: Closed
 "Union Market",325,"Groceries","Supermarket",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-20T04:00:00.000Z","212-677-2441","www.unionmarket.com",40.722397,-73.985834,"240 E. Houston Street, New York, NY 10009","Yes","Yes","
 ","7:30 AM","9:00 PM","PG","Website and IG are current, hours from website
 
-",,,"10009","240","E. Houston Street, New York, NY 10009","E. Houston Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/unionmarket/","recPv9RkTzXpmaTSJ","recUMAiJNAYFBVeH7","see google drive OK",,,,,,,"https://unionmarket.com/gift-cards/",,,,"https://linktr.ee/supportindia",,,,,"Senior Hours: 8:00 AM - 9:00 AM every day",
+",,,"10009","240","E. Houston Street, New York, NY 10009","E. Houston Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/unionmarket/","recPv9RkTzXpmaTSJ","recUMAiJNAYFBVeH7","see google drive OK",,,,,,,"https://unionmarket.com/gift-cards/",,,,,"https://linktr.ee/supportindia",,,,"Senior Hours: 8:00 AM - 9:00 AM every day",
 "Two Brothers Pizza",324,"Restaurants","Pizza",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-20T04:00:00.000Z","212-777-0600","https://www.2brospizzanyc.com",40.728655,-73.98849,"32 St. Mark's Place, New York, NY 10003","Yes",,"THU: 10:30 AM - 1:30 AM
 FRI & SAT: 10:30 AM - 3:00 AM
 SUN: 10:30 AM - 10:30 PM
@@ -5434,7 +5436,7 @@ SUN & MON: Closed
 "Tropic Berry Cafe",320,"Cafes and Desserts","Juice Bar",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-20T04:00:00.000Z","646-882-0039","https://tropicberrycafe.com/",40.724522,-73.987883,"45 1st Avenue, New York, NY 10003","Yes",,"SAT & SUN: 9:00 AM - 7:00 PM
 ","8:30 AM","7:00 PM","PL","IG and website are current, hours from website
 
-",,,"10003","45","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/tropicberrycafe/","recNFVj65QE3NTMAX","recSWmKvZRFj2E7pl","see google drive KL","https://www.facebook.com/tropicberrycafe/photos/a.518141365651468/639812276817709/?type=3&theater",,,"contact@tropicberrycafe.com",,,,"Yes",,,"https://tropicberrycafe.com/ukraine/",,,,,,
+",,,"10003","45","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/tropicberrycafe/","recNFVj65QE3NTMAX","recSWmKvZRFj2E7pl","see google drive KL","https://www.facebook.com/tropicberrycafe/photos/a.518141365651468/639812276817709/?type=3&theater",,,"contact@tropicberrycafe.com",,,,"Yes",,,,"https://tropicberrycafe.com/ukraine/",,,,,
 "Top Notch Security",319,"Services","Locksmith",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-10-11T04:00:00.000Z","646-781-7070","https://locksmithanddoors.com/",40.72185,-73.98384,"12 Avenue B, New York, NY 10009","No",,"24/7 emergency service! 
 ","10:00 AM ","6:00 PM","PL","PERMANENTLY CLOSED. Reoccupied by Zeno Nail Bar. 
 ",,,"10009","12","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York","2014-01-01",,,,,,"https://evgrieve.com/2021/10/farewell-to-locksmith-cbd-shop-on.html",,"2021-10-11","Info@Topnotchlocksmithnyc.Com",,,,,,,,,,,,,
@@ -5456,7 +5458,7 @@ SUN: 5:00 PM - 10:30 PM
 ",true,true,"10009","424","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/thursdaykitchen/","recSVQzi8feKvzNGn","recXch0H2gf0Kk8vL",,,,,,true,,,"Yes",,,,,,,,,
 "Third Rail Coffee",314,"Cafes and Desserts","Cafe",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2020-07-29T04:00:00.000Z","646-580-1240","www.thirdrailcoffee.com",40.7298,-73.987177,"159 2nd Avenue, New York, NY 10003","No",,"
 ",,,"EVCC","PERMANENTLY CLOSED August 2020. Reoccupied 
-",,,"10003","159","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","2013-07-01",,"https://www.instagram.com/thirdrailcoffee/",,,,"https://evgrieve.com/2020/08/clearing-out-third-rail-coffee.html",,"2020-08-26",,,,,,,,"https://www.gofundme.com/f/helpthirdrail",,,,,,
+",,,"10003","159","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","2013-07-01",,"https://www.instagram.com/thirdrailcoffee/",,,,"https://evgrieve.com/2020/08/clearing-out-third-rail-coffee.html",,"2020-08-26",,,,,,,,,"https://www.gofundme.com/f/helpthirdrail",,,,,
 "The Wayland",313,"Restaurants","Bar",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-20T04:00:00.000Z","(212) 777-7022","http://www.thewaylandnyc.com/",40.725063,-73.977821,"700 E 9th Street, New York, NY 10009","Yes","Yes","THU - FRI: 4:00 PM - 4:00 AM
 SAT: 2:00 PM - 4:00 AM
 SUN: 2:00 PM - 1:00 AM
@@ -5523,7 +5525,7 @@ Citi-Urban Mgmt posted notice 2/11/2022, reopened briefly afterwards.
 ","2022-03-27","thaidirectbowls@gmail.com",,,"https://giftup.app/place-order/329f3f17-5d43-41cc-828d-6e4567384a4b?platform=Hosted","Yes",,,,,,,,,
 "Terencia S. Q. Conejero, DDS",298,"Health","Dental",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-04-27T04:00:00.000Z","212-982-1129",,40.728761,-73.984796,"159 1st Avenue, New York, NY 10003","Yes",,"FRI, SAT, SUN, MON: Closed
 ","11:00 AM","6:00 PM","PL","Hours confirmed by phone 11/30/21
-",true,,"10003","159","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,"recvayVRHLqBqpK8f","recArZmgBMrRFa5XD","see google drive OK",,,,,true,,,,,,,true,,,,,
+",true,,"10003","159","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,,"recvayVRHLqBqpK8f","recArZmgBMrRFa5XD","see google drive OK",,,,,true,,,,,,true,,,,,,
 "Tea Drunk",297,"Cafes and Desserts","Tea Shop",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-11-30T05:00:00.000Z","917-573-9936","https://tea-drunk.com",40.726502,-73.98412,"123 E. 7th Street, New York, NY 10009","No",,"EV location is closed. Visit our [website](https://tea-drunk.com/)				 for online orders and tea tastings!
 
 ",,,"EVCC","PERMANENTLY CLOSED. Reoccupied by In Due Time Tattoo.
@@ -5550,7 +5552,7 @@ FRI - SAT: 12:00 PM - 4:00 AM
 ",true,true,"10009","85","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York","1990-01-01",,"https://www.instagram.com/takahachieastvillage/?hl=en","recHaskbUq6EVjgSo","recMrTLAOr7Ua4BHM",,"https://evgrieve.com/2022/08/takahachi-removes-its-curbside-dining.html",,,"ktm7inc@gmail.com  ",,,,,,,,,,,,,
 "Tacos Cuautla Morelos",292,"Restaurants","Mexican",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-20T04:00:00.000Z","347-772-5216","http://ordertacoscuautlamorelos.com",40.727341,-73.983171,"438 E. 9th Street, New York, NY 10009","Yes","Yes","[Order online!](https://themenustar3.com/webspace/menus.php?code=ordertacoscuautlamorelos.com)
 ","11:00 AM","10:30 PM","EVCC","Website is current, Hours from website
-",true,,"10009","438","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,,"recluItw8zzWojam4","recqL9UV2AAcD4vbs","see google drive KL",,,,,,,,"Yes",,,,true,,,,,
+",true,,"10009","438","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,,"recluItw8zzWojam4","recqL9UV2AAcD4vbs","see google drive KL",,,,,,,,"Yes",,,true,,,,,,
 "TabeTomo",291,"Restaurants","Japanese",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2022-07-20T04:00:00.000Z","(646) 850-6414","https://www.tabetomonyc.com",40.72681257,-73.98317073,"131 Avenue A, New York, NY 10009","Yes","Yes","
 ","12:00 PM","11:00 PM","EVCC","Website and IG are current, Hours from website
 ",true,true,"10009","131","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/tabetomonyc/?hl=en","recMV8fy4obkfDnrs","recRczGXYpcAuoIgQ",,,,,"hello@tabetomonyc.com",,,,"Yes (Heated)",,,,,,,,,
@@ -5616,7 +5618,7 @@ SUN: 12:00 PM - 4:00 PM
 ",,,"10003","17","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/speedylocknyc/?hl=en","recyd1EyfGrBgjzLU","recDus5X9HsRv4UAi","see google drive KL",,,,"service@speedylockanddoor.com",,,,,,,,,,,,,
 "Souen",275,"Restaurants","Japanese,Organic",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-19T04:00:00.000Z","212 388-1155","http://souen.net/",40.72675669,-73.98730862,"326 E. 6th Street, New York, NY 10003","Yes",,"SUN: 2:00 PM - 9:30 PM
 ","1:00 PM","9:30 PM","EVCC","IG is current, Hours from website, the website still has the same hours
-",true,true,"10003","326","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/souen_nyc/","rec54ecTeidq1BYfX","recalFDi8jeGgmj4l","see google drive LA",,,,"info@souen.net",true,"Yes",,"Yes",,,"https://www.gofundme.com/f/help-souen-damage-caused-by-a-fire?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,
+",true,true,"10003","326","E. 6th Street, New York, NY 10003","E. 6th Street"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/souen_nyc/","rec54ecTeidq1BYfX","recalFDi8jeGgmj4l","see google drive LA",,,,"info@souen.net",true,"Yes",,"Yes",,,,"https://www.gofundme.com/f/help-souen-damage-caused-by-a-fire?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
 "SOS Chefs",274,"Groceries","Spice Shop",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-19T04:00:00.000Z","212-505-5813","www.sos-chefs.com",40.724897,-73.98154,"104 Avenue B, New York, NY 10009",,,"SAT: 10:00 AM - 2:00 PM 
 SUN & MON: closed 
 ","9:00 AM","2:00 PM","EVCC","Hours from website, IG is current
@@ -5693,10 +5695,10 @@ SUN: 10:00 AM - 7:30 PM
 We open every other Saturday.
 Closed in July & August
 ","9:00 AM","5:00 PM","EVCC","IG & website are current, Hours from Website
-",,,"10009","279","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/ryanhealthnyc/","rec2gRM5kYWKUccWn","rec7xidueZX09XxLL","see google drive OK",,,,"Brian.St.Jean@ryanhealth.org",,,,,,,"https://connect.clickandpledge.com/w/Form/504e16ef-6f82-4f16-a3a0-3849487bfe37?636592340507055625",,,,,,
+",,,"10009","279","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/ryanhealthnyc/","rec2gRM5kYWKUccWn","rec7xidueZX09XxLL","see google drive OK",,,,"Brian.St.Jean@ryanhealth.org",,,,,,,,"https://connect.clickandpledge.com/w/Form/504e16ef-6f82-4f16-a3a0-3849487bfe37?636592340507055625",,,,,
 "Russo's Mozzarella and Pasta Corp.",255,"Groceries","Specialty Market,Italian",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-19T04:00:00.000Z","212-254-7452","http://www.russosmozzarellaandpasta.net/",40.729389,-73.984338,"344 E. 11th Street, New York, NY 10003","Yes","Yes","
 ","10:00 AM","6:30 PM","EVCC","IG and website are current, hours from website
-",,,"10003","344","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,"http://instagram.com/russosnyc","recrw4cY9WtN1FXdV","recwNvDn3Xu3gqi2j","see google drive OK",,,,"russonyc@gmail.com",,,,,,,"https://sliceouthunger.org/donate",,,,,,
+",,,"10003","344","E. 11th Street, New York, NY 10003","E. 11th Street"," New York, NY 10003"," New York",,,"http://instagram.com/russosnyc","recrw4cY9WtN1FXdV","recwNvDn3Xu3gqi2j","see google drive OK",,,,"russonyc@gmail.com",,,,,,,,"https://sliceouthunger.org/donate",,,,,
 "Ruff Club",254,"Services","Pet Supplies & Grooming",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-19T04:00:00.000Z","(347) 829-9833","www.ruffclub.com",40.72338141,-73.98527649,"34 Avenue A, New York, NY 10009","Yes",,"SAT & SUN: Closed 
 
 ","8:00 AM","6:00 PM","PL","IG and website are current, Hours from IG 
@@ -5710,7 +5712,7 @@ FRI & SAT: Noon - 2:00 AM
 ",,,"10009","157","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/royalebar/?hl=en","recAbuilFPgeIeUnw","recFsVJKzQhuXZfcU","see google drive LA",,,,"RoyaleNYC1@gmail.com",,,,"Yes (Heated)",,,,,,,,,
 "Rossy's Bakery & Coffee Shop",251,"Cafes and Desserts","Bakery",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-19T04:00:00.000Z","212 253 2424","http://www.rossysbakery.com/",40.721883,-73.981561,"242 E. 3rd Street, New York, NY 10009","Yes","Yes","SUN: Closed
 ","7:00 AM","7:00 PM","EVCC","\*\*\*\*\*Visit/call for hours, IG is current
-",true,,"10009","242","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/rossysbakery/","recReovBYiE9CEiFS","recWvPW0SjFpRpDug","see google drive OK",,,,"rossysbakery@verizon.net",true,,,,,,,true,,,,,
+",true,,"10009","242","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,,"https://www.instagram.com/rossysbakery/","recReovBYiE9CEiFS","recWvPW0SjFpRpDug","see google drive OK",,,,"rossysbakery@verizon.net",true,,,,,,true,,,,,,
 "Roderick Lucente, DMD",250,"Health","Dental",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-19T04:00:00.000Z","212-777-1969","https://doctorlucente.com/",40.728781,-73.979996,"525 E. 12th Street, New York, NY 10009","Yes",,"MON: Noon - 7:00 PM
 SAT: 9:00 AM - 5:00 PM
 SUN, WED: Closed
@@ -5774,7 +5776,7 @@ No reservations, walk-in only!
 ",,,"EVCC","PERMANENTLY CLOSED. Reoccupied by Ravi DeRossi: Pop-up TBD in West Store, Proletariat in East Store.
 Porsena Extra Bar opened 2012.
 ",,,"10003","21","E. 7th Street, New York, NY 10003","E. 7th Street"," New York, NY 10003"," New York","2010-08-01",,"https://www.instagram.com/porsenanyc/","recBC2bOsrWYN6bx3","recGTtCdmsXe2Rwmr",,"https://evgrieve.com/2020/08/porsena-has-closed-for-good-on-7th.html","
-","2020-08-02",,,,,,,,"https://www.gofundme.com/f/porsena-staff-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,
+","2020-08-02",,,,,,,,,"https://www.gofundme.com/f/porsena-staff-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
 "Poke N Roll",234,"Restaurants","Japanese",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-19T04:00:00.000Z","212-420-7653","https://www.pokeandrollnyc.com",40.727542,-73.983013,"441 E. 9th Street, New York, NY 10009","Yes","Yes","Now offering sushi
 ","11:00 AM","10:00 PM","EVCC","IG & website are current, hours from website
 ",true,true,"10009","441","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/pokeandrollnyc/","recVaBfpV5j9zWnTV","rec0r2GOP6kpOHIIj","see google drive OK",,"### SAVE 10% 
@@ -5786,7 +5788,7 @@ Porsena Extra Bar opened 2012.
 SUN: 11:00 AM - 6:00 PM
 MON & TUE: Closed	
 ","5:00 PM","12:00 AM","PL","IG is current, biz update hours on 7/13/22
-",true,,"10009","33","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/poconyc/","recQZTuBdojDswGFD","recVgkV07pkTHh1u1","see google drive OK",,,,"INFO@POCONYC.COM",true,,,"Yes",,,,true,,,,,
+",true,,"10009","33","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/poconyc/","recQZTuBdojDswGFD","recVgkV07pkTHh1u1","see google drive OK",,,,"INFO@POCONYC.COM",true,,,"Yes",,,true,,,,,,
 "Plado Tasting Bar",232,"Restaurants","Tapas",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-19T04:00:00.000Z","646-850-5151","https://www.pladonyc.com/taste",40.72228,-73.98393,"192 E. 2nd Street, New York, NY 10009","Yes","Yes","THU - FRI: 4:00 PM - Midnight
 SAT: Noon - Midnight
 SUN: Noon - 11:00 PM
@@ -5864,7 +5866,7 @@ SUN: Closed
 "Numero 28",212,"Restaurants","Pizza",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-19T04:00:00.000Z","212-777-1555","https://www.numero28.com/menu-and-locations/east-village-new-york/",40.730414,-73.985964,"176 2nd Avenue, New York, NY 10003","Yes","Yes","FRI - SAT: noon - midnight
 ","12:00 PM","11:00 PM","EVCC","Growing local CHAIN(8 stores), Hours from website
 ",,,"10003","176","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,,"https://www.instagram.com/numero28/","rec9QsdEvtU4EfwYS","rece7TE3puVkT0RNg","see google drive KL",,"USE CODE “N28ONLINE” 20% OFF ON ANY [ONLINE ORDER](https://numero28.com/east-village-new-york/)
-",,"info@numero28.com",,,,"Yes",,," ",,,,,,
+",,"info@numero28.com",,,,"Yes",,,," ",,,,,
 "Nolita Pizza ",211,"Restaurants","Pizza",,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","2020-07-04T04:00:00.000Z","646-756-4141","https://nolitapizzanyc.com",40.728321,-73.987619,"128 2nd Avenue, New York, NY 10003","No","No","EV location closed. Catch them at their other location on Kenmare Street. 
 ","12:00 PM","8:00 PM","EVCC","PERMANENTLY CLOSED. Reoccupied by Tony's Pizza.
 
@@ -5940,7 +5942,7 @@ SUN: 1:00 PM - 10:00 PM
 "Mikey Likes It Ice Cream",193,"Cafes and Desserts","Ice Cream",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-18T04:00:00.000Z","212-673-0199","www.mikeylikesiticecream.com",40.729475,-73.981353,"199 Avenue A, New York, NY 10009","Yes","Yes","
 ","2:00 PM","10:00 PM","EVCC","IG is current, hours from IG post
 ",true,,"10009","199","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,"https://www.instagram.com/mikeylikesiticecream/?hl=en","rec3S3i0BDiYYtUsN","rec89uJpvEjedefhb",,"https://www.instagram.com/p/CgXNqBWgMRo/","			
-",,,,"Yes","https://mikeylikesiticecream.com/products/gift-card","Yes",,true,"https://mikeylikesiticecream.com/products/help-us-during-covid-19",,,,,,
+",,,,"Yes","https://mikeylikesiticecream.com/products/gift-card","Yes",,true,,"https://mikeylikesiticecream.com/products/help-us-during-covid-19",,,,,
 "Mike's Dry Cleaners & Tailors",192,"Laundry","Cleaners",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-03-01T05:00:00.000Z","(212) 674-1957",,40.72435317,-73.98457186,"62 Avenue A, New York, NY 10009","No",,"SAT: 8:00 AM - 5:00 PM
 SUN: Closed
 ","7:30 AM","7:00 PM","PG","PERMANENTLY CLOSED. Reoccupied by March Gallery expanding.
@@ -6130,7 +6132,7 @@ IG not current
 ",true,,"10009","309","E. 5th Street, New York, NY 10009","E. 5th Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/jiangdiner/","rec2Jl288jPyXVuqR","rec70Mtx2kQOcGPff",,,,"2021-07-31",,,,,"Yes",,,,,,,,,
 "Jennifer's Cafe",144,"Restaurants","Mexican,Cafe",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-15T19:00:00.000Z","(917) 674-5443",,40.72542,-73.987315,"133 E. 4th Street, New York, NY 10003","Yes",,"
 ","7:00 AM","4:00 PM","EVCC","\*\*\*\*\*Visit for hours, IG last post 2020, Confirmed Hours by phone 11/22/21
-",true,,"10003","133","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,"No","https://www.instagram.com/jenniferscafe_/?hl=en","recMISybroYOXm1jk","recRZjZAlpZ4c7m8I","see google drive KL",,,,"jenniferscafe32@gmail.com",,,,"No",,,,true,,,,,
+",true,,"10003","133","E. 4th Street, New York, NY 10003","E. 4th Street"," New York, NY 10003"," New York",,"No","https://www.instagram.com/jenniferscafe_/?hl=en","recMISybroYOXm1jk","recRZjZAlpZ4c7m8I","see google drive KL",,,,"jenniferscafe32@gmail.com",,,,"No",,,true,,,,,,
 "Jell & Chill",143,"Cafes and Desserts","Dessert Bar",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-15T19:00:00.000Z","(646) 370-5229","https://www.jellchill.com/",40.72641,-73.98472,"110 E. 7th Street, New York, NY 10009","Yes","Yes","THU - SUN: 2:00 PM - 9:00 PM
 MON: Closed
 ","2:00 PM","8:30 PM","EVCC","IG and website are current, hours from website
@@ -6143,7 +6145,7 @@ MON: Closed
 Call (212) 228-3710 or (212) 228-0977
 SAT: 12:00 PM - 12:00 AM
 ","12:00 PM","3:00 AM","EVCC","IG &[ FB ](https://www.facebook.com/ilpostoaccantonyc/)are current, hours from FB
-",true,,"10009","190","E. 2nd St, New York, NY 10009","E. 2nd St"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/ilpostoaccanto/","recq2J4jAb5yzgPjw","recvjavIuc6OO1a8U","see google drive OK",,,,,true,,,"Yes (Heated)",,true,,true,,,,,
+",true,,"10009","190","E. 2nd St, New York, NY 10009","E. 2nd St"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/ilpostoaccanto/","recq2J4jAb5yzgPjw","recvjavIuc6OO1a8U","see google drive OK",,,,,true,,,"Yes (Heated)",,true,true,,,,,,
 "Iggy's Pizza",140,"Restaurants","Pizza",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-15T18:52:00.000Z","(212) 353-3331","https://www.iggyspizzeriamenu.com/",40.729249,-73.98435,"173 First Avenue, New York, NY 10003","Yes","Yes","FRI & SAT: 11:00 AM - midnight
 ","11:00 AM","11:00 PM","EVCC","IG last post 3/1/2021, hours from website
 
@@ -6246,7 +6248,7 @@ SUN & MON: Closed
 ","5:00 PM",,"EVCC","\*\*\*\*\*Call for hours, IG & Website are current, hours from IG
 Reopened 2/26/21, outdoor seating reopened 3/13/21
 ",true,true,"10009","186","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/gomikoreanwinebar/","recLjhXPhWt1P7XBL","recQAIoebXuh4Siq9","see google drive KL",,"
-",,"contact@gomikoreanwinebar.com ",,,,"Yes",,,"https://www.instagram.com/p/B-DgqRBFJ1h/",,,,,,
+",,"contact@gomikoreanwinebar.com ",,,,"Yes",,,,"https://www.instagram.com/p/B-DgqRBFJ1h/",,,,,
 "Gnocco",120,"Restaurants","Italian",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-14T05:30:00.000Z","(212) 677-1913","http://www.gnocco.com/#order-online",40.727188,-73.980236,"337 E. 10th Street, New York, NY 10009","Yes","Yes","FRI & SAT: 11:00 AM - 11:00 PM
 Your place to work and have a snack 11:00 AM - 6:00 PM: wifi and printer available!
 ","11:00 AM","10:00 PM","EVCC","IG is current, hours from IG profile 
@@ -6260,7 +6262,7 @@ PICKUP & DELIVERY text 646-504-9798
 ",,,,,,,,,,,,,,,
 "Gena's Grill",118,"Restaurants","Carribean,Dominican,Latin",,"Opened","{""id"":""usrhseTuU6OUfXnC6"",""email"":""jackd12@nycstudents.net"",""name"":""Jack Drazen""}","2022-08-10T17:42:00.000Z","(212) 473-3700","https://genasgrill.com/",40.730346,-73.982986,"210 1st Avenue, New York, NY 10009","Yes","Yes","
 ","7:00 AM","11:00 PM","EVCC","Confirmed Hours by Phone 11/20/2021, same as on website, updated by business 2 months ago.
-",true,,"10009","210","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"Yes","  ","recy13tVdDXolzRHy","recDiuUk7EYEAkcwW","see google drive KL, JD",,,,,true,,,"Yes",,,,true,,,,,
+",true,,"10009","210","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"Yes","  ","recy13tVdDXolzRHy","recDiuUk7EYEAkcwW","see google drive KL, JD",,,,,true,,,"Yes",,,true,,,,,,
 "Gem Spa",117,"Retail","Fashion,Gallery",,"Closed","{""id"":""usrgwMxKCGe2vGsGX"",""email"":""lilyz@coopersquare.org"",""name"":""Lily Zaballos""}","2021-01-18T05:00:00.000Z","(917) 509-0964","https://gemspanyc.com",40.728525,-73.988022,"131 2nd Ave, New York, NY 10003","No","No","
 ",,,"EVCC","PERMANENTLY CLOSED. VACANT. In the Patel family since 1986, opened in the 1930s at 131 2nd Avenue, New York, NY 10003
 ",true,,"10003","131","2nd Ave, New York, NY 10003","2nd Ave"," New York, NY 10003"," New York",,,"https://www.instagram.com/besteggcream/","reck5sbdIU79oEnMp","recpmTCCCV8pDpIBN",,"https://evgrieve.com/2020/05/gem-spa-will-not-reopen.html",,"2020-05-07",,,"No",,,,,,,,,,,
@@ -6275,7 +6277,7 @@ PICKUP & DELIVERY text 646-504-9798
 ",,,"10003","138","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York","2013-04-01",,"https://www.instagram.com/frescocafeny/?hl=en",,,,,,"2021-04-01",,,,,,,,,,,,,,
 "Frank",113,"Restaurants","Italian",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-14T17:08:00.000Z","212-420-0202","https://www.frankrestaurant.com/",40.726812,-73.988628,"88 2nd Avenue, New York, NY 10003","Yes","Yes","
 ","10:30 AM","1:00 AM","EVCC","IG is current, hours from website/google form
-",,,"10003","88","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/frankrestaurant/","recjovFHHPJ4Px9wy","recoFW66BQKk4iulW","see google drive OK",,,,,,,"https://shop.giftlocal.com/177-frank/customize-order","Yes (Heated)",,,"https://www.frankrestaurant.com/aid-for-ukraine",,,,,,
+",,,"10003","88","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/frankrestaurant/","recjovFHHPJ4Px9wy","recoFW66BQKk4iulW","see google drive OK",,,,,,,"https://shop.giftlocal.com/177-frank/customize-order","Yes (Heated)",,,,"https://www.frankrestaurant.com/aid-for-ukraine",,,,,
 "Frango's Peri Peri ",112,"Restaurants","Brazilian",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-14T16:41:00.000Z","(917) 675-7897","https://frangos-peri-peri.business.site/",40.727797,-73.979449,"182 Avenue B, New York, NY 10009","Yes","Yes","
 ","12:00 PM","11:00 PM","EVCC","\*\*\*\*\*Check to see if they still do outside seating, Confirmed Hours by Phone 11/20/2021, same as on website, last IG post 6/30/2020
 ",true,,"10009","182","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/frangosnyc/","recbVsVok3PqX9xcp","recgcTmNe4QGcUS1N","see google drive KL, LA",,"Free delivery on first order
@@ -6315,7 +6317,7 @@ SUN: Closed
 
 
 ",,,"PG","Reopening soon after fire 1/10/2022. Hours confirmed by phone 11/22/21
-",,,"10009","47","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,"  ","recMTcuhn5i9YzTJV","recRaDVGh6jpdkeyj","temporarily closed","https://evgrieve.com/2022/08/filling-shelves-as-essex-card-shop.html",,,,,"Yes",,,,,"https://www.gofundme.com/f/hv9f4?member=16588497&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer",,,,,,
+",,,"10009","47","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,"  ","recMTcuhn5i9YzTJV","recRaDVGh6jpdkeyj","temporarily closed","https://evgrieve.com/2022/08/filling-shelves-as-essex-card-shop.html",,,,,"Yes",,,,,,"https://www.gofundme.com/f/hv9f4?member=16588497&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer",,,,,
 "Essa Deli",103,"Groceries","Deli ",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-13T04:00:00.000Z","(212) 777-0877",,40.722696840849814,-73.97971693617903,"66 Avenue C, New York, NY 10009","Yes",,"
 ",,,"EVCC","Laura visit, [google](https://www.google.com/search?client=firefox-b-1-e&q=Essa+Deli&ludocid=10800158618174912185&gsas=1&client=firefox-b-1-e&lsig=AB86z5U4R4FlQ_T1p3C3pgO9HBV1&sa=X&ved=2ahUKEwjuqq_pz5T3AhWJhIkEHUIHAiAQoAJ6BAgbEA0&biw=1920&bih=946&dpr=1) says it's open 24/7
 
@@ -6422,7 +6424,7 @@ MON: Closed
 "Divya's Kitchen",80,"Cafes and Desserts","Cafe,Ayurvedic",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-13T20:00:00.000Z","(212) 477-4834","https://divyaskitchen.com/",40.72382,-73.98849,"25 1st Avenue, New York, NY 10003","Yes","Yes","SAT & SUN: Closed
 Weekend hours reopening in the Fall
 ","12:00 PM","10:00 PM","EVCC","Hours confirmed on 8/1/22 by phone, Google says business updated 9 weeks ago.
-",true,,"10003","25","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"Yes",,"recnBxE6oey4qpEgb","recsSY5vifzkFaZ5z","see google drive KL",,,,"info@divyaskitchen.com",true,"Yes",,"Yes (Heated)",,,"https://www.unicefusa.org/stories/india-faces-brutal-covid-19-crisis-unicef-there-help/38520",,,,,,
+",true,,"10003","25","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"Yes",,"recnBxE6oey4qpEgb","recsSY5vifzkFaZ5z","see google drive KL",,,,"info@divyaskitchen.com",true,"Yes",,"Yes (Heated)",,,,"https://www.unicefusa.org/stories/india-faces-brutal-covid-19-crisis-unicef-there-help/38520",,,,,
 "Discovery Wines",79,"Retail","Wine",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-13T04:00:00.000Z","(212) 674-7833","www.discoverywines.com",40.721979,-73.983724,"16 Avenue B, New York, NY 10009","Yes","Yes","SUN - MON: 1:00 PM - 8:00 PM
 ","1:00 PM","9:00 PM","EVCC","Website and IG are current, hours from website
 ",,,"10009","16","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/discoverywinesny/","rec7PZhjx6rkzMUWf","recc6qIIr7sAOxfLD","see google drive OK",,"Check out our [value wines!](https://www.discoverywines.com/valuewines)
@@ -6462,7 +6464,7 @@ Reopened 12/11/2021 after temporary closure for gas issue mid-August 2021.
 "Cylar House Health Center",71,"Health","Medical",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-13T04:00:00.000Z","(718) 277-0386","healthcare.housingworks.org/locations/location-3",40.724565,-73.975994,"743 E. 9th Street, New York, NY 10009","Yes",,"SAT & SUN: Closed
 
 ","9:00 AM","5:00 PM","EVCC","Website is current, hours from website
-",,,"10009","743","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,,"recs1ZeEIk0HY6XjD","recxiqF3Cl1XdRi81",,,,,,,,,,true,,"www.housingworks.org/donate/",,,,,,
+",,,"10009","743","E. 9th Street, New York, NY 10009","E. 9th Street"," New York, NY 10009"," New York",,,,"recs1ZeEIk0HY6XjD","recxiqF3Cl1XdRi81",,,,,,,,,,true,,,"www.housingworks.org/donate/",,,,,
 "Curry Ya",70,"Restaurants","Japanese",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-13T20:00:00.000Z","(212) 995-2877","https://curryya.square.site/",40.729178,-73.985907,"218 E. 10th Street, New York, NY 10003","Yes","Yes","[Pickup](https://curryya.square.site/s/order) at Rai Rai Ken Curry Ya!
 ","12:30 PM","10:00 PM","EVCC","Operating out of sister restaurant Rai Rai Ken with independent Curry Ya website, last Curry Ya IG post September 2021 has explanation in profile.
 ",true,true,"10003","218","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/curry.ya/",,,,,"
@@ -6525,7 +6527,7 @@ MON & TUE: Closed
 [(https://www.instagram.com/the\_dessertclub/](https://www.instagram.com/the_dessertclub/) is for wholesale & catering only, do not list)
 \*\*\*\*\*Laura explore 204 E. 10th Street  <http://www.chikalicious.com/>
 
-",true,true,"10003","203","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/chikaliciousdessertbar_nyc/?hl=en","recGRj50Xc1p33l8P","recL8KwpRd2FiOGXd",,,,,"ChikaLicious.dessert@gmail.com",true,,"https://onelink.quickgifts.com/merchant/chikalicious/","Yes",,,,true,,,,,
+",true,true,"10003","203","E. 10th Street, New York, NY 10003","E. 10th Street"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/chikaliciousdessertbar_nyc/?hl=en","recGRj50Xc1p33l8P","recL8KwpRd2FiOGXd",,,,,"ChikaLicious.dessert@gmail.com",true,,"https://onelink.quickgifts.com/merchant/chikalicious/","Yes",,,true,,,,,,
 "Cha-An Teahouse",57,"Cafes and Desserts","Tea Shop",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-08T04:00:00.000Z","212-228-8030","www.chaanteahouse.com",40.72939,-73.988179,"230 E. 9th Street, New York, NY 10003","Yes",,"THU: 2:00 PM - 8:00 PM
 FRI: 2:00 PM - 9:00 PM
 SAT: 1:00 PM - 9:00 PM
@@ -6533,17 +6535,17 @@ SUN: 1:00 PM - 7:00 PM
 MON: 3:00 PM - 7:00 PM
 TUE & WED: Closed
 ",,,"EVCC","IG and Website are current, hours from IG
-",true,true,"10003","230","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/chaanteahouse/?hl=en","recP4CqR77CFIUxSC","recUl3Rg18DVXFSH0","see google drive KL","https://www.instagram.com/p/CSFNU0ysZNS/",,,"info@chaanbonbon.com",,,"https://squareup.com/gift/DMM39M2CFYA3V/order",,,,,true,,,,,
+",true,true,"10003","230","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/chaanteahouse/?hl=en","recP4CqR77CFIUxSC","recUl3Rg18DVXFSH0","see google drive KL","https://www.instagram.com/p/CSFNU0ysZNS/",,,"info@chaanbonbon.com",,,"https://squareup.com/gift/DMM39M2CFYA3V/order",,,,true,,,,,,
 "Cha-An BONBON",56,"Cafes and Desserts","Dessert Bar",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-08T04:00:00.000Z","646-669-9785","https://www.chaanteahouse.com/bonbon",40.729213,-73.98796,"238 E. 9th Street, New York, NY 10003","Yes","Yes","THU: 1:00 PM - 6:00 PM
 MON - WED : Closed
 ~ We are Cashless ~
 
 ","1:00 PM","6:00 PM","EVCC"," IG and website are current, hours from IG
-",true,true,"10003","238","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/chaanbonbon/?hl=en","rechMAEjLI2gUPYxY","recm315IFJ3w9Ajmm","see google drive KL",,,,"info@chaanbonbon.com",,"Yes","https://squareup.com/gift/DMM39M2CFYA3V/order",,,,,true,,,,,
+",true,true,"10003","238","E. 9th Street, New York, NY 10003","E. 9th Street"," New York, NY 10003"," New York",,,"https://www.instagram.com/chaanbonbon/?hl=en","rechMAEjLI2gUPYxY","recm315IFJ3w9Ajmm","see google drive KL",,,,"info@chaanbonbon.com",,"Yes","https://squareup.com/gift/DMM39M2CFYA3V/order",,,,true,,,,,,
 "Casa Adela",55,"Restaurants","Puerto Rican",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-08T22:30:00.000Z","
 (212) 473-1882","https://casa-adela-puerto-rican-restaurant.business.site/?utm_source=gmb&utm_medium=referrala",40.722601,-73.979627,"66 Avenue C, New York, NY 10009","Yes","Yes","SUN & MON: 9:00 AM - 9:00 PM
 ","11:00 AM","9:00 PM","EVCC","Website and IG are current, hours from website
-",true,,"10009","66","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/casaadelarestaurant/?hl=en","reczMYn4ImxKzb2vh","recE3pOtCny0OWnkF","see google drive OK",,,,"casaadelarestaurant@gmail.com",,,,"Yes",,,,true,,,,,
+",true,,"10009","66","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/casaadelarestaurant/?hl=en","reczMYn4ImxKzb2vh","recE3pOtCny0OWnkF","see google drive OK",,,,"casaadelarestaurant@gmail.com",,,,"Yes",,,true,,,,,,
 "Cafe Social 68",53,"Cafes and Desserts","Cafe",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-08T04:00:00.000Z","(917) 409-6837","https://www.cafesocial68.com/",40.724622,-73.984389,"68 Avenue A, New York, NY 10009","Yes",,"SAT & SUN: 8:00 AM - 7:00 PM
 ","7:00 AM ","7:00 PM ","EVCC","Website are current, Hours from website, IG infrequent
 ",,,"10009","68","Avenue A, New York, NY 10009","Avenue A"," New York, NY 10009"," New York",,,"https://www.instagram.com/cafesocial68/","recPADfYbjdBXNIxZ","recUR4Gn5keRcy3mn",,,,,,,,,"Yes",,,,,,,,,
@@ -6554,7 +6556,7 @@ MON - WED : Closed
 MON: Closed
 [NYTimes best Cuban sandwiches!](https://www.nytimes.com/2020/05/12/dining/cuban-sandwich-nyc-coronavirus.html) 
 ","12:00 PM","11:00 PM","EVCC","FB is current, hours from FB, website is permanently unavailable.
-",true,,"10009","210","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,"Yes","https://www.facebook.com/cortaditonyc/","recEtjDiaQ8xJbe6G","recJKK4H4R9NYWzV4","see google drive OK","https://www.instagram.com/cafecortaditonyc8212/",,,"pvalencia236@aol.com",true,,,"Yes",,,,true,,,,,
+",true,,"10009","210","E. 3rd Street, New York, NY 10009","E. 3rd Street"," New York, NY 10009"," New York",,"Yes","https://www.facebook.com/cortaditonyc/","recEtjDiaQ8xJbe6G","recJKK4H4R9NYWzV4","see google drive OK","https://www.instagram.com/cafecortaditonyc8212/",,,"pvalencia236@aol.com",true,,,"Yes",,,true,,,,,,
 "C&B Cafe",50,"Cafes and Desserts","Cafe,Bakery",,"Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","2022-07-08T04:00:00.000Z","(212) 674-2985","https://www.candb.nyc",40.725086,-73.981673,"178 E. 7th Street, New York, NY 10009","Yes","No","
 ","9:00 AM","4:00 PM","PL","IG is current, Hours from IG profile
 ",,,"10009","178","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,"No","https://www.instagram.com/candbnyc","reci1lzEWEIbxMrPD,recA6k9GNjwjd5Tey","recFnLA5HkxzsQe3W,recniM03QFJrMxME1","see google drive OK","https://www.candb.nyc/ ",,,"info@candbnyc",,,"https://squareup.com/gift/7HV20F01G0WPC/order","Yes",,,,,,,,,
@@ -6576,7 +6578,7 @@ To order please visit [order.brodo.com](https://order.brodo.com/order/)
 ","12:00 PM","8:00 PM","EVCC","Hours from website, IG is semi-current
 ",true,,"10009","170","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,,"https://www.instagram.com/brixwineshopnyc/?hl=en","recNUKOnXjEd0n7g5,recLQAiMEYEJUPOil","recQ71JbyZFZ9A97J,recSbbfMRkFtf8s5t","see google drive KL, LA",,,,"info@brixwines.com",true,"Yes",,,,,,,,,,,
 "Brindle Room",45,"Restaurants","American",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","2021-06-10T04:00:00.000Z","212 529 9702","https://brindleroomny.com/",40.728256,-73.982736,"277 E. 10th Street, New York, NY 10009","No","No",,,,"EVCC","Location PERMANENTLY CLOSED. Relocating to former Virginia's location 647 E. 11th Street (same name or new business by same owner?)
-",,,"10009","277","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","2009-01-01",,"https://www.instagram.com/brindleroom/",,,,"https://evgrieve.com/2021/06/the-brindle-room-is-on-hunt-for-new-home.html",,"2021-03-31","thebrindleroomny@gmail.com",,,,,,,"https://www.gofundme.com/f/brindle-room-relief-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,,
+",,,"10009","277","E. 10th Street, New York, NY 10009","E. 10th Street"," New York, NY 10009"," New York","2009-01-01",,"https://www.instagram.com/brindleroom/",,,,"https://evgrieve.com/2021/06/the-brindle-room-is-on-hunt-for-new-home.html",,"2021-03-31","thebrindleroomny@gmail.com",,,,,,,,"https://www.gofundme.com/f/brindle-room-relief-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1",,,,,
 "Boulton & Watt",43,"Restaurants","American",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-08T04:00:00.000Z","646-490-6004","https://www.boultonandwattnyc.com",40.722505,-73.986352,"5 Avenue A, New York, NY 10009","Yes",,"WED - FRI: 4:00 PM - Late
 SAT: 11:00 AM -  Late
 SUN: 11:00 AM - 10:00 PM
@@ -6761,11 +6763,11 @@ Reopened June 2021
 "787 Coffee",6,"Cafes and Desserts","Cafe",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","2022-07-08T20:00:00.000Z","(646) 838-9890","https://www.787coffee.com/new-york-locations",40.72736742,-73.98880699,"101 2nd Avenue, New York, NY 10003","Yes",,"SUN: 8:00 AM - 7:00 PM
 ","7:00 AM","7:00 PM","EVCC","CHAIN, but we still list (local). IG and website are current.
 ",true,,"10003","101","2nd Avenue, New York, NY 10003","2nd Avenue"," New York, NY 10003"," New York",,"Yes","https://www.instagram.com/787coffee/",,,"see google drive OK",,"
-",,"info@787coffee.com",,"Yes","squareup.com/gift/AVX1WH1F7RND7/order","Yes",,,,true,,,,,
+",,"info@787coffee.com",,"Yes","squareup.com/gift/AVX1WH1F7RND7/order","Yes",,,true,,,,,,
 "787 Coffee",5,"Cafes and Desserts","Cafe",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-08T20:00:00.000Z","(646) 649-2774","https://www.787coffee.com/new-york-locations",40.726312,-73.983845,"131 E. 7th Street, New York, NY 10009","Yes",,"SUN: 8:00 AM - 7:00 PM
 ","7:00 AM","7:00 PM","EVCC","CHAIN, but we still list (local). IG and website are current.
 ",true,,"10009","131","E. 7th Street, New York, NY 10009","E. 7th Street"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/787coffee/","recyMviJ5hevthydw,recMQI6U8zzIojBv1","recD3WJ8ZifLI2T2U,recR79xj2AAYD4Wkp","see google drive AL",,"
-",,"info@787coffee.com",,"Yes","squareup.com/gift/AVX1WH1F7RND7/order","Yes",,,,true,,,,,
+",,"info@787coffee.com",,"Yes","squareup.com/gift/AVX1WH1F7RND7/order","Yes",,,true,,,,,,
 "5C Cafe & Cultural Center",4,"Restaurants","American",,"Opened","{""id"":""usrOmdBNH0mVjYArs"",""email"":""adrianalam0121@gmail.com"",""name"":""Adriana Lam""}","2022-07-08T04:00:00.000Z","917-261-5249","https://5c.nyc/",40.722688,-73.979565,"68 Avenue C, New York, NY 10009","Yes","Yes","Late night delivery til 2:00 AM! Check our Instagram for upcoming events!
 "," 3:00 PM"," 11:00 PM","EVCC","IG and website are current
 ",true,,"10009","68","Avenue C, New York, NY 10009","Avenue C"," New York, NY 10009"," New York",,"Yes","https://www.instagram.com/5ccafe/ ","recjjZ8aFrdWzMvYK","recoAqzzzsecOxQN8","see website",,,,"cafe5cnyc@gmail.com",,,,"Yes",,true,,,,,,,
