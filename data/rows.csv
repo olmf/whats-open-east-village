@@ -1,6 +1,6 @@
 "Name","id","Last Updated","Category","Latitude","Longitude","Address","Pickup Offered","Notes","Sub Categories","Spreadsheet Update Notes","Opening Date","Status","Last modified by","Zip Code","Number","Remainder 1","Street","Remainder2","City","Source","Website","Instagram","Chain","Survey 2021","Phone","Delivery Offered","Giftcard","Open Time","Close Time","MWBE","AAPI Owned","Contributor","Photo","Indoor Seating Offered","Outside Seating Offered","Special Offers","Email","Latinx Owned","Black Owned","Women Owned","Closure Date","Update Requests","LGBTQIA Owned","Shipping Offered","Fundraiser","Ukrainian Owned","Changes","Special Accommodation Hours","Changes 2"
-"Smoke Shop",1927,"2022-11-06T23:07:00.000Z","Retail",40.72863,-73.98085,"508 E. 12th Street, New York, NY 10009","Yes","
-","Smoke Shop","West Storefront? Opened Summer 2022 
+"Mary Jane Ln",1927,"2022-11-06T23:07:00.000Z","Retail",40.72863,-73.98085,"508 E. 12th Street, New York, NY 10009","Yes","
+","Smoke Shop","West Storefront. Opened Summer 2022 in former Westminster Real Estate location.
 ","2022-09-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","508","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Go Locker",1926,"2022-12-04T01:08:00.000Z","Services",40.72863,-73.98085,"508 E. 12th Street, New York, NY 10009","Yes","
 ",,"CHAIN. Center East Store opened July 2018 in former John Gabriel Hair Salon location. 
@@ -66,9 +66,10 @@
 ",,"Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","58","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York","https://evgrieve.com/2022/11/a-snack-stop-for-st-marks-place.html",,,,"recMlcLEEsqp5hcWK",,,,,,,,,,,,,,,,,,,,,,,,,
 "Columbia Care Manhattan Dispensary",1902,"2022-11-23T00:55:00.000Z","Retail",40.73279,-73.98674,"212 E. 14th Street, New York, NY 10003","Yes","SAT: 11:00 AM - 5:00 PM
 SUN: Closed
-","Cannabis","CHAIN. Website is current with hours.
+",,"CHAIN. Cannabis. Website is current with hours.
 ",,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","212","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York",,"https://columbia.care/locations/ny-ny-e14th-212#product-menus",,true,,"(646) 453-7178",,,"11:00 AM","7:00 PM",,,,,,,,,,,,,,,,,,,,
-"Recreational Cannabis Dispensary",1901,"2022-11-23T00:50:00.000Z","Retail",40.72917,-73.98384,"180 1st Avenue, New York, NY 10009","Yes",,"Cannabis",,"2022-11-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","180","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://evgrieve.com/2022/10/another-day-another-cannabis-operation.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Recreational Cannabis Dispensary",1901,"2022-11-23T00:50:00.000Z","Retail",40.72917,-73.98384,"180 1st Avenue, New York, NY 10009","Yes",,,"Cannabis dispensary. Opened October 2022 in former Eleven thrift shop location.
+","2022-11-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","180","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://evgrieve.com/2022/10/another-day-another-cannabis-operation.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "The Grayson",1900,"2022-11-08T01:03:00.000Z","Restaurants",40.723351,-73.987984,"16 1st Avenue, New York, NY 10009","Yes","THU: 5:00 PM - 2:00 PM
 FRI & SAT: Noon - 4:00 PM
 SUN: Noon - 1:00 AM
@@ -90,7 +91,7 @@ SUN: Noon - 1:00 AM
 ","Psychic","Opened January 2022 in former Sunrise Cleaner location.
 ","2022-01-01","Unknown","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","66","E. 3rd Street, New York, NY 10003","E. 3rd Street"," New York, NY 10003"," New York",,,,,,,,,,,,,"PG",,,,,,,,,,,,,,,,,
 "Painted Hair Dreams PHD",1894,"2022-11-06T23:07:00.000Z","Services",40.72863,-73.98085,"508 E. 12th Street, New York, NY 10009","Yes","SUN - TUE: Closed
-","Hair","Center West Storefront? Opened September 2022 in former pop-up location, previously Bugs Sushi.
+","Hair","Center West Storefront. Opened September 2022 in former pop-up location, previously Bugs Sushi.
 ","2022-09-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","508","E. 12th Street, New York, NY 10009","E. 12th Street"," New York, NY 10009"," New York",,"https://phdstudio.glossgenius.com/","https://www.instagram.com/painted_hair_dreams/",,,,,,"10:00 AM","8:00 PM",true,,,,,,,,,true,true,,,,,,,,,
 "Sushi Mumi",1893,"2022-11-06T04:26:00.000Z","Restaurants",40.726725814066874,-73.98357574909792,"130 St. Mark's Place, New York, NY 10009","Yes","SUN: Closed 
 ","Japanese,Omakase","PERMANENTLY CLOSED. Hours confirmed by phone12/22/2021, No website or IG	
@@ -422,7 +423,7 @@ Reopened May 2020 after pandemic closure.
 ",,"Opened","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","10003","18","St. Mark's Place, New York, NY 10003","St. Mark's Place"," New York, NY 10003"," New York",,,,,,,,,,,,,,"see google drive LA",,,,,,,,,,,,,,,,
 "Chakra",1785,"2022-07-11T23:32:00.000Z","Restaurants",40.72665,-73.98802,"317 E. 5th Street, New York, NY 10003",,,,"On July 2022 CB 3 agenda.
 ",,"Unknown","{""id"":""usrCfdwdVYXd6lkIs"",""email"":""Lincolnjunsu@gmail.com"",""name"":""Lincoln Ahn""}","10003","317","E. 5th Street, New York, NY 10003","E. 5th Street"," New York, NY 10003"," New York",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Canna Culture",1784,"2022-08-11T20:52:00.000Z","Retail",40.72692,-73.98405,"118 St. Mark's Place, New York, NY 10009","Yes",,"Cannabis","Opened July 2022 in original St. Dymphna's location.
+"Canna Culture",1784,"2022-08-11T20:52:00.000Z","Retail",40.72692,-73.98405,"118 St. Mark's Place, New York, NY 10009","Yes",,,"Cannabis. Opened July 2022 in original St. Dymphna's location.
 ","2022-07-11","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","118","St. Mark's Place, New York, NY 10009","St. Mark's Place"," New York, NY 10009"," New York","https://evgrieve.com/2022/07/cannaculture-nyc-opens-in-former-st.html",,"https://www.instagram.com/cannaculture__nyc/?hl=en",,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Dhom",1783,"2022-08-11T23:53:00.000Z","Restaurants",40.72903,-73.98083,"505 E. 12th Street, New York, NY 10009","Yes","THU - SAT: 11:00 AM - 2:00 AM
 SUN: 11:00 AM - 11:00 PM
@@ -911,7 +912,7 @@ MON - WED: Closed
 
 ","info@baonanas.com",,,,,,,,,,,,
 "Higher Empire",1654,"2022-11-22T05:00:00.000Z","Retail",40.72557,-73.98724,"71 1st Avenue, New York, NY 10003",,"FRI & SAT: 10:00 AM - 10:00 PM
-","Cannabis","Cannabis club and delivery service opened in former Alex Shoe Repair location, hours from website
+",,"Cannabis club and delivery service opened in former Alex Shoe Repair location, hours from website
 ","2022-07-01","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","71","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"https://higherempireny.myshopify.com/","https://www.instagram.com/higher.empire/",,"recaTcVXPbP3nxK9g","(917) 671-9685","Yes",,"10:00 AM","9:00 PM",,,"EVCC","see google drive LA",,,,,,,,,,,,,,,,
 "Chef Tan",1653,"2022-07-12T16:20:00.000Z","Restaurants",40.72887,-73.98793,"37 St. Mark's Place, New York, NY 10003","Yes","FRI & SAT: Noon - 11:00 PM
 ","Chinese","Business updated hours on google 07/01/2022. 
