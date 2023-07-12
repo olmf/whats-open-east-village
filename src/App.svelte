@@ -45,8 +45,8 @@
         {/if}
     </div>
     <p class="is-italic has-text-grey-dark">Updated frequently and with ❤ by <a
-            href="http://evccnyc.org/" target="_blank">EVCC</a>, Perry Leung, <a href="https://evgrieve.com" target="_blank">EV
-        Grieve</a>, and Paul Gale.</p> <br>
+            href="http://evccnyc.org/" target="_blank">EVCC</a> and <a href="https://evgrieve.com" target="_blank">EV
+        Grieve</a>.</p> <br>
 </main>
 <TopButton/>
 
