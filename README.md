@@ -1,6 +1,6 @@
 # Open Business Directory
 
-A directory of essential businesses using Airtable (or Google sheets) as database
+A directory of essential businesses using Airtable (or Google sheets) as database.
 
 ## How to Contribute
 
@@ -11,6 +11,10 @@ A directory of essential businesses using Airtable (or Google sheets) as databas
   - Fork this repository, modify the code (changing only one thing at a time), and then issue a pull request for each change.
   - Test your code locally before issuing a pull request.
   - Clearly state the purpose of your change in the description field for each commit.
+
+### Todos
+
+- Switch out of rollup (to vite?), then update all the packages.
 
 ## Architecture
 
@@ -38,20 +42,29 @@ Afterwards change `AIRTABLE_API_KEY` , `AIRTABLE_BASE_ID`, `AIRTABLE_TABLE_NAME`
 
 ## Setup
 
-Setup .env
+### Create an [Airtable token](https://airtable.com/create/tokens)
+
+- Enable schema.bases:read , data.records:read
+- Scoped to What's Open EV
+
+### Setup .env
 ```bash
 cd public
 cp .env.example .env
+# Fill in your `AIRTABLE_TOKEN` in the .env file
 ```
-Fill in your AIRTABLE_API_KEY
 
-Download data
+### Run the script to download data
+
+In the public folder
 ```bash
 npm install 
 npm run start
 ```
 
-Setup the app
+### Setup the app
+
+In the main directory
 ```bash
 cd ..
 npm install
@@ -65,6 +78,3 @@ Please see [license](https://github.com/BetaNYC/open_business_directory/blob/mas
 
 - Non-code, Creative Commons Attribution 4.0
 - Code, GNU General Public License
-
-## Have Questions?
-Email [Zhi Keng He](mainto:zhi@beta.nyc)
