@@ -4,7 +4,7 @@ const fs = require('fs')
 const Airtable = require('airtable')
 
 require('dotenv').config()
-const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY
+const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID
 const AIRTABLE_TABLE_NAME = process.env.AIRTABLE_TABLE_NAME
 const AIRTABLE_BULLETIN_NAME = process.env.AIRTABLE_BULLETIN_NAME
@@ -77,7 +77,7 @@ async function main() {
     setupDirectory(directory)
 
     const base = new Airtable({
-        apiKey: AIRTABLE_API_KEY
+        apiKey: AIRTABLE_TOKEN
     }).base(AIRTABLE_BASE_ID)
 
     const all = await getRows(base, AIRTABLE_TABLE_NAME, ['Email','Update Requests'])

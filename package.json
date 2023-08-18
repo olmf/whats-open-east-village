@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "airtable": "^0.8.1",
+    "airtable": "^0.12.2",
     "dotenv": "^8.2.0",
     "json2csv": "^5.0.1"
   }
