@@ -26,6 +26,7 @@ jobs:
           npm install
           npm run start
         env:
+            AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
             AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
             AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
             AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
