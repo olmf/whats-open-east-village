@@ -915,8 +915,8 @@ SUN: Noon - 5:00 PM
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10003","212","E. 14th Street, New York, NY 10003","E. 14th Street"," New York, NY 10003"," New York",,"SAT: 11:00 AM - 5:00 PM
 SUN: Closed
 ",,"11:00 AM",,"7:00 PM",,,,,,"(646) 453-7178","https://columbia.care/locations/ny-ny-e14th-212#product-menus",,,,true,,,,,,,,,,,,,
-"Recreational Cannabis Dispensary",1901,"2023-08-17T23:50:00.000Z","Retail",40.72917,-73.98384,"180 1st Avenue, New York, NY 10009","Yes","Cannabis","UNLICENSED. No business license on record.  Cannabis dispensary. Opened October 2022 in former Eleven thrift shop location.
-","2022-11-01",,,"Opened","{""id"":""usr3CulABVXuduch9"",""email"":""ANikap3@nycstudents.net"",""name"":""Anika Preota""}","10009","180","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://evgrieve.com/2022/10/another-day-another-cannabis-operation.html",,,,,,,,,,true,,,,,,,,,,,,,,,,,,,
+"Recreational Cannabis Dispensary",1901,"2023-08-17T23:50:00.000Z","Retail",40.72917,-73.98384,"180 1st Avenue, New York, NY 10009","Yes","Cannabis","East Village's Top Shelf observed 9/13/23. UNLICENSED. No business license on record.  Cannabis dispensary. Opened October 2022 in former Eleven thrift shop location.
+","2022-11-01",,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","180","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York","https://evgrieve.com/2022/10/another-day-another-cannabis-operation.html",,,,,,,,,,true,,,,,,,,,,,,,,,,,,,
 "The Grayson",1900,"2022-11-08T01:03:00.000Z","Restaurants",40.723351,-73.987984,"16 1st Avenue, New York, NY 10009","Yes","Bar","IG and website are current, do not like IG posts.
 ",,,,"Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","16","1st Avenue, New York, NY 10009","1st Avenue"," New York, NY 10009"," New York",,"THU: 5:00 PM - 2:00 PM
 FRI & SAT: Noon - 4:00 PM
@@ -5163,11 +5163,12 @@ SUN: 12:00 PM - 2:00 AM
 "Ichibantei",678,"2023-05-04T06:42:00.000Z","Restaurants",40.730709,-73.983063,"401 E. 13th Street, New York, NY 10009","No","Japanese","PERMANENTLY CLOSED. RELOCATED to 100 3rd Avenue. Biz updated Google hours 7/5/22, Last IG post on 2/12/2019, IG and website are not current
 ","2010-01-01","rectrPuiFrPcFSO8y",,"Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","401","E. 13th Street, New York, NY 10009","E. 13th Street"," New York, NY 10009"," New York","https://evgrieve.com/2023/05/ichibantei-japanese-soul-food-and-steak.html","SUN: 11:00 AM - 2:00 AM
 ","EVCC","5:00 PM","https://www.instagram.com/ichibanteinyc/","3:00 AM",,true,,,,"646.368.9755","https://ichibanteiny.com",,,,,"Yes","Yes","2023-04-30",,,,,,,,,,
-"B-Side",677,"2023-01-05T06:01:00.000Z","Restaurants",40.726501,-73.98851,"204 Avenue B, New York, NY 10009","Yes","Bar","IG and website are current, Hours from IG,
-Reopened 2/25/23 after temporary closure (renovations) 1/2/2022. 
-","2003-01-01","recPA2KW76T2VFgkD","see google drive KL","Opened","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","204","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"
+"B-Side",677,"2023-09-14T05:01:00.000Z","Restaurants",40.726501,-73.98851,"204 Avenue B, New York, NY 10009","No","Bar","PERMANENTLY CLOSED 9/13/23 landlord had to sever ties after 6/30 fire.
+IG and website are current, Hours from IG,
+Reopened 2/25/23 after temporary closure (renovations) 1/2/2022.  LEGACY BUSINESS.
+","2003-01-01","recPA2KW76T2VFgkD","see google drive KL","Closed","{""id"":""usrSSqhKNrK05i823"",""email"":""Director@evccnyc.org"",""name"":""Laura Sewell""}","10009","204","Avenue B, New York, NY 10009","Avenue B"," New York, NY 10009"," New York",,"
 ","EVCC","12:00 PM","https://www.instagram.com/bsidenyc/","4:00 AM",,,,,,"(646) 559-4710","https://www.bsidenyc.com","
-",,,,"Yes","Yes",,,,,,,,,,,
+",,,,"Yes","Yes","2023-09-13",,,,,,,,,,
 "Manhattan Eyeworks",676,"2022-07-26T23:00:00.000Z","Health",40.729229,-73.984573,"169 1st Avenue, New York, NY 10003","Yes","Optician","Confirmed Hours by Phone, Last IG post 2019
 ",,"recNETzCrdFoxVo7x","see google drive KL","Opened","{""id"":""usrJrKm31wMBb59rq"",""email"":""kristenlaw04@gmail.com"",""name"":""Kristen Lawless""}","10003","169","1st Avenue, New York, NY 10003","1st Avenue"," New York, NY 10003"," New York",,"SAT: 10:30 AM - 6:00 PM 
 
