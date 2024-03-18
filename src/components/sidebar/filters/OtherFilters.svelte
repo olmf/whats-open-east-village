@@ -15,6 +15,8 @@
     <label class="label">Additional Categories:</label>
     <OwnedByFilters name="Minority/Women-owned " column="MWBE"/>
     <OwnedByFilters name="Black-owned" column="Black Owned"/>
+    <OwnedByFilters name="Latine-owned" column="Latine Owned"/>
+    <OwnedByFilters name="AAPI-owned" column="AAPI Owned"/>
     <OwnedByFilters name="LGBTQ-owned" column="LGBTQ Owned"/>
     <OwnedByFilters name="Ukrainian" column="Ukrainian Owned"/>
 </div>

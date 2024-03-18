@@ -64,7 +64,7 @@ async function importData(file, store) {
     const text = await (await fetch(file)).text()
     const rows = csvParse(text)
     //filter for rows with latlng
-    const filterRows = rows.filter(({Latitude, Longitude, Status, Chain, Unlicensed}) => +Latitude && +Longitude && Status === 'Opened' && Chain != 'true' && Unlicensed != 'true')
+    const filterRows = rows.filter(({Latitude, Longitude, Status, Chain, Unlicensed, survey_only}) => +Latitude && +Longitude && Status === 'Opened' && Chain != 'true' && Unlicensed != 'true' && survey_only != 'true')
     console.log(`Imported ${filterRows.length} out of ${rows.length}. Check latlng columns, if there are missing rows or closed businesses.`, rows[0])
 
     store.set(removeOverlap(getColors(filterRows)))

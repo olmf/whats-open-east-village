@@ -26,10 +26,10 @@
     }
 </script>
 
-<label class="checkbox">
+<!--<label class="checkbox">
     <MaterialIcon icon="foundation" alt="Indoor Dining"/>
     <input type="checkbox" bind:checked={showFilter}>Indoor Dining
-</label>
+</label>-->
 
 <style>
     label {

@@ -27,10 +27,10 @@
     }
 </script>
 
-<label class="checkbox">
+<!--<label class="checkbox">
     <MaterialIcon icon="deck" alt="Outside Seating Offered"/>
     <input type="checkbox" bind:checked={showFilter}>Outdoor Dining
-</label>
+</label>-->
 
 <style>
     label {
