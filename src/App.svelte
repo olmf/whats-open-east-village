@@ -46,7 +46,7 @@
     </div>
     <p class="is-italic has-text-grey-dark">Updated frequently and with ❤ by <a
             href="http://evccnyc.org/" target="_blank">EVCC</a> and <a href="https://evgrieve.com" target="_blank">EV
-        Grieve</a>.</p> <br>
+        Grieve</a> with technical support from <a href="https://beta.nyc/" target="_blank">BetaNYC</a>.</p> <br>
 </main>
 <TopButton/>
 
