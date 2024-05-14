@@ -28,13 +28,13 @@
     {/each}
 </div>
 
-<div class="newest">
+<!--<div class="newest">
     <h4 class="is-4 title">Newest Map Updates</h4>
     {#each newestMapUpdates as row}
         <p><a href="#" on:click={() => selectedItem.select(row, $mapObject, row.coordinates)}>{row.Name}</a>
             - {row.Category} {row['Sub Categories']? `- ${row['Sub Categories']}` : ''}</p>
     {/each}
-</div>
+</div>-->
 
 <style>
     .bulletin {
